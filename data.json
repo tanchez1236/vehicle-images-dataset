@@ -1,520 +1,323 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "updated": "2026-05-24",
   "base_url": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images",
   "placeholder_url": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/placeholders/default.jpg",
-  "total_makes": 17,
-  "total_models": 89,
+  "total_makes": 40,
+  "total_models": 213,
   "years_covered": {
     "from": 1991,
     "to": 2026
   },
+  "focus_market": "Guatemala",
   "catalog": [
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "corolla",
-      "model_display": "Corolla",
+      "make": "acura",
+      "make_display": "Acura",
+      "model": "mdx",
+      "model_display": "MDX",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/corolla/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/acura/mdx/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "yaris",
-      "model_display": "Yaris",
+      "make": "acura",
+      "make_display": "Acura",
+      "model": "rdx",
+      "model_display": "RDX",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/yaris/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/acura/rdx/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "camry",
-      "model_display": "Camry",
+      "make": "acura",
+      "make_display": "Acura",
+      "model": "tlx",
+      "model_display": "TLX",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/camry/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/acura/tlx/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "rav4",
-      "model_display": "RAV4",
+      "make": "audi",
+      "make_display": "Audi",
+      "model": "a3",
+      "model_display": "A3",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/rav4/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/audi/a3/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "fortuner",
-      "model_display": "Fortuner",
+      "make": "audi",
+      "make_display": "Audi",
+      "model": "a4",
+      "model_display": "A4",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/fortuner/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/audi/a4/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "hilux",
-      "model_display": "Hilux",
+      "make": "audi",
+      "make_display": "Audi",
+      "model": "q3",
+      "model_display": "Q3",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/hilux/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/audi/q3/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "land-cruiser",
-      "model_display": "Land Cruiser",
+      "make": "audi",
+      "make_display": "Audi",
+      "model": "q5",
+      "model_display": "Q5",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/land-cruiser/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/audi/q5/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "prado",
-      "model_display": "Prado",
+      "make": "audi",
+      "make_display": "Audi",
+      "model": "q7",
+      "model_display": "Q7",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/prado/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/audi/q7/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "4runner",
-      "model_display": "4Runner",
+      "make": "baic",
+      "make_display": "Baic",
+      "model": "x35",
+      "model_display": "X35",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/4runner/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/baic/x35/{year}/default.jpg"
     },
     {
-      "make": "toyota",
-      "make_display": "Toyota",
-      "model": "innova",
-      "model_display": "Innova",
+      "make": "baic",
+      "make_display": "Baic",
+      "model": "x55",
+      "model_display": "X55",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/innova/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/baic/x55/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "civic",
-      "model_display": "Civic",
+      "make": "bmw",
+      "make_display": "Bmw",
+      "model": "serie-3",
+      "model_display": "Serie 3",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/civic/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/serie-3/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "cr-v",
-      "model_display": "CR-V",
+      "make": "bmw",
+      "make_display": "Bmw",
+      "model": "serie-5",
+      "model_display": "Serie 5",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/cr-v/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/serie-5/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "accord",
-      "model_display": "Accord",
+      "make": "bmw",
+      "make_display": "Bmw",
+      "model": "x1",
+      "model_display": "X1",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/accord/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/x1/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "pilot",
-      "model_display": "Pilot",
+      "make": "bmw",
+      "make_display": "Bmw",
+      "model": "x3",
+      "model_display": "X3",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/pilot/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/x3/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "hr-v",
-      "model_display": "HR-V",
+      "make": "bmw",
+      "make_display": "Bmw",
+      "model": "x5",
+      "model_display": "X5",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/hr-v/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/x5/{year}/default.jpg"
     },
     {
-      "make": "honda",
-      "make_display": "Honda",
-      "model": "fit",
-      "model_display": "Fit",
+      "make": "byd",
+      "make_display": "Byd",
+      "model": "f3",
+      "model_display": "F3",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/fit/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/byd/f3/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "galant",
-      "model_display": "Galant",
+      "make": "byd",
+      "make_display": "Byd",
+      "model": "seal",
+      "model_display": "Seal",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/galant/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/byd/seal/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "lancer",
-      "model_display": "Lancer",
+      "make": "byd",
+      "make_display": "Byd",
+      "model": "song-pro",
+      "model_display": "Song Pro",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/lancer/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/byd/song-pro/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "mirage",
-      "model_display": "Mirage",
+      "make": "byd",
+      "make_display": "Byd",
+      "model": "yuan-plus",
+      "model_display": "Yuan Plus",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/mirage/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/byd/yuan-plus/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "outlander",
-      "model_display": "Outlander",
+      "make": "changan",
+      "make_display": "Changan",
+      "model": "alsvin",
+      "model_display": "Alsvin",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/outlander/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/changan/alsvin/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "l200",
-      "model_display": "L200",
+      "make": "changan",
+      "make_display": "Changan",
+      "model": "cs35",
+      "model_display": "CS35",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/l200/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/changan/cs35/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "montero",
-      "model_display": "Montero",
+      "make": "changan",
+      "make_display": "Changan",
+      "model": "cs55",
+      "model_display": "CS55",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/montero/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/changan/cs55/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "eclipse",
-      "model_display": "Eclipse",
+      "make": "chery",
+      "make_display": "Chery",
+      "model": "arrizo-5",
+      "model_display": "Arrizo 5",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/eclipse/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chery/arrizo-5/{year}/default.jpg"
     },
     {
-      "make": "mitsubishi",
-      "make_display": "Mitsubishi",
-      "model": "asx",
-      "model_display": "ASX",
+      "make": "chery",
+      "make_display": "Chery",
+      "model": "tiggo-2",
+      "model_display": "Tiggo 2",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/asx/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chery/tiggo-2/{year}/default.jpg"
     },
     {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "frontier",
-      "model_display": "Frontier",
+      "make": "chery",
+      "make_display": "Chery",
+      "model": "tiggo-4",
+      "model_display": "Tiggo 4",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/frontier/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chery/tiggo-4/{year}/default.jpg"
     },
     {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "navara",
-      "model_display": "Navara",
+      "make": "chery",
+      "make_display": "Chery",
+      "model": "tiggo-7",
+      "model_display": "Tiggo 7",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/navara/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "x-trail",
-      "model_display": "X-Trail",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/x-trail/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "sentra",
-      "model_display": "Sentra",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/sentra/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "altima",
-      "model_display": "Altima",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/altima/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "pathfinder",
-      "model_display": "Pathfinder",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/pathfinder/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "march",
-      "model_display": "March",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/march/{year}/default.jpg"
-    },
-    {
-      "make": "nissan",
-      "make_display": "Nissan",
-      "model": "kicks",
-      "model_display": "Kicks",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/kicks/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "tucson",
-      "model_display": "Tucson",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/tucson/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "santa-fe",
-      "model_display": "Santa Fe",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/santa-fe/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "elantra",
-      "model_display": "Elantra",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/elantra/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "accent",
-      "model_display": "Accent",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/accent/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "sonata",
-      "model_display": "Sonata",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/sonata/{year}/default.jpg"
-    },
-    {
-      "make": "hyundai",
-      "make_display": "Hyundai",
-      "model": "creta",
-      "model_display": "Creta",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/creta/{year}/default.jpg"
-    },
-    {
-      "make": "kia",
-      "make_display": "Kia",
-      "model": "sportage",
-      "model_display": "Sportage",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/sportage/{year}/default.jpg"
-    },
-    {
-      "make": "kia",
-      "make_display": "Kia",
-      "model": "sorento",
-      "model_display": "Sorento",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/sorento/{year}/default.jpg"
-    },
-    {
-      "make": "kia",
-      "make_display": "Kia",
-      "model": "forte",
-      "model_display": "Forte",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/forte/{year}/default.jpg"
-    },
-    {
-      "make": "kia",
-      "make_display": "Kia",
-      "model": "rio",
-      "model_display": "Rio",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/rio/{year}/default.jpg"
-    },
-    {
-      "make": "kia",
-      "make_display": "Kia",
-      "model": "picanto",
-      "model_display": "Picanto",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/picanto/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chery/tiggo-7/{year}/default.jpg"
     },
     {
       "make": "chevrolet",
       "make_display": "Chevrolet",
-      "model": "silverado",
-      "model_display": "Silverado",
+      "model": "aveo",
+      "model_display": "Aveo",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/silverado/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/aveo/{year}/default.jpg"
     },
     {
       "make": "chevrolet",
       "make_display": "Chevrolet",
-      "model": "traverse",
-      "model_display": "Traverse",
+      "model": "captiva",
+      "model_display": "Captiva",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/traverse/{year}/default.jpg"
-    },
-    {
-      "make": "chevrolet",
-      "make_display": "Chevrolet",
-      "model": "trailblazer",
-      "model_display": "Trailblazer",
-      "years": {
-        "from": 1991,
-        "to": 2026
-      },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/trailblazer/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/captiva/{year}/default.jpg"
     },
     {
       "make": "chevrolet",
@@ -541,13 +344,13 @@
     {
       "make": "chevrolet",
       "make_display": "Chevrolet",
-      "model": "tahoe",
-      "model_display": "Tahoe",
+      "model": "silverado",
+      "model_display": "Silverado",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/tahoe/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/silverado/{year}/default.jpg"
     },
     {
       "make": "chevrolet",
@@ -561,26 +364,224 @@
       "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/spark/{year}/default.jpg"
     },
     {
-      "make": "ford",
-      "make_display": "Ford",
-      "model": "ranger",
-      "model_display": "Ranger",
+      "make": "chevrolet",
+      "make_display": "Chevrolet",
+      "model": "tahoe",
+      "model_display": "Tahoe",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/ranger/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/tahoe/{year}/default.jpg"
+    },
+    {
+      "make": "chevrolet",
+      "make_display": "Chevrolet",
+      "model": "tracker",
+      "model_display": "Tracker",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/tracker/{year}/default.jpg"
+    },
+    {
+      "make": "chevrolet",
+      "make_display": "Chevrolet",
+      "model": "trailblazer",
+      "model_display": "Trailblazer",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/trailblazer/{year}/default.jpg"
+    },
+    {
+      "make": "chevrolet",
+      "make_display": "Chevrolet",
+      "model": "traverse",
+      "model_display": "Traverse",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/chevrolet/traverse/{year}/default.jpg"
+    },
+    {
+      "make": "citroen",
+      "make_display": "Citroen",
+      "model": "berlingo",
+      "model_display": "Berlingo",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/citroen/berlingo/{year}/default.jpg"
+    },
+    {
+      "make": "citroen",
+      "make_display": "Citroen",
+      "model": "c3",
+      "model_display": "C3",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/citroen/c3/{year}/default.jpg"
+    },
+    {
+      "make": "citroen",
+      "make_display": "Citroen",
+      "model": "c4",
+      "model_display": "C4",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/citroen/c4/{year}/default.jpg"
+    },
+    {
+      "make": "dodge",
+      "make_display": "Dodge",
+      "model": "charger",
+      "model_display": "Charger",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dodge/charger/{year}/default.jpg"
+    },
+    {
+      "make": "dodge",
+      "make_display": "Dodge",
+      "model": "durango",
+      "model_display": "Durango",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dodge/durango/{year}/default.jpg"
+    },
+    {
+      "make": "dodge",
+      "make_display": "Dodge",
+      "model": "journey",
+      "model_display": "Journey",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dodge/journey/{year}/default.jpg"
+    },
+    {
+      "make": "dodge",
+      "make_display": "Dodge",
+      "model": "ram-1500",
+      "model_display": "Ram 1500",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dodge/ram-1500/{year}/default.jpg"
+    },
+    {
+      "make": "dongfeng",
+      "make_display": "Dongfeng",
+      "model": "rich-6",
+      "model_display": "Rich 6",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dongfeng/rich-6/{year}/default.jpg"
+    },
+    {
+      "make": "dongfeng",
+      "make_display": "Dongfeng",
+      "model": "sx5",
+      "model_display": "SX5",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/dongfeng/sx5/{year}/default.jpg"
+    },
+    {
+      "make": "fiat",
+      "make_display": "Fiat",
+      "model": "mobi",
+      "model_display": "Mobi",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/fiat/mobi/{year}/default.jpg"
+    },
+    {
+      "make": "fiat",
+      "make_display": "Fiat",
+      "model": "palio",
+      "model_display": "Palio",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/fiat/palio/{year}/default.jpg"
+    },
+    {
+      "make": "fiat",
+      "make_display": "Fiat",
+      "model": "pulse",
+      "model_display": "Pulse",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/fiat/pulse/{year}/default.jpg"
+    },
+    {
+      "make": "fiat",
+      "make_display": "Fiat",
+      "model": "strada",
+      "model_display": "Strada",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/fiat/strada/{year}/default.jpg"
+    },
+    {
+      "make": "fiat",
+      "make_display": "Fiat",
+      "model": "uno",
+      "model_display": "Uno",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/fiat/uno/{year}/default.jpg"
     },
     {
       "make": "ford",
       "make_display": "Ford",
-      "model": "f-150",
-      "model_display": "F-150",
+      "model": "bronco-sport",
+      "model_display": "Bronco Sport",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/f-150/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/bronco-sport/{year}/default.jpg"
+    },
+    {
+      "make": "ford",
+      "make_display": "Ford",
+      "model": "ecosport",
+      "model_display": "Ecosport",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/ecosport/{year}/default.jpg"
     },
     {
       "make": "ford",
@@ -596,6 +597,17 @@
     {
       "make": "ford",
       "make_display": "Ford",
+      "model": "everest",
+      "model_display": "Everest",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/everest/{year}/default.jpg"
+    },
+    {
+      "make": "ford",
+      "make_display": "Ford",
       "model": "explorer",
       "model_display": "Explorer",
       "years": {
@@ -607,13 +619,13 @@
     {
       "make": "ford",
       "make_display": "Ford",
-      "model": "ecosport",
-      "model_display": "EcoSport",
+      "model": "f-150",
+      "model_display": "F-150",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/ecosport/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/f-150/{year}/default.jpg"
     },
     {
       "make": "ford",
@@ -627,268 +639,367 @@
       "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/focus/{year}/default.jpg"
     },
     {
-      "make": "volkswagen",
-      "make_display": "Volkswagen",
-      "model": "golf",
-      "model_display": "Golf",
+      "make": "ford",
+      "make_display": "Ford",
+      "model": "ranger",
+      "model_display": "Ranger",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/golf/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ford/ranger/{year}/default.jpg"
     },
     {
-      "make": "volkswagen",
-      "make_display": "Volkswagen",
-      "model": "jetta",
-      "model_display": "Jetta",
+      "make": "foton",
+      "make_display": "Foton",
+      "model": "tunland",
+      "model_display": "Tunland",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/jetta/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/foton/tunland/{year}/default.jpg"
     },
     {
-      "make": "volkswagen",
-      "make_display": "Volkswagen",
-      "model": "tiguan",
-      "model_display": "Tiguan",
+      "make": "foton",
+      "make_display": "Foton",
+      "model": "view",
+      "model_display": "View",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/tiguan/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/foton/view/{year}/default.jpg"
     },
     {
-      "make": "volkswagen",
-      "make_display": "Volkswagen",
-      "model": "polo",
-      "model_display": "Polo",
+      "make": "geely",
+      "make_display": "Geely",
+      "model": "coolray",
+      "model_display": "Coolray",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/polo/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/geely/coolray/{year}/default.jpg"
     },
     {
-      "make": "volkswagen",
-      "make_display": "Volkswagen",
-      "model": "passat",
-      "model_display": "Passat",
+      "make": "geely",
+      "make_display": "Geely",
+      "model": "emgrand",
+      "model_display": "Emgrand",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/passat/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/geely/emgrand/{year}/default.jpg"
     },
     {
-      "make": "mazda",
-      "make_display": "Mazda",
-      "model": "cx-5",
-      "model_display": "CX-5",
+      "make": "geely",
+      "make_display": "Geely",
+      "model": "gx3-pro",
+      "model_display": "GX3 Pro",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-5/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/geely/gx3-pro/{year}/default.jpg"
     },
     {
-      "make": "mazda",
-      "make_display": "Mazda",
-      "model": "3",
-      "model_display": "3",
+      "make": "gmc",
+      "make_display": "Gmc",
+      "model": "canyon",
+      "model_display": "Canyon",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/3/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/gmc/canyon/{year}/default.jpg"
     },
     {
-      "make": "mazda",
-      "make_display": "Mazda",
-      "model": "6",
-      "model_display": "6",
+      "make": "gmc",
+      "make_display": "Gmc",
+      "model": "sierra",
+      "model_display": "Sierra",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/6/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/gmc/sierra/{year}/default.jpg"
     },
     {
-      "make": "mazda",
-      "make_display": "Mazda",
-      "model": "cx-3",
-      "model_display": "CX-3",
+      "make": "gmc",
+      "make_display": "Gmc",
+      "model": "terrain",
+      "model_display": "Terrain",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-3/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/gmc/terrain/{year}/default.jpg"
     },
     {
-      "make": "suzuki",
-      "make_display": "Suzuki",
-      "model": "vitara",
-      "model_display": "Vitara",
+      "make": "gmc",
+      "make_display": "Gmc",
+      "model": "yukon",
+      "model_display": "Yukon",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/vitara/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/gmc/yukon/{year}/default.jpg"
     },
     {
-      "make": "suzuki",
-      "make_display": "Suzuki",
-      "model": "grand-vitara",
-      "model_display": "Grand Vitara",
+      "make": "great-wall",
+      "make_display": "Great Wall",
+      "model": "poer",
+      "model_display": "Poer",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/grand-vitara/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/great-wall/poer/{year}/default.jpg"
     },
     {
-      "make": "suzuki",
-      "make_display": "Suzuki",
-      "model": "swift",
-      "model_display": "Swift",
+      "make": "great-wall",
+      "make_display": "Great Wall",
+      "model": "wingle-5",
+      "model_display": "Wingle 5",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/swift/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/great-wall/wingle-5/{year}/default.jpg"
     },
     {
-      "make": "suzuki",
-      "make_display": "Suzuki",
-      "model": "jimny",
-      "model_display": "Jimny",
+      "make": "haval",
+      "make_display": "Haval",
+      "model": "h6",
+      "model_display": "H6",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/jimny/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/haval/h6/{year}/default.jpg"
     },
     {
-      "make": "jeep",
-      "make_display": "Jeep",
-      "model": "wrangler",
-      "model_display": "Wrangler",
+      "make": "haval",
+      "make_display": "Haval",
+      "model": "jolion",
+      "model_display": "Jolion",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/wrangler/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/haval/jolion/{year}/default.jpg"
     },
     {
-      "make": "jeep",
-      "make_display": "Jeep",
-      "model": "grand-cherokee",
-      "model_display": "Grand Cherokee",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "accord",
+      "model_display": "Accord",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/grand-cherokee/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/accord/{year}/default.jpg"
     },
     {
-      "make": "jeep",
-      "make_display": "Jeep",
-      "model": "compass",
-      "model_display": "Compass",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "city",
+      "model_display": "City",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/compass/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/city/{year}/default.jpg"
     },
     {
-      "make": "subaru",
-      "make_display": "Subaru",
-      "model": "outback",
-      "model_display": "Outback",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "civic",
+      "model_display": "Civic",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/outback/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/civic/{year}/default.jpg"
     },
     {
-      "make": "subaru",
-      "make_display": "Subaru",
-      "model": "forester",
-      "model_display": "Forester",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "cr-v",
+      "model_display": "CR-V",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/forester/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/cr-v/{year}/default.jpg"
     },
     {
-      "make": "subaru",
-      "make_display": "Subaru",
-      "model": "impreza",
-      "model_display": "Impreza",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "fit",
+      "model_display": "Fit",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/impreza/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/fit/{year}/default.jpg"
     },
     {
-      "make": "subaru",
-      "make_display": "Subaru",
-      "model": "xv",
-      "model_display": "XV",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "hr-v",
+      "model_display": "HR-V",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/xv/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/hr-v/{year}/default.jpg"
     },
     {
-      "make": "bmw",
-      "make_display": "BMW",
-      "model": "serie-3",
-      "model_display": "Serie 3",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "odyssey",
+      "model_display": "Odyssey",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/serie-3/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/odyssey/{year}/default.jpg"
     },
     {
-      "make": "bmw",
-      "make_display": "BMW",
-      "model": "serie-5",
-      "model_display": "Serie 5",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "pilot",
+      "model_display": "Pilot",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/serie-5/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/pilot/{year}/default.jpg"
     },
     {
-      "make": "bmw",
-      "make_display": "BMW",
-      "model": "x3",
-      "model_display": "X3",
+      "make": "honda",
+      "make_display": "Honda",
+      "model": "ridgeline",
+      "model_display": "Ridgeline",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/x3/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/honda/ridgeline/{year}/default.jpg"
     },
     {
-      "make": "bmw",
-      "make_display": "BMW",
-      "model": "x5",
-      "model_display": "X5",
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "accent",
+      "model_display": "Accent",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/bmw/x5/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/accent/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "creta",
+      "model_display": "Creta",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/creta/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "elantra",
+      "model_display": "Elantra",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/elantra/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "grand-i10",
+      "model_display": "Grand i10",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/grand-i10/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "h1",
+      "model_display": "H1",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/h1/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "kona",
+      "model_display": "Kona",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/kona/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "santa-fe",
+      "model_display": "Santa Fe",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/santa-fe/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "sonata",
+      "model_display": "Sonata",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/sonata/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "tucson",
+      "model_display": "Tucson",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/tucson/{year}/default.jpg"
+    },
+    {
+      "make": "hyundai",
+      "make_display": "Hyundai",
+      "model": "venue",
+      "model_display": "Venue",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/hyundai/venue/{year}/default.jpg"
     },
     {
       "make": "isuzu",
@@ -924,6 +1035,204 @@
       "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/isuzu/trooper/{year}/default.jpg"
     },
     {
+      "make": "jac",
+      "make_display": "Jac",
+      "model": "j7",
+      "model_display": "J7",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jac/j7/{year}/default.jpg"
+    },
+    {
+      "make": "jac",
+      "make_display": "Jac",
+      "model": "s2",
+      "model_display": "S2",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jac/s2/{year}/default.jpg"
+    },
+    {
+      "make": "jac",
+      "make_display": "Jac",
+      "model": "s3",
+      "model_display": "S3",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jac/s3/{year}/default.jpg"
+    },
+    {
+      "make": "jac",
+      "make_display": "Jac",
+      "model": "t6",
+      "model_display": "T6",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jac/t6/{year}/default.jpg"
+    },
+    {
+      "make": "jeep",
+      "make_display": "Jeep",
+      "model": "cherokee",
+      "model_display": "Cherokee",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/cherokee/{year}/default.jpg"
+    },
+    {
+      "make": "jeep",
+      "make_display": "Jeep",
+      "model": "compass",
+      "model_display": "Compass",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/compass/{year}/default.jpg"
+    },
+    {
+      "make": "jeep",
+      "make_display": "Jeep",
+      "model": "grand-cherokee",
+      "model_display": "Grand Cherokee",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/grand-cherokee/{year}/default.jpg"
+    },
+    {
+      "make": "jeep",
+      "make_display": "Jeep",
+      "model": "renegade",
+      "model_display": "Renegade",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/renegade/{year}/default.jpg"
+    },
+    {
+      "make": "jeep",
+      "make_display": "Jeep",
+      "model": "wrangler",
+      "model_display": "Wrangler",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/jeep/wrangler/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "carens",
+      "model_display": "Carens",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/carens/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "cerato",
+      "model_display": "Cerato",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/cerato/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "forte",
+      "model_display": "Forte",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/forte/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "picanto",
+      "model_display": "Picanto",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/picanto/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "rio",
+      "model_display": "Rio",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/rio/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "seltos",
+      "model_display": "Seltos",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/seltos/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "sonet",
+      "model_display": "Sonet",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/sonet/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "sorento",
+      "model_display": "Sorento",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/sorento/{year}/default.jpg"
+    },
+    {
+      "make": "kia",
+      "make_display": "Kia",
+      "model": "sportage",
+      "model_display": "Sportage",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/kia/sportage/{year}/default.jpg"
+    },
+    {
       "make": "land-rover",
       "make_display": "Land Rover",
       "model": "defender",
@@ -957,6 +1266,622 @@
       "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/land-rover/range-rover-evoque/{year}/default.jpg"
     },
     {
+      "make": "land-rover",
+      "make_display": "Land Rover",
+      "model": "range-rover-sport",
+      "model_display": "Range Rover Sport",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/land-rover/range-rover-sport/{year}/default.jpg"
+    },
+    {
+      "make": "lexus",
+      "make_display": "Lexus",
+      "model": "es",
+      "model_display": "ES",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/lexus/es/{year}/default.jpg"
+    },
+    {
+      "make": "lexus",
+      "make_display": "Lexus",
+      "model": "gx",
+      "model_display": "GX",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/lexus/gx/{year}/default.jpg"
+    },
+    {
+      "make": "lexus",
+      "make_display": "Lexus",
+      "model": "lx",
+      "model_display": "LX",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/lexus/lx/{year}/default.jpg"
+    },
+    {
+      "make": "lexus",
+      "make_display": "Lexus",
+      "model": "nx",
+      "model_display": "NX",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/lexus/nx/{year}/default.jpg"
+    },
+    {
+      "make": "lexus",
+      "make_display": "Lexus",
+      "model": "rx",
+      "model_display": "RX",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/lexus/rx/{year}/default.jpg"
+    },
+    {
+      "make": "mahindra",
+      "make_display": "Mahindra",
+      "model": "pik-up",
+      "model_display": "Pik-Up",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mahindra/pik-up/{year}/default.jpg"
+    },
+    {
+      "make": "mahindra",
+      "make_display": "Mahindra",
+      "model": "scorpio",
+      "model_display": "Scorpio",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mahindra/scorpio/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "2",
+      "model_display": "2",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/2/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "3",
+      "model_display": "3",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/3/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "6",
+      "model_display": "6",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/6/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "bt-50",
+      "model_display": "BT-50",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/bt-50/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "cx-3",
+      "model_display": "CX-3",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-3/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "cx-30",
+      "model_display": "CX-30",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-30/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "cx-5",
+      "model_display": "CX-5",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-5/{year}/default.jpg"
+    },
+    {
+      "make": "mazda",
+      "make_display": "Mazda",
+      "model": "cx-9",
+      "model_display": "CX-9",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mazda/cx-9/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "a-class",
+      "model_display": "A-Class",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/a-class/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "c-class",
+      "model_display": "C-Class",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/c-class/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "e-class",
+      "model_display": "E-Class",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/e-class/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "glc",
+      "model_display": "GLC",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/glc/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "gle",
+      "model_display": "GLE",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/gle/{year}/default.jpg"
+    },
+    {
+      "make": "mercedes-benz",
+      "make_display": "Mercedes-Benz",
+      "model": "sprinter",
+      "model_display": "Sprinter",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mercedes-benz/sprinter/{year}/default.jpg"
+    },
+    {
+      "make": "mg",
+      "make_display": "Mg",
+      "model": "mg5",
+      "model_display": "MG5",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mg/mg5/{year}/default.jpg"
+    },
+    {
+      "make": "mg",
+      "make_display": "Mg",
+      "model": "rx5",
+      "model_display": "RX5",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mg/rx5/{year}/default.jpg"
+    },
+    {
+      "make": "mg",
+      "make_display": "Mg",
+      "model": "zs",
+      "model_display": "ZS",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mg/zs/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "asx",
+      "model_display": "Asx",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/asx/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "eclipse",
+      "model_display": "Eclipse",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/eclipse/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "galant",
+      "model_display": "Galant",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/galant/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "l200",
+      "model_display": "L200",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/l200/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "lancer",
+      "model_display": "Lancer",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/lancer/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "mirage",
+      "model_display": "Mirage",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/mirage/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "montero",
+      "model_display": "Montero",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/montero/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "outlander",
+      "model_display": "Outlander",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/outlander/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "pajero-sport",
+      "model_display": "Pajero Sport",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/pajero-sport/{year}/default.jpg"
+    },
+    {
+      "make": "mitsubishi",
+      "make_display": "Mitsubishi",
+      "model": "xpander",
+      "model_display": "Xpander",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/mitsubishi/xpander/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "altima",
+      "model_display": "Altima",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/altima/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "frontier",
+      "model_display": "Frontier",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/frontier/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "kicks",
+      "model_display": "Kicks",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/kicks/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "march",
+      "model_display": "March",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/march/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "navara",
+      "model_display": "Navara",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/navara/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "np300",
+      "model_display": "NP300",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/np300/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "pathfinder",
+      "model_display": "Pathfinder",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/pathfinder/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "patrol",
+      "model_display": "Patrol",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/patrol/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "qashqai",
+      "model_display": "Qashqai",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/qashqai/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "sentra",
+      "model_display": "Sentra",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/sentra/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "versa",
+      "model_display": "Versa",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/versa/{year}/default.jpg"
+    },
+    {
+      "make": "nissan",
+      "make_display": "Nissan",
+      "model": "x-trail",
+      "model_display": "X-Trail",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/nissan/x-trail/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "2008",
+      "model_display": "2008",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/2008/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "206",
+      "model_display": "206",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/206/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "207",
+      "model_display": "207",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/207/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "208",
+      "model_display": "208",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/208/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "3008",
+      "model_display": "3008",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/3008/{year}/default.jpg"
+    },
+    {
+      "make": "peugeot",
+      "make_display": "Peugeot",
+      "model": "partner",
+      "model_display": "Partner",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/peugeot/partner/{year}/default.jpg"
+    },
+    {
+      "make": "ram",
+      "make_display": "Ram",
+      "model": "1500",
+      "model_display": "1500",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ram/1500/{year}/default.jpg"
+    },
+    {
+      "make": "ram",
+      "make_display": "Ram",
+      "model": "2500",
+      "model_display": "2500",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ram/2500/{year}/default.jpg"
+    },
+    {
+      "make": "ram",
+      "make_display": "Ram",
+      "model": "700",
+      "model_display": "700",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/ram/700/{year}/default.jpg"
+    },
+    {
       "make": "renault",
       "make_display": "Renault",
       "model": "duster",
@@ -966,6 +1891,39 @@
         "to": 2026
       },
       "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/duster/{year}/default.jpg"
+    },
+    {
+      "make": "renault",
+      "make_display": "Renault",
+      "model": "koleos",
+      "model_display": "Koleos",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/koleos/{year}/default.jpg"
+    },
+    {
+      "make": "renault",
+      "make_display": "Renault",
+      "model": "logan",
+      "model_display": "Logan",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/logan/{year}/default.jpg"
+    },
+    {
+      "make": "renault",
+      "make_display": "Renault",
+      "model": "oroch",
+      "model_display": "Oroch",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/oroch/{year}/default.jpg"
     },
     {
       "make": "renault",
@@ -981,13 +1939,420 @@
     {
       "make": "renault",
       "make_display": "Renault",
-      "model": "logan",
-      "model_display": "Logan",
+      "model": "stepway",
+      "model_display": "Stepway",
       "years": {
         "from": 1991,
         "to": 2026
       },
-      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/logan/{year}/default.jpg"
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/renault/stepway/{year}/default.jpg"
+    },
+    {
+      "make": "seat",
+      "make_display": "Seat",
+      "model": "ateca",
+      "model_display": "Ateca",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/seat/ateca/{year}/default.jpg"
+    },
+    {
+      "make": "seat",
+      "make_display": "Seat",
+      "model": "ibiza",
+      "model_display": "Ibiza",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/seat/ibiza/{year}/default.jpg"
+    },
+    {
+      "make": "seat",
+      "make_display": "Seat",
+      "model": "leon",
+      "model_display": "Leon",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/seat/leon/{year}/default.jpg"
+    },
+    {
+      "make": "subaru",
+      "make_display": "Subaru",
+      "model": "crosstrek",
+      "model_display": "Crosstrek",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/crosstrek/{year}/default.jpg"
+    },
+    {
+      "make": "subaru",
+      "make_display": "Subaru",
+      "model": "forester",
+      "model_display": "Forester",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/forester/{year}/default.jpg"
+    },
+    {
+      "make": "subaru",
+      "make_display": "Subaru",
+      "model": "impreza",
+      "model_display": "Impreza",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/impreza/{year}/default.jpg"
+    },
+    {
+      "make": "subaru",
+      "make_display": "Subaru",
+      "model": "outback",
+      "model_display": "Outback",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/outback/{year}/default.jpg"
+    },
+    {
+      "make": "subaru",
+      "make_display": "Subaru",
+      "model": "xv",
+      "model_display": "Xv",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/subaru/xv/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "baleno",
+      "model_display": "Baleno",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/baleno/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "ciaz",
+      "model_display": "Ciaz",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/ciaz/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "ertiga",
+      "model_display": "Ertiga",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/ertiga/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "grand-vitara",
+      "model_display": "Grand Vitara",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/grand-vitara/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "jimny",
+      "model_display": "Jimny",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/jimny/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "s-presso",
+      "model_display": "S-Presso",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/s-presso/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "swift",
+      "model_display": "Swift",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/swift/{year}/default.jpg"
+    },
+    {
+      "make": "suzuki",
+      "make_display": "Suzuki",
+      "model": "vitara",
+      "model_display": "Vitara",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/suzuki/vitara/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "4runner",
+      "model_display": "4Runner",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/4runner/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "agya",
+      "model_display": "Agya",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/agya/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "avanza",
+      "model_display": "Avanza",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/avanza/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "camry",
+      "model_display": "Camry",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/camry/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "corolla",
+      "model_display": "Corolla",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/corolla/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "fortuner",
+      "model_display": "Fortuner",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/fortuner/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "hilux",
+      "model_display": "Hilux",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/hilux/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "innova",
+      "model_display": "Innova",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/innova/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "land-cruiser",
+      "model_display": "Land Cruiser",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/land-cruiser/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "prado",
+      "model_display": "Prado",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/prado/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "raize",
+      "model_display": "Raize",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/raize/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "rav4",
+      "model_display": "RAV4",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/rav4/{year}/default.jpg"
+    },
+    {
+      "make": "toyota",
+      "make_display": "Toyota",
+      "model": "yaris",
+      "model_display": "Yaris",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/toyota/yaris/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "amarok",
+      "model_display": "Amarok",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/amarok/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "golf",
+      "model_display": "Golf",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/golf/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "jetta",
+      "model_display": "Jetta",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/jetta/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "passat",
+      "model_display": "Passat",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/passat/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "polo",
+      "model_display": "Polo",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/polo/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "saveiro",
+      "model_display": "Saveiro",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/saveiro/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "taos",
+      "model_display": "Taos",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/taos/{year}/default.jpg"
+    },
+    {
+      "make": "volkswagen",
+      "make_display": "Volkswagen",
+      "model": "tiguan",
+      "model_display": "Tiguan",
+      "years": {
+        "from": 1991,
+        "to": 2026
+      },
+      "url_pattern": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images/volkswagen/tiguan/{year}/default.jpg"
     }
   ]
 }
