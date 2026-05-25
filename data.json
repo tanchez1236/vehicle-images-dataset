@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-05-24",
+  "base_url": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/images",
+  "placeholder_url": "https://raw.githubusercontent.com/tanchez1236/vehicle-images-dataset/main/placeholders/default.jpg",
+  "vehicles": []
+}
