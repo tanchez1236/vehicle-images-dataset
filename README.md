@@ -441,3 +441,86 @@ Los valores HEX son aproximaciones para representación gráfica y **no deben ut
 # Licencia
 
 Pendiente de definir.
+
+---
+
+# Contribuir
+
+1. Crear o actualizar un archivo TXT.
+2. Ejecutar:
+
+```bash
+node tools/import-brand.js
+```
+
+3. Colocar imágenes en:
+
+```text
+imports/images/<marca>/
+```
+
+4. Ejecutar:
+
+```bash
+node tools/import-images.js
+```
+
+5. Validar:
+
+```bash
+node tools/validate-dataset.js
+```
+
+6. Crear Pull Request.
+
+---
+
+# Aviso Sobre Imágenes
+
+Las imágenes incluidas en este dataset tienen fines exclusivamente ilustrativos y de referencia visual.
+
+Las imágenes pueden haber sido:
+
+- Redimensionadas
+- Recortadas
+- Optimizadas
+- Procesadas digitalmente
+- Editadas
+- Coloreadas mediante herramientas de inteligencia artificial
+
+Las representaciones visuales no deben considerarse una referencia exacta del acabado o color real de fábrica.
+
+---
+
+# Aviso Sobre Colores OEM
+
+Los códigos OEM, nombres comerciales y valores HEX tienen fines informativos y de identificación visual.
+
+Los valores HEX son aproximaciones gráficas y no deben utilizarse para:
+
+- Mezcla de pintura
+- Formulación de pintura
+- Fabricación de pintura
+- Igualación profesional de color
+
+---
+
+# Copyright y Derechos de Terceros
+
+Este proyecto busca utilizar exclusivamente imágenes:
+
+- Generadas por inteligencia artificial
+- Producidas por los colaboradores del proyecto
+- Provenientes de fuentes que permitan reutilización
+
+Si considera que algún contenido infringe derechos de autor, puede abrir un Issue o solicitar su revisión mediante un Pull Request.
+
+---
+
+# Licencia
+
+Este proyecto se distribuye bajo:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/

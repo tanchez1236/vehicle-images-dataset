@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
+*.temp
+
+# Image import temp folders
+imports/images/imported/
+imports/images/failed/
