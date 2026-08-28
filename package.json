@@ -1,0 +1,24 @@
+{
+  "name": "vehicle-images-dataset",
+  "version": "1.0.0",
+  "description": "Dataset público de imágenes de vehículos para [MotorSeguro](https://motorseguro.com).\r Organizado por **marca → modelo → año** para consulta directa vía GitHub Raw.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanchez1236/vehicle-images-dataset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tanchez1236/vehicle-images-dataset/issues"
+  },
+  "homepage": "https://github.com/tanchez1236/vehicle-images-dataset#readme",
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+}
