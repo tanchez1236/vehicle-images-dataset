@@ -1,5 +1,3 @@
-// tools/import-images.js
-
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
@@ -70,342 +68,350 @@ const catalogs = {};
 
 for (const file of catalogFiles) {
 
-  const catalog =
-    JSON.parse(
-      fs.readFileSync(
-        path.join(catalogDir, file),
-        'utf8'
-      )
-    );
+  const catalog = JSON.parse(
+    fs.readFileSync(
+      path.join(catalogDir, file),
+      'utf8'
+    )
+  );
 
   catalogs[
     slug(catalog.make)
   ] = catalog;
+
 }
 
-section('IMPORTADOR DE IMÁGENES OEM');
+async function main() {
 
-for (const makeFolder of fs.readdirSync(importRoot)) {
+  section('IMPORTADOR DE IMÁGENES OEM');
 
-  const makePath =
-    path.join(importRoot, makeFolder);
+  for (const makeFolder of fs.readdirSync(importRoot)) {
 
-  if (!fs.statSync(makePath).isDirectory()) {
-    continue;
-  }
+    const makePath =
+      path.join(importRoot, makeFolder);
 
-  if (
-    makeFolder === 'imported' ||
-    makeFolder === 'failed'
-  ) {
-    continue;
-  }
+    if (!fs.statSync(makePath).isDirectory()) {
+      continue;
+    }
 
-  const makeSlug = slug(makeFolder);
+    if (
+      makeFolder === 'imported' ||
+      makeFolder === 'failed'
+    ) {
+      continue;
+    }
 
-  const catalog =
-    catalogs[makeSlug];
+    const makeSlug = slug(makeFolder);
 
-  if (!catalog) {
+    const catalog =
+      catalogs[makeSlug];
 
-    console.log('');
-    console.log(
-      `❌ Marca sin catálogo: ${makeFolder}`
-    );
-
-    continue;
-  }
-
-  section(`MARCA: ${catalog.make}`);
-
-  const files = fs.readdirSync(makePath);
-
-  for (const file of files) {
-
-    stats.processed++;
-
-    try {
-
-      const fullFile =
-        path.join(makePath, file);
-
-      if (
-        !fs.statSync(fullFile).isFile()
-      ) {
-        continue;
-      }
-
-      const ext =
-        path.extname(file);
-
-      const parsed =
-        path.basename(file, ext);
-
-      const parts =
-        parsed.split('__');
-
-      if (parts.length !== 3) {
-
-        throw new Error(
-          'Nombre inválido. Debe ser modelo__generacion__codigo.ext'
-        );
-      }
-
-      const [
-        modelName,
-        generationName,
-        colorCodeRaw
-      ] = parts;
-
-      const colorCode =
-        colorCodeRaw.toUpperCase();
-
-      let targetModel = null;
-      let targetGeneration = null;
-
-      for (const model of catalog.models) {
-
-        if (
-          slug(model.name) === slug(modelName)
-        ) {
-
-          targetModel = model;
-
-          break;
-        }
-      }
-
-      if (!targetModel) {
-
-        throw new Error(
-          `Modelo no encontrado: ${modelName}`
-        );
-      }
-
-      for (
-        const generation
-        of targetModel.generations
-      ) {
-
-        if (
-          slug(generation.name)
-          === slug(generationName)
-        ) {
-
-          targetGeneration =
-            generation;
-
-          break;
-        }
-      }
-
-      if (!targetGeneration) {
-
-        throw new Error(
-          `Generación no encontrada: ${generationName}`
-        );
-      }
-
-      const colorRef =
-        targetGeneration.colors.find(
-          c => c.code.toUpperCase()
-            === colorCode
-        );
-
-      if (!colorRef) {
-
-        throw new Error(
-          `Color OEM no encontrado: ${colorCode}`
-        );
-      }
-
-      const colorInfo =
-        catalog.colors[colorCode];
-
-      if (!colorInfo) {
-
-        throw new Error(
-          `Definición faltante para ${colorCode}`
-        );
-      }
-
-      const destinationFolder =
-        path.join(
-          imagesDir,
-          makeSlug,
-          slug(targetModel.name),
-          slug(targetGeneration.name),
-          colorFolderName(
-            colorInfo.name,
-            colorCode
-          )
-        );
-
-      ensureDir(destinationFolder);
-
-      const destinationImage =
-        path.join(
-          destinationFolder,
-          'main.webp'
-        );
+    if (!catalog) {
 
       console.log('');
       console.log(
-        `📸 ${file}`
+        `❌ Marca sin catálogo: ${makeFolder}`
       );
 
-      console.log(
-        `   Modelo: ${targetModel.name}`
-      );
+      continue;
+    }
 
-      console.log(
-        `   Generación: ${targetGeneration.name}`
-      );
+    section(`MARCA: ${catalog.make}`);
 
-      console.log(
-        `   Color: ${colorInfo.name} (${colorCode})`
-      );
+    const files = fs.readdirSync(makePath);
 
-      console.log(
-        `   Destino:`
-      );
+    for (const file of files) {
 
-      console.log(
-        `   ${destinationImage}`
-      );
-
-      if (
-        fs.existsSync(
-          destinationImage
-        )
-      ) {
-
-        console.log(
-          '   ⚠ main.webp ya existe'
-        );
-
-        stats.skipped++;
-
-        const importedTarget =
-          path.join(
-            importedDir,
-            file
-          );
-
-        fs.renameSync(
-          fullFile,
-          importedTarget
-        );
-
-        continue;
-      }
-
-      await sharp(fullFile)
-        .webp({
-          quality: 90
-        })
-        .toFile(
-          destinationImage
-        );
-
-      stats.converted++;
-
-      const importedTarget =
-        path.join(
-          importedDir,
-          file
-        );
-
-      fs.renameSync(
-        fullFile,
-        importedTarget
-      );
-
-      console.log(
-        '   ✅ Importada correctamente'
-      );
-
-      stats.imported++;
-
-    } catch (error) {
-
-      stats.failed++;
-
-      console.log('');
-      console.log(
-        `❌ Error: ${file}`
-      );
-
-      console.log(
-        `   ${error.message}`
-      );
+      stats.processed++;
 
       try {
 
-        const source =
-          path.join(
-            makePath,
-            file
-          );
+        const fullFile =
+          path.join(makePath, file);
 
-        const target =
-          path.join(
-            failedDir,
-            file
-          );
-
-        if (
-          fs.existsSync(source)
-        ) {
-
-          fs.renameSync(
-            source,
-            target
-          );
+        if (!fs.statSync(fullFile).isFile()) {
+          continue;
         }
 
-      } catch {}
+        const ext =
+          path.extname(file);
+
+        const parsed =
+          path.basename(file, ext);
+
+        const parts =
+          parsed.split('__');
+
+        if (parts.length !== 3) {
+
+          throw new Error(
+            'Nombre inválido. Debe ser modelo__generacion__codigo.ext'
+          );
+
+        }
+
+        const [
+          modelName,
+          generationName,
+          colorCodeRaw
+        ] = parts;
+
+        const colorCode =
+          colorCodeRaw.toUpperCase();
+
+        let targetModel = null;
+        let targetGeneration = null;
+
+        for (const model of catalog.models) {
+
+          if (
+            slug(model.name) === slug(modelName)
+          ) {
+
+            targetModel = model;
+            break;
+
+          }
+
+        }
+
+        if (!targetModel) {
+
+          throw new Error(
+            `Modelo no encontrado: ${modelName}`
+          );
+
+        }
+
+        for (const generation of targetModel.generations) {
+
+          if (
+            slug(generation.name) === slug(generationName)
+          ) {
+
+            targetGeneration = generation;
+            break;
+
+          }
+
+        }
+
+        if (!targetGeneration) {
+
+          throw new Error(
+            `Generación no encontrada: ${generationName}`
+          );
+
+        }
+
+        const colorRef =
+          targetGeneration.colors.find(
+            c =>
+              c.code.toUpperCase() === colorCode
+          );
+
+        if (!colorRef) {
+
+          throw new Error(
+            `Color OEM no encontrado: ${colorCode}`
+          );
+
+        }
+
+        const colorInfo =
+          catalog.colors[colorCode];
+
+        if (!colorInfo) {
+
+          throw new Error(
+            `Definición faltante para ${colorCode}`
+          );
+
+        }
+
+        const destinationFolder =
+          path.join(
+            imagesDir,
+            makeSlug,
+            slug(targetModel.name),
+            slug(targetGeneration.name),
+            colorFolderName(
+              colorInfo.name,
+              colorCode
+            )
+          );
+
+        ensureDir(destinationFolder);
+
+        const destinationImage =
+          path.join(
+            destinationFolder,
+            'main.webp'
+          );
+
+        console.log('');
+        console.log(`📸 ${file}`);
+
+        console.log(
+          `   Modelo: ${targetModel.name}`
+        );
+
+        console.log(
+          `   Generación: ${targetGeneration.name}`
+        );
+
+        console.log(
+          `   Color: ${colorInfo.name} (${colorCode})`
+        );
+
+        console.log(
+          `   Destino:`
+        );
+
+        console.log(
+          `   ${destinationImage}`
+        );
+
+        if (
+          fs.existsSync(
+            destinationImage
+          )
+        ) {
+
+          console.log(
+            '   ⚠ main.webp ya existe'
+          );
+
+          stats.skipped++;
+
+          fs.renameSync(
+            fullFile,
+            path.join(
+              importedDir,
+              file
+            )
+          );
+
+          continue;
+
+        }
+
+        await sharp(fullFile)
+          .webp({
+            quality: 90
+          })
+          .toFile(destinationImage);
+
+        stats.converted++;
+
+        fs.renameSync(
+          fullFile,
+          path.join(
+            importedDir,
+            file
+          )
+        );
+
+        console.log(
+          '   ✅ Importada correctamente'
+        );
+
+        stats.imported++;
+
+      } catch (error) {
+
+        stats.failed++;
+
+        console.log('');
+        console.log(
+          `❌ Error: ${file}`
+        );
+
+        console.log(
+          `   ${error.message}`
+        );
+
+        try {
+
+          const source =
+            path.join(
+              makePath,
+              file
+            );
+
+          const target =
+            path.join(
+              failedDir,
+              file
+            );
+
+          if (
+            fs.existsSync(source)
+          ) {
+
+            fs.renameSync(
+              source,
+              target
+            );
+
+          }
+
+        } catch {}
+
+      }
 
     }
 
   }
 
-}
-
-section('RESUMEN');
-
-console.log(
-  `📁 Archivos procesados: ${stats.processed}`
-);
-
-console.log(
-  `✅ Importados: ${stats.imported}`
-);
-
-console.log(
-  `🔄 Convertidos a WebP: ${stats.converted}`
-);
-
-console.log(
-  `⚠ Omitidos: ${stats.skipped}`
-);
-
-console.log(
-  `❌ Fallidos: ${stats.failed}`
-);
-
-console.log('');
-
-if (stats.failed === 0) {
+  section('RESUMEN');
 
   console.log(
-    '✅ PROCESO COMPLETADO SIN ERRORES'
+    `📁 Archivos procesados: ${stats.processed}`
   );
-
-} else {
 
   console.log(
-    '⚠ REVISAR CARPETA failed'
+    `✅ Importados: ${stats.imported}`
   );
 
+  console.log(
+    `🔄 Convertidos a WebP: ${stats.converted}`
+  );
+
+  console.log(
+    `⚠ Omitidos: ${stats.skipped}`
+  );
+
+  console.log(
+    `❌ Fallidos: ${stats.failed}`
+  );
+
+  console.log('');
+
+  if (stats.failed === 0) {
+
+    console.log(
+      '✅ PROCESO COMPLETADO SIN ERRORES'
+    );
+
+  } else {
+
+    console.log(
+      '⚠ REVISAR CARPETA failed'
+    );
+
+  }
+
 }
+
+main()
+  .then(() => {})
+  .catch(error => {
+
+    console.log('');
+    console.log('❌ ERROR FATAL');
+    console.log(error);
+
+    process.exit(1);
+
+  });

@@ -320,6 +320,108 @@ images/
 
 ---
 
+# Resolución de Imágenes
+
+Las imágenes se identifican mediante:
+
+```text
+Marca
+→ Modelo
+→ Generación
+→ Color OEM
+```
+
+Ruta física:
+
+```text
+images/
+└── mitsubishi/
+    └── galant/
+        └── gen8/
+            └── Kalapana Black [X13]/
+                └── main.webp
+```
+
+---
+
+# Lógica de Búsqueda
+
+Un consumidor del dataset debe:
+
+1. Obtener la marca.
+2. Obtener el modelo.
+3. Obtener la generación.
+4. Obtener el color OEM.
+5. Resolver la ruta correspondiente.
+
+Ejemplo:
+
+```json
+{
+  "make": "mitsubishi",
+  "model": "galant",
+  "generation": "gen8",
+  "colorCode": "X13"
+}
+```
+
+Resultado:
+
+```text
+images/mitsubishi/galant/gen8/Kalapana Black [X13]/main.webp
+```
+
+---
+
+# Recomendación Para Consumidores
+
+No se recomienda construir rutas utilizando únicamente el código OEM.
+
+Incorrecto:
+
+```text
+images/x13/main.webp
+```
+
+Correcto:
+
+```text
+images/mitsubishi/galant/gen8/Kalapana Black [X13]/main.webp
+```
+
+Ya que un mismo color OEM puede existir en múltiples modelos o generaciones.
+
+---
+
+# Imagen Principal
+
+Nombre obligatorio:
+
+```text
+main.webp
+```
+
+MotorSeguro y cualquier otro consumidor deben asumir que la imagen principal siempre tendrá este nombre.
+
+```text
+Color OEM/
+└── main.webp
+```
+
+---
+
+# Imagen No Disponible
+
+Si no existe:
+
+```text
+main.webp
+```
+
+el consumidor debe mostrar una imagen genérica o placeholder.
+
+---
+
 # Imagen Principal
 
 Nombre obligatorio:
