@@ -1,0 +1,581 @@
+MAKE|chevrolet
+MODEL|blazer
+GENERATION|2g|1995|2005
+COLOR|linen-white|Linen White|WA5111|#F2EFE9|1995|1995
+COLOR|light-gray-metallic-95|Light Gray Metallic|WA9789|#A9ACAF|1995|1995
+COLOR|lamp-black|Lamp Black|WA848|#1C1C1C|1995|1995
+COLOR|radar-blue-metallic|Radar Blue Metallic|WA9018|#1B4C8C|1995|1995
+COLOR|bahama-blue-metallic|Bahama Blue Metallic|WA9656|#2E6DA4|1995|1995
+COLOR|light-stellar-blue-metallic|Light Stellar Blue Metallic|WA146B|#4A7FB5|1995|1995
+COLOR|dark-blue|Dark Blue|WA7349|#1B3560|1995|1995
+COLOR|atlantic-blue-metallic|Atlantic Blue Metallic|WA158A|#24476B|1995|1995
+COLOR|medium-dark-teal-metallic|Medium Dark Teal Metallic|WA9828|#1F5C5C|1995|1995
+COLOR|bright-teal-metallic|Bright Teal Metallic|WA9794|#128484|1995|1995
+COLOR|forest-green|Forest Green|WA7964|#1F4A2E|1994|1994
+COLOR|emerald-green-metallic|Emerald Green Metallic|WA177B|#1C5C40|1995|1995
+COLOR|dark-woodland-green|Dark Woodland Green|WA7156|#29422B|1995|1995
+COLOR|light-autumnwood-metallic|Light Autumnwood Metallic|WA228A|#A97A54|1995|1995
+COLOR|dark-autumnwood-metallic|Dark Autumnwood Metallic|WA161A|#6E4A32|1995|1995
+COLOR|beige-metallic|Beige Metallic|WA9805|#C9B78E|1995|1995
+COLOR|tan-95|Tan|WA8265|#C2A379|1995|1995
+COLOR|bright-red|Bright Red|WA7475|#C51E24|1995|1995
+COLOR|dark-garnet-red-metallic|Dark Garnet Red Metallic|WA9154|#6E1B24|1995|1996
+COLOR|dark-cherry-metallic|Dark Cherry Metallic|WA9800|#5C1F2C|1995|1996
+COLOR|wheatland-yellow|Wheatland Yellow|WA9418|#E8B23A|1995|1995
+COLOR|tangier-orange-95|Tangier Orange|WA9417|#D8641F|1995|1995
+COLOR|gray-metallic|Gray Metallic|WA8798|#8A8D8F|1995|2005
+COLOR|cherry-red-metallic|Cherry Red Metallic|WA9088|#9E1B2C|1995|2005
+COLOR|black-sapphire-metallic|Black Sapphire Metallic|WA8863|#17181C|1995|1995
+COLOR|olympic-white|Olympic White|WA8624|#F4F4F0|1996|2005
+COLOR|victory-red|Victory Red|WA9260|#B71C1C|2005|2005
+COLOR|superior-blue-metallic|Superior Blue Metallic|WA703J|#2F5D8A|2005|2005
+COLOR|indigo-metallic|Indigo Metallic|WA9792|#2C2F5E|2005|2005
+COLOR|fine-silver-birch-metallic|Fine Silver Birch Metallic|WA926L|#C7C9CB|2005|2005
+COLOR|medium-green-metallic-05|Medium Green Metallic|WA9539|#3E6B4E|2005|2005
+COLOR|sandalwood-metallic|Sandalwood Metallic|WA711J|#B99A72|2005|2005
+COLOR|storm-gray-metallic|Storm Gray Metallic|WA391E|#6B6E70|2005|2005
+COLOR|stealth-gray|Stealth Gray|WA183E|#4E5254|2005|2005
+COLOR|medium-red-metallic|Medium Red Metallic|WA408G|#A23131|2005|2005
+COLOR|light-tarnished-silver-metallic|Light Tarnished Silver Metallic|WA994L|#B7B4AC|2005|2005
+COLOR|sunburst-orange-metallic|Sunburst Orange Metallic|WA802K|#D9752A|2005|2005
+COLOR|red-tint-coat-metallic|Red Tint Coat Metallic|WA379E|#A72A2E|2005|2005
+COLOR|dark-argent-metallic|Dark Argent Metallic|WA6270|#55575A|2005|2005
+COLOR|galaxy-silver-metallic|Galaxy Silver Metallic|WA519F|#C6C7C9|2005|2005
+COLOR|yellow-05|Yellow|WA5456|#F2D02E|2005|2005
+GENERATION|1g|1991|1994
+COLOR|linen-white-91|Linen White|WA5111|#F2EFE9|1992|1994
+COLOR|silver-91|Silver|WA7468|#C7C9CB|1992|1992
+COLOR|lamp-black-91|Lamp Black|WA5118|#1C1C1C|1992|1994
+COLOR|radar-blue-metallic-91|Radar Blue Metallic|WA9018|#1B4C8C|1994|1994
+COLOR|bahama-blue-metallic-91|Bahama Blue Metallic|WA9656|#2E6DA4|1992|1994
+COLOR|medium-blue-metallic|Medium Blue Metallic|WA9222|#2A5C9E|1992|1992
+COLOR|bright-teal-91|Bright Teal|WA9830|#128484|1992|1992
+COLOR|pastel-blue|Pastel Blue|WA9662|#A9C6DE|1992|1994
+COLOR|light-blue|Light Blue|WA9264|#6FA8D8|1992|1992
+COLOR|medium-dark-teal-91|Medium Dark Teal|WA9828|#1F5C5C|1992|1994
+COLOR|light-mesa-brown|Light Mesa Brown|WA9219|#A9805A|1992|1992
+COLOR|black-91|Black|WA8555|#0E0F12|1992|1994
+COLOR|seafoam-green|Seafoam Green|WA9663|#7CB89A|1992|1992
+COLOR|dark-blue-metallic-91|Dark Blue Metallic|WA9095|#1B3560|1992|1994
+COLOR|dove-gray|Dove Gray|WA9017|#B9BBBE|1994|1994
+COLOR|dark-red|Dark Red|WA9096|#7A1F26|1994|1994
+COLOR|khaki|Khaki|WA9087|#B7A57C|1994|1994
+COLOR|bright-red-91|Bright Red|WA7475|#C51E24|1994|1994
+COLOR|forest-green-metallic-91|Forest Green Metallic|WA7964|#1F4A2E|1994|1994
+COLOR|raspberry-metallic|Raspberry Metallic|WA9928|#8C2A4A|1994|1994
+COLOR|wheatland-yellow-91|Wheatland Yellow|WA9418|#E8B23A|1994|1994
+COLOR|tangier-orange-91|Tangier Orange|WA9417|#D8641F|1994|1994
+COLOR|gray-metallic-91|Gray Metallic|WA8798|#8A8D8F|1994|1994
+COLOR|cherry-red-metallic-91|Cherry Red Metallic|WA9088|#9E1B2C|1994|1994
+COLOR|olympic-white-91|Olympic White|WA8624|#F4F4F0|1994|1994
+COLOR|light-autumnwood-metallic-91|Light Autumnwood Metallic|WA228A|#A97A54|1994|1994
+COLOR|dark-autumnwood-metallic-91|Dark Autumnwood Metallic|WA161A|#6E4A32|1994|1994
+COLOR|tan-91|Tan|WA8265|#C2A379|1994|1994
+COLOR|ultra-silver-metallic|Ultra Silver Metallic|WA8867|#C9CBCD|1994|1994
+COLOR|atlantic-blue-metallic-91|Atlantic Blue Metallic|WA158A|#24476B|1994|1994
+GENERATION|3g|2019|2024
+COLOR|sunlit-bronze-metallic|Sunlit Bronze Metallic|G10|#9C6B45|2019|2020
+COLOR|red-hot|Red Hot|G7C|#C81D25|2019|2024
+COLOR|nightfall-gray-metallic|Nightfall Gray Metallic|G7Q|#3E4145|2019|2020
+COLOR|silver-ice-metallic|Silver Ice Metallic|GAN|#C7C9CB|2019|2022
+COLOR|summit-white-blazer3g|Summit White|GAZ|#F4F4F0|2019|2024
+COLOR|black-blazer3g|Black|GBA|#0E0F12|2019|2024
+COLOR|iridescent-pearl-tricoat|Iridescent Pearl Tricoat|G1W|#F0EDE5|2020|2024
+COLOR|iron-gray-metallic|Iron Gray Metallic|GIV|#55585B|2021|2022
+COLOR|cherry-red-tintcoat|Cherry Red Tintcoat|GSK|#7A1420|2021|2022
+COLOR|nitro-yellow-metallic|Nitro Yellow Metallic|GHS|#C7D82C|2021|2021
+COLOR|nitro-yellow-metallic-gcp|Nitro Yellow Metallic|GCP|#C7D82C|2022|2024
+COLOR|blue-glow-metallic|Blue Glow Metallic|GHT|#1E5C9E|2021|2023
+COLOR|cayenne-orange-metallic|Cayenne Orange Metallic|GLL|#C2531E|2021|2022
+COLOR|pewter-metallic|Pewter Metallic|11|#8C8478|2021|2022
+COLOR|copper-bronze-metallic|Copper Bronze Metallic|GLY|#8B5A34|2023|2024
+COLOR|radiant-red-tintcoat|Radiant Red Tintcoat|GNT|#A31E2A|2023|2024
+COLOR|sterling-gray-metallic|Sterling Gray Metallic|GXD|#77797B|2023|2024
+COLOR|riptide-blue-metallic|Riptide Blue Metallic|GJV|#1E6E8C|2024|2024
+MODEL|blazer ev
+GENERATION|gen1|2024|2025
+COLOR|summit-white-ev|Summit White|GAZ|#F4F4F0|2024|2025
+COLOR|black-ev|Black|GBA|#0E0F12|2024|2025
+COLOR|sterling-gray-metallic-ev|Sterling Gray Metallic|GXD|#77797B|2024|2025
+COLOR|red-hot-ev|Red Hot|G7C|#C81D25|2024|2024
+COLOR|galaxy-gray-metallic|Galaxy Gray Metallic|GJY|#5A5D60|2024|2025
+COLOR|radiant-red-tintcoat-ev|Radiant Red Tintcoat|GNT|#A31E2A|2024|2025
+COLOR|iridescent-pearl-tricoat-ev|Iridescent Pearl Tricoat|G1W|#F0EDE5|2024|2025
+COLOR|riptide-blue-metallic-ev|Riptide Blue Metallic|GJV|#1E6E8C|2024|2025
+COLOR|habanero-orange|Habanero Orange|GAG|#D9531E|2025|2025
+MODEL|metro
+GENERATION|1g|1991|1994
+COLOR|silver-metallic-metro|Silver Metallic|WA9824|#C7C9CB|1991|1992
+COLOR|white-16u|White|WA5369|#F4F4F0|1991|1994
+COLOR|competition-blue|Competition Blue|WA9961|#1E5C9E|1991|1993
+COLOR|yellow-35u-metro|Yellow|WA9881|#F2D02E|1991|1991
+COLOR|aqua-metallic-metro|Aqua Metallic|WA9963|#3E9E9E|1991|1992
+COLOR|brilliant-red-metallic-metro|Brilliant Red Metallic|WA9988|#A31E2A|1991|1994
+COLOR|medium-quasar-blue-metallic|Medium Quasar Blue Metallic|WA9989|#1F4E8C|1991|1994
+COLOR|bright-red-81u-metro|Bright Red|WA9423|#C51E24|1991|1994
+COLOR|white-9296-metro|White|WA9296|#F2F1EC|1991|1993
+COLOR|black-metallic-metro|Black Metallic|WA9962|#16171A|1991|1992
+COLOR|bright-red-9983-metro|Bright Red|WA9983|#C81D25|1991|1993
+COLOR|silver-mica|Silver Mica|WA5315|#C9CBCE|1992|1992
+COLOR|dark-blue-metallic-metro-92|Dark Blue Metallic|WA9872|#1B3560|1992|1992
+COLOR|red-mica|Red Mica|WA5389|#9E1B24|1992|1993
+COLOR|magenta-metallic|Magenta Metallic|WA184A|#6E2A4A|1993|1993
+COLOR|polynesian-green-metallic|Polynesian Green Metallic|WA185A|#2F6B52|1993|1994
+COLOR|black-19u-metro|Black|WA990A|#101012|1993|1994
+COLOR|ocean-dark-blue|Ocean Dark Blue|WA989A|#1B3A5E|1993|1993
+COLOR|shadow-gray-metallic|Shadow Gray Metallic|WA247A|#6E7276|1994|1994
+COLOR|tropical-green-metallic|Tropical Green Metallic|WA248A|#2F6B4A|1994|1994
+COLOR|sky-blue-metallic|Sky Blue Metallic|WA249A|#6FA0C9|1994|1994
+GENERATION|2g|1995|2001
+COLOR|shadow-gray-metallic-g2|Shadow Gray Metallic|WA247A|#6E7276|1995|1995
+COLOR|bright-white|Bright White|WA5369|#F4F4F0|1995|2001
+COLOR|silver-sage-metallic|Silver Sage Metallic|WA216B|#9CA88A|1995|1997
+COLOR|brilliant-red-metallic-g2|Brilliant Red Metallic|WA209A|#A31E2A|1995|1995
+COLOR|tropical-green-metallic-g2|Tropical Green Metallic|WA248A|#2F6B4A|1995|1995
+COLOR|sky-blue-metallic-g2|Sky Blue Metallic|WA249A|#6FA0C9|1995|1995
+COLOR|dark-grape|Dark Grape|WA215B|#4A2A4E|1995|1995
+COLOR|super-grape|Super Grape|WA300C|#5C2A5E|1996|1997
+COLOR|sunset-red-metallic|Sunset Red Metallic|WA189D|#8C2A2E|1997|1997
+COLOR|black-19u-g2|Black|WA990A|#101012|1995|2000
+COLOR|dark-blue-metallic-47u|Dark Blue Metallic|WA9741|#1B3560|1995|2000
+COLOR|silvermist-metallic|Silvermist Metallic|17U|#B8BABC|2000|2000
+COLOR|blue-green-metallic|Blue Green Metallic|29U|#2F6B6E|2000|2000
+COLOR|green-metallic-35u|Green Metallic|35U|#2F6B3A|2000|2000
+COLOR|light-toreador-red-metallic|Light Toreador Red Metallic|53U|#A31E2A|2000|2000
+COLOR|victory-red-metro|Victory Red|297C|#B71C1C|2000|2000
+MODEL|prizm
+GENERATION|1g|1991|1992
+COLOR|super-white-prizm|Super White|WA9737|#F4F4F0|1991|1992
+COLOR|black-41u-prizm91|Black|WA9956|#101012|1991|1991
+COLOR|dark-blue-47u-prizm|Dark Blue|WA9741|#1B3560|1991|1992
+COLOR|light-blue-49u-prizm|Light Blue|WA9738|#6FA0C9|1991|1992
+COLOR|medium-gray-15u-prizm|Medium Gray|WA9739|#8C8D8F|1991|1992
+COLOR|silver-13u-prizm91|Silver|WA9955|#C7C9CB|1991|1991
+COLOR|dark-teal-92-prizm|Dark Teal|WA5314|#1E5C5C|1992|1992
+COLOR|silver-13u-prizm92|Silver|WA5315|#C9CBCE|1992|1992
+COLOR|medium-red-92-prizm|Medium Red|WA5316|#9E1B2C|1992|1992
+COLOR|bright-red-81u-prizm92|Bright Red|WA9736|#C51E24|1992|1992
+COLOR|rose-84u-prizm|Rose|WA5317|#B06A7E|1992|1992
+GENERATION|2g|1993|1997
+COLOR|silver-pearl-93-prizm|Silver Pearl|WA5315|#C9CBCE|1993|1993
+COLOR|light-polynesian|Light Polynesian|WA987A|#3E8C6E|1993|1994
+COLOR|medium-blue-93-prizm|Medium Blue|WA986A|#2A5C9E|1993|1994
+COLOR|dark-teal-93-prizm|Dark Teal|WA5314|#1E5C5C|1993|1994
+COLOR|light-blue-42u-prizm|Light Blue|WA985A|#6FA0C9|1993|1994
+COLOR|white-prizm2|White|WA9737|#F4F4F0|1993|1997
+COLOR|black-metallic-93-prizm|Black Metallic|WA984A|#17181C|1993|1997
+COLOR|bright-red-93-prizm|Bright Red|WA9736|#C51E24|1993|1994
+COLOR|medium-red-pearl-prizm|Medium Red Pearl|WA5316|#9E1B2C|1993|1997
+COLOR|light-beige-metallic-prizm|Light Beige Metallic|WA235A|#C6B896|1994|1994
+COLOR|midnight-emerald-97-prizm|Midnight Emerald|WA191D|#1F4A3A|1997|1997
+COLOR|lavender-pearl-97-prizm|Lavender Pearl|WA192D|#8C7A9E|1997|1997
+COLOR|canyon-red-97-prizm|Canyon Red|WA193D|#8C2A2E|1997|1997
+COLOR|apricot-ice-97-prizm|Apricot Ice|WA194D|#E8C9A0|1997|1997
+COLOR|pacific-blue-97-prizm|Pacific Blue|WA302C|#2A5C86|1997|1997
+COLOR|desert-sand-prizm|Desert Sand|WA303C|#C9AE86|1997|1997
+GENERATION|3g|1998|2002
+COLOR|white-prizm3|White|WA9737|#F4F4F0|1998|2002
+COLOR|black-mist-prizm|Black Mist|WA984A|#17181C|1998|1999
+COLOR|pacific-blue-pearl-prizm|Pacific Blue Pearl|WA302C|#2A5C86|1998|1998
+COLOR|midnight-emerald-prizm3|Midnight Emerald|WA191D|#1F4A3A|1998|1999
+COLOR|cashmere-taupe-prizm|Cashmere Taupe|WA165E|#B8A98A|1998|2002
+COLOR|lavender-pearl-prizm3|Lavender Pearl|WA192D|#8C7A9E|1998|1999
+COLOR|canyon-red-mica-prizm|Canyon Red Mica|WA193D|#8C2A2E|1998|1999
+COLOR|ruby-pearl-mica-prizm|Ruby Pearl Mica|WA166E|#7A1B2E|1998|1998
+COLOR|apricot-ice-mica-prizm|Apricot Ice Mica|WA194D|#E8C9A0|1998|1999
+COLOR|silver-prizm3|Silver|WA672F|#C7C9CB|1999|2002
+COLOR|dark-blue-green-prizm|Dark Blue Green|WA673F|#1F4A4E|1999|2002
+COLOR|dark-beige-prizm|Dark Beige|WA674F|#B79A6E|1999|2000
+COLOR|black-mica-prizm|Black Mica|WA546G|#101012|2000|2002
+COLOR|green-mica-prizm|Green Mica|WA547G|#2F6B3A|2000|2002
+COLOR|gold-metallic-prizm|Gold Metallic|WA548G|#C9A227|2000|2000
+COLOR|dark-carmine-red-prizm|Dark Carmine Red|WA675F|#7A1B22|2000|2000
+COLOR|medium-red-mica-prizm|Medium Red Mica|WA721H|#A31E2A|2001|2002
+COLOR|black-plain-prizm|Black|WA8555|#0E0F12|2001|2002
+MODEL|aveo
+GENERATION|1g|2004|2011
+COLOR|black-aveo1|Black|WA8555|#0E0F12|2004|2004
+COLOR|galaxy-white-aveo|Galaxy White|WA143L|#F4F4F0|2004|2006
+COLOR|pastel-blue-aveo|Pastel Blue|WA155L|#A9C6DE|2004|2005
+COLOR|sports-blue-aveo|Sports Blue|WA156L|#1E5C9E|2004|2005
+COLOR|modern-green-aveo|Modern Green|WA157L|#2F6B3A|2004|2005
+COLOR|sunset-orange-aveo|Sunset Orange|WA258L|#D8641F|2004|2005
+COLOR|super-red-aveo|Super Red|WA238L|#B71C1C|2004|2006
+COLOR|active-red-aveo|Active Red|WA240L|#C51E24|2004|2004
+COLOR|pearl-black-aveo|Pearl Black|WA245L|#17181C|2004|2005
+COLOR|dove-silver-aveo|Dove Silver|WA248L|#C7C9CB|2004|2005
+COLOR|highway-yellow-aveo|Highway Yellow|GOC|#F2D02E|2004|2005
+COLOR|aqua-green-aveo|Aqua Green|WA321M|#3E9E9E|2005|2005
+COLOR|poly-silver-aveo|Poly Silver|GCY|#C9CBCE|2006|2006
+COLOR|urban-gray-aveo|Urban Gray|GQW|#6B6E70|2006|2010
+COLOR|flame-red-aveo|Flame Red|GQV|#C81D25|2006|2010
+COLOR|bimini-blue-aveo|Bimini Blue|GQM|#1E5C9E|2011|2011
+COLOR|black-granite-metallic-aveo|Black Granite Metallic|GAR|#1C1D20|2010|2011
+COLOR|bright-blue-aveo|Bright Blue|33U|#2A6BAE|2009|2011
+COLOR|copper-canyon-aveo|Copper Canyon|GQJ|#B5651D|2011|2011
+COLOR|silver-ice-metallic-aveo|Silver Ice Metallic|GAN|#C7C9CB|2011|2011
+COLOR|summer-yellow-aveo|Summer Yellow|52U|#F2C21E|2009|2011
+COLOR|summit-white-aveo1|Summit White|GAZ|#F4F4F0|2009|2011
+COLOR|victory-red-aveo1|Victory Red|71U|#B71C1C|2007|2011
+GENERATION|2g|2017|2022
+COLOR|limited-addiction-red-pearl|Limited Addiction Red Pearl|G1E|#A31E3E|2018|2020
+COLOR|abalone-white-mica|Abalone White Mica|G1W|#F0EDE5|2018|2020
+COLOR|syracuse-mk-iii-metallic|Syracuse Mk III Metallic|G1Z|#6B6E70|2018|2018
+COLOR|blue-steel-metallic-aveo2|Blue Steel Metallic|G35|#2A4A6E|2018|2020
+COLOR|seeker-metallic|Seeker Metallic|G6O|#7A6E5A|2019|2020
+COLOR|orange-rock-metallic|Orange Rock Metallic|G6V|#B5651D|2019|2019
+COLOR|pull-me-over-red|Pull Me Over Red|G7C|#C81D25|2018|2020
+COLOR|son-of-a-gun-gray-metallic|Son of a Gun Gray Metallic|G7Q|#6B6E70|2018|2020
+COLOR|baroque-red-metallic|Baroque Red Metallic|G7T|#7A1E2A|2018|2020
+COLOR|switchblade-silver-metallic|Switchblade Silver Metallic|GAN|#C7C9CB|2018|2020
+COLOR|carbon-flash-metallic-aveo2|Carbon Flash Metallic|GAR|#1C1D20|2018|2020
+COLOR|olympic-white-aveo2|Olympic White|GAZ|#F4F4F0|2018|2018
+COLOR|summit-white-aveo2|Summit White|GAZ|#F4F4F0|2019|2020
+COLOR|black-meet-kettle-metallic-3|Black Meet Kettle Metallic 3|GB0|#16171A|2018|2020
+COLOR|black-meet-kettle-metallic|Black Meet Kettle Metallic|GB8|#17181C|2018|2020
+COLOR|black-aveo2|Black|GBA|#0E0F12|2018|2020
+COLOR|victory-red-aveo2|Victory Red|GCN|#B71C1C|2018|2020
+COLOR|velvet-red-metallic-aveo2|Velvet Red Metallic|GCS|#7A1420|2018|2018
+COLOR|peppy-orange-metallic|Peppy Orange Metallic|GET|#D9752A|2018|2018
+COLOR|blue-persuasion-metallic|Blue Persuasion Metallic|GGB|#2A5C8C|2018|2018
+COLOR|burning-hott-metallic|Burning Hott Metallic|GGQ|#A31E1E|2018|2020
+MODEL|spark
+GENERATION|1g|2013|2015
+COLOR|black-granite-metallic-spark1|Black Granite Metallic|GAR|#1C1D20|2013|2015
+COLOR|blue-ray-metallic-denim|Blue Ray Metallic (Denim)|G54|#2A5C9E|2013|2015
+COLOR|fresh-green-lime-metallic|Fresh Green Lime Metallic (Jalapeño/Lime)|G6F|#6B9E2F|2013|2015
+COLOR|secret-lavender-metallic|Secret Lavender Metallic (Grape Ice)|G6B|#7A5C9E|2014|2015
+COLOR|pull-me-over-red-spark1|Salsa|G7C|#C81D25|2013|2015
+COLOR|switchblade-silver-metallic-spark1|Silver Ice Metallic|GAN|#C7C9CB|2013|2015
+COLOR|olympic-white-spark1|Summit White|GAZ|#F4F4F0|2013|2015
+GENERATION|2g|2016|2022
+COLOR|black-granite-metallic-spark2|Black Granite Metallic|GAR|#1C1D20|2016|2016
+COLOR|salsa-spark2|Salsa|G6E|#C2251E|2016|2016
+COLOR|lime-metallic-spark2|Lime Metallic|G6F|#6B9E2F|2016|2016
+COLOR|silver-ice-metallic-spark2|Silver Ice Metallic|GAN|#C7C9CB|2016|2022
+COLOR|summit-white-spark2|Summit White|GAZ|#F4F4F0|2016|2022
+COLOR|splash-metallic|Splash Metallic|GW7|#2A6BAE|2016|2018
+COLOR|toasted-marshmallow-metallic|Toasted Marshmallow Metallic|GV8|#E8D8B8|2016|2021
+COLOR|red-hot-spark|Red Hot|GG2|#C81D25|2017|2022
+COLOR|nightfall-gray-metallic-spark|Nightfall Gray Metallic|GK2|#3E4145|2017|2022
+COLOR|mint-spark|Mint|GP9|#A9D8C2|2017|2018
+COLOR|brimstone|Brimstone|GN6|#C9A227|2017|2018
+COLOR|mosaic-black-metallic|Mosaic Black Metallic|GB0|#0E0F12|2017|2022
+COLOR|sorbet|Sorbet|G32|#F2C9C2|2018|2018
+COLOR|caribbean-metallic|Caribbean Metallic|GMI|#1E6E8C|2019|2021
+COLOR|orange-rock-metallic-spark2|Orange Rock Metallic (Orange Burst)|G6V|#B5651D|2019|2020
+COLOR|merry-berry-metallic|Merry Berry Metallic (Passion Fruit)|GHN|#8C2A4A|2019|2021
+COLOR|raspberry-metallic-spark|Raspberry Metallic|GUO|#9E1B44|2019|2020
+COLOR|cayenne-orange-metallic-gll|Cayenne Orange Metallic|GLL|#C2531E|2020|2020
+COLOR|cayenne-orange-metallic-gfq|Cayenne Orange Metallic|GFQ|#C2531E|2021|2022
+COLOR|crimson-metallic-spark|Crimson Metallic|GFM|#9E1B24|2022|2022
+MODEL|tracker
+GENERATION|1g|1991|1998
+COLOR|competition-blue-tracker|Competition Blue|WA9961|#1E5C9E|1991|1993
+COLOR|black-metallic-tracker|Black Metallic|WA9962|#16171A|1991|1991
+COLOR|red-tracker|Red|WA9983|#C81D25|1991|1995
+COLOR|red-metallic-tracker|Red Metallic|WA9988|#A31E2A|1991|1993
+COLOR|medium-blue-metallic-tracker91|Medium Blue Metallic|WA9989|#1F4E8C|1991|1993
+COLOR|magenta-metallic-tracker|Magenta Metallic|WA991A|#6E2A4A|1993|1993
+COLOR|brilliant-red-metallic-tracker|Brilliant Red Metallic|WA209A|#A31E2A|1993|1995
+COLOR|black-tracker93|Black|WA990A|#101012|1993|1997
+COLOR|polynesian-green-metallic-tracker|Polynesian Green Metallic|WA992A|#2F6B52|1993|1993
+COLOR|yellow-tracker93|Yellow|WA5352|#F2D02E|1993|1993
+COLOR|white-tracker|White|WA5369|#F4F4F0|1992|1997
+COLOR|white-tracker-9296|White|WA9296|#F2F1EC|1993|1993
+COLOR|dark-grape-metallic-tracker|Dark Grape Metallic|WA215B|#4A2A4E|1995|1995
+COLOR|scuba-blue-metallic-tracker|Scuba Blue Metallic|WA214B|#1E6E8C|1995|1997
+COLOR|medium-gray-metallic-tracker|Medium Gray Metallic|WA247A|#6E7276|1995|1995
+COLOR|medium-green-metallic-tracker95|Medium Green Metallic|WA248A|#2F6B4A|1995|1995
+COLOR|light-blue-metallic-tracker|Light Blue Metallic|WA249A|#6FA0C9|1995|1995
+COLOR|sunset-red-metallic-tracker|Sunset Red Metallic|WA189D|#8C2A2E|1997|1998
+COLOR|silver-sage-metallic-tracker|Silver Sage Metallic|WA216B|#9CA88A|1997|1997
+COLOR|azurite-blue-metallic|Azurite Blue Metallic|WA190D|#2A5C8C|1997|1997
+GENERATION|2g|1999|2004
+COLOR|california-gold-metallic|California Gold Metallic|WA162E|#C9A227|1999|1999
+COLOR|purple-graphite-metallic|Purple Graphite Metallic|WA164E|#4A3A4E|1999|1999
+COLOR|white-tracker2|White|WA5369|#F4F4F0|1999|2000
+COLOR|sunset-red-metallic-tracker2|Sunset Red Metallic|WA189D|#8C2A2E|1999|2000
+COLOR|black-licorice-tracker2|Black Licorice|WA990A|#101012|1999|2003
+COLOR|scuba-blue-metallic-tracker2|Scuba Blue Metallic|WA214B|#1E6E8C|1999|1999
+COLOR|wildfire-red-victory-red|Wildfire Red/Victory Red|WA297C|#B71C1C|1999|2004
+COLOR|international-blue-metallic|International Blue Metallic|WA377E|#1E4E8C|1999|2000
+COLOR|medium-green-metallic-tracker99|Medium Green Metallic|WA669F|#2F6B4A|1999|2000
+COLOR|black-tracker99|Black|WA8555|#0E0F12|1999|2004
+COLOR|medium-blue-metallic-tracker2000|Medium Blue Metallic|WA543G|#2A5C9E|2000|2001
+COLOR|dark-blue-metallic-tracker2000|Dark Blue Metallic|WA544G|#1B3560|2000|2000
+COLOR|copper-brown-metallic|Copper Brown Metallic|WA545G|#7A5230|2000|2000
+COLOR|olympic-white-tracker|Olympic White|WA8624|#F4F4F0|2000|2003
+COLOR|silver-metallic-tracker|Silver Metallic|WA687H|#C7C9CB|2001|2003
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|WA856J|#1F2E5E|2002|2004
+COLOR|bright-yellow-tracker|Bright Yellow|WA962J|#F2C21E|2002|2002
+COLOR|medium-red-metallic-tracker|Medium Red Metallic|WA857J|#A31E2A|2002|2003
+COLOR|medium-green-metallic-tracker02|Medium Green Metallic|WA858J|#2F6B4A|2002|2003
+COLOR|light-bronze-mist-metallic|Light Bronze Mist Metallic|WA859J|#B79A6E|2002|2003
+COLOR|bright-white-tracker|Bright White|WA686H|#F4F4F0|2002|2002
+COLOR|medium-gray-metallic-tracker03|Medium Gray Metallic|WA7719|#6E7276|2003|2003
+GENERATION|3g|2020|2026
+COLOR|pow-zinga-metallic|Pow Zinga Metallic|G4S|#E8A227|2022|2023
+COLOR|darkmoon-blue-metallic|Darkmoon Blue Metallic|G5K|#1E3A5E|2022|2023
+COLOR|baroque-red-metallic-tracker3|Baroque Red Metallic|G7T|#7A1E2A|2022|2023
+COLOR|switchblade-silver-metallic-tracker3|Switchblade Silver Metallic|GAN|#C7C9CB|2020|2023
+COLOR|summit-white-tracker3|Summit White|GAZ|#F4F4F0|2020|2026
+COLOR|black-meet-kettle-metallic-3-tracker|Black Meet Kettle Metallic 3|GB0|#16171A|2022|2023
+COLOR|black-meet-kettle-metallic-tracker|Black Meet Kettle Metallic|GB8|#17181C|2022|2023
+COLOR|black-tracker3|Black|GBA|#0E0F12|2020|2026
+COLOR|abalone-white-2-mica|Abalone White 2 Mica|GE8|#F0EDE5|2022|2023
+COLOR|jinx-metallic-2|Jinx Metallic 2 (Crimson)|GEJ|#9E1B24|2022|2023
+COLOR|cannon-metallic-5|Cannon Metallic 5|GGF|#6B6E70|2022|2023
+COLOR|rush-metallic-5|Rush Metallic 5|GGV|#2A5C8C|2022|2023
+COLOR|sharkskin-metallic-tracker3|Sharkskin Metallic|GXD|#77797B|2022|2023
+MODEL|sonic
+GENERATION|1g|2012|2020
+COLOR|silver-ice-metallic-sonic|Silver Ice Metallic|GAN|#C7C9CB|2012|2020
+COLOR|carbon-flash-metallic-sonic|Carbon Flash Metallic|GAR|#1C1D20|2012|2016
+COLOR|summit-white-sonic|Summit White|GAZ|#F4F4F0|2012|2020
+COLOR|black-sonic|Black|GBA|#0E0F12|2012|2016
+COLOR|crystal-claret-tintcoat|Crystal Claret Tintcoat|GBE|#7A1E2A|2012|2016
+COLOR|white-diamond-pearl|White Diamond Pearl|GBN|#F0EDE5|2012|2016
+COLOR|cyber-gray-metallic-sonic|Cyber Gray Metallic|GBV|#6B6E70|2012|2013
+COLOR|victory-red-sonic|Victory Red|GCN|#B71C1C|2012|2013
+COLOR|inferno-orange-metallic|Inferno Orange Metallic|GCR|#C2531E|2012|2013
+COLOR|velvet-red-metallic-sonic|Velvet Red Metallic|GCS|#7A1420|2012|2016
+COLOR|ashen-gray-metallic-sonic|Ashen Gray Metallic|GLJ|#6E7276|2012|2015
+COLOR|luxo-blue-metallic|Luxo Blue Metallic (Blue Topaz)|GTS|#2A5C9E|2012|2014
+COLOR|snowflake-white-pearl|Snowflake White Pearl|GYN|#F0EDE5|2012|2012
+COLOR|mocha-bronze-metallic|Mocha Bronze Metallic|GVU|#7A5230|2013|2015
+COLOR|silver-topaz-metallic|Silver Topaz Metallic|GWS|#C9CBCE|2014|2015
+COLOR|berlin-blue-metallic-sonic|Berlin Blue Metallic|GXH|#1E3A5E|2014|2014
+COLOR|limited-addiction-red-pearl-sonic|Limited Addiction Red Pearl|G1E|#A31E3E|2015|2016
+COLOR|burnished-brandy-metallic|Burnished Brandy Metallic|G1F|#7A5230|2015|2016
+COLOR|old-blue-eyes-metallic|Old Blue Eyes Metallic (Blue Velvet)|G1M|#2A4A7A|2015|2016
+COLOR|abalone-white-pearl-sonic|Abalone White Pearl|G1W|#F0EDE5|2015|2016
+COLOR|pull-me-over-red-sonic|Pull Me Over Red|G7C|#C81D25|2015|2016
+COLOR|lemon-peel|Lemon Peel|G7D|#F2D02E|2015|2016
+COLOR|son-of-a-gun-gray-metallic-sonic|Son of a Gun Gray Metallic|G7Q|#6B6E70|2015|2016
+COLOR|plum-berry-metallic|Plum Berry Metallic|G7U|#5C2A4E|2015|2016
+COLOR|its-green-oclock-metallic|It's Green O'Clock Metallic|G8H|#2F6B3A|2015|2016
+COLOR|ice-white-sonic|Ice White|GBU|#F2F1EC|2015|2016
+COLOR|black-meet-kettle-metallic-3-sonic|Black Meet Kettle Metallic 3|GB0|#16171A|2016|2016
+COLOR|black-meet-kettle-metallic-4|Black Meet Kettle Metallic 4|GB8|#17181C|2016|2016
+COLOR|red-hot-sonic|Red Hot|G7C|#C81D25|2017|2020
+COLOR|nightfall-gray-metallic-sonic|Nightfall Gray Metallic|G7Q|#3E4145|2017|2020
+COLOR|ivy-metallic|Ivy Metallic|G8U|#4A6B3E|2018|2018
+COLOR|mosaic-black-metallic-sonic|Mosaic Black Metallic|GB8|#17181C|2017|2020
+COLOR|kinetic-blue-metallic-sonic|Kinetic Blue Metallic|GD1|#1E4E8C|2017|2020
+COLOR|arctic-blue-metallic-sonic|Arctic Blue Metallic|GGB|#2A5C8C|2017|2018
+COLOR|orange-burst-metallic-sonic|Orange Burst Metallic|GGQ|#C2531E|2017|2019
+COLOR|cajun-red-tintcoat-sonic|Cajun Red Tintcoat|GPJ|#7A1420|2017|2020
+COLOR|shock-sonic|Shock|GKO|#C7D82C|2019|2019
+MODEL|s-10
+GENERATION|1g|1991|1993
+COLOR|linen-white-s10|Linen White|WA5111|#F2EFE9|1991|1993
+COLOR|light-gray-metallic-s10|Light Gray Metallic|WA9789|#A9ACAF|1991|1993
+COLOR|light-slate-metallic-s10|Light Slate Metallic|WA7468|#8C8F92|1992|1992
+COLOR|lamp-black-s10|Lamp Black|WA5118|#1C1C1C|1991|1993
+COLOR|radar-blue-metallic-s10-1g|Radar Blue Metallic|WA9018|#1B4C8C|1992|1992
+COLOR|bahama-blue-metallic-s10|Bahama Blue Metallic|WA9656|#2E6DA4|1991|1993
+COLOR|medium-blue-metallic-s10|Medium Blue Metallic|WA9222|#2A5C9E|1991|1993
+COLOR|bright-teal-s10|Bright Teal|WA9830|#128484|1991|1993
+COLOR|pastel-blue-s10|Pastel Blue|WA9662|#A9C6DE|1991|1993
+COLOR|light-brown-s10|Light Brown|WA9219|#A9805A|1992|1992
+COLOR|seafoam-green-s10|Seafoam Green|WA9663|#7CB89A|1992|1992
+COLOR|dark-red-s10|Dark Red|WA9096|#7A1F26|1992|1993
+COLOR|tangier-orange-s10-5108|Tangier Orange|WA5108|#D8641F|1992|1992
+COLOR|wheatland-yellow-s10-5247|Wheatland Yellow|WA5247|#E8B23A|1992|1992
+COLOR|black-s10-1g|Black|WA8555|#0E0F12|1991|1993
+COLOR|bright-red-s10-1g|Bright Red, Standard Red|WA7475|#C51E24|1991|1993
+COLOR|forest-green-metallic-s10-1g|Forest Green Metallic|WA7964|#1F4A2E|1991|1993
+COLOR|raspberry-metallic-s10|Raspberry Metallic|WA9928|#8C2A4A|1992|1992
+COLOR|wheatland-yellow-s10-9418|Wheatland Yellow|WA9418|#E8B23A|1992|1992
+COLOR|tangier-orange-s10-9417|Tangier Orange|WA9417|#D8641F|1992|1992
+COLOR|gray-metallic-s10-1g|Gray Metallic|WA8798|#8A8D8F|1991|1993
+COLOR|khaki-s10-1g|Khaki|WA9087|#B7A57C|1991|1993
+COLOR|cherry-red-metallic-s10-1g|Cherry Red Metallic|WA9088|#9E1B2C|1991|1993
+COLOR|bright-teal-metallic-s10-1g|Bright Teal Metallic|WA9794|#128484|1993|1993
+COLOR|summit-white-s10-1g|Summit White|WA8624|#F4F4F0|1993|1993
+COLOR|victory-red-s10-1g|Victory Red|WA9260|#B71C1C|1993|1993
+COLOR|tan-s10-1g|Tan|WA8265|#C2A379|1993|1993
+COLOR|ultra-silver-metallic-s10-1g|Ultra Silver Metallic|WA8867|#C9CBCD|1993|1993
+GENERATION|2g|1994|2004
+COLOR|light-gray-metallic-s10-2g|Light Gray Metallic|WA9789|#A9ACAF|1994|2002
+COLOR|radar-blue-metallic-s10-2g|Radar Blue Metallic|WA9018|#1B4C8C|1994|1996
+COLOR|light-stellar-blue-metallic-s10|Light Stellar Blue Metallic|WA146B|#4A7FB5|1994|1998
+COLOR|emerald-green-metallic-s10|Emerald Green Metallic|WA177B|#1C5C40|1994|2000
+COLOR|black-s10-2g|Black|WA8555|#0E0F12|1994|2004
+COLOR|bright-red-standard-red-s10-2g|Bright Red, Standard Red|WA7475|#C51E24|1994|1998
+COLOR|gray-metallic-s10-2g|Gray Metallic|WA8798|#8A8D8F|1994|2002
+COLOR|cherry-red-metallic-s10-2g|Cherry Red Metallic|WA9088|#9E1B2C|1994|2002
+COLOR|bright-teal-metallic-s10-2g|Bright Teal Metallic|WA9794|#128484|1994|1996
+COLOR|olympic-white-s10-2g|Olympic White|WA8624|#F4F4F0|1994|1999
+COLOR|summit-white-s10-2g|Summit White|WA8624|#F4F4F0|2000|2004
+COLOR|victory-red-s10-2g|Victory Red|WA9260|#B71C1C|1994|2004
+COLOR|light-autumnwood-metallic-s10-2g|Light Autumnwood Metallic|WA228A|#A97A54|1994|2002
+COLOR|tan-s10-2g|Tan|WA8265|#C2A379|1994|2004
+COLOR|bright-red-s10-8774|Bright Red|WA8774|#C81D25|1994|2004
+COLOR|ultra-silver-metallic-s10-2g|Ultra Silver Metallic|WA8867|#C9CBCD|1994|1996
+COLOR|silvermist-metallic-s10|Silvermist Metallic|WA331D|#B8BABC|1998|2000
+COLOR|smokey-caramel-metallic-s10|Smokey Caramel Metallic|WA333D|#7A5A3E|1998|2002
+COLOR|copper-metallic-s10|Copper Metallic|WA381E|#8C5A2E|1998|2000
+COLOR|dark-argent-metallic-s10-2g|Dark Argent Metallic|WA6270|#55575A|1998|2002
+COLOR|fairway-green-metallic-s10|Fairway Green Metallic|WA309D|#3E6B4A|1998|1998
+COLOR|pewter-metallic-s10-2g|Pewter Metallic|WA382E|#8C8478|1998|2004
+COLOR|spectre-gray-metallic-s10|Spectre Gray Metallic|WA9428|#6B6E70|1998|1998
+COLOR|space-blue-metallic-s10|Space Blue Metallic|WA413G|#1E4A7A|2000|2002
+COLOR|indigo-metallic-s10-2g|Indigo Metallic|WA9792|#2C2F5E|2000|2004
+COLOR|medium-red-metallic-s10-2g|Medium Red Metallic|WA408G|#A23131|2000|2002
+COLOR|gold-metallic-s10|Gold Metallic|WA398E|#C9A227|2000|2000
+COLOR|meadow-green-metallic-s10|Meadow Green Metallic|WA566F|#4A8C4E|2000|2000
+COLOR|red-tint-coat-metallic-s10-2g|Red Tint Coat Metallic|WA379E|#A72A2E|2000|2002
+COLOR|light-argent-metallic-s10|Light Argent Metallic|WA6272|#A9ACAF|2000|2000
+COLOR|sage-metallic-s10|Sage Metallic|WA167D|#8C8C6E|2002|2002
+COLOR|indigo-blue-metallic-s10-2g|Indigo Blue Metallic|WA856J|#1F2E5E|2002|2002
+COLOR|medium-sage-green-metallic-s10|Medium Sage Green Metallic|WA605H|#6B8C6E|2002|2002
+COLOR|sandalwood-metallic-s10-2g|Sandalwood Metallic|WA711J|#B99A72|2002|2002
+COLOR|light-bronze-mist-metallic-s10-2g|Light Bronze Mist Metallic|WA859J|#B79A6E|2002|2002
+COLOR|yellow-s10-2g|Yellow|WA5456|#F2D02E|2002|2002
+MODEL|silverado
+GENERATION|gmt800|1999|2007
+COLOR|storm-gray-metallic-silverado|Storm Gray Metallic|WA391E|#6B6E70|2000|2003
+COLOR|international-blue-metallic-silverado|International Blue Metallic|WA377E|#1E4E8C|2000|2000
+COLOR|fernmist-green-metallic|Fernmist Green Metallic|WA520F|#3E6B4A|2000|2000
+COLOR|indigo-metallic-silverado|Indigo Metallic|WA9792|#2C2F5E|2000|2000
+COLOR|gold-metallic-silverado|Gold Metallic|WA398E|#C9A227|2000|2000
+COLOR|black-silverado-gmt800|Black|WA8555|#0E0F12|1999|2007
+COLOR|meadow-green-metallic-silverado|Meadow Green Metallic|WA566F|#4A8C4E|2000|2000
+COLOR|copper-metallic-silverado|Copper Metallic|WA381E|#8C5A2E|2000|2000
+COLOR|redfire-metallic|Redfire Metallic|WA526F|#A82A1E|2000|2003
+COLOR|gray-metallic-silverado-gmt800|Gray Metallic|WA8798|#8A8D8F|2000|2003
+COLOR|cherry-red-metallic-silverado-gmt800|Cherry Red Metallic|WA9088|#9E1B2C|2000|2003
+COLOR|summit-white-silverado-gmt800|Summit White|WA8624|#F4F4F0|2000|2002
+COLOR|olympic-white-silverado-gmt800|Olympic White|WA8624|#F4F4F0|2003|2003
+COLOR|victory-red-silverado-gmt800|Victory Red|WA9260|#B71C1C|1999|2003
+COLOR|light-autumnwood-metallic-silverado-gmt800|Light Autumnwood Metallic|WA228A|#A97A54|2000|2003
+COLOR|pewter-metallic-silverado-gmt800|Pewter Metallic|WA382E|#8C8478|2000|2003
+COLOR|tan-silverado-gmt800|Tan|WA8265|#C2A379|2000|2003
+COLOR|ultra-silver-metallic-silverado-gmt800|Ultra Silver Metallic|WA8867|#C9CBCD|2000|2000
+COLOR|superior-blue-metallic-silverado-gmt800|Superior Blue Metallic|WA703J|#2F5D8A|2003|2003
+COLOR|indigo-blue-metallic-silverado-gmt800|Indigo Blue Metallic|WA856J|#1F2E5E|2003|2003
+COLOR|woodland-green-silverado-gmt800|Woodland Green|WA9015|#2F4E2E|2003|2003
+COLOR|dark-toreador-red-metallic-silverado|Dark Toreador Red Metallic|WA334D|#6E1B22|2003|2003
+COLOR|dark-spiral-gray-metallic-silverado|Dark Spiral Gray Metallic|WA805K|#4A4D50|2003|2003
+COLOR|dark-argent-metallic-silverado-gmt800|Dark Argent Metallic|WA6270|#55575A|2003|2003
+COLOR|white-diamond-pearl-silverado-gmt800|White Diamond Pearl|WA800J|#F0EDE5|2003|2003
+COLOR|yellow-silverado-gco|Yellow|WA9414|#F2C21E|2003|2003
+COLOR|wheatland-yellow-silverado-gmt800|Wheatland Yellow|WA253A|#E8B23A|2003|2003
+GENERATION|gmt900|2007|2013
+COLOR|black-granite-metallic-silverado-gmt900|Black Granite Metallic|GAR|#1C1D20|2009|2013
+COLOR|blue-granite-metallic|Blue Granite Metallic|G56|#4A5C6E|2009|2013
+COLOR|dark-cherry-metallic-silverado-gmt900|Dark Cherry Metallic|WA9800|#5C1F2C|2009|2009
+COLOR|deep-ruby-metallic-silverado|Deep Ruby Metallic|GCE|#6E1B2E|2009|2013
+COLOR|graystone-metallic-silverado|Graystone Metallic|GIW|#8C8478|2009|2012
+COLOR|imperial-blue-metallic-silverado|Imperial Blue Metallic|GAP|#2A4A7A|2009|2012
+COLOR|silver-birch-metallic-silverado|Silver Birch Metallic|WA926L|#C7C9CB|2009|2009
+COLOR|summit-white-silverado-gmt900|Summit White|GAZ|#F4F4F0|2007|2013
+COLOR|victory-red-silverado-gmt900|Victory Red|GCN|#B71C1C|2007|2013
+COLOR|white-diamond-tricoat-silverado-gmt900|White Diamond Tricoat|GBN|#F0EDE5|2007|2013
+COLOR|tangier-orange-silverado-gmt900|Tangier Orange|WA9417|#D8641F|2009|2013
+COLOR|wheatland-yellow-silverado-gmt900|Wheatland Yellow|WA253A|#E8B23A|2009|2013
+COLOR|woodland-green-silverado-gmt900|Woodland Green|WA9015|#2F4E2E|2009|2013
+COLOR|black-silverado-gmt900|Black|GBA|#0E0F12|2007|2013
+COLOR|steel-green-silverado|Steel Green|GGU|#2F5C52|2011|2011
+COLOR|laser-blue-metallic-silverado|Laser Blue Metallic|G7Z|#1E4E8C|2009|2011
+COLOR|blue-topaz-metallic-silverado-gmt900|Blue Topaz Metallic|GTS|#2A5C9E|2012|2013
+COLOR|mocha-steel-metallic-silverado|Mocha Steel Metallic|GHA|#6B5A4E|2011|2013
+COLOR|graphite-metallic-silverado-gmt900|Graphite Metallic|GPA|#4A4D50|2013|2013
+GENERATION|k2xx|2014|2018
+COLOR|deep-ocean-blue-metallic-silverado|Deep Ocean Blue Metallic|G1K|#1E4A7A|2014|2018
+COLOR|iridescent-pearl-tricoat-silverado-k2xx|Iridescent Pearl Tricoat|G1W|#F0EDE5|2014|2018
+COLOR|havana-metallic-k2xx|Havana Metallic|G2X|#6B4A3E|2016|2018
+COLOR|red-hot-silverado-k2xx|Red Hot|G7C|#C81D25|2014|2018
+COLOR|silver-ice-metallic-silverado-k2xx|Silver Ice Metallic|GAN|#C7C9CB|2014|2018
+COLOR|summit-white-silverado-k2xx|Summit White|GAZ|#F4F4F0|2014|2018
+COLOR|black-silverado-k2xx|Black|GBA|#0E0F12|2014|2018
+COLOR|graphite-metallic-silverado-k2xx|Graphite Metallic|GPA|#4A4D50|2016|2018
+COLOR|cajun-red-tintcoat-silverado-k2xx|Cajun Red Tintcoat|GPJ|#7A1420|2014|2018
+COLOR|centennial-blue|Centennial Blue|G35|#2A4A6E|2018|2018
+COLOR|blue-topaz-metallic-silverado-k2xx|Blue Topaz Metallic|GTS|#2A5C9E|2014|2016
+COLOR|brownstone-metallic|Brownstone Metallic|GWX|#6B5A4E|2014|2016
+COLOR|satin-steel-metallic-silverado-k2xx|Satin Steel Metallic|G9K|#77797B|2017|2018
+GENERATION|t1xx|2019|2026
+COLOR|iridescent-pearl-tricoat-silverado-t1xx|Iridescent Pearl Tricoat|G1W|#F0EDE5|2019|2026
+COLOR|havana-metallic-t1xx|Havana Metallic|G2X|#6B4A3E|2019|2019
+COLOR|red-hot-silverado-t1xx|Red Hot|G7C|#C81D25|2019|2026
+COLOR|satin-steel-metallic-t1xx|Satin Steel Metallic|G9K|#77797B|2019|2019
+COLOR|northsky-blue-metallic-silverado|Northsky Blue Metallic|GA0|#1E4A7A|2019|2019
+COLOR|silver-ice-metallic-silverado-t1xx|Silver Ice Metallic|GAN|#C7C9CB|2019|2023
+COLOR|summit-white-silverado-t1xx|Summit White|GAZ|#F4F4F0|2019|2026
+COLOR|black-silverado-t1xx|Black|GBA|#0E0F12|2019|2026
+COLOR|oakwood-metallic-silverado-t1xx|Oakwood Metallic|GPA|#6B5A4E|2019|2019
+COLOR|shadow-gray-metallic-silverado-t1xx|Shadow Gray Metallic|GJI|#4A4D50|2019|2019
+COLOR|cajun-red-tintcoat-silverado-t1xx|Cajun Red Tintcoat|GPJ|#7A1420|2019|2019
+COLOR|blue-glow-metallic-silverado|Blue Glow Metallic|GHT|#1E5C9E|2022|2023
+COLOR|copper-bronze-metallic-silverado|Copper Bronze Metallic|GLY|#8B5A34|2022|2023
+COLOR|nitro-yellow-metallic-silverado|Nitro Yellow Metallic|GCP|#C7D82C|2022|2023
+COLOR|radiant-red-tintcoat-silverado|Radiant Red Tintcoat|GNT|#A31E2A|2022|2026
+COLOR|sterling-gray-metallic-silverado|Sterling Gray Metallic|GXD|#77797B|2022|2026
+COLOR|cherry-red-tintcoat-silverado|Cherry Red Tintcoat|GSK|#7A1420|2022|2023
+COLOR|riptide-blue-metallic-silverado|Riptide Blue Metallic|GJV|#1E6E8C|2024|2026
+COLOR|cypress-gray-silverado|Cypress Gray|GBD|#6E7276|2024|2026
+COLOR|slate-gray-metallic-silverado|Slate Gray Metallic|GNO|#55575A|2025|2026
+COLOR|polar-white-tricoat-silverado|Polar White Tricoat|G4J|#F0EDE5|2026|2026
+MODEL|colorado
+GENERATION|1g|2004|2012
+COLOR|yellow-colorado|Yellow|WA5456|#F2D02E|2004|2004
+COLOR|sunburst-orange-metallic-colorado|Sunburst Orange Metallic|WA802K|#D9752A|2004|2006
+COLOR|black-colorado-1g|Black|WA8555|#0E0F12|2004|2012
+COLOR|summit-white-colorado-1g|Summit White|WA8624|#F4F4F0|2004|2011
+COLOR|cherry-red-metallic-colorado-1g|Cherry Red Metallic|WA9088|#9E1B2C|2004|2004
+COLOR|victory-red-colorado-1g|Victory Red|WA9260|#B71C1C|2004|2012
+COLOR|silver-birch-metallic-colorado-1g|Silver Birch Metallic|WA926L|#C7C9CB|2004|2010
+COLOR|dark-green-metallic-colorado|Dark Green Metallic|WA9539|#2F6B4A|2004|2005
+COLOR|indigo-blue-metallic-colorado-1g|Indigo Blue Metallic|WA9792|#2C2F5E|2004|2004
+COLOR|superior-blue-metallic-colorado|Superior Blue Metallic|WA703J|#2F5D8A|2005|2006
+COLOR|sunset-orange-metallic-colorado|Sunset Orange Metallic|WA802K|#D9752A|2005|2006
+COLOR|dark-cherry-red-metallic-colorado|Dark Cherry Red Metallic|WA9088|#8C1F2C|2005|2005
+COLOR|dark-smoke-gray-colorado|Dark Smoke Gray|WA501F|#4A4D50|2006|2006
+COLOR|stealth-gray-metallic-colorado|Stealth Gray Metallic|WA928L|#4A5C6E|2006|2006
+COLOR|imperial-blue-colorado|Imperial Blue|WA403P|#2A4A7A|2007|2008
+COLOR|pace-blue-colorado|Pace Blue|WA408P|#1E5C9E|2007|2007
+COLOR|sonoma-jewel-metallic-colorado|Sonoma Jewel Metallic|WA412P|#6E1B2E|2007|2007
+COLOR|black-granite-metallic-colorado-1g|Black Granite Metallic|WA501Q|#1C1D20|2007|2008
+COLOR|inferno-orange-metallic-colorado-1g|Inferno Orange Metallic|WA502Q|#C2531E|2008|2010
+COLOR|all-terrain-blue-colorado|All Terrain Blue|WA406P|#1E4A7A|2010|2012
+COLOR|techno-gray-metallic-colorado|Techno Gray Metallic|WA411P|#6B6E70|2010|2012
+COLOR|merlot-jewel-metallic-colorado|Merlot Jewel Metallic|WA517Q|#6E1B2E|2011|2012
+COLOR|urbane-moss-metallic-colorado|Urbane Moss Metallic|WA633R|#6B7A4E|2011|2011
+COLOR|aqua-blue-metallic-colorado|Aqua Blue Metallic|WA638R|#3E8C9E|2011|2012
+COLOR|evolution-blue-metallic-colorado|Evolution Blue Metallic|WA718S|#2A5C8C|2011|2011
+COLOR|sheer-silver-metallic-colorado-1g|Sheer Silver Metallic|WA726S|#C7C9CB|2011|2012
+GENERATION|2g|2015|2022
+COLOR|red-hot-colorado|Red Hot (Cardinal Red)|G7C|#C81D25|2015|2022
+COLOR|rainforest-green-metallic-colorado|Rainforest Green Metallic|G7J|#2F6B4A|2015|2016
+COLOR|red-rock-metallic-colorado|Red Rock Metallic (Copper Red)|G7P|#A82A1E|2015|2016
+COLOR|laser-blue-colorado|Laser Blue|G7Z|#1E4E8C|2015|2017
+COLOR|silver-ice-metallic-colorado-2g|Silver Ice Metallic|GAN|#C7C9CB|2015|2020
+COLOR|summit-white-colorado-2g|Summit White|GAZ|#F4F4F0|2015|2022
+COLOR|black-colorado-2g|Black|GBA|#0E0F12|2015|2022
+COLOR|cyber-gray-metallic-colorado|Cyber Gray Metallic|GBV|#6B6E70|2015|2017
+COLOR|rally-yellow-colorado|Rally Yellow|GCO|#F2C21E|2015|2015
+COLOR|brownstone-metallic-colorado|Brownstone Metallic|GWX|#6B5A4E|2015|2017
+COLOR|graphite-metallic-colorado-2g|Graphite Metallic|GPA|#4A4D50|2017|2018
+COLOR|centennial-blue-metallic-colorado|Centennial Blue Metallic|G35|#2A4A6E|2018|2018
+COLOR|kinetic-blue-metallic-colorado|Kinetic Blue Metallic|GD1|#1E4E8C|2018|2020
+COLOR|cajun-red-tintcoat-colorado|Cajun Red Tintcoat|GPJ|#7A1420|2017|2020
+COLOR|shadow-gray-metallic-colorado|Shadow Gray Metallic|GJI|#4A4D50|2019|2020
+COLOR|pacific-blue-metallic-colorado|Pacific Blue Metallic|G6O|#1E6E8C|2019|2020
+COLOR|crush-colorado|Crush|G16|#D9752A|2019|2022
+COLOR|bright-blue-metallic-colorado|Bright Blue Metallic|GLT|#2A5C9E|2021|2022
+COLOR|cherry-red-tintcoat-colorado|Cherry Red Tintcoat|GSK|#7A1420|2021|2022
+COLOR|sand-dune-metallic-colorado|Sand Dune Metallic|GTL|#B99A72|2021|2022
+GENERATION|3g|2023|2026
+COLOR|harvest-bronze-metallic-colorado|Harvest Bronze Metallic|GXN|#8B5A34|2023|2023
+COLOR|nitro-yellow-metallic-colorado|Nitro Yellow Metallic|GCP|#C7D82C|2023|2023
+COLOR|radiant-red-tintcoat-colorado|Radiant Red Tintcoat|GNT|#A31E2A|2023|2026
+COLOR|sand-dune-metallic-colorado-g3|Sand Dune Metallic|GTL|#B99A72|2023|2023
+COLOR|sterling-gray-metallic-colorado|Sterling Gray Metallic|GXD|#77797B|2023|2026
+COLOR|summit-white-colorado-g3|Summit White|GAZ|#F4F4F0|2023|2026
+COLOR|tangier-orange-colorado-g3|Tangier Orange|WA9417|#D8641F|2023|2023
+COLOR|wheatland-yellow-colorado-g3|Wheatland Yellow|WA253A|#E8B23A|2023|2023
+COLOR|woodland-green-colorado-g3|Woodland Green|WA9015|#2F4E2E|2023|2023
+COLOR|black-colorado-g3|Black|GBA|#0E0F12|2023|2026

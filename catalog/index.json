@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-01T06:16:46.026Z",
-  "totalMakes": 1,
+  "updatedAt": "2026-09-06T06:31:34.751Z",
+  "totalMakes": 2,
   "makes": [
+    "chevrolet",
     "mitsubishi"
   ]
 }
