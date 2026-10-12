@@ -1,0 +1,70 @@
+MAKE|mazda
+MODEL|mazda3
+GENERATION|1g|2004|2009
+COLOR|black-mica|Black Mica|16W|#1C1C1E|2004|2009
+COLOR|sunlight-silver-metallic|Sunlight Silver Metallic|22V|#B5B9BD|2004|2009
+COLOR|shimmering-sand-mica|Shimmering Sand Mica|24E|#B2A68E|2004|2009
+COLOR|rally-white|Rally White|A4D|#F2F2F0|2004|2009
+COLOR|velocity-red-mica|Velocity Red Mica|27A|#A3141C|2004|2006
+COLOR|strato-blue-mica|Strato Blue Mica|25E|#3C5A8A|2004|2006
+COLOR|nordic-green-mica|Nordic Green Mica|27C|#2F4A3F|2004|2006
+COLOR|lava-orange-mica|Lava Orange Mica|27Y|#C65A1E|2004|2005
+COLOR|winning-blue-metallic|Winning Blue Metallic|27B|#1F4F9C|2004|2006
+COLOR|titanium-gray-metallic|Titanium Gray Metallic|29Y|#6E7276|2004|2006
+COLOR|lightning-yellow|Lightning Yellow|A4J|#F2C230|2004|2006
+COLOR|carbon-gray-mica|Carbon Gray Mica|28B|#4A4D50|2005|2008
+COLOR|copper-red-mica|Copper Red Mica|32V|#7A2A2F|2006|2009
+COLOR|phantom-purple-mica|Phantom Purple Mica|34N|#4B3A5C|2006|2008
+COLOR|crystal-white-pearl-mica|Crystal White Pearl Mica|34K|#F4F2EC|2007|2009
+COLOR|galaxy-gray-mica|Galaxy Gray Mica|32S|#5A5E63|2007|2009
+COLOR|true-red|True Red|A4A|#B3121A|2007|2009
+COLOR|phantom-blue-mica|Phantom Blue Mica|32C|#1F2F4F|2007|2008
+COLOR|icy-blue-metallic|Icy Blue Metallic|33Y|#A9C3D6|2007|2008
+COLOR|electric-blue-mica|Electric Blue Mica|34J|#1F5FA8|2007|2009
+COLOR|stormy-blue-mica|Stormy Blue Mica|35J|#3F5A73|2008|2009
+COLOR|spirited-green-metallic|Spirited Green Metallic|36A|#55684B|2008|2008
+COLOR|metropolitan-gray-mica|Metropolitan Gray Mica|36C|#7E8185|2008|2009
+COLOR|gold-sand-metallic|Gold Sand Metallic|37A|#A39A7A|2008|2009
+GENERATION|2g|2010|2013
+COLOR|black-mica|Black Mica|16W|#1C1C1E|2010|2013
+COLOR|crystal-white-pearl-mica|Crystal White Pearl Mica|34K|#F4F2EC|2010|2013
+COLOR|velocity-red-mica|Velocity Red Mica|27A|#A3141C|2010|2013
+COLOR|aluminum-metallic|Aluminum Metallic|38P|#B7BABD|2010|2013
+COLOR|graphite-mica|Graphite Mica|38R|#4F5256|2010|2013
+COLOR|indigo-lights-mica|Indigo Lights Mica|38K|#2E3F66|2010|2013
+COLOR|copper-red-mica|Copper Red Mica|32V|#7A2A2F|2010|2011
+COLOR|celestial-blue-mica|Celestial Blue Mica|38J|#2D4D8E|2010|2011
+COLOR|gunmetal-blue-mica|Gunmetal Blue Mica|38L|#3B4F5F|2010|2011
+COLOR|dolphin-gray-mica|Dolphin Gray Mica|39T|#8C9094|2012|2013
+COLOR|sky-blue-mica|Sky Blue Mica|41B|#6CA3D1|2012|2013
+GENERATION|3g|2014|2018
+COLOR|deep-crystal-blue-mica|Deep Crystal Blue Mica|42M|#1E3A6B|2014|2018
+COLOR|snowflake-white-pearl-mica|Snowflake White Pearl Mica|25D|#F5F5F0|2014|2018
+COLOR|jet-black-mica|Jet Black Mica|41W|#151618|2014|2018
+COLOR|soul-red-metallic|Soul Red Metallic|41V|#A21B2B|2014|2018
+COLOR|titanium-flash-mica|Titanium Flash Mica|42S|#7C8083|2014|2018
+COLOR|aluminum-metallic|Aluminum Metallic|38P|#B7BABD|2014|2016
+COLOR|meteor-gray-mica|Meteor Gray Mica|42A|#55595D|2014|2017
+COLOR|blue-reflex-mica|Blue Reflex Mica|42B|#1B3C8C|2014|2016
+COLOR|crystal-white-pearl-mica|Crystal White Pearl Mica|34K|#F4F2EC|2014|2014
+COLOR|brilliant-black|Brilliant Black|A3F|#0D0D0F|2014|2014
+COLOR|true-red|True Red|A4A|#B3121A|2014|2014
+COLOR|sky-blue-mica|Sky Blue Mica|41B|#6CA3D1|2014|2014
+COLOR|arctic-white|Arctic White|A4D|#F3F3F1|2016|2017
+COLOR|machine-gray-metallic|Machine Gray Metallic|46G|#5B5E62|2017|2018
+COLOR|soul-red-crystal-metallic|Soul Red Crystal Metallic|46V|#9E1B2E|2017|2018
+COLOR|eternal-blue-mica|Eternal Blue Mica|45B|#1F3C73|2017|2018
+COLOR|sonic-silver-metallic|Sonic Silver Metallic|45P|#BFC3C7|2017|2018
+GENERATION|4g|2019|2026
+COLOR|deep-crystal-blue-mica|Deep Crystal Blue Mica|42M|#1E3A6B|2019|2026
+COLOR|snowflake-white-pearl-mica|Snowflake White Pearl Mica|25D|#F5F5F0|2019|2026
+COLOR|jet-black-mica|Jet Black Mica|41W|#151618|2019|2026
+COLOR|machine-gray-metallic|Machine Gray Metallic|46G|#5B5E62|2019|2026
+COLOR|soul-red-crystal-metallic|Soul Red Crystal Metallic|46V|#9E1B2E|2019|2026
+COLOR|polymetal-gray-mica|Polymetal Gray Mica|47C|#7B8A92|2019|2025
+COLOR|sonic-silver-metallic|Sonic Silver Metallic|45P|#BFC3C7|2019|2025
+COLOR|titanium-flash-mica|Titanium Flash Mica|42S|#7C8083|2019|2019
+COLOR|eternal-blue-mica|Eternal Blue Mica|45B|#1F3C73|2023|2025
+COLOR|ceramic-metallic|Ceramic Metallic|47A|#D8DBD9|2023|2026
+COLOR|platinum-quartz-metallic|Platinum Quartz Metallic|47S|#A9ADB0|2023|2026
+COLOR|zircon-sand-metallic|Zircon Sand Metallic|48T|#B8AE98|2024|2026
