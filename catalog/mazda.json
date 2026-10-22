@@ -235,6 +235,726 @@
       "slug": "zircon-sand-metallic",
       "name": "Zircon Sand Metallic",
       "hex": "#B8AE98"
+    },
+    "41G": {
+      "slug": "zeal-red-mica",
+      "name": "Zeal Red Mica",
+      "hex": "#8E1B24"
+    },
+    "51K": {
+      "slug": "rhodium-white-metallic",
+      "name": "Rhodium White Metallic",
+      "hex": "#EDEEEC"
+    },
+    "W4": {
+      "slug": "glacier-white",
+      "name": "Glacier White",
+      "hex": "#F4F4F2"
+    },
+    "A2N": {
+      "slug": "high-performance-white",
+      "name": "High Performance White",
+      "hex": "#F5F5F3"
+    },
+    "NN": {
+      "slug": "black-onyx",
+      "name": "Black Onyx",
+      "hex": "#0B0B0C"
+    },
+    "26A": {
+      "slug": "satin-silver-metallic",
+      "name": "Satin Silver Metallic",
+      "hex": "#B8BBBE"
+    },
+    "25W": {
+      "slug": "redfire-metallic",
+      "name": "Redfire Metallic",
+      "hex": "#A5191F"
+    },
+    "25H": {
+      "slug": "silver-metallic",
+      "name": "Silver Metallic",
+      "hex": "#C0C3C6"
+    },
+    "21T": {
+      "slug": "chrome-yellow",
+      "name": "Chrome Yellow",
+      "hex": "#F0C419"
+    },
+    "26X": {
+      "slug": "steel-gray-metallic",
+      "name": "Steel Gray Metallic",
+      "hex": "#5E6165"
+    },
+    "25V": {
+      "slug": "sonic-blue-metallic",
+      "name": "Sonic Blue Metallic",
+      "hex": "#2B5FA8"
+    },
+    "28S": {
+      "slug": "sepang-green-metallic",
+      "name": "Sepang Green Metallic",
+      "hex": "#3E5B4A"
+    },
+    "25X": {
+      "slug": "light-tundra-metallic",
+      "name": "Light Tundra Metallic",
+      "hex": "#B5A98C"
+    },
+    "25B": {
+      "slug": "blue-pacific-pearl-metallic",
+      "name": "Blue Pacific Pearl Metallic",
+      "hex": "#2F4F6F"
+    },
+    "28F": {
+      "slug": "northsea-blue-mica",
+      "name": "Northsea Blue Mica",
+      "hex": "#1F3B66"
+    },
+    "A4S": {
+      "slug": "colorado-red",
+      "name": "Colorado Red",
+      "hex": "#A0171E"
+    },
+    "28D": {
+      "slug": "gold-ash-metallic",
+      "name": "Gold Ash Metallic",
+      "hex": "#A79B7C"
+    },
+    "28E": {
+      "slug": "blazing-copper-pearl",
+      "name": "Blazing Copper Pearl",
+      "hex": "#9A5A3A"
+    },
+    "32P": {
+      "slug": "tungsten-metallic",
+      "name": "Tungsten Metallic",
+      "hex": "#6A6D72"
+    },
+    "32M": {
+      "slug": "black-cherry-metallic",
+      "name": "Black Cherry Metallic",
+      "hex": "#4A1F2A"
+    },
+    "32N": {
+      "slug": "bright-island-blue",
+      "name": "Bright Island Blue",
+      "hex": "#2E7FB8"
+    },
+    "33D": {
+      "slug": "stormfront-gray-metallic",
+      "name": "Stormfront Gray Metallic",
+      "hex": "#6F7479"
+    },
+    "35M": {
+      "slug": "smokestone-pearl",
+      "name": "Smokestone Pearl",
+      "hex": "#8A8680"
+    },
+    "36L": {
+      "slug": "lilac-silver-metallic",
+      "name": "Lilac Silver Metallic",
+      "hex": "#A7A5AE"
+    },
+    "36W": {
+      "slug": "light-ice-blue-metallic",
+      "name": "Light Ice Blue Metallic",
+      "hex": "#A8C4D8"
+    },
+    "38H": {
+      "slug": "brilliant-silver-metallic",
+      "name": "Brilliant Silver Metallic",
+      "hex": "#C9CCCE"
+    },
+    "37C": {
+      "slug": "black-cherry-ice-metallic",
+      "name": "Black Cherry Ice Metallic",
+      "hex": "#3E1A24"
+    },
+    "37D": {
+      "slug": "comet-gray-metallic",
+      "name": "Comet Gray Metallic",
+      "hex": "#4D5155"
+    },
+    "36Y": {
+      "slug": "sangria-red-pearl",
+      "name": "Sangria Red Pearl",
+      "hex": "#7A1F2B"
+    },
+    "37B": {
+      "slug": "kona-blue-metallic",
+      "name": "Kona Blue Metallic",
+      "hex": "#26467A"
+    },
+    "39X": {
+      "slug": "ingot-silver-metallic",
+      "name": "Ingot Silver Metallic",
+      "hex": "#A5A9AD"
+    },
+    "40D": {
+      "slug": "techno-white-pearl-tricoat",
+      "name": "Techno White Pearl Tricoat",
+      "hex": "#F4F3EE"
+    },
+    "41N": {
+      "slug": "fireglow-red-pearl-tricoat",
+      "name": "Fireglow Red Pearl Tricoat",
+      "hex": "#9B1C23"
+    },
+    "39W": {
+      "slug": "steel-blue-metallic",
+      "name": "Steel Blue Metallic",
+      "hex": "#4C6178"
+    },
+    "41E": {
+      "slug": "polished-slate-pearl",
+      "name": "Polished Slate Pearl",
+      "hex": "#6E6F6C"
+    },
+    "41F": {
+      "slug": "autumn-brown-metallic",
+      "name": "Autumn Brown Metallic",
+      "hex": "#5C4636"
+    },
+    "41M": {
+      "slug": "white-platinum-pearl-tricoat",
+      "name": "White Platinum Pearl Tricoat",
+      "hex": "#F1F0EA"
+    },
+    "28W": {
+      "slug": "radiant-ebony-metallic",
+      "name": "Radiant Ebony Metallic",
+      "hex": "#2A2A2C"
+    },
+    "30S": {
+      "slug": "moist-silver-metallic",
+      "name": "Moist Silver Metallic",
+      "hex": "#B4B8BA"
+    },
+    "35N": {
+      "slug": "sparkling-black-mica",
+      "name": "Sparkling Black Mica",
+      "hex": "#1A1B1E"
+    },
+    "19X": {
+      "slug": "chestnut-metallic",
+      "name": "Chestnut Metallic",
+      "hex": "#6B4A32"
+    },
+    "21C": {
+      "slug": "light-parchment-gold-metallic",
+      "name": "Light Parchment Gold Metallic",
+      "hex": "#C9B98A"
+    },
+    "14A": {
+      "slug": "toreador-red-pearl-metallic",
+      "name": "Toreador Red Pearl Metallic",
+      "hex": "#8E1F26"
+    },
+    "21S": {
+      "slug": "galaxy-blue-metallic",
+      "name": "Galaxy Blue Metallic",
+      "hex": "#2B3F73"
+    },
+    "19W": {
+      "slug": "amazon-green-metallic",
+      "name": "Amazon Green Metallic",
+      "hex": "#2F4A3A"
+    },
+    "21H": {
+      "slug": "silver-metallic",
+      "name": "Silver Metallic",
+      "hex": "#B9BCBF"
+    },
+    "UA": {
+      "slug": "ebony-black",
+      "name": "Ebony Black",
+      "hex": "#0E0E10"
+    },
+    "YO": {
+      "slug": "oxford-white",
+      "name": "Oxford White",
+      "hex": "#F2F2EE"
+    },
+    "YZ": {
+      "slug": "white",
+      "name": "White",
+      "hex": "#F4F4F2"
+    },
+    "21B": {
+      "slug": "harvest-gold-metallic",
+      "name": "Harvest Gold Metallic",
+      "hex": "#B59A55"
+    },
+    "26B": {
+      "slug": "moonlight-gray-metallic",
+      "name": "Moonlight Gray Metallic",
+      "hex": "#8E9296"
+    },
+    "26D": {
+      "slug": "true-blue-metallic",
+      "name": "True Blue Metallic",
+      "hex": "#2F55A0"
+    },
+    "26C": {
+      "slug": "estate-green-metallic",
+      "name": "Estate Green Metallic",
+      "hex": "#3F5C4A"
+    },
+    "21F": {
+      "slug": "dark-teal-metallic",
+      "name": "Dark Teal Metallic",
+      "hex": "#2E5559"
+    },
+    "20A": {
+      "slug": "mizu-blue-metallic",
+      "name": "Mizu Blue Metallic",
+      "hex": "#3E84B5"
+    },
+    "36T": {
+      "slug": "monterey-gray-metallic",
+      "name": "Monterey Gray Metallic",
+      "hex": "#7C7F82"
+    },
+    "36V": {
+      "slug": "kiwi-green-metallic",
+      "name": "Kiwi Green Metallic",
+      "hex": "#7FA05A"
+    },
+    "36X": {
+      "slug": "light-sage-metallic",
+      "name": "Light Sage Metallic",
+      "hex": "#A7AB8F"
+    },
+    "38Y": {
+      "slug": "sport-blue-metallic",
+      "name": "Sport Blue Metallic",
+      "hex": "#2D5DA6"
+    },
+    "A7A": {
+      "slug": "white-suede",
+      "name": "White Suede",
+      "hex": "#EFEDE6"
+    },
+    "40K": {
+      "slug": "tuxedo-black-metallic",
+      "name": "Tuxedo Black Metallic",
+      "hex": "#17181A"
+    },
+    "40L": {
+      "slug": "sterling-gray-metallic",
+      "name": "Sterling Gray Metallic",
+      "hex": "#8A8E92"
+    },
+    "1C": {
+      "slug": "sand-gray-metallic",
+      "name": "Sand Gray Metallic",
+      "hex": "#8E8A82"
+    },
+    "1E": {
+      "slug": "bayside-blue-metallic",
+      "name": "Bayside Blue Metallic",
+      "hex": "#3C5C8A"
+    },
+    "A2X": {
+      "slug": "ebony-black",
+      "name": "Ebony Black",
+      "hex": "#0E0E10"
+    },
+    "E4": {
+      "slug": "bright-red",
+      "name": "Bright Red",
+      "hex": "#B3121A"
+    },
+    "GT": {
+      "slug": "black",
+      "name": "Black",
+      "hex": "#101012"
+    },
+    "RH": {
+      "slug": "sunrise-red",
+      "name": "Sunrise Red",
+      "hex": "#B5291F"
+    },
+    "SQ": {
+      "slug": "blaze-red",
+      "name": "Blaze Red",
+      "hex": "#A8161C"
+    },
+    "WU": {
+      "slug": "dover-white",
+      "name": "Dover White",
+      "hex": "#EDEBE4"
+    },
+    "YW": {
+      "slug": "space-yellow",
+      "name": "Space Yellow",
+      "hex": "#E8C52E"
+    },
+    "30V": {
+      "slug": "champagne-silver-mica",
+      "name": "Champagne Silver Mica",
+      "hex": "#C9C2AE"
+    },
+    "17J": {
+      "slug": "dark-tourmaline-pearl",
+      "name": "Dark Tourmaline Pearl",
+      "hex": "#3E4A47"
+    },
+    "19G": {
+      "slug": "medium-platinum-metallic",
+      "name": "Medium Platinum Metallic",
+      "hex": "#8F9396"
+    },
+    "14J": {
+      "slug": "bright-sapphire-metallic",
+      "name": "Bright Sapphire Metallic",
+      "hex": "#2C4F9E"
+    },
+    "11L": {
+      "slug": "crimson-mica",
+      "name": "Crimson Mica",
+      "hex": "#7A1B27"
+    },
+    "12R": {
+      "slug": "aquarius-blue-metallic",
+      "name": "Aquarius Blue Metallic",
+      "hex": "#2F6C9C"
+    },
+    "A1T": {
+      "slug": "nifty-red",
+      "name": "Nifty Red",
+      "hex": "#B3202A"
+    },
+    "12K": {
+      "slug": "twilight-blue-mica",
+      "name": "Twilight Blue Mica",
+      "hex": "#243A66"
+    },
+    "A2W": {
+      "slug": "alaska-white",
+      "name": "Alaska White",
+      "hex": "#F5F5F2"
+    },
+    "17F": {
+      "slug": "light-prairie-tan-metallic",
+      "name": "Light Prairie Tan Metallic",
+      "hex": "#B8A883"
+    },
+    "18G": {
+      "slug": "hilight-silver-metallic",
+      "name": "Hilight Silver Metallic",
+      "hex": "#C0C3C6"
+    },
+    "17H": {
+      "slug": "medium-graphite-metallic",
+      "name": "Medium Graphite Metallic",
+      "hex": "#4F5256"
+    },
+    "18N": {
+      "slug": "dark-green-mica",
+      "name": "Dark Green Mica",
+      "hex": "#2A4535"
+    },
+    "19H": {
+      "slug": "bright-atlantic-blue-pearl",
+      "name": "Bright Atlantic Blue Pearl",
+      "hex": "#2F6A9C"
+    },
+    "19K": {
+      "slug": "deep-jewel-green-metallic",
+      "name": "Deep Jewel Green Metallic",
+      "hex": "#2B5B4A"
+    },
+    "19J": {
+      "slug": "medium-willow-metallic",
+      "name": "Medium Willow Metallic",
+      "hex": "#8C8F6E"
+    },
+    "22A": {
+      "slug": "supreme-blue-mica",
+      "name": "Supreme Blue Mica",
+      "hex": "#2B4C86"
+    },
+    "23W": {
+      "slug": "deep-wedgewood-blue-metallic",
+      "name": "Deep Wedgewood Blue Metallic",
+      "hex": "#3B5F88"
+    },
+    "22K": {
+      "slug": "passion-red-mica",
+      "name": "Passion Red Mica",
+      "hex": "#8E1B24"
+    },
+    "AQ": {
+      "slug": "arizona-beige-metallic",
+      "name": "Arizona Beige Metallic",
+      "hex": "#C2B091"
+    },
+    "26P": {
+      "slug": "starry-blue-mica",
+      "name": "Starry Blue Mica",
+      "hex": "#2A4F8F"
+    },
+    "25J": {
+      "slug": "dark-green-satin-metallic",
+      "name": "Dark Green Satin Metallic",
+      "hex": "#3A5A44"
+    },
+    "37Y": {
+      "slug": "gloaming-silver-metallic",
+      "name": "Gloaming Silver Metallic",
+      "hex": "#A9ACAE"
+    },
+    "30D": {
+      "slug": "blue-pacific-mica",
+      "name": "Blue Pacific Mica",
+      "hex": "#2F4F6F"
+    },
+    "33E": {
+      "slug": "honour-green-metallic",
+      "name": "Honour Green Metallic",
+      "hex": "#4D6A4F"
+    },
+    "30E": {
+      "slug": "medium-blue-metallic",
+      "name": "Medium Blue Metallic",
+      "hex": "#3D6FA8"
+    },
+    "D6": {
+      "slug": "screaming-yellow",
+      "name": "Screaming Yellow",
+      "hex": "#F2D21B"
+    },
+    "32K": {
+      "slug": "strato-blue-metallic",
+      "name": "Strato Blue Metallic",
+      "hex": "#3C5A8A"
+    },
+    "32L": {
+      "slug": "andaman-blue-metallic",
+      "name": "Andaman Blue Metallic",
+      "hex": "#3E8CB8"
+    },
+    "36H": {
+      "slug": "pueblo-gold-metallic",
+      "name": "Pueblo Gold Metallic",
+      "hex": "#B49A63"
+    },
+    "36G": {
+      "slug": "vista-blue-metallic",
+      "name": "Vista Blue Metallic",
+      "hex": "#4C8DB8"
+    },
+    "37L": {
+      "slug": "winning-blue-metallic",
+      "name": "Winning Blue Metallic",
+      "hex": "#1F4F9C"
+    },
+    "38E": {
+      "slug": "diamond-gray-mica",
+      "name": "Diamond Gray Mica",
+      "hex": "#6C7074"
+    },
+    "SU": {
+      "slug": "classic-red",
+      "name": "Classic Red",
+      "hex": "#B3121A"
+    },
+    "DU": {
+      "slug": "mariner-blue",
+      "name": "Mariner Blue",
+      "hex": "#1F3F6E"
+    },
+    "UC": {
+      "slug": "crystal-white",
+      "name": "Crystal White",
+      "hex": "#F2F2EE"
+    },
+    "3L": {
+      "slug": "silver-stone-metallic",
+      "name": "Silver Stone Metallic",
+      "hex": "#B0B3B6"
+    },
+    "HU": {
+      "slug": "british-racing-green",
+      "name": "British Racing Green",
+      "hex": "#1F3A2B"
+    },
+    "PZ": {
+      "slug": "brilliant-black",
+      "name": "Brilliant Black",
+      "hex": "#0D0D0F"
+    },
+    "HZ": {
+      "slug": "sunburst-yellow",
+      "name": "Sunburst Yellow",
+      "hex": "#F2C230"
+    },
+    "6W": {
+      "slug": "perky-blue-metallic",
+      "name": "Perky Blue Metallic",
+      "hex": "#3C7BB5"
+    },
+    "M8": {
+      "slug": "montego-blue-pearl",
+      "name": "Montego Blue Pearl",
+      "hex": "#2B3F73"
+    },
+    "PT": {
+      "slug": "chaste-white",
+      "name": "Chaste White",
+      "hex": "#F3F3EF"
+    },
+    "A1Q": {
+      "slug": "merlot-pearl",
+      "name": "Merlot Pearl",
+      "hex": "#6E1F2B"
+    },
+    "A5": {
+      "slug": "satellite-blue-pearl",
+      "name": "Satellite Blue Pearl",
+      "hex": "#3F5E8C"
+    },
+    "4T": {
+      "slug": "covert-gray-metallic",
+      "name": "Covert Gray Metallic",
+      "hex": "#6E7276"
+    },
+    "13C": {
+      "slug": "marina-green-pearl",
+      "name": "Marina Green Pearl",
+      "hex": "#3A6A5A"
+    },
+    "A3E": {
+      "slug": "classic-red-2",
+      "name": "Classic Red",
+      "hex": "#B3121A"
+    },
+    "18J": {
+      "slug": "grace-green-pearl",
+      "name": "Grace Green Pearl",
+      "hex": "#4C6B4D"
+    },
+    "18K": {
+      "slug": "evolution-orange-pearl",
+      "name": "Evolution Orange Pearl",
+      "hex": "#D9531E"
+    },
+    "20P": {
+      "slug": "innocent-blue-pearl-metallic",
+      "name": "Innocent Blue Pearl Metallic",
+      "hex": "#3B6FB0"
+    },
+    "20D": {
+      "slug": "gentry-silver-metallic",
+      "name": "Gentry Silver Metallic",
+      "hex": "#A9ACAE"
+    },
+    "23E": {
+      "slug": "mahogany-metallic",
+      "name": "Mahogany Metallic",
+      "hex": "#5B2E2A"
+    },
+    "A3V": {
+      "slug": "neo-green",
+      "name": "Neo Green",
+      "hex": "#7FBF3A"
+    },
+    "A3D": {
+      "slug": "pure-white",
+      "name": "Pure White",
+      "hex": "#F4F4F2"
+    },
+    "23C": {
+      "slug": "crystal-blue-pearl-metallic",
+      "name": "Crystal Blue Pearl Metallic",
+      "hex": "#3D7FC0"
+    },
+    "24A": {
+      "slug": "starry-blue-mica",
+      "name": "Starry Blue Mica",
+      "hex": "#2A4F8F"
+    },
+    "25F": {
+      "slug": "garnet-red-pearl-metallic",
+      "name": "Garnet Red Pearl Metallic",
+      "hex": "#7A1F2B"
+    },
+    "24V": {
+      "slug": "new-green-metallic",
+      "name": "New Green Metallic",
+      "hex": "#4F7A52"
+    },
+    "26S": {
+      "slug": "blazing-yellow-mica",
+      "name": "Blazing Yellow Mica",
+      "hex": "#F2D21B"
+    },
+    "25G": {
+      "slug": "titanium-gray-metallic",
+      "name": "Titanium Gray Metallic",
+      "hex": "#6E7276"
+    },
+    "25R": {
+      "slug": "splash-green-metallic",
+      "name": "Splash Green Metallic",
+      "hex": "#6FA86C"
+    },
+    "28P": {
+      "slug": "razor-blue-metallic",
+      "name": "Razor Blue Metallic",
+      "hex": "#3F6FA6"
+    },
+    "A5M": {
+      "slug": "marble-white",
+      "name": "Marble White",
+      "hex": "#F1EFE8"
+    },
+    "35K": {
+      "slug": "highland-green-mica",
+      "name": "Highland Green Mica",
+      "hex": "#55684B"
+    },
+    "A6Y": {
+      "slug": "sunflower-yellow",
+      "name": "Sunflower Yellow",
+      "hex": "#F2C230"
+    },
+    "44J": {
+      "slug": "dynamic-blue-mica",
+      "name": "Dynamic Blue Mica",
+      "hex": "#2B5FA0"
+    },
+    "A8X": {
+      "slug": "racing-orange",
+      "name": "Racing Orange",
+      "hex": "#D9531E"
+    },
+    "52C": {
+      "slug": "aero-gray-metallic",
+      "name": "Aero Gray Metallic",
+      "hex": "#8A8F94"
+    },
+    "48K": {
+      "slug": "wind-chill-pearl",
+      "name": "Wind Chill Pearl",
+      "hex": "#E8E9E6"
+    },
+    "48B": {
+      "slug": "ingot-blue-metallic",
+      "name": "Ingot Blue Metallic",
+      "hex": "#2F4A63"
+    },
+    "52T": {
+      "slug": "cypress-green-metallic",
+      "name": "Cypress Green Metallic",
+      "hex": "#4A5A4B"
+    },
+    "51F": {
+      "slug": "artisan-red-premium-metallic",
+      "name": "Artisan Red Premium Metallic",
+      "hex": "#7E1F2B"
     }
   },
   "models": [
@@ -592,6 +1312,1972 @@
             },
             {
               "code": "48T",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cx-5",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2013,
+            "to": 2016
+          },
+          "colors": [
+            {
+              "code": "16W",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "27A",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "36C",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "38P",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "42A",
+              "from": 2013,
+              "to": 2016
+            },
+            {
+              "code": "34K",
+              "from": 2013,
+              "to": 2016
+            },
+            {
+              "code": "35J",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "41B",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "41G",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "42M",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "41W",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "41V",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "42B",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "45P",
+              "from": 2016,
+              "to": 2016
+            },
+            {
+              "code": "42S",
+              "from": 2016,
+              "to": 2016
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2017,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "42M",
+              "from": 2017,
+              "to": 2025
+            },
+            {
+              "code": "25D",
+              "from": 2017,
+              "to": 2023
+            },
+            {
+              "code": "41W",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "46G",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "46V",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "45B",
+              "from": 2017,
+              "to": 2025
+            },
+            {
+              "code": "45P",
+              "from": 2017,
+              "to": 2025
+            },
+            {
+              "code": "42S",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "47C",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "51K",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "47S",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "48T",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "mazda6",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2003,
+            "to": 2008
+          },
+          "colors": [
+            {
+              "code": "W4",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "A2N",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "NN",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "26A",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "25W",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "25H",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "21T",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "26X",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "25V",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "28S",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "25X",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "24E",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "25B",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "28F",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "A4S",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "28D",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "28E",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "32P",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "32M",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "32N",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "33D",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "35M",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "36L",
+              "from": 2008,
+              "to": 2008
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2009,
+            "to": 2013
+          },
+          "colors": [
+            {
+              "code": "NN",
+              "from": 2009,
+              "to": 2013
+            },
+            {
+              "code": "A2N",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "35M",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "36W",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "38H",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "37C",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "37D",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "36Y",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "37B",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "39X",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "40D",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "41N",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "39W",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "41E",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "41F",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "41M",
+              "from": 2012,
+              "to": 2013
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2014,
+            "to": 2021
+          },
+          "colors": [
+            {
+              "code": "25D",
+              "from": 2014,
+              "to": 2021
+            },
+            {
+              "code": "41W",
+              "from": 2014,
+              "to": 2021
+            },
+            {
+              "code": "41V",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "46V",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "38P",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "42A",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "42B",
+              "from": 2014,
+              "to": 2018
+            },
+            {
+              "code": "42M",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "42S",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "46G",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "45P",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "A4D",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "47C",
+              "from": 2021,
+              "to": 2021
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cx-9",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2007,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "34K",
+              "from": 2007,
+              "to": 2015
+            },
+            {
+              "code": "A3F",
+              "from": 2007,
+              "to": 2013
+            },
+            {
+              "code": "32V",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "32S",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "28W",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "30S",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "35N",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "35J",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "38P",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "39T",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "42A",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "41G",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "41W",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "42B",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "42S",
+              "from": 2015,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2016,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "42M",
+              "from": 2016,
+              "to": 2023
+            },
+            {
+              "code": "25D",
+              "from": 2016,
+              "to": 2023
+            },
+            {
+              "code": "41W",
+              "from": 2016,
+              "to": 2023
+            },
+            {
+              "code": "46G",
+              "from": 2016,
+              "to": 2023
+            },
+            {
+              "code": "41V",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "46V",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "42S",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "45P",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "47C",
+              "from": 2021,
+              "to": 2023
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tribute",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2001,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "19X",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "21C",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "14A",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "21S",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "19W",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "21H",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "UA",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "YO",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "YZ",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "21B",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "26B",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "26D",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "26C",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "26A",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "28D",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "25X",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "25W",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "33D",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "28E",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "21F",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "25V",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "20A",
+              "from": 2006,
+              "to": 2006
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2008,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "32P",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "UA",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "25W",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "36T",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "36V",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "36W",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "36X",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "YZ",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "28W",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "37C",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "38Y",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "38H",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "36Y",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "39W",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "39X",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "A7A",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "40K",
+              "from": 2011,
+              "to": 2011
+            },
+            {
+              "code": "40L",
+              "from": 2011,
+              "to": 2011
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "b-series",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1993
+          },
+          "colors": [
+            {
+              "code": "1C",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "1E",
+              "from": 1991,
+              "to": 1992
+            },
+            {
+              "code": "21H",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "A2X",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "E4",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "GT",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "NN",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "A3F",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "RH",
+              "from": 1991,
+              "to": 1992
+            },
+            {
+              "code": "SQ",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "YZ",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "WU",
+              "from": 1992,
+              "to": 1992
+            },
+            {
+              "code": "YW",
+              "from": 1992,
+              "to": 1992
+            },
+            {
+              "code": "30V",
+              "from": 1993,
+              "to": 1993
+            },
+            {
+              "code": "17J",
+              "from": 1993,
+              "to": 1993
+            },
+            {
+              "code": "19G",
+              "from": 1993,
+              "to": 1993
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1994,
+            "to": 2009
+          },
+          "colors": [
+            {
+              "code": "1C",
+              "from": 1994,
+              "to": 1998
+            },
+            {
+              "code": "21H",
+              "from": 1994,
+              "to": 2009
+            },
+            {
+              "code": "30V",
+              "from": 1994,
+              "to": 2007
+            },
+            {
+              "code": "A2X",
+              "from": 1994,
+              "to": 2009
+            },
+            {
+              "code": "E4",
+              "from": 1994,
+              "to": 2005
+            },
+            {
+              "code": "GT",
+              "from": 1994,
+              "to": 1999
+            },
+            {
+              "code": "NN",
+              "from": 1994,
+              "to": 2009
+            },
+            {
+              "code": "A3F",
+              "from": 1994,
+              "to": 2009
+            },
+            {
+              "code": "17J",
+              "from": 1994,
+              "to": 2001
+            },
+            {
+              "code": "19G",
+              "from": 1994,
+              "to": 2000
+            },
+            {
+              "code": "SQ",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "YZ",
+              "from": 1994,
+              "to": 2009
+            },
+            {
+              "code": "14J",
+              "from": 1995,
+              "to": 2001
+            },
+            {
+              "code": "11L",
+              "from": 1996,
+              "to": 2004
+            },
+            {
+              "code": "12R",
+              "from": 1996,
+              "to": 2004
+            },
+            {
+              "code": "A1T",
+              "from": 1996,
+              "to": 2009
+            },
+            {
+              "code": "12K",
+              "from": 1997,
+              "to": 2007
+            },
+            {
+              "code": "16W",
+              "from": 1997,
+              "to": 2009
+            },
+            {
+              "code": "A2W",
+              "from": 1997,
+              "to": 2009
+            },
+            {
+              "code": "17F",
+              "from": 1997,
+              "to": 1999
+            },
+            {
+              "code": "14A",
+              "from": 1997,
+              "to": 2005
+            },
+            {
+              "code": "18G",
+              "from": 1997,
+              "to": 2008
+            },
+            {
+              "code": "17H",
+              "from": 1997,
+              "to": 2000
+            },
+            {
+              "code": "18N",
+              "from": 1998,
+              "to": 2007
+            },
+            {
+              "code": "19H",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "19K",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "19J",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "22A",
+              "from": 1999,
+              "to": 2005
+            },
+            {
+              "code": "21B",
+              "from": 1999,
+              "to": 2004
+            },
+            {
+              "code": "23W",
+              "from": 1999,
+              "to": 2003
+            },
+            {
+              "code": "19W",
+              "from": 1999,
+              "to": 2003
+            },
+            {
+              "code": "22K",
+              "from": 2000,
+              "to": 2009
+            },
+            {
+              "code": "AQ",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "19X",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "26B",
+              "from": 2001,
+              "to": 2009
+            },
+            {
+              "code": "26C",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "26P",
+              "from": 2002,
+              "to": 2007
+            },
+            {
+              "code": "25X",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "25J",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "25W",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "25V",
+              "from": 2002,
+              "to": 2007
+            },
+            {
+              "code": "37Y",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "30D",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "33E",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "A4S",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "28E",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "21F",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "30E",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "D6",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "32K",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "32L",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "36H",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "36G",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "37L",
+              "from": 2009,
+              "to": 2009
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rx-8",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2004,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "A3F",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "27A",
+              "from": 2004,
+              "to": 2011
+            },
+            {
+              "code": "22V",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "27C",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "27B",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "29Y",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "A4J",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "25D",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "28W",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "32V",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "32S",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "32C",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "34K",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "35J",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "35N",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "36A",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "36C",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "34J",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "38E",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "38P",
+              "from": 2010,
+              "to": 2011
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "mx-5",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1997
+          },
+          "colors": [
+            {
+              "code": "SU",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "DU",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "UC",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "3L",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "HU",
+              "from": 1991,
+              "to": 1991
+            },
+            {
+              "code": "PZ",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "HZ",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "6W",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "M8",
+              "from": 1992,
+              "to": 1997
+            },
+            {
+              "code": "PT",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "A1Q",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "A5",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "4T",
+              "from": 1996,
+              "to": 1996
+            },
+            {
+              "code": "13C",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "12K",
+              "from": 1997,
+              "to": 1997
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1999,
+            "to": 2005
+          },
+          "colors": [
+            {
+              "code": "SU",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "A3E",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "PT",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "18G",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "18J",
+              "from": 1999,
+              "to": 2005
+            },
+            {
+              "code": "12K",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "18K",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "20P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "PZ",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "A3F",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "20D",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "A1Q",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "23E",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "M8",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "A3V",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "22V",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "A3D",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "HU",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "22A",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "23C",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "24A",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "25F",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "HZ",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "24V",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "26S",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "25E",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "25G",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "29Y",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "25R",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "27A",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "28W",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "28P",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "16W",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "27C",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "27Y",
+              "from": 2005,
+              "to": 2005
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2006,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "A3F",
+              "from": 2006,
+              "to": 2015
+            },
+            {
+              "code": "27A",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "32V",
+              "from": 2006,
+              "to": 2013
+            },
+            {
+              "code": "32S",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "A4A",
+              "from": 2006,
+              "to": 2015
+            },
+            {
+              "code": "22V",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "27C",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "A5M",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "27B",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "35J",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "35K",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "33Y",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "38P",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "36C",
+              "from": 2009,
+              "to": 2012
+            },
+            {
+              "code": "A6Y",
+              "from": 2009,
+              "to": 2012
+            },
+            {
+              "code": "34K",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "39T",
+              "from": 2011,
+              "to": 2011
+            },
+            {
+              "code": "35N",
+              "from": 2011,
+              "to": 2013
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2016,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "41W",
+              "from": 2016,
+              "to": 2025
+            },
+            {
+              "code": "41V",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "42A",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "34K",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "42B",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "47A",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "A4D",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "44J",
+              "from": 2016,
+              "to": 2016
+            },
+            {
+              "code": "46G",
+              "from": 2017,
+              "to": 2025
+            },
+            {
+              "code": "A3F",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "25D",
+              "from": 2018,
+              "to": 2025
+            },
+            {
+              "code": "45B",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "46V",
+              "from": 2018,
+              "to": 2025
+            },
+            {
+              "code": "45P",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "A8X",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "47C",
+              "from": 2020,
+              "to": 2025
+            },
+            {
+              "code": "42M",
+              "from": 2022,
+              "to": 2025
+            },
+            {
+              "code": "47S",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "48T",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "52C",
+              "from": 2024,
+              "to": 2025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cx-30",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2020,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "42M",
+              "from": 2020,
+              "to": 2025
+            },
+            {
+              "code": "25D",
+              "from": 2020,
+              "to": 2025
+            },
+            {
+              "code": "41W",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "47C",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "46G",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "46V",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "45P",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "47A",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "47S",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "48T",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "52C",
+              "from": 2025,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cx-50",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2023,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "41W",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "47C",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "46G",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "46V",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "48T",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "48K",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "51K",
+              "from": 2023,
+              "to": 2023
+            },
+            {
+              "code": "48B",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "52T",
+              "from": 2025,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cx-90",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2024,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "42M",
+              "from": 2024,
+              "to": 2025
+            },
+            {
+              "code": "41W",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "46G",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "46V",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "45P",
+              "from": 2024,
+              "to": 2025
+            },
+            {
+              "code": "51K",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "51F",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "47S",
               "from": 2024,
               "to": 2026
             }
