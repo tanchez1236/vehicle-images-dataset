@@ -1,0 +1,762 @@
+MAKE|kia
+MODEL|sportage
+GENERATION|1g|1995|2002
+COLOR|beet-silver-metallic|Beet Silver Metallic|C2|#B7BBBF|1995|1998
+COLOR|brave-blue-mica-metallic|Brave Blue Mica Metallic|B4|#23406B|1995|1999
+COLOR|chrome-yellow|Chrome Yellow|TN|#E0C23A|1995|1997
+COLOR|crystal-white|Crystal White|UC|#F2F1EC|1995|1998
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|1995|2002
+COLOR|turquoise-blue-metallic|Turquoise Blue Metallic|L2|#23406B|1995|2000
+COLOR|olive-green-pearl-metallic|Olive Green Pearl Metallic|5C|#395A46|1996|1998
+COLOR|red-pearl-metallic|Red Pearl Metallic|1B|#A51C26|1996|2000
+COLOR|clear-white|Clear White|UD|#F2F1EC|1997|2002
+COLOR|guinea-blue-mica|Guinea Blue Mica|S7|#23406B|1997|1998
+COLOR|black-pearl-metallic|Black Pearl Metallic|M3|#111113|1998|1999
+COLOR|solid-red|Solid Red|VR|#A51C26|1998|2002
+COLOR|aurora-gray-mica|Aurora Gray Mica|V6|#6F7377|1999|2002
+COLOR|ever-green-mica-metallic|Ever Green Mica Metallic|5E|#395A46|1999|2002
+COLOR|great-pearl-red-metallic|Great Pearl Red Metallic|4R|#A51C26|1999|2002
+COLOR|mica-blue-metallic|Mica Blue Metallic|B3|#23406B|1999|2002
+COLOR|wheat-silver-metallic|Wheat Silver Metallic|C3|#B7BBBF|1999|2002
+COLOR|elegant-beige-metallic|Elegant Beige Metallic|D1|#C6B08A|2000|2002
+COLOR|jade-green-pearl-metallic|Jade Green Pearl Metallic|3G|#395A46|2000|2002
+COLOR|sport-blue-pearl-metallic|Sport Blue Pearl Metallic|6A|#23406B|2000|2002
+COLOR|diamond-silver-metallic|Diamond Silver Metallic|C5|#B7BBBF|2001|2002
+COLOR|pepper-red-metallic|Pepper Red Metallic|R5|#A51C26|2001|2002
+COLOR|purplish-blue-metallic|Purplish Blue Metallic|6B|#23406B|2001|2002
+GENERATION|2g|2005|2010
+COLOR|black-cherry-metallic|Black Cherry Metallic|9P|#111113|2005|2010
+COLOR|clear-white|Clear White|UD|#F2F1EC|2005|2010
+COLOR|greyish-silver-metallic|Greyish Silver Metallic|S4|#B7BBBF|2005|2010
+COLOR|satin-silver-metallic|Satin Silver Metallic|S6|#B7BBBF|2005|2010
+COLOR|smart-blue-metallic|Smart Blue Metallic|K6|#23406B|2005|2010
+COLOR|smoky-brown-metallic|Smoky Brown Metallic|6D|#6B563F|2005|2010
+COLOR|volcanic-red-metallic|Volcanic Red Metallic|3P|#A51C26|2005|2010
+COLOR|greenish-gold-metallic|Greenish Gold Metallic|Y3|#395A46|2006|2008
+COLOR|natural-olive-green-metallic|Natural Olive / Green Metallic|9L|#395A46|2006|2008
+COLOR|vert-jade-metallic|Vert Jade Metallic|1L|#395A46|2006|2008
+COLOR|black-metallic|Black Metallic|1K|#111113|2007|2010
+COLOR|casa-white|Casa White|WD|#F2F1EC|2007|2010
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2007|2008
+COLOR|hike-green-metallic|Hike Green Metallic|E2|#395A46|2007|2009
+COLOR|machine-silver-metallic|Machine Silver Metallic|9S|#B7BBBF|2007|2010
+COLOR|piston-gray-metallic|Piston Gray Metallic|5K|#6F7377|2007|2010
+COLOR|shiny-gold-metallic|Shiny Gold Metallic|OK|#C6B08A|2007|2010
+COLOR|so-red|So Red|HR|#A51C26|2007|2009
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2009|2010
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2009|2010
+COLOR|clear-white-2|Clear White|1D|#F2F1EC|2009|2010
+COLOR|pewter-beige-metallic|Pewter Beige Metallic|8Q|#C6B08A|2009|2010
+COLOR|solid-red|Solid Red|VR|#A51C26|2009|2010
+GENERATION|3g|2011|2015
+COLOR|black-cherry-metallic|Black Cherry Metallic|9P|#111113|2011|2015
+COLOR|black-metallic|Black Metallic|1K|#111113|2011|2015
+COLOR|bright-silver-metallic|Bright Silver Metallic|A3D|#B7BBBF|2011|2015
+COLOR|bronze-beige-metallic|Bronze Beige Metallic|D5|#C6B08A|2011|2013
+COLOR|byte-blue-metallic|Byte Blue Metallic|5B|#23406B|2011|2012
+COLOR|casa-white|Casa White|WD|#F2F1EC|2011|2015
+COLOR|clear-white|Clear White|UD|#F2F1EC|2011|2015
+COLOR|clyde-blue|Clyde Blue|A2|#23406B|2011|2013
+COLOR|dark-phoenix-gray-metallic|Dark Phoenix / Gray Metallic|A4|#6F7377|2011|2013
+COLOR|machine-silver-metallic|Machine Silver Metallic|9S|#B7BBBF|2011|2015
+COLOR|mineral-silver-metallic|Mineral Silver Metallic|E6S|#B7BBBF|2011|2015
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2011|2015
+COLOR|sirius-beige-metallic|Sirius / Beige Metallic|A3|#C6B08A|2011|2015
+COLOR|techno-orange-metallic|Techno Orange Metallic|D2A|#C4622D|2011|2015
+COLOR|vintage-blue-metallic|Vintage Blue Metallic|BAH|#23406B|2011|2015
+COLOR|bright-silver-metallic-2|Bright Silver Metallic|3D|#B7BBBF|2012|2013
+COLOR|pegasos-silver-metallic|Pegasos Silver Metallic|A2S|#B7BBBF|2014|2015
+COLOR|sage-green-metallic|Sage Green Metallic|EAB|#395A46|2014|2015
+GENERATION|4g|2016|2021
+COLOR|black-cherry-metallic|Black Cherry Metallic|9P|#111113|2016|2017
+COLOR|black-metallic|Black Metallic|1K|#111113|2016|2021
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2016|2017
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2016|2017
+COLOR|casa-white|Casa White|WD|#F2F1EC|2016|2017
+COLOR|clear-white|Clear White|1D|#F2F1EC|2016|2017
+COLOR|dark-gun-gray-metallic|Dark Gun Gray Metallic|E5B|#6F7377|2016|2017
+COLOR|deluxe-white-pearl|Deluxe White Pearl|HW2|#F2F1EC|2016|2021
+COLOR|ebony-black|Ebony Black|EBA|#111113|2016|2017
+COLOR|mercury-blue-metallic|Mercury Blue Metallic|BU2|#23406B|2016|2017
+COLOR|mineral-silver-metallic|Mineral Silver Metallic|E6S|#B7BBBF|2016|2017
+COLOR|planet-blue-metallic|Planet Blue Metallic|D7U|#23406B|2016|2017
+COLOR|sand-track-metallic|Sand Track Metallic|D5U|#C6B08A|2016|2017
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2016|2017
+COLOR|sirius-beige-metallic|Sirius / Beige Metallic|AA3|#C6B08A|2016|2017
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2016|2017
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2016|2021
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2016|2017
+COLOR|blue-flame-metallic|Blue Flame Metallic|B3L|#23406B|2018|2021
+COLOR|canyon-silver-metallic|Canyon Silver Metallic|C2S|#B7BBBF|2018|2020
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2018|2020
+COLOR|copper-stone-metallic|Copper Stone Metallic|L2B|#8A5A3C|2018|2020
+COLOR|cosmos-blue-pearl|Cosmos Blue Pearl|CB7|#1E3A6B|2018|2020
+COLOR|dark-penta-metallic|Dark Penta Metallic|H8G|#4A4E52|2018|2021
+COLOR|sirius-lunar-silver-metallic|Sirius / Lunar Silver Metallic|CSS|#B7BBBF|2018|2021
+COLOR|true-red-infrarot-metallic|True Red / Infrarot Metallic|AA9|#C8102E|2018|2021
+GENERATION|5g|2022|2025
+COLOR|black-metallic|Black Metallic|1K|#111113|2022|2025
+COLOR|blue-flame-metallic|Blue Flame Metallic|B3L|#23406B|2022|2025
+COLOR|casa-white|Casa White|WD|#F2F1EC|2022|2025
+COLOR|dark-penta-metallic|Dark Penta Metallic|H8G|#4A4E52|2022|2025
+COLOR|deluxe-white-pearl|Deluxe White Pearl|HW2|#F2F1EC|2022|2025
+COLOR|experience-green-pearl|Experience Green Pearl|EXG|#395A46|2022|2025
+COLOR|lemon-splash-metallic|Lemon Splash Metallic|G2Y|#6F7377|2022|2023
+COLOR|marchined-bronze-pearl|Marchined Bronze Pearl|M6Y|#6B563F|2022|2023
+COLOR|orange-fusion-metallic|Orange Fusion Metallic|RNG|#C4622D|2022|2025
+COLOR|sirius-lunar-silver-metallic|Sirius / Lunar Silver Metallic|CSS|#B7BBBF|2022|2025
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2022|2025
+COLOR|true-red-infrarot-metallic|True Red / Infrarot Metallic|AA9|#C8102E|2022|2025
+COLOR|yuka-steel-gray-pearl|Yuka Steel Gray Pearl|USG|#6F7377|2022|2025
+MODEL|sorento
+GENERATION|1g|2003|2009
+COLOR|clear-white|Clear White|UD|#F2F1EC|2003|2009
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2003|2009
+COLOR|grayish-purple-metallic|Grayish Purple Metallic|G7|#6F7377|2003|2009
+COLOR|ivy-green-metallic|Ivy Green Metallic|3N|#395A46|2003|2009
+COLOR|sand-beige-metallic|Sand Beige Metallic|4Y|#C6B08A|2003|2009
+COLOR|solid-red|Solid Red|VR|#A51C26|2003|2004
+COLOR|aspen-white|Aspen White|AW|#F2F1EC|2004|2007
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2004|2008
+COLOR|diamond-silver-metallic|Diamond Silver Metallic|C5|#B7BBBF|2005|2007
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|K2|#23406B|2005|2008
+COLOR|spark-sport-blue-metallic|Spark / Sport Blue Metallic|1S|#23406B|2005|2008
+COLOR|stone-beige-metallic|Stone Beige Metallic|8Y|#6F7377|2005|2006
+COLOR|inky-blue-metallic|Inky Blue Metallic|QG|#23406B|2007|2009
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2007|2009
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2008|2009
+COLOR|champagne-gold-metallic|Champagne Gold Metallic|N1|#C6B08A|2008|2009
+COLOR|light-graphite-metallic|Light Graphite Metallic|LC|#6F7377|2008|2009
+COLOR|santorini-blue-metallic|Santorini Blue Metallic|HO|#23406B|2008|2009
+GENERATION|2g|2010|2014
+COLOR|blue-jeans-metallic|Blue Jeans Metallic|XMB|#23406B|2010|2013
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2010|2014
+COLOR|clear-white|Clear White|UD|#F2F1EC|2010|2014
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2010|2014
+COLOR|inky-blue-metallic|Inky Blue Metallic|QG|#23406B|2010|2011
+COLOR|java-brown-metallic|Java Brown Metallic|H5|#6B563F|2010|2012
+COLOR|khaki-green-metallic|Khaki Green Metallic|XMK|#395A46|2010|2013
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2010|2014
+COLOR|muscle-beige-metallic|Muscle Beige Metallic|MBA|#C6B08A|2010|2013
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2010|2013
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2010|2014
+COLOR|dark-cherry-red-metallic|Dark Cherry Red Metallic|IR|#A51C26|2011|2014
+COLOR|snow-white-metallic|Snow White Metallic|SWA|#F2F1EC|2011|2013
+COLOR|snow-white-metallic-2|Snow White Metallic|SWP|#F2F1EC|2011|2012
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2012|2014
+COLOR|cobalt-blue-metallic|Cobalt Blue Metallic|T3|#23406B|2012|2013
+COLOR|cosmic-blue-metallic|Cosmic Blue Metallic|UAA|#23406B|2012|2014
+COLOR|glittering-gray-metallic|Glittering Gray Metallic|K3G|#6F7377|2012|2014
+COLOR|golden-beat-metallic|Golden Beat Metallic|K3N|#C6B08A|2012|2014
+COLOR|mahogany-brown-metallic|Mahogany Brown Metallic|NBM|#6B563F|2012|2014
+COLOR|sage-green-metallic|Sage Green Metallic|EAB|#395A46|2012|2014
+COLOR|satin-metallic-al-metallic|Satin Metallic Al Metallic|STM|#6F7377|2012|2014
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2012|2014
+GENERATION|3g|2015|2020
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2017|2020
+COLOR|metallic-al-stream-gray-metallic|Metallic Al Stream Gray Metallic|MST|#6F7377|2017|2020
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2017|2020
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2017|2020
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2017|2020
+COLOR|clear-white|Clear White|UD|#F2F1EC|2018|2020
+COLOR|gravity-blue-pearl|Gravity Blue Pearl|B4U|#23406B|2018|2020
+COLOR|rich-espresso-pearl|Rich Espresso Pearl|DN9|#6F7377|2018|2020
+GENERATION|4g|2021|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2021|2025
+COLOR|clear-white|Clear White|UD|#F2F1EC|2021|2025
+COLOR|essence-brown-metallic|Essence Brown Metallic|BE2|#6B563F|2021|2024
+COLOR|gravity-blue-pearl|Gravity Blue Pearl|B4U|#23406B|2021|2025
+COLOR|mineral-blue-metallic|Mineral Blue Metallic|M4B|#23406B|2021|2025
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2021|2024
+COLOR|runway-red-metallic|Runway Red Metallic|CR5|#A51C26|2021|2024
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2021|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2021|2025
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2021|2025
+MODEL|rio
+GENERATION|1g|2001|2005
+COLOR|atlantic-blue-metallic|Atlantic Blue Metallic|B2|#23406B|2001|2004
+COLOR|candy-red-metallic|Candy Red Metallic|3R|#A51C26|2001|2004
+COLOR|emerald-green-metallic|Emerald Green Metallic|2G|#395A46|2001|2004
+COLOR|forest-green-metallic|Forest Green Metallic|6G|#395A46|2001|2002
+COLOR|gray-blue-metallic|Gray Blue Metallic|B1|#6F7377|2001|2004
+COLOR|greenish-yellow-metallic|Greenish Yellow Metallic|2Y|#395A46|2001|2004
+COLOR|light-gold-metallic|Light Gold Metallic|6Y|#C6B08A|2001|2003
+COLOR|light-silver-metallic|Light Silver Metallic|C1|#B7BBBF|2001|2004
+COLOR|midnight-black-metallic|Midnight Black Metallic|9B|#111113|2001|2005
+COLOR|polar-white|Polar White|PH|#F2F1EC|2001|2005
+COLOR|solid-red|Solid Red|VR|#A51C26|2001|2005
+COLOR|steel-blue-metallic|Steel Blue Metallic|3B|#23406B|2001|2004
+COLOR|cinnamon-metallic|Cinnamon Metallic|R4|#6F7377|2002|2003
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2004|2005
+GENERATION|2g|2006|2011
+COLOR|chasmere-beige-metallic|Chasmere Beige Metallic|J4|#C6B08A|2006|2011
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2006|2011
+COLOR|clear-white|Clear White|UD|#F2F1EC|2006|2011
+COLOR|midnight-black-metallic|Midnight Black Metallic|9B|#111113|2006|2011
+COLOR|olive-gray-metallic|Olive Gray Metallic|7V|#6F7377|2006|2010
+COLOR|pewter-gray-metallic|Pewter Gray Metallic|V9|#6F7377|2006|2007
+COLOR|polar-silver-metallic|Polar Silver Metallic|J1|#B7BBBF|2006|2010
+COLOR|sapphire-blue-metallic|Sapphire / Blue Metallic|T5|#23406B|2006|2011
+COLOR|soft-green-metallic|Soft Green Metallic|2D|#395A46|2006|2010
+COLOR|sunset-orange-metallic|Sunset Orange Metallic|O6|#C4622D|2006|2011
+COLOR|tropical-red-metallic|Tropical Red Metallic|O8|#A51C26|2006|2011
+COLOR|sand-beige-metallic|Sand Beige Metallic|4Y|#C6B08A|2007|2008
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2010|2011
+GENERATION|3g|2012|2017
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2012|2017
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2012|2017
+COLOR|caramel-yellow-metallic|Caramel Yellow Metallic|F2G|#E0C23A|2012|2013
+COLOR|carbon-gray-metallic|Carbon Gray Metallic|SAE|#6F7377|2012|2013
+COLOR|charming-red-pearl|Charming Red Pearl|TDY|#A51C26|2012|2013
+COLOR|clear-white|Clear White|UD|#F2F1EC|2012|2016
+COLOR|electronic-blue-metallic|Electronic Blue Metallic|FBD|#23406B|2012|2015
+COLOR|emerald-green-metallic|Emerald Green Metallic|EMG|#395A46|2012|2013
+COLOR|formal-deep-blue-metallic|Formal Deep Blue Metallic|BLA|#23406B|2012|2017
+COLOR|fresh-beige-metallic|Fresh Beige Metallic|FDP|#C6B08A|2012|2014
+COLOR|midnight-black-metallic|Midnight Black Metallic|9B|#111113|2012|2013
+COLOR|phantom-black-metallic|Phantom Black Metallic|MZH|#111113|2012|2013
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2012|2017
+COLOR|russian-blue-metallic|Russian Blue Metallic|BR7|#23406B|2012|2013
+COLOR|sapphire-blue-metallic|Sapphire Blue Metallic|BF1|#23406B|2012|2013
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2012|2017
+COLOR|sleek-silver-metallic|Sleek Silver Metallic|RHM|#B7BBBF|2012|2013
+COLOR|stone-beige-metallic|Stone Beige Metallic|UBS|#6F7377|2012|2013
+COLOR|wendy-brown-metallic|Wendy Brown Metallic|DBS|#6B563F|2012|2017
+COLOR|white-crystal|White Crystal|PGU|#F2F1EC|2012|2013
+COLOR|clear-white-2|Clear White|1D|#F2F1EC|2015|2017
+COLOR|digital-yellow|Digital Yellow|DYS|#E0C23A|2015|2016
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2015|2017
+COLOR|urban-blue-pearl|Urban Blue Pearl|EU2|#23406B|2016|2017
+GENERATION|4g|2018|2023
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2018|2023
+COLOR|clear-white|Clear White|UD|#F2F1EC|2018|2023
+COLOR|deep-sienna-brown-metallic|Deep Sienna Brown Metallic|SEN|#6B563F|2018|2020
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2018|2020
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2018|2023
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2018|2023
+COLOR|smoke-blue-pearl|Smoke Blue Pearl|EU3|#23406B|2018|2023
+COLOR|urban-green-metallic|Urban Green Metallic|URG|#395A46|2018|2023
+COLOR|most-yellow-pearl|Most Yellow Pearl|MYW|#E0C23A|2021|2023
+COLOR|perenial-gray-metallic|Perenial Gray Metallic|PRG|#6F7377|2021|2023
+COLOR|sports-blue-pearl|Sports Blue Pearl|SPB|#23406B|2021|2023
+MODEL|forte
+GENERATION|1g|2010|2013
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2010|2013
+COLOR|clear-white|Clear White|UD|#F2F1EC|2010|2013
+COLOR|dark-cherry-red-metallic|Dark Cherry Red Metallic|IR|#A51C26|2010|2011
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2010|2011
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2010|2012
+COLOR|racing-red|Racing Red|DRR|#A51C26|2010|2011
+COLOR|santorini-blue-metallic|Santorini Blue Metallic|HO|#23406B|2010|2012
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2010|2013
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2010|2013
+COLOR|snow-white-metallic|Snow White Metallic|SWA|#F2F1EC|2011|2013
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2012|2013
+GENERATION|2g|2014|2018
+COLOR|abyss-powder-blue-metallic|Abyss / Powder Blue Metallic|K3U|#23406B|2014|2015
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2014|2015
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2014|2015
+COLOR|golden-beat-metallic|Golden Beat Metallic|K3N|#C6B08A|2014|2015
+COLOR|metallic-al-stream-gray-metallic|Metallic Al Stream Gray Metallic|MST|#6F7377|2014|2015
+COLOR|milky-beige-metallic|Milky Beige Metallic|M9Y|#C6B08A|2014|2015
+COLOR|planet-blue-metallic|Planet Blue Metallic|D7U|#23406B|2014|2015
+COLOR|racing-red|Racing Red|DRR|#A51C26|2014|2015
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2014|2015
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2014|2015
+GENERATION|3g|2019|2024
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2022|2024
+COLOR|currant-red-pearl|Currant Red Pearl|R4R|#A51C26|2022|2024
+COLOR|deep-sea-blue-pearl|Deep Sea Blue Pearl|B2R|#23406B|2022|2024
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2022|2024
+COLOR|orange-delight-pearl|Orange Delight Pearl|DRG|#C4622D|2022|2024
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2022|2024
+COLOR|sports-blue-pearl|Sports Blue Pearl|SPB|#23406B|2022|2024
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2022|2024
+COLOR|clear-white|Clear White|UD|#F2F1EC|2023|2024
+MODEL|optima
+GENERATION|1g|2001|2005
+COLOR|clear-white|Clear White|UD|#F2F1EC|2001|2005
+COLOR|crystal-silver-metallic|Crystal Silver Metallic|C4|#B7BBBF|2001|2002
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2001|2005
+COLOR|gold-beige-metallic|Gold Beige Metallic|7Y|#C6B08A|2001|2003
+COLOR|magenta-red-metallic|Magenta Red Metallic|7R|#A51C26|2001|2002
+COLOR|pearl-white-metallic|Pearl White Metallic|U2|#F2F1EC|2001|2002
+COLOR|spring-yellow|Spring Yellow|NY|#E0C23A|2001|2003
+COLOR|steel-blue-metallic|Steel Blue Metallic|3B|#23406B|2001|2002
+COLOR|olive-green-pearl-metallic|Olive Green Pearl Metallic|5C|#395A46|2002|2003
+GENERATION|2g|2006|2010
+COLOR|charming-ruby-red-metallic|Charming Ruby Red Metallic|P6|#A51C26|2006|2009
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2006|2007
+COLOR|clear-white|Clear White|UD|#F2F1EC|2006|2010
+COLOR|cream-gold-metallic|Cream Gold Metallic|D8|#C6B08A|2006|2007
+COLOR|deep-ocean-blue-metallic|Deep Ocean Blue Metallic|6K|#23406B|2006|2009
+COLOR|diamond-silver-metallic|Diamond Silver Metallic|C5|#B7BBBF|2006|2007
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2006|2008
+COLOR|imperial-blue-metallic|Imperial Blue Metallic|1C|#23406B|2006|2007
+COLOR|light-almond-beige-metallic|Light Almond Beige Metallic|J6|#C6B08A|2006|2008
+COLOR|midnight-gray-metallic|Midnight Gray Metallic|8V|#6F7377|2006|2009
+COLOR|olive-green-pearl-metallic|Olive Green Pearl Metallic|5C|#395A46|2006|2007
+COLOR|pearl-white-metallic|Pearl White Metallic|U3|#F2F1EC|2006|2007
+COLOR|white-pearl-metallic|White Pearl Metallic|U4|#F2F1EC|2006|2008
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2007|2008
+COLOR|spring-yellow|Spring Yellow|NY|#E0C23A|2007|2008
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2009|2010
+COLOR|snow-white-metallic|Snow White Metallic|SWA|#F2F1EC|2009|2010
+GENERATION|3g|2011|2015
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2011|2015
+COLOR|dark-cherry-red-metallic|Dark Cherry Red Metallic|IR|#A51C26|2011|2015
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2011|2015
+COLOR|light-graphite-metallic|Light Graphite Metallic|LC|#6F7377|2011|2013
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2011|2015
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2011|2014
+COLOR|santorini-blue-metallic|Santorini Blue Metallic|HO|#23406B|2011|2015
+COLOR|satin-metallic-al-metallic|Satin Metallic Al Metallic|STM|#6F7377|2011|2015
+COLOR|snow-white-metallic|Snow White Metallic|SWA|#F2F1EC|2011|2013
+COLOR|snow-white-metallic-2|Snow White Metallic|SWP|#F2F1EC|2011|2012
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2011|2012
+COLOR|abyss-powder-blue-metallic|Abyss / Powder Blue Metallic|K3U|#23406B|2012|2014
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2012|2015
+COLOR|glittering-gray-metallic|Glittering Gray Metallic|K3G|#6F7377|2012|2013
+COLOR|golden-beat-metallic|Golden Beat Metallic|K3N|#C6B08A|2012|2014
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2012|2014
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2012|2015
+COLOR|serrano-red-metallic|Serrano Red Metallic|TR3|#A51C26|2013|2015
+COLOR|aluminium-silver-metallic|Aluminium Silver Metallic|C3S|#B7BBBF|2014|2015
+COLOR|smokey-blue-metallic|Smokey Blue Metallic|B3U|#23406B|2014|2015
+COLOR|snow-white-metallic-3|Snow White Metallic|SWP|#F2F1EC|2014|2015
+GENERATION|4g|2016|2020
+COLOR|aluminium-silver-metallic|Aluminium Silver Metallic|C3S|#B7BBBF|2016|2018
+COLOR|aubergine-pearl|Aubergine Pearl|M2R|#6F7377|2016|2017
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2016|2017
+COLOR|moss-gray-metallic|Moss Gray Metallic|M5G|#6F7377|2016|2018
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2016|2018
+COLOR|pluto-brown-metallic|Pluto Brown Metallic|G4N|#6B563F|2016|2018
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2016|2019
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2016|2020
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2016|2018
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2016|2017
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2017|2020
+COLOR|gravity-blue-pearl|Gravity Blue Pearl|B4U|#23406B|2017|2018
+GENERATION|5g|2021|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2021|2022
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2021|2025
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2023|2024
+COLOR|everlasting-gray-metallic|Everlasting Gray Metallic|ERG|#6F7377|2023|2024
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2023|2024
+COLOR|pacific-blue-pearl|Pacific Blue Pearl|DU2|#23406B|2023|2024
+COLOR|passion-red-pearl|Passion Red Pearl|ADR|#A51C26|2023|2024
+COLOR|wolf-gray-metallic|Wolf Gray Metallic|C7S|#6F7377|2023|2024
+MODEL|carnival
+GENERATION|1g|1999|2005
+COLOR|crimson-red-pearl-metallic|Crimson Red Pearl Metallic|6R|#A51C26|1999|2002
+COLOR|crystal-white|Crystal White|UC|#F2F1EC|1999|2004
+COLOR|grass-green-metallic|Grass Green Metallic|5G|#395A46|1999|2002
+COLOR|midnight-black-metallic|Midnight Black Metallic|9B|#111113|1999|2005
+COLOR|reo-gold-metallic|Reo Gold Metallic|1W|#C6B08A|1999|2004
+COLOR|royal-blue-mica-metallic|Royal Blue Mica Metallic|4A|#23406B|1999|2001
+COLOR|turquoise-blue-metallic|Turquoise Blue Metallic|L2|#23406B|1999|2000
+COLOR|wheat-silver-metallic|Wheat Silver Metallic|C3|#B7BBBF|1999|2004
+COLOR|clear-white|Clear White|UD|#F2F1EC|2000|2005
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2000|2004
+COLOR|white-pearl-metallic|White Pearl Metallic|U4|#F2F1EC|2000|2003
+COLOR|blue-sapphire-metallic|Blue Sapphire Metallic|P1|#23406B|2001|2003
+COLOR|silver-metallic|Silver Metallic|3C|#B7BBBF|2001|2004
+COLOR|silver-metallic-2|Silver Metallic|C9|#B7BBBF|2001|2002
+COLOR|soldier-gray|Soldier Gray|SG|#6F7377|2001|2004
+COLOR|brave-blue-mica-metallic|Brave Blue Mica Metallic|B4|#23406B|2002|2004
+COLOR|crystal-silver-metallic|Crystal Silver Metallic|C4|#B7BBBF|2002|2004
+COLOR|diamond-silver-metallic|Diamond Silver Metallic|C5|#B7BBBF|2002|2003
+COLOR|prussian-blue-metallic|Prussian Blue Metallic|B5|#23406B|2002|2004
+COLOR|turquoise-blue-metallic-2|Turquoise Blue Metallic|L2|#23406B|2002|2004
+GENERATION|2g|2006|2014
+COLOR|clear-white|Clear White|UD|#F2F1EC|2006|2012
+COLOR|diamond-silver-metallic|Diamond Silver Metallic|C5|#B7BBBF|2006|2007
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2006|2007
+COLOR|emerald-green-metallic|Emerald Green Metallic|G6|#395A46|2006|2007
+COLOR|imperial-blue-metallic|Imperial Blue Metallic|1C|#23406B|2006|2007
+COLOR|midnight-black-metallic|Midnight Black Metallic|9B|#111113|2006|2012
+COLOR|ruby-red-metallic|Ruby Red Metallic|R9|#A51C26|2006|2007
+COLOR|sage-green-metallic|Sage Green Metallic|G8|#395A46|2006|2007
+COLOR|cherry-kiss-coctail-red-metallic|Cherry Kiss Coctail / Red Metallic|7P|#A51C26|2007|2012
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2007|2012
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|K9|#23406B|2007|2012
+COLOR|evening-sailing-gold-metallic|Evening Sailing Gold Metallic|J9|#C6B08A|2007|2010
+COLOR|olive-gray-metallic|Olive Gray Metallic|7V|#6F7377|2007|2010
+COLOR|velvet-indigo-blue-metallic|Velvet Indigo Blue Metallic|K5|#23406B|2007|2010
+COLOR|chasmere-beige-metallic|Chasmere Beige Metallic|J4|#C6B08A|2009|2010
+COLOR|clear-white-2|Clear White|1D|#F2F1EC|2009|2010
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2009|2012
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2011|2012
+GENERATION|4g|2021|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2021|2025
+COLOR|ceramic-silver-metallic|Ceramic Silver Metallic|C4S|#B7BBBF|2022|2025
+COLOR|deepchroma-blue-pearl|Deepchroma Blue Pearl|D9B|#23406B|2022|2025
+COLOR|flare-red-pearl|Flare Red Pearl|C7R|#A51C26|2022|2025
+COLOR|panthera-metallic|Panthera Metallic|P2M|#6F7377|2022|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2022|2025
+COLOR|astra-blue-pearl|Astra Blue Pearl|D2U|#23406B|2023|2025
+MODEL|niro
+GENERATION|1g|2017|2022
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2017|2022
+COLOR|gravity-blue-pearl|Gravity Blue Pearl|B4U|#23406B|2017|2021
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2017|2021
+COLOR|rich-espresso-pearl|Rich Espresso Pearl|DN9|#6F7377|2017|2018
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2017|2022
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2017|2018
+COLOR|clear-white|Clear White|UD|#F2F1EC|2018|2022
+COLOR|deep-cerulean-blue-pearl|Deep Cerulean Blue Pearl|C3U|#23406B|2018|2021
+COLOR|horizon-blue-metallic|Horizon Blue Metallic|BBL|#23406B|2019|2021
+COLOR|runway-red-metallic|Runway Red Metallic|CR5|#A51C26|2019|2022
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2019|2021
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2019|2022
+GENERATION|2g|2023|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2023|2025
+COLOR|cityscape-green-metallic|Cityscape Green Metallic|CGE|#395A46|2023|2025
+COLOR|clear-white|Clear White|UD|#F2F1EC|2023|2025
+COLOR|graphite-gray-metallic|Graphite Gray Metallic|AGT|#6F7377|2023|2025
+COLOR|mineral-blue-metallic|Mineral Blue Metallic|M4B|#23406B|2023|2025
+COLOR|orange-delight-pearl|Orange Delight Pearl|DRG|#C4622D|2023|2024
+COLOR|runway-red-metallic|Runway Red Metallic|CR5|#A51C26|2023|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2023|2025
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2023|2025
+MODEL|ev6
+GENERATION|1g|2022|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2022|2025
+COLOR|deep-forest-green-pearl|Deep Forest Green Pearl|G4E|#395A46|2022|2023
+COLOR|glacier-metallic|Glacier Metallic|GLB|#6F7377|2022|2025
+COLOR|graphite-gray-metallic|Graphite Gray Metallic|AGT|#6F7377|2022|2025
+COLOR|gravity-blue-pearl|Gravity Blue Pearl|B4U|#23406B|2022|2025
+COLOR|runway-red-metallic|Runway Red Metallic|CR5|#A51C26|2022|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2022|2025
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2022|2025
+COLOR|yacth-blue-pearl|Yacth Blue Pearl|DU3|#23406B|2022|2025
+MODEL|ev9
+GENERATION|1g|2024|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2024|2025
+COLOR|flare-red-pearl|Flare Red Pearl|C7R|#A51C26|2024|2025
+COLOR|iceberg-green-pearl|Iceberg Green Pearl|IEG|#395A46|2024|2025
+COLOR|ivory-silver-pearl|Ivory Silver Pearl|ISG|#B7BBBF|2024|2025
+COLOR|pebble-gray-metallic|Pebble Gray Metallic|DFG|#6F7377|2024|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2024|2025
+MODEL|stinger
+GENERATION|1g|2018|2023
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2018|2023
+COLOR|ceramic-silver-metallic|Ceramic Silver Metallic|C4S|#B7BBBF|2018|2023
+COLOR|deepchroma-blue-pearl|Deepchroma Blue Pearl|D9B|#23406B|2018|2020
+COLOR|hichroma-red-metallic|Hichroma Red Metallic|H4R|#A51C26|2018|2023
+COLOR|panthera-metallic|Panthera Metallic|P2M|#6F7377|2018|2023
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2018|2023
+MODEL|soul
+GENERATION|1g|2010|2013
+COLOR|aubergine-pearl-metallic|Aubergine Pearl Metallic|Y1|#6F7377|2010|2011
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2010|2013
+COLOR|blue-stone|Blue Stone|1H|#6F7377|2010|2011
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2010|2013
+COLOR|clear-white|Clear White|1D|#F2F1EC|2010|2013
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2010|2012
+COLOR|green-tea-lattee-metallic|Green Tea Lattee Metallic|I7|#395A46|2010|2013
+COLOR|java-brown-metallic|Java Brown Metallic|H5|#6B563F|2010|2012
+COLOR|moon-light-blue-metallic|Moon Light Blue Metallic|I2|#23406B|2010|2011
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2010|2013
+COLOR|tomato-red|Tomato Red|1E|#A51C26|2010|2013
+COLOR|vanilla-shake-beige|Vanilla Shake / Beige|A1|#C6B08A|2010|2013
+COLOR|bright-silver-metallic-2|Bright Silver Metallic|A3D|#B7BBBF|2011|2013
+COLOR|misty-green|Misty Green|ASE|#395A46|2011|2012
+COLOR|olive-green-metallic|Olive Green Metallic|BD5|#395A46|2011|2013
+COLOR|saddle-brown-metallic|Saddle Brown Metallic|DT9|#6B563F|2011|2012
+GENERATION|2g|2014|2019
+COLOR|acid-green-alien-ii-metallic|Acid Green / Alien II Metallic|AE2|#395A46|2014|2015
+COLOR|black-cherry-metallic|Black Cherry Metallic|9P|#111113|2014|2017
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2014|2019
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2014|2017
+COLOR|bright-silver-metallic-2|Bright Silver Metallic|A3D|#B7BBBF|2014|2016
+COLOR|clear-white|Clear White|1D|#F2F1EC|2014|2018
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2014|2015
+COLOR|electronic-green-metallic|Electronic Green Metallic|AEB|#395A46|2014|2015
+COLOR|inferno-red-pearl|Inferno Red Pearl|AJR|#A51C26|2014|2015
+COLOR|mustard-solar-yellow|Mustard / Solar Yellow|AYE|#E0C23A|2014|2016
+COLOR|new-vanilla-shake-pearl|New Vanilla Shake Pearl|AYB|#6F7377|2014|2018
+COLOR|newport-blue-metallic|Newport Blue Metallic|KU9|#23406B|2014|2016
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2014|2017
+COLOR|toffee-latte-brown-metallic|Toffee / Latte Brown Metallic|ANB|#6B563F|2014|2016
+COLOR|caribbean-blue-metallic|Caribbean Blue Metallic|AUB|#23406B|2015|2018
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2015|2017
+COLOR|celestial-blue-metallic|Celestial Blue Metallic|CU3|#23406B|2016|2017
+COLOR|inferno-red-pearl-2|Inferno Red Pearl|AJT|#A51C26|2016|2017
+COLOR|milky-beige-metallic|Milky Beige Metallic|M9Y|#C6B08A|2016|2017
+COLOR|wild-orange-metallic|Wild Orange Metallic|AAQ|#C4622D|2016|2018
+GENERATION|3g|2020|2025
+COLOR|clear-white|Clear White|1D|#F2F1EC|2022|2023
+COLOR|inferno-red-pearl|Inferno Red Pearl|AJT|#A51C26|2022|2025
+COLOR|fusion-black-metallic|Fusion Black Metallic|FSB|#111113|2023|2025
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2023|2025
+COLOR|mars-orange-soul-red-orange-metallic|Mars Orange / Soul Red Orange Metallic|M3R|#A51C26|2023|2024
+COLOR|neptune-blue-metallic|Neptune Blue Metallic|B3A|#23406B|2023|2024
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2023|2025
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2023|2024
+COLOR|surf-blue|Surf Blue|SRB|#23406B|2023|2025
+MODEL|spectra
+GENERATION|1g|2000|2004
+COLOR|clear-white|Clear White|UD|#F2F1EC|2000|2004
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2000|2004
+COLOR|solid-red|Solid Red|VR|#A51C26|2000|2004
+GENERATION|2g|2005|2011
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2005|2007
+COLOR|clear-white|Clear White|UD|#F2F1EC|2005|2008
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2005|2008
+COLOR|sand-beige-metallic|Sand Beige Metallic|4Y|#C6B08A|2005|2008
+COLOR|solid-red|Solid Red|VR|#A51C26|2005|2008
+COLOR|spark-sport-blue-metallic|Spark / Sport Blue Metallic|1S|#23406B|2005|2008
+COLOR|deep-ocean-blue-metallic|Deep Ocean Blue Metallic|6K|#23406B|2006|2009
+COLOR|pepper-red-metallic|Pepper Red Metallic|R5|#A51C26|2006|2010
+COLOR|sweet-orange-metallic|Sweet Orange Metallic|O9|#C4622D|2007|2008
+MODEL|sephia
+GENERATION|1g|1993|2001
+COLOR|beet-silver-metallic|Beet Silver Metallic|C2|#B7BBBF|1993|2001
+COLOR|blaze-red|Blaze Red|SQ|#A51C26|1993|2000
+COLOR|brave-blue-mica-metallic|Brave Blue Mica Metallic|B4|#23406B|1993|2000
+COLOR|crystal-white|Crystal White|UC|#F2F1EC|1993|2001
+COLOR|dove-gray-microt|Dove Gray Microt|V2|#6F7377|1993|1995
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|1993|2001
+COLOR|elegant-beige-metallic|Elegant Beige Metallic|D1|#C6B08A|1993|2001
+COLOR|hot-red-mica-metallic|Hot Red Mica Metallic|R7|#A51C26|1993|1995
+COLOR|jean-blue-metallic|Jean Blue Metallic|B9|#23406B|1993|1995
+COLOR|whisper-green-metallic|Whisper Green Metallic|5L|#395A46|1993|1995
+COLOR|turquoise-blue-metallic|Turquoise Blue Metallic|L2|#23406B|1994|2001
+COLOR|olive-green-pearl-metallic|Olive Green Pearl Metallic|5C|#395A46|1995|2001
+COLOR|red-pearl-metallic|Red Pearl Metallic|1B|#A51C26|1995|2000
+COLOR|clear-white|Clear White|UD|#F2F1EC|1997|2001
+COLOR|solid-red|Solid Red|VR|#A51C26|1998|2001
+COLOR|aurora-gray-mica|Aurora Gray Mica|V6|#6F7377|1999|2001
+COLOR|ever-green-mica-metallic|Ever Green Mica Metallic|5E|#395A46|1999|2001
+COLOR|great-pearl-red-metallic|Great Pearl Red Metallic|4R|#A51C26|1999|2001
+COLOR|mica-blue-metallic|Mica Blue Metallic|B3|#23406B|1999|2001
+COLOR|prussian-blue-metallic|Prussian Blue Metallic|B5|#23406B|1999|2001
+COLOR|sport-blue-pearl-metallic|Sport Blue Pearl Metallic|6A|#23406B|1999|2001
+COLOR|wheat-silver-metallic|Wheat Silver Metallic|C3|#B7BBBF|1999|2001
+COLOR|forest-green-metallic|Forest Green Metallic|6G|#395A46|2000|2001
+COLOR|jade-green-pearl-metallic|Jade Green Pearl Metallic|3G|#395A46|2000|2001
+MODEL|picanto
+GENERATION|1g|2004|2011
+COLOR|blue-diamond-metallic|Blue Diamond Metallic|L6|#23406B|2004|2011
+COLOR|clear-white|Clear White|UD|#F2F1EC|2004|2011
+COLOR|galaxy-black-metallic|Galaxy Black Metallic|Z1|#111113|2004|2011
+COLOR|scarlet-red|Scarlet Red|P9|#A51C26|2004|2011
+COLOR|liquid-silver-metallic|Liquid Silver Metallic|S3|#B7BBBF|2005|2007
+COLOR|orange-metallic|Orange Metallic|O3|#C4622D|2005|2007
+COLOR|samba-green-metallic|Samba Green Metallic|M5|#395A46|2005|2007
+COLOR|fresh-yellow|Fresh Yellow|II|#E0C23A|2007|2011
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2008|2011
+COLOR|cool-blue-metallic|Cool Blue Metallic|C0|#23406B|2008|2011
+COLOR|soda-orange-metallic|Soda Orange Metallic|IZ|#C4622D|2008|2010
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2008|2011
+COLOR|lime|Lime|ALM|#6F7377|2009|2011
+GENERATION|2g|2012|2016
+COLOR|alice-blue|Alice Blue|ABB|#23406B|2012|2013
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2012|2013
+COLOR|cafe-mocha-metallic|Cafe Mocha Metallic|C5M|#6F7377|2012|2013
+COLOR|cherry-pink-metallic|Cherry Pink Metallic|K1P|#6F7377|2012|2013
+COLOR|clear-white|Clear White|UD|#F2F1EC|2012|2013
+COLOR|galaxy-black-metallic|Galaxy Black Metallic|Z1|#111113|2012|2013
+COLOR|lemon-grass-metallic|Lemon Grass Metallic|L7G|#6F7377|2012|2013
+COLOR|milky-beige-metallic|Milky Beige Metallic|M9Y|#C6B08A|2012|2013
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2012|2013
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2012|2013
+COLOR|bright-silver-metallic-2|Bright Silver Metallic|3D|#B7BBBF|2015|2016
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2015|2016
+COLOR|dazzling-blue-metallic|Dazzling Blue Metallic|BU7|#23406B|2015|2016
+COLOR|signal-red-pearl-2|Signal Red Pearl|BEG|#A51C26|2015|2016
+COLOR|titanium-silver-metallic-2|Titanium Silver Metallic|IM|#6F7377|2015|2016
+GENERATION|3g|2017|2025
+COLOR|alice-blue|Alice Blue|ABB|#23406B|2017|2023
+COLOR|celestial-blue-metallic|Celestial Blue Metallic|CU3|#23406B|2017|2020
+COLOR|milky-beige-metallic|Milky Beige Metallic|M9Y|#C6B08A|2017|2025
+COLOR|pop-orange-metallic|Pop Orange Metallic|G7A|#C4622D|2017|2023
+COLOR|shiny-red-pearl|Shiny Red Pearl|A2R|#A51C26|2017|2023
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2017|2020
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2018|2025
+COLOR|clear-white|Clear White|UD|#F2F1EC|2018|2025
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2018|2025
+COLOR|honey-bee-yellow-metallic|Honey Bee / Yellow Metallic|B2Y|#E0C23A|2021|2024
+COLOR|metallic-eorite-gray-astro-gray-metallic|Metallic Eorite Gray / Astro Gray Metallic|M7G|#6F7377|2021|2025
+MODEL|carens
+GENERATION|1g|1999|2006
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|1999|2005
+COLOR|gold-sand-metallic|Gold Sand Metallic|W4|#C6B08A|1999|2001
+COLOR|great-pearl-red-metallic|Great Pearl Red Metallic|4R|#A51C26|1999|2001
+COLOR|jade-green-pearl-metallic|Jade Green Pearl Metallic|3G|#395A46|1999|2001
+COLOR|ocean-blue-metallic|Ocean Blue Metallic|L5|#23406B|1999|2000
+COLOR|clear-white|Clear White|UD|#F2F1EC|2001|2005
+COLOR|solid-red|Solid Red|VR|#A51C26|2001|2002
+COLOR|grayish-purple-metallic|Grayish Purple Metallic|G7|#6F7377|2002|2003
+GENERATION|2g|2007|2012
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2007|2012
+COLOR|clear-white|Clear White|1D|#F2F1EC|2007|2012
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2007|2008
+COLOR|light-almond-beige-metallic|Light Almond Beige Metallic|J6|#C6B08A|2007|2010
+COLOR|olive-sepia-mica-metallic|Olive Sepia Mica Metallic|7S|#395A46|2007|2010
+COLOR|stanza-green-metallic|Stanza Green Metallic|A5|#395A46|2007|2009
+COLOR|urban-gray-metallic|Urban Gray Metallic|1U|#6F7377|2007|2010
+COLOR|velvet-indigo-blue-metallic|Velvet Indigo Blue Metallic|K5|#23406B|2007|2010
+COLOR|violet-iris-metallic|Violet Iris Metallic|9V|#6F7377|2007|2011
+COLOR|volcanic-red-metallic|Volcanic Red Metallic|3H|#A51C26|2007|2010
+COLOR|java-brown-metallic|Java Brown Metallic|H5|#6B563F|2008|2012
+COLOR|moon-light-blue-metallic|Moon Light Blue Metallic|I2|#23406B|2008|2012
+COLOR|tomato-red|Tomato Red|1E|#A51C26|2008|2012
+COLOR|vanilla-shake-beige|Vanilla Shake / Beige|A1|#C6B08A|2008|2012
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2009|2012
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2009|2012
+GENERATION|3g|2013|2025
+COLOR|electronic-green-metallic|Electronic Green Metallic|AEB|#395A46|2013|2015
+COLOR|galaxy-brown-metallic|Galaxy Brown Metallic|K7N|#6B563F|2013|2015
+COLOR|inferno-red-pearl|Inferno Red Pearl|AJR|#A51C26|2013|2016
+COLOR|newport-blue-metallic|Newport Blue Metallic|KU9|#23406B|2013|2016
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2013|2018
+COLOR|toffee-latte-brown-metallic|Toffee / Latte Brown Metallic|ANB|#6B563F|2013|2016
+COLOR|black-soul-cherry-metallic|Black Soul / Cherry Metallic|9H|#111113|2015|2018
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2015|2018
+COLOR|bright-silver-metallic-2|Bright Silver Metallic|A3D|#B7BBBF|2015|2016
+COLOR|camden-beige-celestial-silver-metallic|Camden Beige / Celestial Silver Metallic|K3Y|#B7BBBF|2015|2016
+COLOR|clear-white|Clear White|1D|#F2F1EC|2015|2018
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2015|2016
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2015|2016
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2023|2025
+COLOR|glacier-white-pearl|Glacier White Pearl|GWP|#F2F1EC|2023|2025
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2023|2025
+COLOR|intense-red-pearl|Intense Red Pearl|A6R|#A51C26|2023|2025
+COLOR|moss-brown-pearl|Moss Brown Pearl|GMB|#6B563F|2023|2024
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2023|2025
+MODEL|clarus
+GENERATION|1g|1996|2001
+COLOR|olive-green-pearl-metallic|Olive Green Pearl Metallic|5C|#395A46|1996|2001
+COLOR|opal-gray-metallic|Opal Gray Metallic|V3|#6F7377|1996|2000
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|1997|2001
+COLOR|olive-sepia-mica|Olive Sepia Mica|5D|#395A46|1997|1998
+COLOR|silver-mica|Silver Mica|1P|#B7BBBF|1997|2001
+COLOR|brave-blue-mica-metallic|Brave Blue Mica Metallic|B4|#23406B|1998|2000
+COLOR|clear-white|Clear White|UD|#F2F1EC|1998|2001
+COLOR|elegant-beige-metallic|Elegant Beige Metallic|D1|#C6B08A|1998|2000
+COLOR|crimson-red-pearl-metallic|Crimson Red Pearl Metallic|6R|#A51C26|1999|2001
+COLOR|chrome-yellow|Chrome Yellow|TN|#E0C23A|1999|2001
+COLOR|dark-gray|Dark Gray|GB6|#6F7377|1999|2000
+COLOR|marine-blue-metallic|Marine Blue Metallic|L3|#23406B|1999|2001
+MODEL|telluride
+GENERATION|1g|2020|2025
+COLOR|dark-moss-metallic|Dark Moss Metallic|GMS|#6F7377|2023|2025
+COLOR|dawning-red-pearl|Dawning Red Pearl|DWR|#A51C26|2023|2024
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2023|2025
+COLOR|everlasting-gray-metallic|Everlasting Gray Metallic|ERG|#6F7377|2023|2024
+COLOR|glacier-white-pearl|Glacier White Pearl|GWP|#F2F1EC|2023|2025
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2023|2024
+COLOR|jungle-wood-green-pearl|Jungle Wood Green Pearl|JUG|#395A46|2023|2025
+COLOR|midnight-lake-blue|Midnight Lake Blue|MLB|#23406B|2023|2025
+COLOR|wolf-gray-metallic|Wolf Gray Metallic|C7S|#6F7377|2023|2025
+MODEL|stonic
+GENERATION|1g|2017|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2018|2025
+COLOR|clear-white|Clear White|UD|#F2F1EC|2018|2025
+COLOR|deep-sienna-brown-metallic|Deep Sienna Brown Metallic|SEN|#6B563F|2018|2020
+COLOR|electric-green-pearl|Electric Green Pearl|EGR|#395A46|2018|2020
+COLOR|most-yellow-pearl|Most Yellow Pearl|MYW|#E0C23A|2018|2024
+COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2018|2020
+COLOR|signal-red-pearl|Signal Red Pearl|BEG|#A51C26|2018|2025
+COLOR|silky-silver-metallic|Silky Silver Metallic|4SS|#B7BBBF|2018|2024
+COLOR|smoke-blue-pearl|Smoke Blue Pearl|EU3|#23406B|2018|2025
+COLOR|tan-orange-metallic|Tan Orange Metallic|ARG|#C6B08A|2018|2020
+COLOR|perenial-gray-metallic|Perenial Gray Metallic|PRG|#6F7377|2021|2024
+COLOR|sports-blue-pearl|Sports Blue Pearl|SPB|#23406B|2021|2025
+COLOR|urban-green-metallic|Urban Green Metallic|URG|#395A46|2021|2024
+COLOR|honey-bee-yellow-metallic|Honey Bee / Yellow Metallic|B2Y|#E0C23A|2023|2025
+COLOR|metallic-eorite-gray-astro-gray-metallic|Metallic Eorite Gray / Astro Gray Metallic|M7G|#6F7377|2023|2025
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2023|2025
+MODEL|mohave
+GENERATION|1g|2008|2014
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2008|2012
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2008|2012
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2009|2012
+COLOR|clear-white|Clear White|UD|#F2F1EC|2009|2012
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2009|2012
+COLOR|inky-blue-metallic|Inky Blue Metallic|QG|#23406B|2009|2010
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2009|2012
+COLOR|sweet-orange-metallic|Sweet Orange Metallic|O9|#C4622D|2009|2011
+MODEL|borrego
+GENERATION|1g|2009|2010
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2009|2010
+COLOR|clear-white|Clear White|UD|#F2F1EC|2009|2010
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2009|2010
+COLOR|inky-blue-metallic|Inky Blue Metallic|QG|#23406B|2009|2010
+COLOR|ivy-green-metallic|Ivy Green Metallic|3N|#395A46|2009|2010
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2009|2010
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2009|2010
+COLOR|sweet-orange-metallic|Sweet Orange Metallic|O9|#C4622D|2009|2010
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2009|2010
+MODEL|cerato
+GENERATION|1g|2003|2006
+COLOR|clear-silver-metallic|Clear Silver Metallic|6C|#B7BBBF|2003|2006
+COLOR|clear-white|Clear White|UD|#F2F1EC|2004|2006
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2004|2006
+COLOR|sand-beige-metallic|Sand Beige Metallic|4Y|#C6B08A|2004|2006
+COLOR|solid-red|Solid Red|VR|#A51C26|2004|2006
+COLOR|brownish-dark-gray-metallic|Brownish Dark Gray Metallic|S5|#6F7377|2005|2006
+COLOR|imperial-blue-metallic|Imperial Blue Metallic|1C|#23406B|2005|2006
+COLOR|spark-sport-blue-metallic|Spark / Sport Blue Metallic|1S|#23406B|2005|2006
+GENERATION|2g|2007|2012
+COLOR|metallic-al-bronze-metallic|Metallic Al Bronze Metallic|D0|#6B563F|2008|2012
+COLOR|spicy-red-metallic|Spicy Red Metallic|IY|#A51C26|2008|2012
+COLOR|sweet-orange-metallic|Sweet Orange Metallic|O9|#C4622D|2008|2011
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2009|2012
+COLOR|champagne-gold-metallic|Champagne Gold Metallic|N1|#C6B08A|2009|2010
+COLOR|clear-white|Clear White|UD|#F2F1EC|2009|2012
+COLOR|dark-cherry-red-metallic|Dark Cherry Red Metallic|IR|#A51C26|2009|2012
+COLOR|ebony-black|Ebony Black|EB|#0A0A0B|2009|2012
+COLOR|light-graphite-metallic|Light Graphite Metallic|LC|#6F7377|2009|2012
+COLOR|santorini-blue-metallic|Santorini Blue Metallic|HO|#23406B|2009|2012
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2009|2012
+COLOR|racing-red|Racing Red|DRR|#A51C26|2011|2012
+GENERATION|3g|2013|2015
+COLOR|acid-green-alien-ii-metallic|Acid Green / Alien II Metallic|AE2|#395A46|2013|2014
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2013|2014
+COLOR|bright-silver-metallic|Bright Silver Metallic|3D|#B7BBBF|2013|2014
+COLOR|clear-white|Clear White|UD|#F2F1EC|2013|2014
+COLOR|golden-beat-metallic|Golden Beat Metallic|K3N|#C6B08A|2013|2014
+COLOR|metallic-al-stream-gray-metallic|Metallic Al Stream Gray Metallic|MST|#6F7377|2013|2014
+COLOR|milky-beige-metallic|Milky Beige Metallic|M9Y|#C6B08A|2013|2014
+COLOR|mustard-solar-yellow|Mustard / Solar Yellow|AYE|#E0C23A|2013|2014
+COLOR|new-vanilla-shake-pearl|New Vanilla Shake Pearl|AYB|#6F7377|2013|2014
+COLOR|planet-blue-metallic|Planet Blue Metallic|D7U|#23406B|2013|2014
+COLOR|racing-red|Racing Red|DRR|#A51C26|2013|2014
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2013|2014
+COLOR|temptation-red-pearl|Temptation Red Pearl|K3R|#A51C26|2013|2014
+MODEL|seltos
+GENERATION|1g|2021|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2021|2022
+COLOR|clear-white|Clear White|UD|#F2F1EC|2021|2022
+COLOR|glacier-white-pearl|Glacier White Pearl|GWP|#F2F1EC|2021|2022
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2021|2025
+COLOR|intense-red-pearl|Intense Red Pearl|A6R|#A51C26|2021|2022
+COLOR|kia-a6r-kia-abp|Kia A6r / Kia Abp|GB3|#6F7377|2021|2022
+COLOR|kia-a7a-kia-ud|Kia A7a / Kia Ud|GB5|#6F7377|2021|2022
+COLOR|kia-gwp-kia-a7a|Kia Gwp / Kia A7a|GB7|#6F7377|2021|2022
+COLOR|kia-gwp-kia-abp|Kia Gwp / Kia Abp|GB2|#6F7377|2021|2022
+COLOR|kia-klg-kia-a7a|Kia Klg / Kia A7a|GB8|#6F7377|2021|2022
+COLOR|punchy-orange-metallic|Punchy Orange Metallic|A7A|#C4622D|2021|2022
+COLOR|steel-gray-metallic|Steel Gray Metallic|KLG|#6F7377|2021|2025
+COLOR|fusion-black-metallic|Fusion Black Metallic|FSB|#111113|2023|2025
+COLOR|mars-orange-soul-red-orange-metallic|Mars Orange / Soul Red Orange Metallic|M3R|#A51C26|2023|2025
+COLOR|neptune-blue-metallic|Neptune Blue Metallic|B3A|#23406B|2023|2025
+COLOR|pluton-blue-metallic|Pluton Blue Metallic|PLU|#23406B|2023|2025
+COLOR|snow-white-metallic|Snow White Metallic|SWP|#F2F1EC|2023|2025
+COLOR|valais-green-metallic|Valais Green Metallic|B4E|#395A46|2023|2024
+COLOR|clear-white-2|Clear White|UD|#F2F1EC|2024|2025
+COLOR|kia-plu-kia-fsb|Kia Plu / Kia Fsb|F1A|#6F7377|2024|2025
+COLOR|kia-ud-kia-fsb|Kia Ud / Kia Fsb|F1D|#6F7377|2024|2025
+MODEL|sonet
+GENERATION|1g|2021|2025
+COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2023|2025
+COLOR|clear-white|Clear White|UD|#F2F1EC|2023|2025
+COLOR|glacier-white-pearl|Glacier White Pearl|GWP|#F2F1EC|2023|2025
+COLOR|gravity-gray-pearl|Gravity Gray Pearl|KDG|#6F7377|2023|2025
+COLOR|imperial-blue-pearl|Imperial Blue Pearl|MPB|#23406B|2023|2025
+COLOR|intense-red-pearl|Intense Red Pearl|A6R|#A51C26|2023|2025
+COLOR|sparkling-silver-metallic|Sparkling Silver Metallic|KCS|#B9BDC1|2023|2025
+COLOR|pewter-olive-pearl|Pewter Olive Pearl|EWE|#395A46|2024|2025

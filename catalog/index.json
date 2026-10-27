@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T01:38:40.622Z",
+  "updatedAt": "2026-10-27T23:48:51.522Z",
   "totalMakes": 5,
   "makes": [
     "chevrolet",
-    "hyundai",
+    "kia",
     "mazda",
     "mitsubishi",
     "toyota"

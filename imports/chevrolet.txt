@@ -1,47 +1,5 @@
 MAKE|chevrolet
 MODEL|blazer
-GENERATION|2g|1995|2005
-COLOR|linen-white|Linen White|WA5111|#F2EFE9|1995|1995
-COLOR|light-gray-metallic-95|Light Gray Metallic|WA9789|#A9ACAF|1995|1995
-COLOR|lamp-black|Lamp Black|WA848|#1C1C1C|1995|1995
-COLOR|radar-blue-metallic|Radar Blue Metallic|WA9018|#1B4C8C|1995|1995
-COLOR|bahama-blue-metallic|Bahama Blue Metallic|WA9656|#2E6DA4|1995|1995
-COLOR|light-stellar-blue-metallic|Light Stellar Blue Metallic|WA146B|#4A7FB5|1995|1995
-COLOR|dark-blue|Dark Blue|WA7349|#1B3560|1995|1995
-COLOR|atlantic-blue-metallic|Atlantic Blue Metallic|WA158A|#24476B|1995|1995
-COLOR|medium-dark-teal-metallic|Medium Dark Teal Metallic|WA9828|#1F5C5C|1995|1995
-COLOR|bright-teal-metallic|Bright Teal Metallic|WA9794|#128484|1995|1995
-COLOR|forest-green|Forest Green|WA7964|#1F4A2E|1994|1994
-COLOR|emerald-green-metallic|Emerald Green Metallic|WA177B|#1C5C40|1995|1995
-COLOR|dark-woodland-green|Dark Woodland Green|WA7156|#29422B|1995|1995
-COLOR|light-autumnwood-metallic|Light Autumnwood Metallic|WA228A|#A97A54|1995|1995
-COLOR|dark-autumnwood-metallic|Dark Autumnwood Metallic|WA161A|#6E4A32|1995|1995
-COLOR|beige-metallic|Beige Metallic|WA9805|#C9B78E|1995|1995
-COLOR|tan-95|Tan|WA8265|#C2A379|1995|1995
-COLOR|bright-red|Bright Red|WA7475|#C51E24|1995|1995
-COLOR|dark-garnet-red-metallic|Dark Garnet Red Metallic|WA9154|#6E1B24|1995|1996
-COLOR|dark-cherry-metallic|Dark Cherry Metallic|WA9800|#5C1F2C|1995|1996
-COLOR|wheatland-yellow|Wheatland Yellow|WA9418|#E8B23A|1995|1995
-COLOR|tangier-orange-95|Tangier Orange|WA9417|#D8641F|1995|1995
-COLOR|gray-metallic|Gray Metallic|WA8798|#8A8D8F|1995|2005
-COLOR|cherry-red-metallic|Cherry Red Metallic|WA9088|#9E1B2C|1995|2005
-COLOR|black-sapphire-metallic|Black Sapphire Metallic|WA8863|#17181C|1995|1995
-COLOR|olympic-white|Olympic White|WA8624|#F4F4F0|1996|2005
-COLOR|victory-red|Victory Red|WA9260|#B71C1C|2005|2005
-COLOR|superior-blue-metallic|Superior Blue Metallic|WA703J|#2F5D8A|2005|2005
-COLOR|indigo-metallic|Indigo Metallic|WA9792|#2C2F5E|2005|2005
-COLOR|fine-silver-birch-metallic|Fine Silver Birch Metallic|WA926L|#C7C9CB|2005|2005
-COLOR|medium-green-metallic-05|Medium Green Metallic|WA9539|#3E6B4E|2005|2005
-COLOR|sandalwood-metallic|Sandalwood Metallic|WA711J|#B99A72|2005|2005
-COLOR|storm-gray-metallic|Storm Gray Metallic|WA391E|#6B6E70|2005|2005
-COLOR|stealth-gray|Stealth Gray|WA183E|#4E5254|2005|2005
-COLOR|medium-red-metallic|Medium Red Metallic|WA408G|#A23131|2005|2005
-COLOR|light-tarnished-silver-metallic|Light Tarnished Silver Metallic|WA994L|#B7B4AC|2005|2005
-COLOR|sunburst-orange-metallic|Sunburst Orange Metallic|WA802K|#D9752A|2005|2005
-COLOR|red-tint-coat-metallic|Red Tint Coat Metallic|WA379E|#A72A2E|2005|2005
-COLOR|dark-argent-metallic|Dark Argent Metallic|WA6270|#55575A|2005|2005
-COLOR|galaxy-silver-metallic|Galaxy Silver Metallic|WA519F|#C6C7C9|2005|2005
-COLOR|yellow-05|Yellow|WA5456|#F2D02E|2005|2005
 GENERATION|1g|1991|1994
 COLOR|linen-white-91|Linen White|WA5111|#F2EFE9|1992|1994
 COLOR|silver-91|Silver|WA7468|#C7C9CB|1992|1992
@@ -73,6 +31,47 @@ COLOR|dark-autumnwood-metallic-91|Dark Autumnwood Metallic|WA161A|#6E4A32|1994|1
 COLOR|tan-91|Tan|WA8265|#C2A379|1994|1994
 COLOR|ultra-silver-metallic|Ultra Silver Metallic|WA8867|#C9CBCD|1994|1994
 COLOR|atlantic-blue-metallic-91|Atlantic Blue Metallic|WA158A|#24476B|1994|1994
+GENERATION|2g|1995|2005
+COLOR|linen-white|Linen White|WA5111|#F2EFE9|1995|1995
+COLOR|light-gray-metallic-95|Light Gray Metallic|WA9789|#A9ACAF|1995|1995
+COLOR|lamp-black|Lamp Black|WA848|#1C1C1C|1995|1995
+COLOR|radar-blue-metallic|Radar Blue Metallic|WA9018|#1B4C8C|1995|1995
+COLOR|bahama-blue-metallic|Bahama Blue Metallic|WA9656|#2E6DA4|1995|1995
+COLOR|light-stellar-blue-metallic|Light Stellar Blue Metallic|WA146B|#4A7FB5|1995|1995
+COLOR|dark-blue|Dark Blue|WA7349|#1B3560|1995|1995
+COLOR|atlantic-blue-metallic|Atlantic Blue Metallic|WA158A|#24476B|1995|1995
+COLOR|medium-dark-teal-metallic|Medium Dark Teal Metallic|WA9828|#1F5C5C|1995|1995
+COLOR|bright-teal-metallic|Bright Teal Metallic|WA9794|#128484|1995|1995
+COLOR|emerald-green-metallic|Emerald Green Metallic|WA177B|#1C5C40|1995|1995
+COLOR|dark-woodland-green|Dark Woodland Green|WA7156|#29422B|1995|1995
+COLOR|light-autumnwood-metallic|Light Autumnwood Metallic|WA228A|#A97A54|1995|1995
+COLOR|dark-autumnwood-metallic|Dark Autumnwood Metallic|WA161A|#6E4A32|1995|1995
+COLOR|beige-metallic|Beige Metallic|WA9805|#C9B78E|1995|1995
+COLOR|tan-95|Tan|WA8265|#C2A379|1995|1995
+COLOR|bright-red|Bright Red|WA7475|#C51E24|1995|1995
+COLOR|dark-garnet-red-metallic|Dark Garnet Red Metallic|WA9154|#6E1B24|1995|1996
+COLOR|dark-cherry-metallic|Dark Cherry Metallic|WA9800|#5C1F2C|1995|1996
+COLOR|wheatland-yellow|Wheatland Yellow|WA9418|#E8B23A|1995|1995
+COLOR|tangier-orange-95|Tangier Orange|WA9417|#D8641F|1995|1995
+COLOR|gray-metallic|Gray Metallic|WA8798|#8A8D8F|1995|2005
+COLOR|cherry-red-metallic|Cherry Red Metallic|WA9088|#9E1B2C|1995|2005
+COLOR|black-sapphire-metallic|Black Sapphire Metallic|WA8863|#17181C|1995|1995
+COLOR|olympic-white|Olympic White|WA8624|#F4F4F0|1996|2005
+COLOR|victory-red|Victory Red|WA9260|#B71C1C|2005|2005
+COLOR|superior-blue-metallic|Superior Blue Metallic|WA703J|#2F5D8A|2005|2005
+COLOR|indigo-metallic|Indigo Metallic|WA9792|#2C2F5E|2005|2005
+COLOR|fine-silver-birch-metallic|Fine Silver Birch Metallic|WA926L|#C7C9CB|2005|2005
+COLOR|medium-green-metallic-05|Medium Green Metallic|WA9539|#3E6B4E|2005|2005
+COLOR|sandalwood-metallic|Sandalwood Metallic|WA711J|#B99A72|2005|2005
+COLOR|storm-gray-metallic|Storm Gray Metallic|WA391E|#6B6E70|2005|2005
+COLOR|stealth-gray|Stealth Gray|WA183E|#4E5254|2005|2005
+COLOR|medium-red-metallic|Medium Red Metallic|WA408G|#A23131|2005|2005
+COLOR|light-tarnished-silver-metallic|Light Tarnished Silver Metallic|WA994L|#B7B4AC|2005|2005
+COLOR|sunburst-orange-metallic|Sunburst Orange Metallic|WA802K|#D9752A|2005|2005
+COLOR|red-tint-coat-metallic|Red Tint Coat Metallic|WA379E|#A72A2E|2005|2005
+COLOR|dark-argent-metallic|Dark Argent Metallic|WA6270|#55575A|2005|2005
+COLOR|galaxy-silver-metallic|Galaxy Silver Metallic|WA519F|#C6C7C9|2005|2005
+COLOR|yellow-05|Yellow|WA5456|#F2D02E|2005|2005
 GENERATION|3g|2019|2024
 COLOR|sunlit-bronze-metallic|Sunlit Bronze Metallic|G10|#9C6B45|2019|2020
 COLOR|red-hot|Red Hot|G7C|#C81D25|2019|2024
@@ -93,7 +92,7 @@ COLOR|radiant-red-tintcoat|Radiant Red Tintcoat|GNT|#A31E2A|2023|2024
 COLOR|sterling-gray-metallic|Sterling Gray Metallic|GXD|#77797B|2023|2024
 COLOR|riptide-blue-metallic|Riptide Blue Metallic|GJV|#1E6E8C|2024|2024
 MODEL|blazer ev
-GENERATION|gen1|2024|2025
+GENERATION|1g|2024|2025
 COLOR|summit-white-ev|Summit White|GAZ|#F4F4F0|2024|2025
 COLOR|black-ev|Black|GBA|#0E0F12|2024|2025
 COLOR|sterling-gray-metallic-ev|Sterling Gray Metallic|GXD|#77797B|2024|2025
@@ -435,7 +434,7 @@ COLOR|sandalwood-metallic-s10-2g|Sandalwood Metallic|WA711J|#B99A72|2002|2002
 COLOR|light-bronze-mist-metallic-s10-2g|Light Bronze Mist Metallic|WA859J|#B79A6E|2002|2002
 COLOR|yellow-s10-2g|Yellow|WA5456|#F2D02E|2002|2002
 MODEL|silverado
-GENERATION|gmt800|1999|2007
+GENERATION|1g|1999|2007
 COLOR|storm-gray-metallic-silverado|Storm Gray Metallic|WA391E|#6B6E70|2000|2003
 COLOR|international-blue-metallic-silverado|International Blue Metallic|WA377E|#1E4E8C|2000|2000
 COLOR|fernmist-green-metallic|Fernmist Green Metallic|WA520F|#3E6B4A|2000|2000
@@ -463,7 +462,7 @@ COLOR|dark-argent-metallic-silverado-gmt800|Dark Argent Metallic|WA6270|#55575A|
 COLOR|white-diamond-pearl-silverado-gmt800|White Diamond Pearl|WA800J|#F0EDE5|2003|2003
 COLOR|yellow-silverado-gco|Yellow|WA9414|#F2C21E|2003|2003
 COLOR|wheatland-yellow-silverado-gmt800|Wheatland Yellow|WA253A|#E8B23A|2003|2003
-GENERATION|gmt900|2007|2013
+GENERATION|2g|2007|2013
 COLOR|black-granite-metallic-silverado-gmt900|Black Granite Metallic|GAR|#1C1D20|2009|2013
 COLOR|blue-granite-metallic|Blue Granite Metallic|G56|#4A5C6E|2009|2013
 COLOR|dark-cherry-metallic-silverado-gmt900|Dark Cherry Metallic|WA9800|#5C1F2C|2009|2009
@@ -483,7 +482,7 @@ COLOR|laser-blue-metallic-silverado|Laser Blue Metallic|G7Z|#1E4E8C|2009|2011
 COLOR|blue-topaz-metallic-silverado-gmt900|Blue Topaz Metallic|GTS|#2A5C9E|2012|2013
 COLOR|mocha-steel-metallic-silverado|Mocha Steel Metallic|GHA|#6B5A4E|2011|2013
 COLOR|graphite-metallic-silverado-gmt900|Graphite Metallic|GPA|#4A4D50|2013|2013
-GENERATION|k2xx|2014|2018
+GENERATION|3g|2014|2018
 COLOR|deep-ocean-blue-metallic-silverado|Deep Ocean Blue Metallic|G1K|#1E4A7A|2014|2018
 COLOR|iridescent-pearl-tricoat-silverado-k2xx|Iridescent Pearl Tricoat|G1W|#F0EDE5|2014|2018
 COLOR|havana-metallic-k2xx|Havana Metallic|G2X|#6B4A3E|2016|2018
@@ -497,7 +496,7 @@ COLOR|centennial-blue|Centennial Blue|G35|#2A4A6E|2018|2018
 COLOR|blue-topaz-metallic-silverado-k2xx|Blue Topaz Metallic|GTS|#2A5C9E|2014|2016
 COLOR|brownstone-metallic|Brownstone Metallic|GWX|#6B5A4E|2014|2016
 COLOR|satin-steel-metallic-silverado-k2xx|Satin Steel Metallic|G9K|#77797B|2017|2018
-GENERATION|t1xx|2019|2026
+GENERATION|4g|2019|2026
 COLOR|iridescent-pearl-tricoat-silverado-t1xx|Iridescent Pearl Tricoat|G1W|#F0EDE5|2019|2026
 COLOR|havana-metallic-t1xx|Havana Metallic|G2X|#6B4A3E|2019|2019
 COLOR|red-hot-silverado-t1xx|Red Hot|G7C|#C81D25|2019|2026
@@ -603,7 +602,7 @@ COLOR|rally-yellow-cobalt|Rally Yellow|WA9414|#F2C21E|2008|2009
 COLOR|silver-ice-metallic-cobalt|Silver Ice Metallic|WA636R|#C7C9CB|2009|2010
 COLOR|urbane-moss-cobalt|Urbane Moss (Silver Moss Metallic)|WA633R|#6B7A4E|2009|2010
 MODEL|cavalier
-GENERATION|2g|1991|1994
+GENERATION|1g|1991|1994
 COLOR|white-cavalier-3967|White|WA3967|#F2F1EC|1991|1991
 COLOR|silver-metallic-cavalier|Silver Metallic|WA8535|#C7C9CB|1991|1991
 COLOR|medium-gray-metallic-cavalier|Medium Gray Metallic|WA8573|#8A8D8F|1991|1991
@@ -627,7 +626,7 @@ COLOR|light-teal-metallic-cavalier|Light Teal Metallic|WA5323|#1E5C5C|1993|1994
 COLOR|medium-cloisonne-metallic-cavalier|Medium Cloisonne Metallic|WA127A|#4A5C8C|1994|1994
 COLOR|light-adriatic-metallic-cavalier|Light Adriatic Metallic|WA121A|#6FA0C9|1994|1994
 COLOR|bright-white-cavalier|Bright White|WA9753|#F4F4F0|1993|1994
-GENERATION|3g|1995|2005
+GENERATION|2g|1995|2005
 COLOR|bright-white-cavalier-g2|Bright White|WA9753|#F4F4F0|1995|2002
 COLOR|dahlia-blue-metallic|Dahlia Blue Metallic|WA337D|#2A5C9E|1998|2000
 COLOR|opal-blue-metallic|Opal Blue Metallic|WA305D|#1E4E8C|1998|1998
@@ -654,7 +653,7 @@ COLOR|arrival-blue-metallic-cavalier|Arrival Blue Metallic|WA815K|#2A4A7A|2003|2
 COLOR|ultra-silver-metallic-cavalier-g2|Ultra Silver Metallic|WA8867|#C9CBCD|1995|2004
 COLOR|victory-red-cavalier-g2|Victory Red|WA9260|#B71C1C|1995|2004
 COLOR|olympic-white-cavalier-g2|Olympic White|WA8624|#F4F4F0|1995|2004
-GENERATION|mx1|2019|2021
+GENERATION|3g|2019|2021
 COLOR|blue-me-away-metallic-2-cavalier|Blue Me Away Metallic 2|WA468B|#1E5C9E|2019|2021
 COLOR|switchblade-silver-metallic-cavalier|Switchblade Silver Metallic|WA636R|#C7C9CB|2019|2021
 COLOR|olympic-white-cavalier-mx1|Olympic White|WA8624|#F4F4F0|2019|2021
@@ -669,12 +668,12 @@ GENERATION|1g|2011|2015
 COLOR|carbon-flash-metallic-cruze|Carbon Flash Metallic|GAR|#1C1D20|2011|2015
 COLOR|gold-mist-metallic-cruze|Gold Mist Metallic|GAO|#C9A876|2011|2012
 COLOR|imperial-blue-cruze|Imperial Blue|GAP|#2A4A7A|2011|2011
-COLOR|summit-white-cruze|Summit White|GAZ|#F4F4F0|2011|2019
+COLOR|summit-white-cruze|Summit White|GAZ|#F4F4F0|2011|2015
 COLOR|crystal-red-metallic-tintcoat-cruze|Crystal Red Metallic Tintcoat|GBE|#7A1E2A|2011|2014
 COLOR|taupe-gray-metallic-cruze|Taupe Gray Metallic|GGW|#6E7276|2011|2011
 COLOR|ice-blue-metallic-cruze|Ice Blue Metallic|GLF|#A9C6DE|2011|2012
 COLOR|blue-granite-metallic-cruze|Blue Granite Metallic|G56|#4A5C6E|2012|2012
-COLOR|silver-ice-metallic-cruze|Silver Ice Metallic|GAN|#C7C9CB|2011|2016
+COLOR|silver-ice-metallic-cruze|Silver Ice Metallic|GAN|#C7C9CB|2011|2015
 COLOR|victory-red-cruze|Victory Red|GCN|#B71C1C|2012|2013
 COLOR|autumn-metallic-cruze|Autumn Metallic|GGT|#C2531E|2012|2013
 COLOR|blue-topaz-metallic-cruze|Blue Topaz Metallic|GTS|#2A5C9E|2012|2013
@@ -682,8 +681,8 @@ COLOR|atlantis-blue-metallic-cruze|Atlantis Blue Metallic|GWY|#1E5C9E|2013|2014
 COLOR|champagne-silver-metallic-cruze|Champagne Silver Metallic|GWT|#C9BBA0|2013|2015
 COLOR|cyber-gray-metallic-cruze|Cyber Gray Metallic|GBV|#6B6E70|2013|2013
 COLOR|rainforest-green-metallic-cruze|Rainforest Green Metallic|G7J|#2F6B4A|2014|2015
-COLOR|red-hot-cruze|Red Hot|G7C|#C81D25|2014|2019
-COLOR|blue-ray-metallic-cruze|Blue Ray Metallic|G54|#2A5C9E|2014|2016
+COLOR|red-hot-cruze|Red Hot|G7C|#C81D25|2014|2015
+COLOR|blue-ray-metallic-cruze|Blue Ray Metallic|G54|#2A5C9E|2014|2015
 COLOR|autumn-bronze-metallic-cruze|Autumn Bronze Metallic|G1F|#7A5230|2015|2015
 GENERATION|2g|2016|2019
 COLOR|graphite-metallic-cruze|Graphite Metallic|GPA|#4A4D50|2016|2018
@@ -695,7 +694,7 @@ COLOR|cajun-red-cruze|Cajun Red|GPJ|#7A1420|2017|2019
 COLOR|crimson-red-cruze|Crimson Red|G1E|#A31E3E|2016|2016
 COLOR|arctic-blue-metallic-cruze|Arctic Blue Metallic|GWY|#2A5C8C|2017|2018
 MODEL|malibu
-GENERATION|5g|1997|2003
+GENERATION|1g|1997|2003
 COLOR|galaxy-silver-metallic-malibu-g5|Galaxy Silver Metallic|WA519F|#C7C9CB|2001|2003
 COLOR|bright-white-malibu-g5|Bright White|WA9753|#F4F4F0|1999|2001
 COLOR|navy-blue-metallic-malibu|Navy Blue Metallic|WA353E|#1B3560|2000|2001
@@ -712,7 +711,7 @@ COLOR|redfire-metallic-malibu-g5|Redfire Metallic|WA526F|#A82A1E|2001|2003
 COLOR|silvermist-metallic-malibu|Silvermist Metallic|WA331D|#B8BABC|2000|2000
 COLOR|sandrift-metallic-malibu|Sandrift Metallic|WA312C|#C9AE86|1999|2000
 COLOR|jasper-green-metallic-malibu|Jasper Green Metallic|WA816K|#2F6B4A|1997|2003
-GENERATION|6g|2004|2007
+GENERATION|2g|2004|2007
 COLOR|galaxy-silver-metallic-malibu-g6|Galaxy Silver Metallic|WA519F|#C7C9CB|2004|2005
 COLOR|black-sapphire-metallic-malibu|Black Sapphire Metallic|WA8743|#17181C|2004|2004
 COLOR|light-driftwood-metallic-malibu-g6|Light Driftwood Metallic|WA5322|#A9A08C|2004|2005
@@ -726,7 +725,7 @@ COLOR|medium-spiral-gray-metallic-malibu|Medium Spiral Gray Metallic|WA812K|#6E7
 COLOR|silver-green-metallic-malibu-g6|Silver Green Metallic|WA816K|#7A8C6E|2005|2006
 COLOR|cashmere-metallic-malibu|Cashmere Metallic|WA929L|#C9B78E|2006|2006
 COLOR|light-tarnished-silver-metallic-malibu-g6|Light Tarnished Silver Metallic|WA994L|#B7B4AC|2006|2006
-GENERATION|7g|2008|2012
+GENERATION|3g|2008|2012
 COLOR|black-malibu-g7|Black|WA8555|#0E0F12|2008|2012
 COLOR|antique-bronze-metallic-malibu|Antique Bronze Metallic|WA317N|#8C5A3E|2008|2008
 COLOR|light-tarnished-silver-metallic-malibu-g7|Light Tarnished Silver Metallic|WA994L|#B7B4AC|2008|2008
@@ -759,7 +758,7 @@ COLOR|daydream-beige-metallic-malibu|Daydream Beige Metallic|WA892T|#C9BBA0|2011
 COLOR|anthracite-malibu|Anthracite|WA598F|#3A3D40|2011|2011
 COLOR|silver-ice-metallic-malibu|Silver Ice Metallic|WA636R|#C7C9CB|2011|2012
 COLOR|cyber-gray-metallic-malibu|Cyber Gray Metallic|WA637R|#6B6E70|2012|2012
-GENERATION|8g|2013|2015
+GENERATION|4g|2013|2015
 COLOR|atlantis-blue-metallic-malibu-g8|Atlantis Blue Metallic|GWY|#1E5C9E|2013|2014
 COLOR|luxo-blue-metallic-malibu|Luxo Blue Metallic|GTS|#2A5C9E|2013|2013
 COLOR|blue-topaz-pearl-malibu|Blue Topaz Pearl|GWS|#2A5C9E|2014|2015
@@ -767,7 +766,7 @@ COLOR|ashen-gray-metallic-malibu|Ashen Gray Metallic|GLJ|#6E7276|2013|2015
 COLOR|champagne-silver-metallic-malibu|Champagne Silver Metallic|GWT|#C9BBA0|2013|2015
 COLOR|autumn-bronze-metallic-malibu|Autumn Bronze Metallic|G1F|#7A5230|2015|2015
 COLOR|dark-sapphire-blue-metallic-malibu|Dark Sapphire Blue Metallic|G1M|#2A4A7A|2015|2015
-GENERATION|9g|2016|2025
+GENERATION|5g|2016|2025
 COLOR|iridescent-pearl-tricoat-malibu|Iridescent Pearl Tricoat|G1W|#F0EDE5|2016|2025
 COLOR|mosaic-black-metallic-malibu|Mosaic Black Metallic|GB8|#17181C|2016|2025
 COLOR|plum-berry-metallic-malibu|Plum Berry Metallic|G7U|#5C2A4E|2016|2016
@@ -778,7 +777,7 @@ COLOR|baroque-red-metallic-malibu|Baroque Red Metallic|G7T|#7A1E2A|2018|2019
 COLOR|cajun-red-malibu|Cajun Red|GR4|#7A1420|2019|2025
 COLOR|fine-silver-birch-metallic-malibu|Fine Silver Birch Metallic|WA926L|#C7C9CB|2016|2019
 MODEL|camaro
-GENERATION|3g|1991|1992
+GENERATION|1g|1991|1992
 COLOR|arctic-white-camaro-3g|Arctic White|WA9567|#F2F1EC|1991|1992
 COLOR|light-blue-camaro|Light Blue|WA9537|#6FA0C9|1991|1991
 COLOR|dark-teal-camaro-3g|Dark Teal|WA9238|#1E5C5C|1991|1992
@@ -792,7 +791,7 @@ COLOR|polo-green-ii-camaro|Polo Green II|WA9539|#4A8C4E|1992|1992
 COLOR|medium-quasar-blue-camaro-3g|Medium Quasar Blue|WA9544|#1F4E8C|1992|1992
 COLOR|purple-haze-camaro|Purple Haze|WA9802|#6E4A8C|1992|1992
 COLOR|silver-metallic-camaro-3g|Silver Metallic|WA8535|#C7C9CB|1991|1991
-GENERATION|4g|1993|2002
+GENERATION|2g|1993|2002
 COLOR|arctic-white-camaro-4g|Arctic White|WA9567|#F2F1EC|1993|2002
 COLOR|olympic-white-camaro-4g|Olympic White|WA8624|#F4F4F0|1993|2002
 COLOR|black-onyx-black-camaro-4g|Black (Onyx Black desde 2000)|WA8555|#0E0F12|1993|2002
@@ -815,7 +814,7 @@ COLOR|sport-gold-metallic-camaro|Sport Gold Metallic|WA380E|#C9A227|1998|1999
 COLOR|light-pewter-metallic-camaro|Light Pewter Metallic|WA382E|#8C8478|1999|2000
 COLOR|hugger-orange-camaro|Hugger Orange|WA523F|#D9581E|1999|2002
 COLOR|monterey-maroon-metallic-camaro|Monterey Maroon Metallic|WA408G|#6E1F26|1999|2002
-GENERATION|5g|2010|2015
+GENERATION|3g|2010|2015
 COLOR|aqua-blue-camaro-5g|Aqua Blue|WA638R|#3E8C9E|2010|2013
 COLOR|cyber-gray-camaro-5g|Cyber Gray|WA637R|#6B6E70|2010|2015
 COLOR|gloss-black-camaro-5g|Gloss Black|WA8555|#0E0F12|2010|2015
@@ -829,7 +828,7 @@ COLOR|synergy-green-camaro-5g|Synergy Green|WA708S|#2F8C3E|2010|2011
 COLOR|ashen-gray-camaro-5g|Ashen Gray|WA810T|#6E7276|2012|2013
 COLOR|carbon-flash-camaro-5g|Carbon Flash|WA501Q|#1C1D20|2012|2015
 COLOR|crystal-red-camaro-5g|Crystal Red|WA505Q|#7A1E2A|2012|2013
-GENERATION|6g|2016|2024
+GENERATION|4g|2016|2024
 COLOR|red-hot-camaro-6g|Red Hot|WA130X|#C81D25|2016|2024
 COLOR|satin-steel-gray-metallic-camaro-6g|Satin Steel Gray Metallic|WA464C|#77797B|2016|2018
 COLOR|summit-white-camaro-6g|Summit White|WA8624|#F4F4F0|2016|2024
@@ -841,7 +840,7 @@ COLOR|rapid-blue-camaro|Rapid Blue|WA632D|#1E5C9E|2019|2019
 COLOR|radiant-red-tintcoat-camaro-6g|Radiant Red Tintcoat|WA170H|#A31E2A|2022|2024
 COLOR|sharkskin-metallic-camaro-6g|Sharkskin Metallic|WA130H|#77797B|2022|2024
 MODEL|corvette
-GENERATION|c4|1991|1996
+GENERATION|1g|1991|1996
 COLOR|white-corvette-c4|White (Arctic White)|WA9567|#F2F1EC|1991|1996
 COLOR|steel-blue-metallic-corvette|Steel Blue Metallic|WA9080|#4A6E9E|1991|1991
 COLOR|yellow-corvette-c4|Yellow|WA8769|#F2D02E|1991|1991
@@ -855,7 +854,7 @@ COLOR|charcoal-metallic-corvette|Charcoal Metallic|WA9192|#3A3D40|1991|1991
 COLOR|competition-yellow-corvette|Competition Yellow|WA9804|#F2C21E|1993|1996
 COLOR|polo-green-ii-metallic-corvette|Polo Green II Metallic|WA9539|#4A8C4E|1992|1993
 COLOR|torch-red-corvette-c4|Torch Red|WA9075|#B71C1C|1993|1996
-GENERATION|c5|1997|2004
+GENERATION|2g|1997|2004
 COLOR|arctic-white-corvette-c5|Arctic White|WA9567|#F2F1EC|1997|2000
 COLOR|arctic-white-corvette-c5-04|Arctic White|WA9567|#F2F1EC|2004|2004
 COLOR|silver-metallic-corvette-c5|Silver Metallic (Sebring Silver)|WA9021|#C7C9CB|1997|2000
@@ -875,7 +874,7 @@ COLOR|magnetic-red-metallic-corvette|Magnetic Red Metallic|WA379E|#A31E24|1999|1
 COLOR|magnetic-red-ii-corvette|Magnetic Red-II|WA408G|#A23131|2000|2001
 COLOR|dark-bowling-green-metallic-corvette|Dark Bowling Green Metallic|WA567F|#1E5C3E|2000|2002
 COLOR|machine-silver-metallic-corvette|Machine Silver Metallic|WA994L|#C7C9CB|2004|2004
-GENERATION|c6|2005|2013
+GENERATION|3g|2005|2013
 COLOR|arctic-white-corvette-c6|Arctic White|WA9567|#F2F1EC|2005|2013
 COLOR|blade-silver-corvette|Blade Silver|WA636R|#C7C9CB|2009|2013
 COLOR|lemans-blue-corvette|LeMans Blue|WA933L|#2A5C9E|2005|2007
@@ -895,7 +894,7 @@ COLOR|red-tint-tricoat-corvette|Red Tint Tri-coat (Magnetic Red)|WA379E|#A31E24|
 COLOR|monterey-red-corvette|Monterey Red|WA301N|#8C1E24|2006|2006
 COLOR|carbon-flash-corvette-c6|Carbon Flash|WA501Q|#1C1D20|2012|2012
 COLOR|crystal-red-corvette-c6|Crystal Red|WA505Q|#7A1E2A|2008|2013
-GENERATION|c7|2014|2019
+GENERATION|4g|2014|2019
 COLOR|admiral-blue-corvette-c7|Admiral Blue|GTR|#1E3A5E|2016|2019
 COLOR|arctic-white-corvette-c7|Arctic White|G8G|#F2F1EC|2014|2019
 COLOR|black-corvette-c7|Black|GBA|#0E0F12|2014|2019
@@ -916,7 +915,7 @@ COLOR|shark-gray-corvette|Shark Gray|G1B|#6E7276|2016|2017
 COLOR|shadow-gray-metallic-corvette-c7|Shadow Gray Metallic|GJI|#4A4D50|2019|2019
 COLOR|sebring-orange-tintcoat-corvette-c7|Sebring Orange Tintcoat|G26|#D9581E|2019|2019
 COLOR|watkins-glen-gray-metallic-corvette|Watkins Glen Gray Metallic|G7Q|#3E4145|2019|2019
-GENERATION|c8|2020|2026
+GENERATION|5g|2020|2026
 COLOR|long-beach-red-metallic-corvette-c8|Long Beach Red Metallic|G1E|#8C1E2E|2020|2026
 COLOR|sebring-orange-tintcoat-corvette-c8|Sebring Orange Tintcoat|G26|#D9581E|2020|2026
 COLOR|arctic-white-corvette-c8|Arctic White|G8G|#F2F1EC|2020|2026
@@ -944,11 +943,11 @@ COLOR|hysteria-purple-metallic-corvette|Hysteria Purple Metallic|GXL|#5A2A6E|202
 COLOR|roswell-green-metallic-corvette|Roswell Green Metallic|G4Z|#3E8C3E|2025|2026
 COLOR|sea-wolf-gray-tricoat-corvette|Sea Wolf Gray Tri-coat|GXA|#6E7276|2025|2026
 MODEL|impala
-GENERATION|7g|1994|1996
+GENERATION|1g|1994|1996
 COLOR|black-impala-ss|Black|WA8555|#0E0F12|1994|1996
 COLOR|dark-cherry-metallic-impala-ss|Dark Cherry Metallic|WA9800|#5C1F2C|1995|1996
 COLOR|dark-gray-green-metallic-impala-ss|Dark Gray Green Metallic|WA9795|#5A6E5A|1995|1996
-GENERATION|8g|2000|2005
+GENERATION|2g|2000|2005
 COLOR|bright-white-impala|Bright White|WA9753|#F4F4F0|2000|2000
 COLOR|regal-blue-metallic-impala|Regal Blue Metallic|WA360E|#1E4A7A|2000|2002
 COLOR|navy-blue-metallic-impala|Navy Blue Metallic|WA353E|#1B3560|2000|2002
@@ -976,7 +975,7 @@ COLOR|dark-charcoal-impala|Dark Charcoal|WA207D|#3A3D40|2002|2002
 COLOR|bright-red-impala|Bright Red|WA8774|#C51E24|2000|2002
 COLOR|medium-green-metallic-impala|Medium Green Metallic|WA9539|#4A8C4E|2000|2002
 COLOR|superior-blue-metallic-impala|Superior Blue Metallic|WA703J|#2F5D8A|2004|2004
-GENERATION|9g|2006|2013
+GENERATION|3g|2006|2013
 COLOR|stealth-gray-metallic-impala|Stealth Gray Metallic|WA928L|#4A5C6E|2006|2013
 COLOR|switchblade-silver-metallic-impala|Switchblade Silver Metallic (Silver Ice)|WA636R|#C7C9CB|2009|2013
 COLOR|gold-mist-metallic-impala|Gold Mist Metallic|WA316N|#C9A876|2008|2012
@@ -1007,13 +1006,13 @@ COLOR|superior-blue-metallic-impala-g9|Superior Blue Metallic|WA703J|#2F5D8A|200
 COLOR|summit-white-impala-g9|Summit White|WA8624|#F4F4F0|2012|2013
 COLOR|fine-silver-birch-metallic-impala|Fine Silver Birch Metallic|WA926L|#C7C9CB|2006|2013
 COLOR|mocha-bronze-metallic-impala|Mocha Bronze Metallic|WA518Q|#7A5230|2009|2009
-GENERATION|10g|2014|2020
+GENERATION|4g|2014|2020
 COLOR|ashen-gray-metallic-impala-g10|Ashen Gray Metallic|WA810T|#6E7276|2014|2015
 COLOR|black-impala-g10|Black|WA8555|#0E0F12|2014|2020
 COLOR|blue-ray-metallic-impala|Blue Ray Metallic|WA189X|#2A5C9E|2014|2014
 COLOR|blue-topaz-metallic-impala-g10|Blue Topaz Metallic|WA933L|#2A5C9E|2014|2014
 COLOR|champagne-silver-metallic-impala-g10|Champagne Silver Metallic|WA102V|#C9BBA0|2014|2015
-COLOR|crystal-red-tintcoat-impala|Crystal Red Tintcoat|WA505Q|#7A1E2A|2013|2015
+COLOR|crystal-red-tintcoat-impala|Crystal Red Tintcoat|WA505Q|#7A1E2A|2014|2015
 COLOR|red-rock-metallic-impala|Red Rock Metallic (Spice Red)|WA138X|#A82A1E|2014|2015
 COLOR|silver-ice-metallic-impala-g10|Silver Ice Metallic|WA636R|#C7C9CB|2014|2020
 COLOR|silver-topaz-metallic-impala|Silver Topaz Metallic|WA101V|#C9CBCE|2014|2015
@@ -1114,7 +1113,7 @@ COLOR|mosaic-black-metallic-trailblazer|Mosaic Black Metallic|GB0|#16171A|2024|2
 COLOR|summit-white-trailblazer-crossover|Summit White|GAZ|#F4F4F0|2021|2026
 COLOR|marina-blue-metallic-trailblazer|Marina Blue Metallic|GKN|#1E5C9E|2025|2026
 MODEL|suburban
-GENERATION|8g|1992|1999
+GENERATION|1g|1992|1999
 COLOR|bahama-blue-suburban|Bahama Blue|WA9656|#2E6DA4|1992|1992
 COLOR|light-blue-suburban|Light Blue|WA9264|#6FA0C9|1992|1992
 COLOR|medium-dark-teal-suburban|Medium Dark Teal|WA9828|#1F5C5C|1992|1998
@@ -1145,7 +1144,7 @@ COLOR|cherry-red-metallic-suburban-8g|Cherry Red Metallic|WA9088|#9E1B2C|1996|19
 COLOR|black-sapphire-metallic-suburban-8g|Black Sapphire Metallic|WA8863|#17181C|1996|1998
 COLOR|gray-metallic-suburban-8g|Gray Metallic|WA8798|#8A8D8F|1996|1999
 COLOR|dark-argent-metallic-suburban-8g|Dark Argent Metallic|WA6270|#55575A|1996|1999
-GENERATION|9g|2000|2006
+GENERATION|2g|2000|2006
 COLOR|storm-gray-metallic-suburban-9g|Storm Gray Metallic|WA391E|#6B6E70|2000|2003
 COLOR|black-suburban-9g|Black|WA8555|#0E0F12|2000|2006
 COLOR|victory-red-suburban-9g|Victory Red|WA9260|#B71C1C|2000|2004
@@ -1161,7 +1160,7 @@ COLOR|white-diamond-pearl-suburban-9g|White Diamond Pearl|WA800J|#F0EDE5|2003|20
 COLOR|light-autumnwood-metallic-suburban-9g|Light Autumnwood Metallic|WA228A|#A97A54|2000|2003
 COLOR|wheatland-yellow-suburban-9g|Wheatland Yellow|WA253A|#E8B23A|2003|2003
 COLOR|woodland-green-suburban-9g|Woodland Green|WA9015|#2F4E2E|2003|2006
-GENERATION|10g|2007|2014
+GENERATION|3g|2007|2014
 COLOR|black-granite-metallic-suburban-10g|Black Granite Metallic|GAR|#1C1D20|2009|2013
 COLOR|blue-granite-metallic-suburban-10g|Blue Granite Metallic|G56|#4A5C6E|2009|2013
 COLOR|deep-ruby-metallic-suburban-10g|Deep Ruby Metallic|GCE|#6E1B2E|2009|2013
@@ -1175,7 +1174,7 @@ COLOR|steel-green-suburban-10g|Steel Green|GGU|#2F5C52|2011|2011
 COLOR|blue-topaz-metallic-suburban-10g|Blue Topaz Metallic|GTS|#2A5C9E|2012|2013
 COLOR|mocha-steel-metallic-suburban-10g|Mocha Steel Metallic|GHA|#6B5A4E|2011|2013
 COLOR|graphite-metallic-suburban-10g|Graphite Metallic|GPA|#4A4D50|2013|2013
-GENERATION|11g|2015|2020
+GENERATION|4g|2015|2020
 COLOR|iridescent-pearl-tricoat-suburban-11g|Iridescent Pearl Tricoat|G1W|#F0EDE5|2015|2020
 COLOR|red-hot-suburban-11g|Red Hot|G7C|#C81D25|2015|2020
 COLOR|silver-ice-metallic-suburban-11g|Silver Ice Metallic|GAN|#C7C9CB|2015|2020
@@ -1186,7 +1185,7 @@ COLOR|graphite-metallic-suburban-11g|Graphite Metallic|GPA|#4A4D50|2015|2018
 COLOR|cajun-red-tintcoat-suburban-11g|Cajun Red Tintcoat|GPJ|#7A1420|2015|2020
 COLOR|satin-steel-metallic-suburban-11g|Satin Steel Metallic|G9K|#77797B|2017|2018
 COLOR|shadow-gray-metallic-suburban-11g|Shadow Gray Metallic|GJI|#4A4D50|2019|2020
-GENERATION|12g|2021|2026
+GENERATION|5g|2021|2026
 COLOR|summit-white-suburban-12g|Summit White|GAZ|#F4F4F0|2021|2026
 COLOR|black-suburban-12g|Black|GBA|#0E0F12|2021|2026
 COLOR|iridescent-pearl-tricoat-suburban-12g|Iridescent Pearl Tricoat (Abalone White)|G1W|#F0EDE5|2021|2026
@@ -1393,7 +1392,7 @@ COLOR|nitro-yellow-metallic-trax|Nitro Yellow Metallic|GCP|#C7D82C|2024|2025
 COLOR|crimson-metallic-trax-2g|Crimson Metallic|GFM|#9E1B24|2024|2025
 COLOR|radiant-red-tricoat-trax|Radiant Red Tricoat|GNT|#A31E2A|2024|2025
 COLOR|iridescent-pearl-tricoat-trax|Iridescent Pearl Tricoat|G1W|#F0EDE5|2024|2025
-MODEL|captiva sport
+MODEL|captiva
 GENERATION|1g|2012|2015
 COLOR|black-granite-metallic-captiva|Black Granite Metallic|GAR|#1C1D20|2012|2014
 COLOR|blue-topaz-metallic-captiva|Blue Topaz Metallic|GTS|#2A5C9E|2012|2013
