@@ -1,0 +1,3755 @@
+{
+  "make": "hyundai",
+  "colors": {
+    "PW": {
+      "slug": "polar-white",
+      "name": "Polar White",
+      "hex": "#FFFFFF"
+    },
+    "S2": {
+      "slug": "silver-metallic",
+      "name": "Silver Metallic",
+      "hex": "#B5B5B5"
+    },
+    "G2": {
+      "slug": "dark-green-metallic",
+      "name": "Dark Green Metallic",
+      "hex": "#1A3A2A"
+    },
+    "B2": {
+      "slug": "dark-blue-metallic",
+      "name": "Dark Blue Metallic",
+      "hex": "#0A1A3A"
+    },
+    "R1": {
+      "slug": "red",
+      "name": "Red",
+      "hex": "#C41E3A"
+    },
+    "BM": {
+      "slug": "beige-metallic",
+      "name": "Beige Metallic",
+      "hex": "#B8A58A"
+    },
+    "SF": {
+      "slug": "silver-frost-metallic",
+      "name": "Silver Frost Metallic",
+      "hex": "#BCBCBC"
+    },
+    "DB": {
+      "slug": "dark-blue-pearl",
+      "name": "Dark Blue Pearl",
+      "hex": "#0A1A3A"
+    },
+    "EG": {
+      "slug": "emerald-green-pearl",
+      "name": "Emerald Green Pearl",
+      "hex": "#1A3A2A"
+    },
+    "RR": {
+      "slug": "ruby-red-pearl",
+      "name": "Ruby Red Pearl",
+      "hex": "#9B111E"
+    },
+    "SS": {
+      "slug": "sandstone-metallic",
+      "name": "Sandstone Metallic",
+      "hex": "#B8A58A"
+    },
+    "BK": {
+      "slug": "black",
+      "name": "Black",
+      "hex": "#0A0A0A"
+    },
+    "EB": {
+      "slug": "ebony-black",
+      "name": "Ebony Black",
+      "hex": "#0A0A0A"
+    },
+    "GR": {
+      "slug": "garnet-red-pearl",
+      "name": "Garnet Red Pearl",
+      "hex": "#9B111E"
+    },
+    "SB": {
+      "slug": "silk-beige-metallic",
+      "name": "Silk Beige Metallic",
+      "hex": "#C8B8A0"
+    },
+    "IB": {
+      "slug": "indigo-blue-pearl",
+      "name": "Indigo Blue Pearl",
+      "hex": "#1A2A4A"
+    },
+    "GM": {
+      "slug": "green-metallic",
+      "name": "Green Metallic",
+      "hex": "#1A3A2A"
+    },
+    "BP": {
+      "slug": "blue-pearl",
+      "name": "Blue Pearl",
+      "hex": "#1A2A4A"
+    },
+    "RP": {
+      "slug": "red-pearl",
+      "name": "Red Pearl",
+      "hex": "#9B111E"
+    },
+    "TS": {
+      "slug": "titanium-silver-metallic",
+      "name": "Titanium Silver Metallic",
+      "hex": "#A0A0A0"
+    },
+    "VR": {
+      "slug": "velocity-red",
+      "name": "Velocity Red",
+      "hex": "#C41E3A"
+    },
+    "PB": {
+      "slug": "phantom-black",
+      "name": "Phantom Black",
+      "hex": "#0A0A0A"
+    },
+    "PS": {
+      "slug": "platinum-silver-metallic",
+      "name": "Platinum Silver Metallic",
+      "hex": "#A8A8A8"
+    },
+    "DK": {
+      "slug": "dark-knight-pearl",
+      "name": "Dark Knight Pearl",
+      "hex": "#1A1A2A"
+    },
+    "FR": {
+      "slug": "fire-red",
+      "name": "Fire Red",
+      "hex": "#C41E3A"
+    },
+    "IF": {
+      "slug": "ignite-flame-red",
+      "name": "Ignite Flame Red",
+      "hex": "#C41E3A"
+    },
+    "SW": {
+      "slug": "serenity-white-pearl",
+      "name": "Serenity White Pearl",
+      "hex": "#F5F5F0"
+    },
+    "CG": {
+      "slug": "cyber-gray-metallic",
+      "name": "Cyber Gray Metallic",
+      "hex": "#5A5A5A"
+    },
+    "AW": {
+      "slug": "atlas-white",
+      "name": "Atlas White",
+      "hex": "#FFFFFF"
+    },
+    "NG": {
+      "slug": "nocturne-gray-metallic",
+      "name": "Nocturne Gray Metallic",
+      "hex": "#3A3A3A"
+    },
+    "AG": {
+      "slug": "amazon-gray-metallic",
+      "name": "Amazon Gray Metallic",
+      "hex": "#4A4A4A"
+    },
+    "UR": {
+      "slug": "ultimate-red-metallic",
+      "name": "Ultimate Red Metallic",
+      "hex": "#C41E3A"
+    },
+    "DS": {
+      "slug": "deep-sea-blue-metallic",
+      "name": "Deep Sea Blue Metallic",
+      "hex": "#1A2A4A"
+    },
+    "VC": {
+      "slug": "vitamin-c-orange",
+      "name": "Vitamin C Orange",
+      "hex": "#FF6600"
+    },
+    "SO": {
+      "slug": "shout-orange",
+      "name": "Shout Orange",
+      "hex": "#FF4500"
+    },
+    "TP": {
+      "slug": "techno-pink",
+      "name": "Techno Pink",
+      "hex": "#FF1493"
+    },
+    "CW": {
+      "slug": "chalk-white",
+      "name": "Chalk White",
+      "hex": "#F5F5F0"
+    },
+    "PR": {
+      "slug": "pulse-red",
+      "name": "Pulse Red",
+      "hex": "#C41E3A"
+    },
+    "AY": {
+      "slug": "acid-yellow",
+      "name": "Acid Yellow",
+      "hex": "#FFF200"
+    },
+    "DJ": {
+      "slug": "dive-in-jeju",
+      "name": "Dive In Jeju",
+      "hex": "#00BFFF"
+    },
+    "CB": {
+      "slug": "ceramic-blue",
+      "name": "Ceramic Blue",
+      "hex": "#1A3A5A"
+    },
+    "OS": {
+      "slug": "outer-space",
+      "name": "Outer Space",
+      "hex": "#2A2A2A"
+    },
+    "GG": {
+      "slug": "galactic-gray",
+      "name": "Galactic Gray",
+      "hex": "#4A4A4A"
+    },
+    "RF": {
+      "slug": "rain-forest",
+      "name": "Rain Forest",
+      "hex": "#2E5A3A"
+    },
+    "SG": {
+      "slug": "steel-graphite",
+      "name": "Steel Graphite",
+      "hex": "#4A4A4A"
+    },
+    "WS": {
+      "slug": "white-sand",
+      "name": "White Sand",
+      "hex": "#F5F5F0"
+    },
+    "HW": {
+      "slug": "hyper-white",
+      "name": "Hyper White",
+      "hex": "#FFFFFF"
+    },
+    "QW": {
+      "slug": "quartz-white-pearl",
+      "name": "Quartz White Pearl",
+      "hex": "#F5F5F0"
+    },
+    "DN": {
+      "slug": "denim",
+      "name": "Denim",
+      "hex": "#1A3A5A"
+    },
+    "GA": {
+      "slug": "green-apple",
+      "name": "Green Apple",
+      "hex": "#8FBC8F"
+    },
+    "EY": {
+      "slug": "electrolyte-yellow-green",
+      "name": "Electrolyte Yellow Green",
+      "hex": "#CCFF00"
+    },
+    "MB": {
+      "slug": "marina-blue",
+      "name": "Marina Blue",
+      "hex": "#1A3A5A"
+    },
+    "RS": {
+      "slug": "r-spec-red",
+      "name": "R-Spec Red",
+      "hex": "#C41E3A"
+    },
+    "TL": {
+      "slug": "teal",
+      "name": "Teal",
+      "hex": "#008080"
+    },
+    "LB": {
+      "slug": "lucidity-blue-pearl",
+      "name": "Lucidity Blue Pearl",
+      "hex": "#1A3A5A"
+    }
+  },
+  "models": [
+    {
+      "name": "accent",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1995,
+            "to": 1999
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "S2",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "G2",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "B2",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "R1",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "BM",
+              "from": 1995,
+              "to": 1999
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2000,
+            "to": 2005
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "SF",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "DB",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "EG",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "RR",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "SS",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "BK",
+              "from": 2000,
+              "to": 2005
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2006,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "SF",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "EB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "DB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "GR",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "SB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "IB",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "GM",
+              "from": 2008,
+              "to": 2010
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2012,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "SF",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "EB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "BP",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "RP",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "SB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "TS",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "VR",
+              "from": 2016,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2018,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "PB",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "PS",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "DK",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "FR",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "EB",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "IF",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "IB",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "elantra",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1992,
+            "to": 1995
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "S2",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "G2",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "B2",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "R1",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "BM",
+              "from": 1992,
+              "to": 1995
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1996,
+            "to": 2000
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "SF",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "DB",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "EG",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "RR",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "SS",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "BK",
+              "from": 1996,
+              "to": 2000
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2001,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "SF",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "EB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "DB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "GR",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "SB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "GM",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "BM",
+              "from": 2004,
+              "to": 2006
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2007,
+            "to": 2010
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "SF",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "EB",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "BP",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "RP",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "SB",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "TS",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "DB",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "GM",
+              "from": 2009,
+              "to": 2010
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2011,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "SF",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "EB",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "BP",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "RP",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "SB",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "TS",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "VR",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "PS",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "DK",
+              "from": 2014,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2016,
+            "to": 2020
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "PB",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "PS",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "DK",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "FR",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "EB",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "IF",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "IB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "TS",
+              "from": 2019,
+              "to": 2020
+            }
+          ]
+        },
+        {
+          "name": "7g",
+          "years": {
+            "from": 2021,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "IF",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "IB",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sonata",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1997
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "S2",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "G2",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "B2",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "R1",
+              "from": 1991,
+              "to": 1997
+            },
+            {
+              "code": "BM",
+              "from": 1991,
+              "to": 1997
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1998,
+            "to": 2004
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "SF",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "DB",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "EG",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "RR",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "SS",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "BK",
+              "from": 1998,
+              "to": 2004
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2005,
+            "to": 2009
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "SF",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "EB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "DB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "GR",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "SB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "TS",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "BM",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "GM",
+              "from": 2007,
+              "to": 2009
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2010,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "SF",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "EB",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "BP",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "RP",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "SB",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "TS",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "DB",
+              "from": 2011,
+              "to": 2014
+            },
+            {
+              "code": "VR",
+              "from": 2011,
+              "to": 2014
+            },
+            {
+              "code": "PS",
+              "from": 2011,
+              "to": 2014
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2015,
+            "to": 2019
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "PB",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "PS",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "DK",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "FR",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "EB",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "IF",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "IB",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "TS",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "SW",
+              "from": 2018,
+              "to": 2019
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2020,
+            "to": 2024
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "PB",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "PS",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "DK",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "FR",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "EB",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "IB",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "SW",
+              "from": 2020,
+              "to": 2024
+            },
+            {
+              "code": "CG",
+              "from": 2021,
+              "to": 2024
+            },
+            {
+              "code": "AW",
+              "from": 2023,
+              "to": 2024
+            }
+          ]
+        },
+        {
+          "name": "7g",
+          "years": {
+            "from": 2025,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2025,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2025,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tucson",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2005,
+            "to": 2009
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "SF",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "EB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "DB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "GR",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "SB",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "TS",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "GM",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "BM",
+              "from": 2007,
+              "to": 2009
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2010,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "SF",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "EB",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "BP",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "RP",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "SB",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "TS",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "DB",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "VR",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "PS",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "DK",
+              "from": 2013,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2016,
+            "to": 2021
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "PB",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "PS",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "DK",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "FR",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "EB",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "IF",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "IB",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "TS",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "SW",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "CG",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "AW",
+              "from": 2020,
+              "to": 2021
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "AG",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "UR",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "santa-fe",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2001,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "SF",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "EB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "DB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "GR",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "SB",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "TS",
+              "from": 2001,
+              "to": 2006
+            },
+            {
+              "code": "GM",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "BM",
+              "from": 2003,
+              "to": 2006
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2007,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "SF",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "EB",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "BP",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "RP",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "SB",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "TS",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "DB",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "VR",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "PS",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "DK",
+              "from": 2009,
+              "to": 2012
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2013,
+            "to": 2018
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "SF",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "EB",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "BP",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "RP",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "SB",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "TS",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "DB",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "VR",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "PS",
+              "from": 2013,
+              "to": 2018
+            },
+            {
+              "code": "DK",
+              "from": 2014,
+              "to": 2018
+            },
+            {
+              "code": "IF",
+              "from": 2014,
+              "to": 2018
+            },
+            {
+              "code": "IB",
+              "from": 2014,
+              "to": 2018
+            },
+            {
+              "code": "SW",
+              "from": 2016,
+              "to": 2018
+            },
+            {
+              "code": "CG",
+              "from": 2017,
+              "to": 2018
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2019,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "PB",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "PS",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "DK",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "FR",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "EB",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "SW",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "CG",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "AW",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "NG",
+              "from": 2020,
+              "to": 2023
+            },
+            {
+              "code": "AG",
+              "from": 2020,
+              "to": 2023
+            },
+            {
+              "code": "UR",
+              "from": 2021,
+              "to": 2023
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2024,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "AG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "UR",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "DS",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "h-1",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1997,
+            "to": 2004
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "S2",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "B2",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "G2",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "R1",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "BM",
+              "from": 1997,
+              "to": 2004
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2005,
+            "to": 2007
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "SF",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "EB",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "DB",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "GR",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "SB",
+              "from": 2005,
+              "to": 2007
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2008,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "SF",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "EB",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "BP",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "RP",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "SB",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "TS",
+              "from": 2008,
+              "to": 2014
+            },
+            {
+              "code": "DB",
+              "from": 2009,
+              "to": 2014
+            },
+            {
+              "code": "VR",
+              "from": 2009,
+              "to": 2014
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2015,
+            "to": 2021
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "PB",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "PS",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "DK",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "FR",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "EB",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "SW",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "CG",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "AW",
+              "from": 2018,
+              "to": 2021
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "AG",
+              "from": 2023,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "porter",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 2004
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1991,
+              "to": 2004
+            },
+            {
+              "code": "S2",
+              "from": 1991,
+              "to": 2004
+            },
+            {
+              "code": "B2",
+              "from": 1991,
+              "to": 2004
+            },
+            {
+              "code": "G2",
+              "from": 1991,
+              "to": 2004
+            },
+            {
+              "code": "R1",
+              "from": 1991,
+              "to": 2004
+            },
+            {
+              "code": "BM",
+              "from": 1991,
+              "to": 2004
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2004,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "SF",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "EB",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "DB",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "GR",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "SB",
+              "from": 2004,
+              "to": 2012
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2012,
+            "to": 2020
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "SF",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "EB",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "BP",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "RP",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "SB",
+              "from": 2012,
+              "to": 2020
+            },
+            {
+              "code": "TS",
+              "from": 2012,
+              "to": 2018
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2020,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2021,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "veloster",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2012,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PS",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "DK",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "FR",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "EB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "VC",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "SO",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "TP",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "DB",
+              "from": 2013,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2019,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "PB",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "PS",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "DK",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "FR",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "EB",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "IF",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "IB",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "CG",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "CW",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "kona",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2018,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "PB",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "PS",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "DK",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "FR",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "EB",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "PR",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "AY",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "DJ",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "CB",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "OS",
+              "from": 2020,
+              "to": 2023
+            },
+            {
+              "code": "GG",
+              "from": 2021,
+              "to": 2023
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2024,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "EG",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "palisade",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2020,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "RF",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "SG",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "WS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "HW",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "QW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "RR",
+              "from": 2022,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "venue",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2020,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "IB",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "DN",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "GA",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "SO",
+              "from": 2021,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ioniq",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2017,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "PB",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "PS",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "DK",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "FR",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "EB",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "EY",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "MB",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "SW",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "azera",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2006,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "SF",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "EB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "DB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "GR",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "SB",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "TS",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "PS",
+              "from": 2008,
+              "to": 2011
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2012,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PS",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "DK",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "FR",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "EB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "SW",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "CG",
+              "from": 2014,
+              "to": 2017
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "veracruz",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2007,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "SF",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "EB",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "DB",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "GR",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "SB",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "TS",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "PS",
+              "from": 2008,
+              "to": 2012
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tiburon",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1997,
+            "to": 2001
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "S2",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "G2",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "B2",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "R1",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "BM",
+              "from": 1997,
+              "to": 2001
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2003,
+            "to": 2008
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "SF",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "EB",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "BP",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "RP",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "SB",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "TS",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "VR",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "PS",
+              "from": 2005,
+              "to": 2008
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "genesis-coupe",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2010,
+            "to": 2016
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "PB",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "PS",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "DK",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "FR",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "EB",
+              "from": 2010,
+              "to": 2016
+            },
+            {
+              "code": "RR",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "RS",
+              "from": 2013,
+              "to": 2016
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "elantra-gt",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2013,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "PB",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "PS",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "DK",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "FR",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "EB",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "VC",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "SO",
+              "from": 2016,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2018,
+            "to": 2020
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "PB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "PS",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "DK",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "FR",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "EB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "IF",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "IB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "CG",
+              "from": 2019,
+              "to": 2020
+            },
+            {
+              "code": "CW",
+              "from": 2019,
+              "to": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "accent-hatch",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2012,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "PS",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "DK",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "FR",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "EB",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "VC",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "SO",
+              "from": 2016,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2018,
+            "to": 2020
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "PB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "PS",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "DK",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "FR",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "EB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "IF",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "IB",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "CG",
+              "from": 2019,
+              "to": 2020
+            },
+            {
+              "code": "CW",
+              "from": 2019,
+              "to": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ioniq-5",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "GM",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "TL",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "LB",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "SS",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "UR",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ioniq-6",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2023,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "GM",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "BP",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "kona-ev",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2019,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "PB",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "PS",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "DK",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "FR",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "EB",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "PR",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "AY",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "CB",
+              "from": 2019,
+              "to": 2023
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2024,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2024,
+              "to": 2026
+            },
+            {
+              "code": "EG",
+              "from": 2024,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "veloster-n",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2019,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "PB",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "PS",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "DK",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "CW",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "CG",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "elantra-n",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "IF",
+              "from": 2023,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "staria",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "FR",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "EB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "SW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CG",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "AW",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "NG",
+              "from": 2023,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "kona-n",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2022,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "PW",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "PB",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "PS",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "DK",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "CW",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "CG",
+              "from": 2022,
+              "to": 2023
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
