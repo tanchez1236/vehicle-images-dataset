@@ -1,0 +1,847 @@
+MAKE|nissan
+MODEL|altima
+GENERATION|1g|1993|1997
+COLOR|beige|Beige|HAF|#BFAF97|1993|1996
+COLOR|platinum-metallic|Platinum Metallic|KN0|#C2C3C3|1993|1997
+COLOR|super-black|Super Black|KH3|#0B0B0D|1993|1997
+COLOR|vail-white|Vail White|531|#D7D9DB|1993|1994
+COLOR|blue-emerald-pearl|Blue Emerald Pearl|FN2|#1CA9C9|1995|1997
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|1995|1997
+COLOR|deep-purple-pearl|Deep Purple Pearl|LP2|#29006B|1995|1996
+COLOR|black-cherry-metallic|Black Cherry Metallic|AS0|#000000|1997|1997
+GENERATION|2g|1998|2001
+COLOR|black-cherry-metallic|Black Cherry Metallic|AS0|#000000|1998|2000
+COLOR|blue-emerald-pearl|Blue Emerald Pearl|FN2|#1CA9C9|1998|1999
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|1998|2001
+COLOR|platinum-metallic|Platinum Metallic|KN0|#C2C3C3|1998|2001
+COLOR|super-black|Super Black|KH3|#0B0B0D|1998|2001
+COLOR|brushed-pewter-metallic|Brushed Pewter Metallic|CS3|#817E75|1999|2001
+COLOR|titanium-frost-pearl|Titanium Frost Pearl|KV0|#726F6D|1999|2001
+COLOR|alpine-white-pearl|Alpine White Pearl|QV2|#F2F2EE|2000|2001
+COLOR|green-emerald-metallic|Green Emerald Metallic|DW1|#25272A|2000|2001
+COLOR|sandrift-beige-metallic|Sandrift Beige Metallic|CV4|#8D857E|2000|2001
+COLOR|nouveau-ruby-mica|Nouveau Ruby Mica|AX3|#B31F2B|2001|2001
+COLOR|satin-white-pearl|Satin White Pearl|QX3|#E1E1E1|2001|2001
+GENERATION|3g|2002|2006
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2002|2002
+COLOR|mystic-emerald-metallic|Mystic Emerald Metallic|DY2|#28503A|2002|2006
+COLOR|nouveau-ruby-mica|Nouveau Ruby Mica|AX3|#B31F2B|2002|2002
+COLOR|satin-white-pearl|Satin White Pearl|QX3|#E1E1E1|2002|2006
+COLOR|super-black|Super Black|KH3|#0B0B0D|2002|2006
+COLOR|velvet-beige-metallic|Velvet Beige Metallic|EY1|#BFAF97|2002|2004
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|B16|#234073|2003|2003
+COLOR|sonoma-sunset-metallic|Sonoma Sunset Metallic|NAD|#753A00|2003|2006
+COLOR|smoke-metallic|Smoke Metallic|K11|#747577|2004|2006
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2005|2006
+COLOR|coral-sand-metallic|Coral Sand Metallic|C12|#B1AB9F|2005|2006
+COLOR|majestic-blue-metallic|Majestic Blue Metallic|BW9|#1F3C64|2005|2006
+GENERATION|4g|2007|2012
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2007|2009
+COLOR|dark-slate-metallic|Dark Slate Metallic|K50|#333537|2007|2012
+COLOR|majestic-blue-metallic|Majestic Blue Metallic|BW9|#1F3C64|2007|2008
+COLOR|precision-gray-metallic|Precision Gray Metallic|W40|#5A5B5F|2007|2009
+COLOR|radiant-silver-metallic|Radiant Silver Metallic|K12|#DAD9DE|2007|2010
+COLOR|sonoma-sunset-metallic|Sonoma Sunset Metallic|NAD|#753A00|2007|2008
+COLOR|super-black|Super Black|KH3|#0B0B0D|2007|2012
+COLOR|azure-blue-metallic|Azure Blue Metallic|B54|#7B99B3|2008|2009
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2011|2012
+COLOR|saharan-stone-metallic|Saharan Stone Metallic|KAH|#BFAF97|2011|2012
+GENERATION|5g|2013|2018
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2013|2018
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2013|2017
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2013|2018
+COLOR|saharan-stone-metallic|Saharan Stone Metallic|KAH|#BFAF97|2013|2015
+COLOR|super-black|Super Black|KH3|#0B0B0D|2013|2018
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2014|2018
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2016|2018
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2016|2018
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2017|2018
+GENERATION|6g|2019|2025
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2019|2025
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2019|2024
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2019|2025
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2019|2025
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2019|2025
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2019|2025
+COLOR|super-black|Super Black|KH3|#0B0B0D|2019|2025
+COLOR|ethos-gray-pearl|Ethos Gray Pearl|KCH|#5E6264|2023|2025
+COLOR|bluestone-pearl|Bluestone Pearl|RCF|#0000EA|2025|2025
+MODEL|frontier
+GENERATION|1g|1998|2004
+COLOR|aztec-red|Aztec Red|AG2|#B31F2B|1998|2004
+COLOR|bright-blue-pearl|Bright Blue Pearl|BX7|#486088|1998|1998
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|1998|2002
+COLOR|green-iron-oxide-pearl|Green Iron Oxide Pearl|DS2|#28503A|1998|1998
+COLOR|super-black|Super Black|KH3|#0B0B0D|1998|2004
+COLOR|black-emerald-metallic|Black Emerald Metallic|DJ2|#000000|1999|1999
+COLOR|alpine-green-metallic|Alpine Green Metallic|DW6|#2B423C|2000|2002
+COLOR|charcoal-mist-metallic|Charcoal Mist Metallic|KV1|#48494B|2000|2000
+COLOR|denim-blue-metallic|Denim Blue Metallic|BW2|#34324D|2000|2000
+COLOR|salsa-metallic|Salsa Metallic|AW8|#B31F2B|2000|2001
+COLOR|sand-dune-metallic|Sand Dune Metallic|CV0|#BDB9AD|2000|2004
+COLOR|silver-ice-metallic|Silver Ice Metallic|KV8|#CBCACF|2000|2003
+COLOR|solar-yellow|Solar Yellow|EW3|#E8C22A|2000|2004
+COLOR|blue|Blue|BX5|#2051AA|2001|2002
+COLOR|bronze-gold-metallic|Bronze Gold Metallic|EX1|#A3A08D|2001|2002
+COLOR|khaki|Khaki|CV9|#948654|2001|2001
+COLOR|molten-lava-metallic|Molten Lava Metallic|AY3|#AF2E44|2002|2003
+COLOR|radiant-silver-metallic|Radiant Silver Metallic|K12|#DAD9DE|2004|2004
+GENERATION|2g|2005|2021
+COLOR|aztec-red|Aztec Red|AG2|#B31F2B|2005|2005
+COLOR|radiant-silver-metallic|Radiant Silver Metallic|K12|#DAD9DE|2005|2011
+COLOR|solar-yellow|Solar Yellow|EW3|#E8C22A|2005|2006
+COLOR|super-black|Super Black|KH3|#0B0B0D|2005|2015
+COLOR|majestic-blue-metallic|Majestic Blue Metallic|BW9|#1F3C64|2006|2008
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2012|2021
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2013|2021
+COLOR|glacier-white|Glacier White|369|#F3F4F0|2013|2021
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2016|2021
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2016|2021
+GENERATION|3g|2022|2025
+COLOR|cardinal-red-metallic-tricoat|Cardinal Red Metallic Tricoat|NBY|#B31F2B|2022|2025
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2022|2023
+COLOR|glacier-white|Glacier White|369|#F3F4F0|2022|2025
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2022|2025
+COLOR|bluestone-pearl|Bluestone Pearl|RCF|#0000EA|2024|2025
+COLOR|afterburn-orange|Afterburn Orange|ECG|#EC572C|2025|2025
+MODEL|kicks
+GENERATION|1g|2018|2025
+COLOR|black-pearl-metallic|Black Pearl Metallic|G42|#0D0E11|2018|2024
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2018|2020
+COLOR|carmine-red-metallic|Carmine Red Metallic|NAC|#B31F2B|2018|2021
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2018|2020
+COLOR|classic-night-shade-metallic|Classic Night Shade Metallic|GAB|#141619|2018|2024
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2018|2025
+COLOR|dark-brown-pearl-metallic|Dark Brown Pearl Metallic|CAQ|#32271E|2018|2024
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2018|2020
+COLOR|deep-sapphire-metallic|Deep Sapphire Metallic|RAA|#0D2D5E|2018|2024
+COLOR|desert-shadow-metallic|Desert Shadow Metallic|KAC|#696053|2018|2024
+COLOR|fire-red-metallic|Fire Red Metallic|B76|#B31F2B|2018|2022
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2018|2024
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2018|2025
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|B53|#254091|2018|2024
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2018|2024
+COLOR|monarch-orange-metallic|Monarch Orange Metallic|EBB|#D4581F|2018|2024
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2018|2025
+COLOR|solar-yellow-pearl|Solar Yellow Pearl|EAV|#F8B818|2018|2021
+COLOR|super-black|Super Black|KH3|#0B0B0D|2018|2025
+COLOR|turquoise-metallic|Turquoise Metallic|RBK|#2C6470|2018|2022
+COLOR|visual-pearl|Visual Pearl|QAC|#F3F2EB|2018|2025
+COLOR|ceramic-gray-pearl|Ceramic Gray Pearl|KBY|#5E6264|2020|2025
+COLOR|silver-metallic|Silver Metallic|KBM|#C2C3C3|2020|2021
+COLOR|electric-blue-metallic|Electric Blue Metallic|B51|#234073|2021|2025
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2021|2025
+COLOR|blue-metallic|Blue Metallic|RCN|#234073|2025|2025
+COLOR|canyon-bronze-metallic|Canyon Bronze Metallic|CBF|#9A8168|2025|2025
+MODEL|pathfinder
+GENERATION|1g|1990|1995
+COLOR|aztec-red|Aztec Red|AG2|#B31F2B|1991|1992
+COLOR|charcoal-pearl|Charcoal Pearl|KH2|#434343|1991|1995
+COLOR|cherry-red-pearl|Cherry Red Pearl|AH3|#55141A|1991|1995
+COLOR|dark-gray-metallic|Dark Gray Metallic|463|#444142|1991|1991
+COLOR|super-black|Super Black|KH3|#0B0B0D|1991|1995
+COLOR|vail-white|Vail White|531|#D7D9DB|1991|1995
+COLOR|black-emerald-metallic|Black Emerald Metallic|DJ2|#000000|1993|1994
+COLOR|cobalt-green-pearl|Cobalt Green Pearl|DN1|#28503A|1995|1995
+GENERATION|2g|1996|2004
+COLOR|beige|Beige|CR0|#BFAF97|1996|2002
+COLOR|cobalt-green-pearl|Cobalt Green Pearl|DN1|#28503A|1996|1997
+COLOR|super-black|Super Black|KH3|#0B0B0D|1996|2004
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|1997|2000
+COLOR|green-iron-oxide-pearl|Green Iron Oxide Pearl|DS2|#28503A|1998|1998
+COLOR|silver-metallic|Silver Metallic|KAY|#C2C3C3|1998|1998
+COLOR|dark-green-metallic|Dark Green Metallic|JV0|#416641|1999|2000
+COLOR|green-metallic|Green Metallic|DR2|#28503A|1999|2002
+COLOR|purplish-blue-metallic|Purplish Blue Metallic|BV6|#234073|1999|2002
+COLOR|sierra-silver-metallic|Sierra Silver Metallic|KR4|#C2C3C3|1999|2001
+COLOR|bronzed-gray-metallic|Bronzed Gray Metallic|KX0|#917360|2002|2002
+COLOR|chrome-silver-metallic|Chrome Silver Metallic|KY0|#C9CBCD|2002|2004
+COLOR|merlot-pearl|Merlot Pearl|AX5|#5E202E|2002|2004
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|B16|#234073|2003|2003
+GENERATION|3g|2005|2012
+COLOR|super-black|Super Black|KH3|#0B0B0D|2005|2012
+COLOR|woodland-bronze-metallic|Woodland Bronze Metallic|C21|#5F4E3C|2005|2005
+COLOR|majestic-blue-metallic|Majestic Blue Metallic|BW9|#1F3C64|2006|2008
+COLOR|cafe-mocha-metallic|Cafe Mocha Metallic|E50|#675E59|2008|2008
+COLOR|dark-slate-metallic|Dark Slate Metallic|K50|#333537|2010|2012
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2012|2012
+GENERATION|4g|2013|2020
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2013|2020
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2013|2017
+COLOR|dark-slate-metallic|Dark Slate Metallic|K50|#333537|2013|2014
+COLOR|moonlight-white-pearl|Moonlight White Pearl|QAA|#EBECE4|2013|2014
+COLOR|super-black|Super Black|KH3|#0B0B0D|2013|2014
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2015|2020
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2015|2020
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2015|2020
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2015|2020
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2018|2020
+GENERATION|5g|2022|2025
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2022|2025
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2022|2025
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2022|2025
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2022|2023
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2022|2025
+COLOR|universal-blue-metallic|Universal Blue Metallic|RCJ|#234073|2022|2025
+MODEL|sentra
+GENERATION|1g|1991|1994
+COLOR|aztec-red|Aztec Red|AG2|#B31F2B|1991|1994
+COLOR|cherry-red-pearl|Cherry Red Pearl|AH3|#55141A|1991|1992
+COLOR|platinum-metallic|Platinum Metallic|KL0|#C5C3BB|1991|1994
+COLOR|red-pearl|Red Pearl|AL0|#772C1F|1991|1992
+COLOR|vail-white|Vail White|531|#D7D9DB|1991|1994
+COLOR|silver-metallic|Silver Metallic|KBM|#C2C3C3|1993|1994
+COLOR|black-emerald-metallic|Black Emerald Metallic|DJ2|#000000|1994|1994
+GENERATION|2g|1995|1999
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|1995|1999
+COLOR|green-iron-oxide-pearl|Green Iron Oxide Pearl|DS2|#28503A|1998|1998
+COLOR|new-medium-blue-metallic|New Medium Blue Metallic|BT1|#28354E|1998|1999
+COLOR|charcoal-mist-metallic|Charcoal Mist Metallic|KV1|#48494B|1999|1999
+GENERATION|3g|2000|2006
+COLOR|charcoal-mist-metallic|Charcoal Mist Metallic|KV1|#48494B|2000|2000
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2000|2006
+COLOR|green-metallic|Green Metallic|D23|#28503A|2000|2006
+COLOR|radium-metallic|Radium Metallic|KV9|#B0B2B1|2000|2006
+COLOR|avalanche-pearl|Avalanche Pearl|QT1|#E1E1E1|2001|2001
+COLOR|inferno-metallic|Inferno Metallic|AX2|#6F2E16|2001|2006
+COLOR|out-of-the-blue-metallic|Out of the Blue Metallic|BX6|#46567E|2001|2002
+COLOR|molten-silver-metallic|Molten Silver Metallic|KY4|#C1C3C7|2002|2004
+COLOR|mystic-green-metallic|Mystic Green Metallic|Z13|#1B501A|2002|2002
+COLOR|vibrant-blue-metallic|Vibrant Blue Metallic|BY1|#367593|2002|2004
+COLOR|bronze-shimmer-metallic|Bronze Shimmer Metallic|C14|#5C4738|2004|2006
+COLOR|imperial-orange-metallic|Imperial Orange Metallic|A12|#D47D1C|2004|2006
+COLOR|blue-dusk-metallic|Blue Dusk Metallic|B23|#184163|2005|2006
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2005|2006
+GENERATION|4g|2007|2012
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2007|2012
+COLOR|solar-yellow|Solar Yellow|EW3|#E8C22A|2007|2008
+COLOR|super-black|Super Black|KH3|#0B0B0D|2007|2012
+COLOR|arctic-blue-metallic|Arctic Blue Metallic|RAF|#7F90AD|2009|2009
+COLOR|anodized-orange-metallic|Anodized Orange Metallic|EAF|#D2472A|2010|2010
+GENERATION|5g|2013|2019
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2013|2019
+COLOR|super-black|Super Black|KH3|#0B0B0D|2013|2019
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2015|2017
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2015|2019
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2016|2019
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2018|2019
+GENERATION|6g|2020|2025
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2020|2023
+COLOR|electric-blue-metallic|Electric Blue Metallic|B51|#234073|2020|2025
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2020|2025
+COLOR|monarch-orange-metallic|Monarch Orange Metallic|EBB|#D4581F|2020|2025
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2020|2025
+COLOR|super-black|Super Black|KH3|#0B0B0D|2020|2025
+MODEL|versa
+GENERATION|1g|2007|2011
+COLOR|ash-metallic|Ash Metallic|K36|#5E6264|2007|2011
+COLOR|black-pearl-metallic|Black Pearl Metallic|G42|#0D0E11|2007|2011
+COLOR|blue-dusk-metallic|Blue Dusk Metallic|B23|#184163|2007|2011
+COLOR|bluish-black-metallic|Bluish Black Metallic|B20|#0F141B|2007|2011
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2007|2011
+COLOR|bronze-metallic|Bronze Metallic|C32|#5C4738|2007|2010
+COLOR|chrome-silver-metallic|Chrome Silver Metallic|KY0|#C9CBCD|2007|2011
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2007|2011
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2007|2011
+COLOR|daytona-blue-metallic|Daytona Blue Metallic|B17|#2C4C98|2007|2011
+COLOR|flash-green-metallic|Flash Green Metallic|J40|#28503A|2007|2008
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2007|2011
+COLOR|gray-metallic|Gray Metallic|K51|#5E6264|2007|2007
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|B53|#254091|2007|2011
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2007|2011
+COLOR|new-blue-metallic|New Blue Metallic|B14|#234073|2007|2009
+COLOR|red-brown-metallic|Red Brown Metallic|A15|#5C4738|2007|2009
+COLOR|red-metallic|Red Metallic|AY4|#B31F2B|2007|2011
+COLOR|sandstone-metallic|Sandstone Metallic|B2|#A59F8F|2007|2009
+COLOR|serengeti-sand-metallic|Serengeti Sand Metallic|K32|#BFAF97|2007|2011
+COLOR|structural-grey-metallic|Structural Grey Metallic|K27|#5E6264|2007|2011
+COLOR|super-black|Super Black|KH3|#0B0B0D|2007|2011
+COLOR|carmine-red-metallic|Carmine Red Metallic|NAC|#B31F2B|2008|2011
+COLOR|deep-sapphire-metallic|Deep Sapphire Metallic|RAA|#0D2D5E|2008|2011
+COLOR|desert-shadow-metallic|Desert Shadow Metallic|KAC|#696053|2008|2011
+COLOR|gray-metallic-2|Gray Metallic|K51|#5E6264|2008|2008
+COLOR|black-metallic|Black Metallic|KAN|#0C0D0E|2009|2010
+COLOR|classic-night-shade-metallic|Classic Night Shade Metallic|GAB|#141619|2009|2011
+COLOR|glazed-almond-metallic|Glazed Almond Metallic|HAB|#BFAF97|2009|2011
+COLOR|gray-metallic-3|Gray Metallic|K51|#5E6264|2009|2009
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2009|2011
+COLOR|arctic-blue-metallic|Arctic Blue Metallic|RAF|#7F90AD|2010|2011
+COLOR|choco-glass-metallic|Choco Glass Metallic|CAE|#8B9096|2010|2011
+COLOR|dark-blue-metallic|Dark Blue Metallic|RAQ|#13233F|2010|2011
+COLOR|gray-metallic-4|Gray Metallic|K51|#5E6264|2010|2010
+COLOR|visual-pearl|Visual Pearl|QAC|#F3F2EB|2010|2011
+COLOR|gray-metallic-5|Gray Metallic|K51|#5E6264|2011|2011
+GENERATION|2g|2012|2019
+COLOR|arctic-blue-metallic|Arctic Blue Metallic|RAF|#7F90AD|2012|2012
+COLOR|ash-metallic|Ash Metallic|K36|#5E6264|2012|2019
+COLOR|beige|Beige|HAF|#BFAF97|2012|2019
+COLOR|black-pearl-metallic|Black Pearl Metallic|G42|#0D0E11|2012|2019
+COLOR|blue-dusk-metallic|Blue Dusk Metallic|B23|#184163|2012|2019
+COLOR|blue-metallic|Blue Metallic|RAW|#234073|2012|2019
+COLOR|bluish-black-metallic|Bluish Black Metallic|B20|#0F141B|2012|2019
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2012|2019
+COLOR|carmine-red-metallic|Carmine Red Metallic|NAC|#B31F2B|2012|2019
+COLOR|choco-glass-metallic|Choco Glass Metallic|CAE|#8B9096|2012|2019
+COLOR|chrome-silver-metallic|Chrome Silver Metallic|KY0|#C9CBCD|2012|2019
+COLOR|classic-night-shade-metallic|Classic Night Shade Metallic|GAB|#141619|2012|2019
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2012|2019
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2012|2019
+COLOR|dark-blue-metallic|Dark Blue Metallic|RAQ|#13233F|2012|2019
+COLOR|dark-gray-metallic|Dark Gray Metallic|KBD|#333537|2012|2019
+COLOR|daytona-blue-metallic|Daytona Blue Metallic|B17|#2C4C98|2012|2019
+COLOR|deep-sapphire-metallic|Deep Sapphire Metallic|RAA|#0D2D5E|2012|2019
+COLOR|desert-shadow-metallic|Desert Shadow Metallic|KAC|#696053|2012|2019
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2012|2019
+COLOR|glazed-almond-metallic|Glazed Almond Metallic|HAB|#BFAF97|2012|2019
+COLOR|gray-metallic|Gray Metallic|K51|#5E6264|2012|2012
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|B53|#254091|2012|2019
+COLOR|light-blue-metallic|Light Blue Metallic|RBE|#7F90AD|2012|2019
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2012|2019
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2012|2019
+COLOR|red-metallic|Red Metallic|AY4|#B31F2B|2012|2019
+COLOR|serengeti-sand-metallic|Serengeti Sand Metallic|K32|#BFAF97|2012|2019
+COLOR|structural-grey-metallic|Structural Grey Metallic|K27|#5E6264|2012|2019
+COLOR|super-black|Super Black|KH3|#0B0B0D|2012|2019
+COLOR|visual-pearl|Visual Pearl|QAC|#F3F2EB|2012|2019
+COLOR|gray-metallic-2|Gray Metallic|K51|#5E6264|2013|2013
+COLOR|dark-brown-pearl-metallic|Dark Brown Pearl Metallic|CAQ|#32271E|2014|2019
+COLOR|gray-metallic-3|Gray Metallic|K51|#5E6264|2014|2014
+COLOR|peacock-green-metallic|Peacock Green Metallic|FAK|#28503A|2014|2019
+COLOR|gray-metallic-4|Gray Metallic|K51|#5E6264|2015|2015
+COLOR|cayenne-red-pearl|Cayenne Red Pearl|NAH|#8E1E2B|2016|2019
+COLOR|gray-metallic-5|Gray Metallic|K51|#5E6264|2016|2016
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2016|2019
+COLOR|deep-blue-pearl|Deep Blue Pearl|RAY|#1B2A47|2017|2019
+COLOR|gray-metallic-6|Gray Metallic|K51|#5E6264|2017|2017
+COLOR|monarch-orange-metallic|Monarch Orange Metallic|EBB|#D4581F|2017|2019
+COLOR|gray-metallic-7|Gray Metallic|K51|#5E6264|2018|2018
+COLOR|beige-metallic|Beige Metallic|EV0|#BFAF97|2019|2019
+COLOR|gray-metallic-8|Gray Metallic|K51|#5E6264|2019|2019
+GENERATION|3g|2020|2025
+COLOR|ash-metallic|Ash Metallic|K36|#5E6264|2020|2022
+COLOR|beige|Beige|HAF|#BFAF97|2020|2021
+COLOR|beige-metallic|Beige Metallic|EV0|#BFAF97|2020|2021
+COLOR|black-pearl-metallic|Black Pearl Metallic|G42|#0D0E11|2020|2024
+COLOR|blue-dusk-metallic|Blue Dusk Metallic|B23|#184163|2020|2022
+COLOR|blue-metallic|Blue Metallic|RAW|#234073|2020|2022
+COLOR|bluish-black-metallic|Bluish Black Metallic|B20|#0F141B|2020|2022
+COLOR|brilliant-silver-metallic|Brilliant Silver Metallic|K23|#C6C9CB|2020|2025
+COLOR|carmine-red-metallic|Carmine Red Metallic|NAC|#B31F2B|2020|2021
+COLOR|choco-glass-metallic|Choco Glass Metallic|CAE|#8B9096|2020|2020
+COLOR|chrome-silver-metallic|Chrome Silver Metallic|KY0|#C9CBCD|2020|2024
+COLOR|classic-night-shade-metallic|Classic Night Shade Metallic|GAB|#141619|2020|2024
+COLOR|cloud-white|Cloud White|QM1|#F1F2ED|2020|2025
+COLOR|code-red-metallic|Code Red Metallic|A20|#BA1B2D|2020|2025
+COLOR|dark-blue-metallic|Dark Blue Metallic|RAQ|#13233F|2020|2022
+COLOR|dark-brown-pearl-metallic|Dark Brown Pearl Metallic|CAQ|#32271E|2020|2024
+COLOR|dark-gray-metallic|Dark Gray Metallic|KBD|#333537|2020|2024
+COLOR|daytona-blue-metallic|Daytona Blue Metallic|B17|#2C4C98|2020|2022
+COLOR|deep-sapphire-metallic|Deep Sapphire Metallic|RAA|#0D2D5E|2020|2024
+COLOR|desert-shadow-metallic|Desert Shadow Metallic|KAC|#696053|2020|2024
+COLOR|electric-blue-metallic|Electric Blue Metallic|B51|#234073|2020|2024
+COLOR|glacier-white-pearl|Glacier White Pearl|QX1|#F5F6F1|2020|2024
+COLOR|glazed-almond-metallic|Glazed Almond Metallic|HAB|#BFAF97|2020|2020
+COLOR|gray-metallic|Gray Metallic|K51|#5E6264|2020|2020
+COLOR|gun-metallic|Gun Metallic|KAD|#56595B|2020|2025
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|B53|#254091|2020|2024
+COLOR|light-blue-metallic|Light Blue Metallic|RBE|#7F90AD|2020|2021
+COLOR|magnetic-black-pearl|Magnetic Black Pearl|G41|#131519|2020|2024
+COLOR|monarch-orange-metallic|Monarch Orange Metallic|EBB|#D4581F|2020|2022
+COLOR|peacock-green-metallic|Peacock Green Metallic|FAK|#28503A|2020|2021
+COLOR|pearl-white|Pearl White|QAB|#F4F4EE|2020|2025
+COLOR|red-metallic|Red Metallic|AY4|#B31F2B|2020|2021
+COLOR|scarlet-ember-metallic|Scarlet Ember Metallic|NBL|#B31F2B|2020|2025
+COLOR|serengeti-sand-metallic|Serengeti Sand Metallic|K32|#BFAF97|2020|2024
+COLOR|structural-grey-metallic|Structural Grey Metallic|K27|#5E6264|2020|2021
+COLOR|super-black|Super Black|KH3|#0B0B0D|2020|2025
+COLOR|visual-pearl|Visual Pearl|QAC|#F3F2EB|2020|2025
+COLOR|gray-metallic-2|Gray Metallic|K51|#5E6264|2021|2021
+COLOR|gray-metallic-3|Gray Metallic|K51|#5E6264|2022|2022
+COLOR|ethos-gray-pearl|Ethos Gray Pearl|KCH|#5E6264|2023|2025
+COLOR|gray-metallic-4|Gray Metallic|K51|#5E6264|2023|2023
+COLOR|gray-metallic-5|Gray Metallic|K51|#5E6264|2024|2024
+COLOR|blue-metallic-2|Blue Metallic|RCN|#234073|2025|2025
+MODEL|march
+GENERATION|1g|1992|2002
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|1995|1995
+COLOR|silver-metallic|Silver Metallic|KL0|#B7BBBF|1997|1998
+COLOR|white|White|QM1|#F2F1EC|1997|1998
+COLOR|green-metallic|Green Metallic|235|#395A46|1998|1999
+COLOR|silver-metallic-2|Silver Metallic|KY0|#B7BBBF|2002|2002
+GENERATION|2g|2003|2010
+COLOR|black|Black|KH3|#111113|2003|2004
+COLOR|silver-metallic|Silver Metallic|KY0|#B7BBBF|2003|2004
+COLOR|white|White|QM1|#F2F1EC|2003|2005
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2003|2005
+COLOR|green-metallic|Green Metallic|235|#395A46|2004|2004
+COLOR|green-metallic-2|Green Metallic|J31|#395A46|2004|2005
+COLOR|red-metallic|Red Metallic|AY4|#A51C26|2004|2004
+COLOR|dark-currant-marrone-metallic|Dark Currant/Marrone Metallic|L50|#6F7377|2006|2006
+COLOR|sapphire-dark-black-metallic|Sapphire Dark Black Metallic|6BL|#111113|2006|2006
+COLOR|black-metallic|Black Metallic|Z11|#111113|2007|2008
+COLOR|dark-red-metallic|Dark Red Metallic|NAB|#A51C26|2007|2007
+COLOR|shiny-silver-metallic|Shiny Silver Metallic|6KT|#B7BBBF|2007|2007
+COLOR|silver-metallic-2|Silver Metallic|KY0|#B7BBBF|2007|2008
+COLOR|silver-metallic-3|Silver Metallic|K53|#B7BBBF|2007|2008
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2007|2008
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2007|2008
+COLOR|dark-bluee-pearl|Dark Bluee Pearl|BW6|#23406B|2008|2008
+COLOR|faden-denim-gray-metallic|Faden Denim/Gray Metallic|B52|#6F7377|2008|2008
+COLOR|dark-red-metallic-2|Dark Red Metallic|NAB|#A51C26|2009|2010
+COLOR|purplish-silver-metallic|Purplish Silver Metallic|KAS|#B7BBBF|2009|2010
+COLOR|bluee-metallic|Bluee Metallic|B51|#23406B|2010|2010
+COLOR|dark-violet-metallic|Dark Violet Metallic|LAA|#6F7377|2010|2010
+COLOR|nightshade-marrone-metallic|Nightshade/Marrone Metallic|GAB|#6F7377|2010|2010
+COLOR|orange-metallic|Orange Metallic|A55|#C4622D|2010|2010
+COLOR|yellow-green-metallic|Yellow Green Metallic|JAD|#395A46|2010|2010
+GENERATION|3g|2011|2017
+COLOR|orange-metallic|Orange Metallic|A55|#C4622D|2011|2011
+COLOR|red-solid|Red Solid|AX6|#A51C26|2011|2012
+COLOR|black|Black|KH3|#111113|2012|2012
+COLOR|black-metallic|Black Metallic|G42|#111113|2012|2012
+COLOR|green-metallic|Green Metallic|235|#395A46|2012|2012
+COLOR|nightshade-marrone-metallic|Nightshade/Marrone Metallic|GAB|#6F7377|2012|2012
+COLOR|shiny-silver-metallic|Shiny Silver Metallic|6KT|#B7BBBF|2012|2012
+COLOR|stormy-gray-metallic|Stormy Gray Metallic|6KS|#6F7377|2012|2012
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2012|2012
+COLOR|yellow-green-metallic|Yellow Green Metallic|JAD|#395A46|2012|2012
+COLOR|black-metallic-2|Black Metallic|BG42|#111113|2013|2013
+COLOR|light-greenish-yellow-metallic|Light Greenish Yellow Metallic|EAQ|#395A46|2013|2014
+COLOR|orange-metallic-2|Orange Metallic|A55|#C4622D|2013|2013
+COLOR|pink-metallic|Pink Metallic|NAR|#6F7377|2013|2014
+COLOR|aromatic-aqua-metallic|Aromatic Aqua Metallic|ZKT|#6F7377|2014|2014
+COLOR|grayish-purple-metallic|Grayish Purple Metallic|L60|#6F7377|2014|2014
+COLOR|ash-gray-metallic|Ash Gray Metallic|K36|#6F7377|2015|2015
+COLOR|black-2|Black|KH3|#111113|2015|2015
+COLOR|scarlet-red|Scarlet Red|A20|#A51C26|2015|2015
+COLOR|silver-metallic|Silver Metallic|K23|#B7BBBF|2015|2015
+COLOR|white|White|QM1|#F2F1EC|2015|2015
+GENERATION|4g|2018|2025
+MODEL|navara
+GENERATION|1g|1998|2004
+GENERATION|2g|2005|2015
+COLOR|cosmic-black-metallic|Cosmic Black Metallic|21A|#111113|2005|2008
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2005|2014
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2005|2008
+COLOR|hyppo-gray-metallic|Hyppo Gray Metallic|K26|#6F7377|2005|2009
+COLOR|morpho-bluee-metallic|Morpho Bluee Metallic|B24|#23406B|2005|2010
+COLOR|silver-metallic|Silver Metallic|KL0|#B7BBBF|2005|2014
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2005|2014
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2005|2013
+COLOR|combianzione-nissan-bw6-nissan-ky0|=Combianzione Nissan Bw6/Nissan Ky0|2Y9|#6F7377|2006|2006
+COLOR|black|Black|KH3|#111113|2006|2006
+COLOR|bluee|Bluee|BY5|#23406B|2006|2006
+COLOR|dark-bluee-pearl|Dark Bluee Pearl|BW6|#23406B|2006|2006
+COLOR|nissan-kh3-nissan-ky0|Nissan Kh3 /Nissan Ky0|2Y7|#6F7377|2006|2006
+COLOR|red-metallic|Red Metallic|AY4|#A51C26|2006|2006
+COLOR|red-solid|Red Solid|AX6|#A51C26|2006|2006
+COLOR|silver-metallic-2|Silver Metallic|KY0|#B7BBBF|2006|2006
+COLOR|white|White|QM1|#F2F1EC|2006|2006
+COLOR|black-metallic|Black Metallic|BG42|#111113|2007|2007
+COLOR|e-motion-red-metallic|E-Motion Red Metallic|A32|#A51C26|2007|2013
+COLOR|red-pearl-metallic|Red Pearl Metallic|AX5|#A51C26|2007|2007
+COLOR|black-pepper-metallic|Black Pepper Metallic|NAF|#111113|2009|2013
+COLOR|cosmic-black-metallic-2|Cosmic Black Metallic|GN0|#111113|2009|2011
+COLOR|iron-gray-metallic|Iron Gray Metallic|KAR|#6F7377|2009|2010
+COLOR|blueeish-gray-metallic|Blueeish Gray Metallic|KAP|#6F7377|2010|2013
+COLOR|electric-bluee-metallic|Electric Bluee Metallic|RAK|#23406B|2010|2013
+COLOR|gray-metallic|Gray Metallic|K21|#6F7377|2011|2011
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2011|2012
+COLOR|combianzione-nissan-bw6-nissan-ky0-2|=Combianzione Nissan Bw6/Nissan Ky0|2Y9|#6F7377|2012|2012
+COLOR|black-2|Black|KH3|#111113|2012|2012
+COLOR|bluee-2|Bluee|BY5|#23406B|2012|2012
+COLOR|cosmic-black-metallic-3|Cosmic Black Metallic|21A|#111113|2012|2014
+COLOR|dark-bluee-metallic-2|Dark Bluee Metallic|RAA|#23406B|2012|2014
+COLOR|dark-bluee-pearl-2|Dark Bluee Pearl|BW6|#23406B|2012|2012
+COLOR|desert-shadow-gray-metallic|Desert Shadow/Gray Metallic|KAC|#6F7377|2012|2014
+COLOR|gray-metallic-2|Gray Metallic|K21|#6F7377|2012|2012
+COLOR|green-metallic-2|Green Metallic|DW0|#395A46|2012|2012
+COLOR|hyppo-gray-metallic-2|Hyppo Gray Metallic|K26|#6F7377|2012|2012
+COLOR|nissan-kh3-nissan-ky0-2|Nissan Kh3 /Nissan Ky0|2Y7|#6F7377|2012|2012
+COLOR|red-metallic-2|Red Metallic|AY4|#A51C26|2012|2012
+COLOR|red-pearl-metallic-2|Red Pearl Metallic|AX5|#A51C26|2012|2012
+COLOR|red-solid-2|Red Solid|AX6|#A51C26|2012|2014
+COLOR|silver-metallic-3|Silver Metallic|KY0|#B7BBBF|2012|2012
+COLOR|silver-metallic-4|Silver Metallic|K23|#B7BBBF|2012|2014
+COLOR|white-2|White|QM1|#F2F1EC|2012|2014
+COLOR|gray-metallic-3|Gray Metallic|K21|#6F7377|2013|2013
+COLOR|black-metallic-2|Black Metallic|G42|#111113|2014|2014
+COLOR|gray-metallic-4|Gray Metallic|K21|#6F7377|2014|2014
+GENERATION|3g|2016|2025
+COLOR|cosmic-black-metallic|Cosmic Black Metallic|GN0|#111113|2018|2020
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2018|2020
+COLOR|dark-brown-metallic|Dark Brown Metallic|CAQ|#6B563F|2018|2020
+COLOR|gray-metallic|Gray Metallic|K51|#6F7377|2018|2018
+COLOR|orange-metallic|Orange Metallic|EAU|#C4622D|2018|2020
+COLOR|silver-metallic|Silver Metallic|KL0|#B7BBBF|2018|2020
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2018|2020
+COLOR|white|White|QM1|#F2F1EC|2018|2020
+COLOR|gray-metallic-2|Gray Metallic|K51|#6F7377|2019|2019
+COLOR|gray-metallic-3|Gray Metallic|K51|#6F7377|2020|2020
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2020|2020
+COLOR|black-metallic|Black Metallic|G42|#111113|2023|2023
+COLOR|gray-stealth-gray-pearl|Gray/Stealth Gray Pearl|KBY|#6F7377|2023|2023
+COLOR|red-solid|Red Solid|AX6|#A51C26|2023|2023
+COLOR|silver-metallic-2|Silver Metallic|K23|#B7BBBF|2023|2023
+COLOR|white-2|White|QM1|#F2F1EC|2023|2023
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2023|2023
+MODEL|np300
+GENERATION|1g|2008|2014
+COLOR|combianzione-nissan-bw6-nissan-ky0|=Combianzione Nissan Bw6/Nissan Ky0|2Y9|#6F7377|2008|2009
+COLOR|black|Black|KH3|#111113|2008|2009
+COLOR|dark-bluee-pearl|Dark Bluee Pearl|BW6|#23406B|2008|2009
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2008|2009
+COLOR|nissan-dw0-nissan-ky0|Nissan Dw0 / Nissan Ky0|11J|#6F7377|2008|2009
+COLOR|red-metallic|Red Metallic|AY4|#A51C26|2008|2009
+COLOR|red-solid|Red Solid|AX6|#A51C26|2008|2009
+COLOR|silver-metallic|Silver Metallic|KY0|#B7BBBF|2008|2009
+COLOR|white|White|QM1|#F2F1EC|2008|2009
+GENERATION|2g|2015|2020
+GENERATION|3g|2021|2025
+MODEL|patrol
+GENERATION|1g|1991|1997
+COLOR|alaskan-white|Alaskan White|531|#F2F1EC|1991|1997
+COLOR|beige|Beige|031|#C6B08A|1991|1994
+COLOR|bluee-pag-811-maz-3|Bluee (Pag.811/Maz.3)|544|#23406B|1991|1995
+COLOR|bright-red-pag-811-maz-3|Bright Red (Pag.811/Maz.3)|465|#A51C26|1991|1997
+COLOR|darkbluee-pearl-metallic|Darkbluee Pearl Metallic|BJ9|#23406B|1991|1994
+COLOR|dk-sapphire-bluee-pearl-metallic|Dk Sapphire Bluee Pearl Metallic|TH1|#23406B|1991|1994
+COLOR|graphite-gray-pearl-metallic|Graphite Gray Pearl Metallic|KH2|#6F7377|1991|1997
+COLOR|graysh-olive|Graysh Olive|JG0|#6F7377|1991|1994
+COLOR|green-metallic|Green Metallic|DH6|#395A46|1991|1995
+COLOR|light-cobalt-beige-metallic|Light Cobalt Beige Metallic|656|#C6B08A|1991|1994
+COLOR|midnight-black|Midnight Black|GL1|#111113|1991|1993
+COLOR|red|Red|AG2|#A51C26|1991|1994
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|002|#F2F1EC|1991|1995
+COLOR|blueish-silver-metallic|Blueish Silver Metallic|KG1|#B7BBBF|1992|1994
+COLOR|cosmic-black-metallic|Cosmic Black Metallic|21A|#111113|1992|1994
+COLOR|darkgreen-pearl-metallic|Darkgreen Pearl Metallic|DK1|#395A46|1992|1994
+COLOR|garnet-red-pearl-metallic|Garnet Red Pearl Metallic|AH3|#A51C26|1992|1997
+COLOR|light-brown-beige-metallic|Light Brown Beige Metallic|CK0|#C6B08A|1992|1997
+COLOR|red-2|Red|AJ4|#A51C26|1992|1994
+COLOR|yellow-silver-pearl-metallic|Yellow Silver Pearl Metallic|KJ1|#B7BBBF|1992|1997
+COLOR|darkbluee-pearl-graphite-metallic|Darkbluee Pearl Graphite Metallic|TK3|#6F7377|1993|1994
+COLOR|light-gray|Light Gray|KJ7|#6F7377|1993|1994
+COLOR|light-green-metallic|Light Green Metallic|DH3|#395A46|1993|1994
+COLOR|peppermint-green-metallic|Peppermint Green Metallic|239|#395A46|1993|1994
+COLOR|darkgreen-pearl-metallic-2|Darkgreen Pearl Metallic|DJ2|#395A46|1994|1995
+COLOR|greenish-bluee-pearl-metallic|Greenish Bluee Pearl Metallic|FL1|#23406B|1995|1996
+COLOR|blueish-green-pearl-metallic|Blueish Green Pearl Metallic|FP0|#23406B|1996|1996
+COLOR|brown-pearl-metallic|Brown Pearl Metallic|CP2|#6B563F|1996|1997
+COLOR|darkbluee-pearl-metallic-2|Darkbluee Pearl Metallic|BN6|#23406B|1996|1997
+COLOR|turquoise-metallic|Turquoise Metallic|BG2|#6F7377|1996|1997
+COLOR|white|White|QM1|#F2F1EC|1996|1997
+COLOR|yellow-metallic|Yellow Metallic|ER2|#E0C23A|1996|1997
+GENERATION|2g|1998|2010
+COLOR|alaskan-white|Alaskan White|531|#F2F1EC|1998|1999
+COLOR|beige|Beige|031|#C6B08A|1998|1999
+COLOR|black|Black|KH3|#111113|1998|2010
+COLOR|blueish-green-pearl-metallic|Blueish Green Pearl Metallic|FP0|#23406B|1998|1998
+COLOR|bright-red-pag-811-maz-3|Bright Red (Pag.811/Maz.3)|465|#A51C26|1998|1999
+COLOR|brown-pearl-metallic|Brown Pearl Metallic|CP2|#6B563F|1998|1998
+COLOR|darkbluee-pearl-metallic|Darkbluee Pearl Metallic|BN6|#23406B|1998|1998
+COLOR|garnet-red-pearl-metallic|Garnet Red Pearl Metallic|AH3|#A51C26|1998|1998
+COLOR|graphite-gray-pearl-metallic|Graphite Gray Pearl Metallic|KH2|#6F7377|1998|1998
+COLOR|grayish-green-pearl-metallic|Grayish Green Pearl Metallic|DL0|#6F7377|1998|2004
+COLOR|green-pearl-metallic|Green Pearl Metallic|DR2|#395A46|1998|2004
+COLOR|green-beige-pearl-metallic|Green/Beige Pearl Metallic|ES6|#395A46|1998|2005
+COLOR|light-brown-beige-metallic|Light Brown Beige Metallic|CK0|#C6B08A|1998|1998
+COLOR|olive-pearlmetallic|Olive Pearlmetallic|ET7|#395A46|1998|1998
+COLOR|turquoise-metallic|Turquoise Metallic|BG2|#6F7377|1998|1998
+COLOR|white|White|QM1|#F2F1EC|1998|2010
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|002|#F2F1EC|1998|1999
+COLOR|yellow-metallic|Yellow Metallic|ER2|#E0C23A|1998|1998
+COLOR|bluee-ametallichyst-pearl-m|Bluee Ametallichyst Pearl M.|BP3|#23406B|1999|1999
+COLOR|dk-sapphire-bluee-pearl-metallic|Dk Sapphire Bluee Pearl Metallic|TH1|#23406B|1999|1999
+COLOR|beige-metallic|Beige Metallic|EV5|#C6B08A|2000|2004
+COLOR|bluee-metallic|Bluee Metallic|TV5|#23406B|2000|2004
+COLOR|dark-bluee-pearl-metallic|Dark Bluee Pearl Metallic|BP9|#23406B|2000|2000
+COLOR|garnet-red-pearl-metallic-2|Garnet Red Pearl Metallic|AH3|#A51C26|2000|2000
+COLOR|nissan-at4-nissan-es6|Nissan At4/Nissan Es6|3W7|#6F7377|2000|2005
+COLOR|nissan-bp9-nissan-es6|Nissan Bp9 /Nissan Es6|7T2|#6F7377|2000|2005
+COLOR|nissan-dl0-nissan-es6|Nissan Dl0 /Nissan Es6|7T4|#6F7377|2000|2005
+COLOR|nissan-dr2-nissan-es6|Nissan Dr2 /Nissan Es6|7T3|#6F7377|2000|2005
+COLOR|olive-pearlmetallic-2|Olive Pearlmetallic|ET7|#395A46|2000|2000
+COLOR|red-pearl-metallic|Red Pearl Metallic|AT4|#A51C26|2000|2000
+COLOR|silver-metallic|Silver Metallic|KL0|#B7BBBF|2000|2005
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2000|2000
+COLOR|white-pearlmetallic|White Pearlmetallic|QT1|#F2F1EC|2000|2000
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2001|2003
+COLOR|gray-metallic|Gray Metallic|KR2|#6F7377|2001|2001
+COLOR|light-gold-2rm-metallic|Light Gold 2Rm Metallic|EY0|#C6B08A|2001|2010
+COLOR|nissan-ev5-nissan-es6|Nissan Ev5/Nissan Es6|3W8|#6F7377|2001|2005
+COLOR|red|Red|AJ4|#A51C26|2001|2001
+COLOR|red-pearl-metallic-2|Red Pearl Metallic|AX5|#A51C26|2001|2009
+COLOR|silver-metallic-2|Silver Metallic|WV2|#B7BBBF|2001|2010
+COLOR|white-pag-811-maz-3-2|White (Pag.811/Maz.3)|326|#F2F1EC|2001|2001
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2001|2003
+COLOR|dark-bluee-pearl-metallic-2|Dark Bluee Pearl Metallic|BP9|#23406B|2002|2004
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2002|2007
+COLOR|light-brown-beige-metallic-2|Light Brown Beige Metallic|CK0|#C6B08A|2002|2004
+COLOR|nordic-white|Nordic White|QV0|#F2F1EC|2002|2004
+COLOR|red-pearl-metallic-3|Red Pearl Metallic|AT4|#A51C26|2002|2004
+COLOR|white-pearl-metallic|White Pearl Metallic|WK0|#F2F1EC|2002|2004
+COLOR|gray-tm-metallic|Gray Tm Metallic|KY2|#6F7377|2003|2003
+COLOR|nissan-ax5-nissan-ky2|Nissan Ax5 / Nissan Ky2|11H|#6F7377|2003|2003
+COLOR|nissan-bw9-nissan-wv2|Nissan Bw9/Nissan Wv2|2Y1|#6F7377|2003|2003
+COLOR|nissan-cy0-nissan-ky2|Nissan Cy0/ Nissan Ky2|11G|#6F7377|2003|2003
+COLOR|nissan-dw0-nissan-ky2|Nissan Dw0 / Nissan Ky2|11F|#6F7377|2003|2003
+COLOR|nissan-ey0-nissan-ky2|Nissan Ey0 / Nissan Ky2|11E|#6F7377|2003|2003
+COLOR|silver-metallic-3|Silver Metallic|KY0|#B7BBBF|2003|2010
+COLOR|dark-bluee-metallic-2|Dark Bluee Metallic|B31|#23406B|2004|2009
+COLOR|grayish-brown-metallic|Grayish Brown Metallic|C16|#6F7377|2005|2009
+COLOR|nissan-bw9-nissan-wv2-2|Nissan Bw9/Nissan Wv2|2Y1|#6F7377|2005|2005
+COLOR|nissan-cy0-nissan-ky2-2|Nissan Cy0/ Nissan Ky2|11G|#6F7377|2005|2005
+COLOR|nissan-dw0-nissan-ky2-2|Nissan Dw0 / Nissan Ky2|11F|#6F7377|2005|2005
+COLOR|nissan-ey0-nissan-ky2-2|Nissan Ey0 / Nissan Ky2|11E|#6F7377|2005|2005
+COLOR|nissan-kh3-nissan-wv2|Nissan Kh3 / Nissan Wv2|2Y4|#6F7377|2005|2005
+COLOR|white-pag-811-maz-3-3|White (Pag.811/Maz.3)|326|#F2F1EC|2005|2005
+COLOR|brownish-orange-metallic|Brownish Orange Metallic|R12|#6B563F|2006|2006
+COLOR|brownish-orange-metallic-2|Brownish Orange Metallic|R12|#6B563F|2008|2008
+COLOR|reddish-silver-metallic|Reddish Silver Metallic|K43|#B7BBBF|2008|2008
+COLOR|grayish-green-metallic|Grayish Green Metallic|JAE|#6F7377|2009|2010
+COLOR|green-metallic-2|Green Metallic|DW0|#395A46|2009|2009
+COLOR|light-beige-metallic|Light Beige Metallic|HAE|#C6B08A|2009|2010
+COLOR|dark-currant-marrone-metallic|Dark Currant/Marrone Metallic|L50|#6F7377|2010|2010
+COLOR|gray-metallic-2|Gray Metallic|K51|#6F7377|2010|2010
+COLOR|silver-metallic-4|Silver Metallic|K23|#B7BBBF|2010|2010
+COLOR|white-pearl|White Pearl|QAA|#F2F1EC|2010|2010
+GENERATION|3g|2011|2025
+COLOR|black|Black|KH3|#111113|2011|2014
+COLOR|dark-currant-marrone-metallic|Dark Currant/Marrone Metallic|L50|#6F7377|2011|2014
+COLOR|gray-metallic|Gray Metallic|K51|#6F7377|2011|2011
+COLOR|grayish-green-metallic|Grayish Green Metallic|JAE|#6F7377|2011|2013
+COLOR|light-beige-metallic|Light Beige Metallic|HAE|#C6B08A|2011|2014
+COLOR|light-gold-2rm-metallic|Light Gold 2Rm Metallic|EY0|#C6B08A|2011|2014
+COLOR|silver-metallic|Silver Metallic|K23|#B7BBBF|2011|2014
+COLOR|silver-metallic-2|Silver Metallic|KY0|#B7BBBF|2011|2014
+COLOR|silver-metallic-3|Silver Metallic|WV2|#B7BBBF|2011|2011
+COLOR|white|White|QM1|#F2F1EC|2011|2014
+COLOR|white-pearl|White Pearl|QAA|#F2F1EC|2011|2013
+COLOR|bluee-pag-811-maz-3|Bluee (Pag.811/Maz.3)|544|#23406B|2012|2012
+COLOR|cosmic-black-metallic|Cosmic Black Metallic|21A|#111113|2012|2012
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|B31|#23406B|2012|2012
+COLOR|dark-bluee-metallic-2|Dark Bluee Metallic|BW9|#23406B|2012|2012
+COLOR|dark-violet-metallic|Dark Violet Metallic|LAA|#6F7377|2012|2013
+COLOR|desert-shadow-gray-metallic|Desert Shadow/Gray Metallic|KAC|#6F7377|2012|2014
+COLOR|gray-metallic-2|Gray Metallic|K51|#6F7377|2012|2012
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2012|2012
+COLOR|red|Red|AJ4|#A51C26|2012|2012
+COLOR|red-pearl-metallic|Red Pearl Metallic|AX5|#A51C26|2012|2012
+COLOR|silver-metallic-4|Silver Metallic|KL0|#B7BBBF|2012|2012
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2012|2012
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2012|2012
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2012|2014
+COLOR|gray-metallic-3|Gray Metallic|K51|#6F7377|2013|2013
+COLOR|gray-metallic-4|Gray Metallic|K51|#6F7377|2014|2014
+MODEL|qashqai
+GENERATION|1g|2007|2013
+COLOR|black-metallic|Black Metallic|BZ11|#111113|2007|2007
+COLOR|cafe-latte-beige-metallic|Cafe Latte/Beige Metallic|C30|#C6B08A|2007|2008
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2007|2013
+COLOR|faden-denim-gray-metallic|Faden Denim/Gray Metallic|B52|#6F7377|2007|2012
+COLOR|fired-iron-red-metallic|Fired Iron/Red Metallic|A52|#A51C26|2007|2010
+COLOR|hazy-gold-metallic|Hazy Gold Metallic|E51|#C6B08A|2007|2008
+COLOR|intense-bluee-metallic|Intense Bluee Metallic|BV4|#23406B|2007|2010
+COLOR|silver-metallic|Silver Metallic|KY0|#B7BBBF|2007|2013
+COLOR|solid-red|Solid Red|BZ10|#A51C26|2007|2007
+COLOR|urban-silver-metallic|Urban Silver Metallic|K54|#B7BBBF|2007|2013
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2007|2013
+COLOR|black-metallic-2|Black Metallic|Z11|#111113|2008|2013
+COLOR|e-motion-red-metallic|E-Motion Red Metallic|A32|#A51C26|2008|2008
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2008|2013
+COLOR|nightshade-marrone-metallic|Nightshade/Marrone Metallic|GAB|#6F7377|2009|2013
+COLOR|alizarin-crimson-red-metallic|Alizarin Crimson/Red Metallic|NAJ|#A51C26|2010|2013
+COLOR|bluee-metallic|Bluee Metallic|B46|#23406B|2010|2010
+COLOR|cafe-latte-beige-metallic-2|Cafe Latte/Beige Metallic|C30|#C6B08A|2010|2013
+COLOR|gray-metallic|Gray Metallic|KAD|#6F7377|2010|2010
+COLOR|titanium-gray-metallic|Titanium/Gray Metallic|KAQ|#6F7377|2010|2013
+COLOR|gray-metallic-2|Gray Metallic|KAD|#6F7377|2011|2011
+COLOR|e-motion-red-metallic-2|E-Motion Red Metallic|A32|#A51C26|2012|2012
+COLOR|gray-metallic-3|Gray Metallic|KAD|#6F7377|2012|2012
+COLOR|intense-bluee-metallic-2|Intense Bluee Metallic|BV4|#23406B|2012|2012
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2012|2013
+COLOR|gray-metallic-4|Gray Metallic|KAD|#6F7377|2013|2013
+GENERATION|2g|2014|2021
+COLOR|alizarin-crimson-red-metallic|Alizarin Crimson/Red Metallic|NAJ|#A51C26|2014|2016
+COLOR|blueish-black-metallic|Blueish Black Metallic|B20|#111113|2014|2016
+COLOR|bronze-metallic|Bronze Metallic|CAP|#6B563F|2014|2016
+COLOR|force-red-metallic|Force Red Metallic|NAH|#A51C26|2014|2017
+COLOR|gray-metallic|Gray Metallic|KAD|#6F7377|2014|2014
+COLOR|ink-bluee-metallic|Ink Bluee Metallic|RBN|#23406B|2014|2016
+COLOR|nightshade-marrone-metallic|Nightshade/Marrone Metallic|GAB|#6F7377|2014|2020
+COLOR|silver-metallic|Silver Metallic|KY0|#B7BBBF|2014|2016
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2014|2015
+COLOR|black-metallic|Black Metallic|G41|#111113|2015|2017
+COLOR|black-metallic-2|Black Metallic|Z11|#111113|2015|2016
+COLOR|bluee-metallic|Bluee Metallic|B46|#23406B|2015|2015
+COLOR|bluee-metallic-2|Bluee Metallic|RAX|#23406B|2015|2016
+COLOR|cafe-latte-beige-metallic|Cafe Latte/Beige Metallic|C30|#C6B08A|2015|2015
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2015|2016
+COLOR|dark-purple-metallic|Dark Purple Metallic|LAE|#55445F|2015|2015
+COLOR|gray-metallic-2|Gray Metallic|KAD|#6F7377|2015|2015
+COLOR|silver-metallic-2|Silver Metallic|K23|#B7BBBF|2015|2017
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2015|2016
+COLOR|white|White|QM1|#F2F1EC|2015|2017
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2015|2016
+COLOR|gray-metallic-3|Gray Metallic|KAD|#6F7377|2016|2016
+COLOR|gray-metallic-4|Gray Metallic|KAD|#6F7377|2017|2017
+COLOR|white-pearl-2|White Pearl|QAB|#F2F1EC|2017|2020
+COLOR|alizarin-crimson-red-metallic-2|Alizarin Crimson/Red Metallic|NAJ|#A51C26|2018|2020
+COLOR|black-metallic-3|Black Metallic|Z11|#111113|2018|2020
+COLOR|brown-chestnut-bronze-metallic|Brown/Chestnut Bronze Metallic|CAN|#6B563F|2018|2020
+COLOR|gray-metallic-5|Gray Metallic|KAD|#6F7377|2018|2018
+COLOR|ink-bluee-metallic-2|Ink Bluee Metallic|RBN|#23406B|2018|2020
+COLOR|silver-metallic-3|Silver Metallic|KY0|#B7BBBF|2018|2020
+COLOR|solid-red-pag-812-maz-3-2|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2018|2020
+COLOR|vivid-bluee-caspian-bluee-metallic|Vivid Bluee/Caspian Bluee Metallic|RCA|#23406B|2018|2020
+COLOR|white-pag-811-maz-3-2|White (Pag.811/Maz.3)|326|#F2F1EC|2018|2020
+COLOR|gray-metallic-6|Gray Metallic|KAD|#6F7377|2019|2019
+COLOR|gray-metallic-7|Gray Metallic|KAD|#6F7377|2020|2020
+GENERATION|3g|2022|2025
+COLOR|black-metallic|Black Metallic|Z11|#111113|2023|2023
+COLOR|candy-bluee-magnetic-bluee-metallic|Candy Bluee/Magnetic Bluee Metallic|RCF|#23406B|2023|2023
+COLOR|dark-red-metallic|Dark Red Metallic|NBQ|#A51C26|2023|2023
+COLOR|gray-metallic|Gray Metallic|KAD|#6F7377|2023|2023
+COLOR|gray-stealth-gray-pearl|Gray/Stealth Gray Pearl|KBY|#6F7377|2023|2023
+COLOR|ink-bluee-metallic|Ink Bluee Metallic|RBN|#23406B|2023|2023
+COLOR|nissan-z11-nissan-kad|Nissan Z11 / Nissan Kad|XDK|#6F7377|2023|2023
+COLOR|nissan-z11-nissan-kby|Nissan Z11 / Nissan Kby|XFU|#6F7377|2023|2023
+COLOR|nissan-z11-nissan-nbv|Nissan Z11 / Nissan Nbv|XEY|#6F7377|2023|2023
+COLOR|nissan-z11-nissan-qab|Nissan Z11 / Nissan Qab|XDF|#6F7377|2023|2023
+COLOR|nissan-z11-nissan-rcf|Nissan Z11 / Nissan Rcf|XFV|#6F7377|2023|2023
+COLOR|reddish-orange-5-metallic|Reddish Orange 5 Metallic|NBV|#A51C26|2023|2023
+COLOR|silver-metallic|Silver Metallic|KY0|#B7BBBF|2023|2023
+COLOR|solid-red-pag-812-maz-3|Solid Red (Pag.812/Maz.3)|Z10|#A51C26|2023|2023
+COLOR|white-pag-811-maz-3|White (Pag.811/Maz.3)|326|#F2F1EC|2023|2023
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2023|2023
+MODEL|x-trail
+GENERATION|1g|2001|2007
+COLOR|beige-metallic|Beige Metallic|EV0|#C6B08A|2001|2007
+COLOR|black|Black|KH3|#111113|2001|2007
+COLOR|dark-bluee-pearl|Dark Bluee Pearl|BW6|#23406B|2001|2007
+COLOR|red-pearl-metallic|Red Pearl Metallic|AX5|#A51C26|2001|2007
+COLOR|red-solid|Red Solid|AX6|#A51C26|2001|2007
+COLOR|satin-white-pearl|Satin White Pearl|QX3|#F2F1EC|2001|2004
+COLOR|white|White|QM1|#F2F1EC|2001|2003
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2001|2007
+COLOR|green-iron-oxide-pearl-metallic|Green Iron Oxide Pearl Metallic|DS2|#395A46|2002|2005
+COLOR|silver-2tm-metallic|Silver 2Tm Metallic|KX2|#B7BBBF|2002|2002
+COLOR|silver-metallic|Silver Metallic|KX4|#B7BBBF|2002|2003
+COLOR|white-pearl-metallic|White Pearl Metallic|WK0|#F2F1EC|2002|2002
+COLOR|canteen-green-metallic|Canteen Green Metallic|D13|#395A46|2003|2003
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2003|2007
+COLOR|green-metallic-2|Green Metallic|FX0|#395A46|2003|2003
+COLOR|silver-metallic-2|Silver Metallic|KL0|#B7BBBF|2003|2003
+COLOR|silver-metallic-3|Silver Metallic|KY0|#B7BBBF|2003|2007
+COLOR|canteen-green-metallic-2|Canteen Green Metallic|D13|#395A46|2005|2005
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|BW9|#23406B|2005|2005
+COLOR|gray-metallic|Gray Metallic|K21|#6F7377|2005|2005
+COLOR|graysh-bluee|Graysh Bluee|B34|#6F7377|2005|2005
+COLOR|green-metallic-3|Green Metallic|FX0|#395A46|2005|2005
+COLOR|silver-metallic-4|Silver Metallic|KX4|#B7BBBF|2005|2005
+COLOR|silver-mist-metallic|Silver Mist Metallic|K12|#B7BBBF|2005|2005
+COLOR|bluee|Bluee|BY5|#23406B|2006|2006
+COLOR|brownish-orange-metallic|Brownish Orange Metallic|R12|#6B563F|2006|2006
+COLOR|gray-metallic-2|Gray Metallic|K21|#6F7377|2006|2006
+COLOR|red|Red|AJ4|#A51C26|2006|2006
+COLOR|red-metallic|Red Metallic|AY4|#A51C26|2006|2006
+COLOR|white-2|White|QM1|#F2F1EC|2006|2007
+COLOR|black-metallic|Black Metallic|G41|#111113|2007|2007
+COLOR|bluee-metallic|Bluee Metallic|B53|#23406B|2007|2007
+COLOR|gray-metallic-3|Gray Metallic|K21|#6F7377|2007|2007
+COLOR|gray-metallic-4|Gray Metallic|K51|#6F7377|2007|2007
+COLOR|greige-beige-metallic|Greige/Beige Metallic|C43|#C6B08A|2007|2007
+COLOR|iridium-graphite-metallic|Iridium Graphite Metallic|K55|#6F7377|2007|2007
+COLOR|silver-metallic-5|Silver Metallic|KX4|#B7BBBF|2007|2007
+GENERATION|2g|2008|2013
+COLOR|beige-metallic|Beige Metallic|EV0|#C6B08A|2008|2013
+COLOR|black|Black|KH3|#111113|2008|2012
+COLOR|bluee-metallic|Bluee Metallic|B53|#23406B|2008|2010
+COLOR|dark-bluee-pearl|Dark Bluee Pearl|BW6|#23406B|2008|2008
+COLOR|gray-metallic|Gray Metallic|K21|#6F7377|2008|2008
+COLOR|gray-metallic-2|Gray Metallic|K51|#6F7377|2008|2008
+COLOR|green-metallic|Green Metallic|DW0|#395A46|2008|2008
+COLOR|iridium-graphite-metallic|Iridium Graphite Metallic|K55|#6F7377|2008|2013
+COLOR|red-pearl-metallic|Red Pearl Metallic|AX5|#A51C26|2008|2008
+COLOR|red-solid|Red Solid|AX6|#A51C26|2008|2013
+COLOR|silver-metallic|Silver Metallic|KX4|#B7BBBF|2008|2008
+COLOR|silver-metallic-2|Silver Metallic|KY0|#B7BBBF|2008|2012
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2008|2012
+COLOR|black-metallic|Black Metallic|G41|#111113|2009|2013
+COLOR|gray-metallic-3|Gray Metallic|K51|#6F7377|2009|2009
+COLOR|gray-metallic-4|Gray Metallic|K51|#6F7377|2010|2010
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2010|2013
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|RAQ|#23406B|2011|2013
+COLOR|dark-violet-metallic|Dark Violet Metallic|LAA|#6F7377|2011|2013
+COLOR|gray-metallic-5|Gray Metallic|K51|#6F7377|2011|2011
+COLOR|grayish-green-metallic|Grayish Green Metallic|JAE|#6F7377|2011|2013
+COLOR|greige-beige-metallic|Greige/Beige Metallic|C43|#C6B08A|2011|2013
+COLOR|silver-metallic-3|Silver Metallic|K23|#B7BBBF|2011|2013
+COLOR|white|White|QM1|#F2F1EC|2011|2013
+COLOR|dark-bluee-metallic-2|Dark Bluee Metallic|BW9|#23406B|2012|2012
+COLOR|dark-bluee-pearl-2|Dark Bluee Pearl|BW6|#23406B|2012|2012
+COLOR|gray-metallic-6|Gray Metallic|K51|#6F7377|2012|2012
+COLOR|green-iron-oxide-pearl-metallic|Green Iron Oxide Pearl Metallic|DS2|#395A46|2012|2012
+COLOR|green-metallic-2|Green Metallic|DW0|#395A46|2012|2012
+COLOR|maple-red-metallic|Maple Red Metallic|NXE|#A51C26|2012|2012
+COLOR|mars-gray-metallic|Mars Gray Metallic|WXC|#6F7377|2012|2012
+COLOR|red-pearl-metallic-2|Red Pearl Metallic|AX5|#A51C26|2012|2012
+COLOR|satin-white-pearl|Satin White Pearl|QX3|#F2F1EC|2012|2012
+COLOR|silver-metallic-4|Silver Metallic|KL0|#B7BBBF|2012|2012
+COLOR|gray-metallic-7|Gray Metallic|K51|#6F7377|2013|2013
+GENERATION|3g|2014|2021
+COLOR|beige-metallic|Beige Metallic|EV0|#C6B08A|2014|2016
+COLOR|black-metallic|Black Metallic|G41|#111113|2014|2020
+COLOR|blueeish-gray-metallic|Blueeish Gray Metallic|KAP|#6F7377|2014|2016
+COLOR|dark-bluee-metallic|Dark Bluee Metallic|RAQ|#23406B|2014|2017
+COLOR|gray-metallic|Gray Metallic|K51|#6F7377|2014|2014
+COLOR|iridium-graphite-metallic|Iridium Graphite Metallic|K55|#6F7377|2014|2016
+COLOR|orange-metallic|Orange Metallic|EAR|#C4622D|2014|2016
+COLOR|red-solid|Red Solid|AX6|#A51C26|2014|2016
+COLOR|silver-metallic|Silver Metallic|K23|#B7BBBF|2014|2015
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2014|2020
+COLOR|black|Black|KH3|#111113|2015|2017
+COLOR|bluee-metallic|Bluee Metallic|B53|#23406B|2015|2016
+COLOR|dark-bluee-metallic-2|Dark Bluee Metallic|BW9|#23406B|2015|2016
+COLOR|dark-currant-marrone-metallic|Dark Currant/Marrone Metallic|L50|#6F7377|2015|2016
+COLOR|dk-olive-metallic|Dk Olive Metallic|EAN|#395A46|2015|2020
+COLOR|gray-metallic-2|Gray Metallic|K51|#6F7377|2015|2015
+COLOR|gray-metallic-3|Gray Metallic|K21|#6F7377|2015|2015
+COLOR|gray-metallic-4|Gray Metallic|KAD|#6F7377|2015|2015
+COLOR|grayish-green-metallic|Grayish Green Metallic|JAE|#6F7377|2015|2016
+COLOR|orange-2m-metallic|Orange 2M Metallic|R10|#C4622D|2015|2015
+COLOR|red-pearl-metallic|Red Pearl Metallic|AX5|#A51C26|2015|2016
+COLOR|silver-metallic-2|Silver Metallic|KL0|#B7BBBF|2015|2016
+COLOR|silver-metallic-3|Silver Metallic|KY0|#B7BBBF|2015|2016
+COLOR|white|White|QM1|#F2F1EC|2015|2017
+COLOR|white-3p-metallic|White 3P Metallic|QX1|#F2F1EC|2015|2016
+COLOR|bluee-pm-metallic|Bluee Pm Metallic|B17|#23406B|2016|2017
+COLOR|gray-metallic-5|Gray Metallic|K51|#6F7377|2016|2016
+COLOR|gray-metallic-6|Gray Metallic|KAD|#6F7377|2016|2016
+COLOR|gray-metallic-7|Gray Metallic|KAD|#6F7377|2017|2017
+COLOR|red-pearl|Red Pearl|NBF|#A51C26|2017|2020
+COLOR|silver-metallic-4|Silver Metallic|K23|#B7BBBF|2017|2020
+COLOR|bluee-metallic-2|Bluee Metallic|RAW|#23406B|2018|2020
+COLOR|dark-brown-metallic|Dark Brown Metallic|CAS|#6B563F|2018|2020
+COLOR|gray-metallic-8|Gray Metallic|KAD|#6F7377|2018|2018
+COLOR|orange-metallic-2|Orange Metallic|EBB|#C4622D|2018|2020
+COLOR|red-solid-2|Red Solid|AX6|#A51C26|2018|2020
+COLOR|gray-metallic-9|Gray Metallic|KAD|#6F7377|2019|2019
+COLOR|gray-metallic-10|Gray Metallic|KAD|#6F7377|2020|2020
+GENERATION|4g|2022|2025
+COLOR|black-metallic|Black Metallic|G41|#111113|2023|2023
+COLOR|dark-bluee-steel-pearl|Dark Bluee Steel Pearl|RBY|#23406B|2023|2023
+COLOR|freezer-burn-metallic|Freezer Burn Metallic|EBL|#6F7377|2023|2023
+COLOR|gray-metallic|Gray Metallic|KAD|#6F7377|2023|2023
+COLOR|gray-stealth-gray-pearl|Gray/Stealth Gray Pearl|KBY|#6F7377|2023|2023
+COLOR|nissan-ebl-nissan-kh3|Nissan Ebl / Nissan Kh3|XEV|#6F7377|2023|2023
+COLOR|nissan-kh3-nissan-kay|Nissan Kh3 / Nissan Kay|XEW|#6F7377|2023|2023
+COLOR|nissan-kh3-nissan-qab|Nissan Kh3 / Nissan Qab|XBJ|#6F7377|2023|2023
+COLOR|nissan-kh3-nissan-rby|Nissan Kh3 / Nissan Rby|XEU|#6F7377|2023|2023
+COLOR|nissan-z11-nissan-kby|Nissan Z11 / Nissan Kby|XFU|#6F7377|2023|2023
+COLOR|scarlet-ember-pearl|Scarlet Ember Pearl|NBL|#6F7377|2023|2023
+COLOR|silver-metallic|Silver Metallic|K23|#B7BBBF|2023|2023
+COLOR|silver-metallic-2|Silver Metallic|KAY|#B7BBBF|2023|2023
+COLOR|white|White|QAK|#F2F1EC|2023|2023
+COLOR|white-pearl|White Pearl|QAB|#F2F1EC|2023|2023

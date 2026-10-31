@@ -1,0 +1,4587 @@
+{
+  "make": "honda",
+  "colors": {
+    "NH537M": {
+      "slug": "pewter-gray-metallic",
+      "name": "Pewter Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "YR94M": {
+      "slug": "seattle-silver-metallic",
+      "name": "Seattle Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R78P": {
+      "slug": "bordeaux-red-pearl-metallic",
+      "name": "Bordeaux Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "B59P": {
+      "slug": "buckingham-blue-pearl-metallic",
+      "name": "Buckingham Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "BG30P": {
+      "slug": "arcadia-green-pearl-metallic",
+      "name": "Arcadia Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "B54P": {
+      "slug": "cobalt-blue-pearl-metallic",
+      "name": "Cobalt Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "NH538": {
+      "slug": "frost-white",
+      "name": "Frost White",
+      "hex": "#F2F1EC"
+    },
+    "R81": {
+      "slug": "milano-red",
+      "name": "Milano Red",
+      "hex": "#A51C26"
+    },
+    "NH561P": {
+      "slug": "phanton-gray-pearl-metallic",
+      "name": "Phanton Gray Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "NH552M": {
+      "slug": "sebring-silver-metallic",
+      "name": "Sebring Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R89P": {
+      "slug": "beaujolais-red-pearl-metallic",
+      "name": "Beaujolais Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "G77M": {
+      "slug": "blue-metallic",
+      "name": "Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B65M": {
+      "slug": "brighton-blue-metallic",
+      "name": "Brighton Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH503P": {
+      "slug": "granada-black-pearl",
+      "name": "Granada Black Pearl",
+      "hex": "#111113"
+    },
+    "BG31P": {
+      "slug": "malachite-green-pearl-metallic",
+      "name": "Malachite Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "NH577P": {
+      "slug": "night-shade-gray-pearl-metallic",
+      "name": "Night Shade Gray Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "NH567M": {
+      "slug": "serene-silver-metallic",
+      "name": "Serene Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "G78P": {
+      "slug": "sherwood-green-mica-metallic",
+      "name": "Sherwood Green Mica Metallic",
+      "hex": "#395A46"
+    },
+    "R90": {
+      "slug": "carmen-red",
+      "name": "Carmen Red",
+      "hex": "#A51C26"
+    },
+    "A5829": {
+      "slug": "reddish-silver-metallic",
+      "name": "Reddish Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "G81P": {
+      "slug": "woodland-green-pearl-metallic",
+      "name": "Woodland Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "G83P": {
+      "slug": "new-dark-eucalyptus-pearl-metallic",
+      "name": "New Dark Eucalyptus Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "RP25P": {
+      "slug": "dark-currant-violet-pearl-metallic",
+      "name": "Dark Currant / Violet Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "G86P": {
+      "slug": "green-metallic",
+      "name": "Green Metallic",
+      "hex": "#395A46"
+    },
+    "B92P": {
+      "slug": "new-blackish-blue-pearl-metallic",
+      "name": "New Blackish Blue Pearl Metallic",
+      "hex": "#111113"
+    },
+    "G87P": {
+      "slug": "new-dark-green-pearl-metallic",
+      "name": "New Dark Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "R94": {
+      "slug": "new-deep-s-marino-red",
+      "name": "New Deep/S Marino Red",
+      "hex": "#A51C26"
+    },
+    "B77P": {
+      "slug": "orleans-blue-pearl-metallic",
+      "name": "Orleans Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "NH605P": {
+      "slug": "pirates-black-mica",
+      "name": "Pirates Black Mica",
+      "hex": "#111113"
+    },
+    "YR508M": {
+      "slug": "reddish-silver-metallic-2",
+      "name": "Reddish Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R500P": {
+      "slug": "sicilian-red-pearl",
+      "name": "Sicilian Red Pearl",
+      "hex": "#A51C26"
+    },
+    "NH592P": {
+      "slug": "star-light-black-pearl-metallic",
+      "name": "Star Light Black Pearl Metallic",
+      "hex": "#111113"
+    },
+    "NH578": {
+      "slug": "taffeta-white",
+      "name": "Taffeta White",
+      "hex": "#F2F1EC"
+    },
+    "NH614M": {
+      "slug": "titan-silver-metallic",
+      "name": "Titan Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R502": {
+      "slug": "vesuvio-red",
+      "name": "Vesuvio Red",
+      "hex": "#A51C26"
+    },
+    "GY20M": {
+      "slug": "chartreuse-metallic",
+      "name": "Chartreuse Metallic",
+      "hex": "#6F7377"
+    },
+    "B94": {
+      "slug": "midnight-blue",
+      "name": "Midnight Blue",
+      "hex": "#23406B"
+    },
+    "NH623M": {
+      "slug": "satin-silver-metallic",
+      "name": "Satin Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "YR524M": {
+      "slug": "naples-gold-metallic",
+      "name": "Naples Gold Metallic",
+      "hex": "#C6B08A"
+    },
+    "RP31M": {
+      "slug": "signet-silver-metallic",
+      "name": "Signet Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "YR523M": {
+      "slug": "champagne-beige-metallic",
+      "name": "Champagne Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "B96P": {
+      "slug": "eternal-blue-pearl-metallic",
+      "name": "Eternal Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "R507P": {
+      "slug": "new-firepepper-pearl",
+      "name": "New Firepepper Pearl",
+      "hex": "#6F7377"
+    },
+    "B99P": {
+      "slug": "atlantic-blue-metallic",
+      "name": "Atlantic Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B89P": {
+      "slug": "dark-blue-pearl-metallic",
+      "name": "Dark Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "PB73P": {
+      "slug": "deep-purple-pearl-metallic",
+      "name": "Deep Purple Pearl Metallic",
+      "hex": "#55445F"
+    },
+    "NH658P": {
+      "slug": "graphite-metallic",
+      "name": "Graphite Metallic",
+      "hex": "#6F7377"
+    },
+    "NH630M": {
+      "slug": "new-silver-metallic-1",
+      "name": "New Silver Metallic 1",
+      "hex": "#B7BBBF"
+    },
+    "NH624P": {
+      "slug": "premium-white-pearl",
+      "name": "Premium White Pearl",
+      "hex": "#F2F1EC"
+    },
+    "R522P": {
+      "slug": "royal-ruby-red-metallic",
+      "name": "Royal Ruby Red Metallic",
+      "hex": "#A51C26"
+    },
+    "YR528M": {
+      "slug": "shoreline-mist-metallic",
+      "name": "Shoreline Mist Metallic",
+      "hex": "#6F7377"
+    },
+    "NH700M": {
+      "slug": "alabaster-silver-metallic",
+      "name": "Alabaster Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B507P": {
+      "slug": "artic-blue-metallic",
+      "name": "Artic Blue Metallic",
+      "hex": "#23406B"
+    },
+    "G516P": {
+      "slug": "deep-green-metallic",
+      "name": "Deep Green Metallic",
+      "hex": "#395A46"
+    },
+    "NH663M": {
+      "slug": "gracious-beige-metallic",
+      "name": "Gracious Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "B536P": {
+      "slug": "royal-blue-metallic",
+      "name": "Royal Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH691M": {
+      "slug": "silver-moos-metallic",
+      "name": "Silver Moos Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B538M": {
+      "slug": "blueish-silver-metallic",
+      "name": "Blueish Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "YR562P": {
+      "slug": "carbon-bronze-metallic",
+      "name": "Carbon Bronze Metallic",
+      "hex": "#6B563F"
+    },
+    "YR565P": {
+      "slug": "dark-mocha-brown-metallic",
+      "name": "Dark Mocha/Brown Metallic",
+      "hex": "#6B563F"
+    },
+    "R530P": {
+      "slug": "basque-red-metallic",
+      "name": "Basque Red Metallic",
+      "hex": "#A51C26"
+    },
+    "B551P": {
+      "slug": "belize-blue-metallic",
+      "name": "Belize Blue Metallic",
+      "hex": "#23406B"
+    },
+    "YR574M": {
+      "slug": "bold-beige-metallic",
+      "name": "Bold Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "NH743M": {
+      "slug": "buran-silver-metallic",
+      "name": "Buran Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B553P": {
+      "slug": "cobalt-blue-metallic",
+      "name": "Cobalt Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH731P": {
+      "slug": "crystal-black-metallic",
+      "name": "Crystal Black Metallic",
+      "hex": "#111113"
+    },
+    "G530M": {
+      "slug": "mystic-green-metallic",
+      "name": "Mystic Green Metallic",
+      "hex": "#395A46"
+    },
+    "NH737M": {
+      "slug": "polished-metallic-al-gray-metallic",
+      "name": "Polished Metallic Al/Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "NH736M": {
+      "slug": "volcano-gray-metallic",
+      "name": "Volcano Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "NH603P": {
+      "slug": "white-diamond-pearl",
+      "name": "White Diamond Pearl",
+      "hex": "#F2F1EC"
+    },
+    "B564M": {
+      "slug": "celestial-blue-metallic",
+      "name": "Celestial Blue Metallic",
+      "hex": "#23406B"
+    },
+    "YR587M": {
+      "slug": "dark-amber-black-metallic",
+      "name": "Dark Amber Black Metallic",
+      "hex": "#111113"
+    },
+    "NH782M": {
+      "slug": "graphit-luster-gray-metallic",
+      "name": "Graphit Luster Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "G532M": {
+      "slug": "opal-sage-green-metallic",
+      "name": "Opal Sage/Green Metallic",
+      "hex": "#395A46"
+    },
+    "YR578M": {
+      "slug": "urban-titanium-gray-metallic",
+      "name": "Urban Titanium /Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "NH788P": {
+      "slug": "white-orchid-pearl",
+      "name": "White Orchid Pearl",
+      "hex": "#F2F1EC"
+    },
+    "YR602M": {
+      "slug": "burnished-silver-metallic",
+      "name": "Burnished Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R547P": {
+      "slug": "carnelian-red-ii-metallic",
+      "name": "Carnelian Red II Metallic",
+      "hex": "#A51C26"
+    },
+    "NH789M": {
+      "slug": "forged-silver-ii-metallic",
+      "name": "Forged Silver II Metallic",
+      "hex": "#B7BBBF"
+    },
+    "G536M": {
+      "slug": "hematite-green-metallic",
+      "name": "Hematite Green Metallic",
+      "hex": "#395A46"
+    },
+    "NH797M": {
+      "slug": "modern-steel-metallic",
+      "name": "Modern Steel Metallic",
+      "hex": "#6F7377"
+    },
+    "YR591P": {
+      "slug": "new-seashell-beige-metallic",
+      "name": "New Seashell Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "B588P": {
+      "slug": "obsidian-blue-pearl",
+      "name": "Obsidian Blue Pearl",
+      "hex": "#23406B"
+    },
+    "B575P": {
+      "slug": "still-night-pearl",
+      "name": "Still Night Pearl",
+      "hex": "#6F7377"
+    },
+    "YR594P": {
+      "slug": "tiger-eye-metallic",
+      "name": "Tiger Eye Metallic",
+      "hex": "#6F7377"
+    },
+    "YR600M": {
+      "slug": "kona-coffee-metallic",
+      "name": "Kona Coffee Metallic",
+      "hex": "#6F7377"
+    },
+    "NH830M": {
+      "slug": "lunar-silver-metallic",
+      "name": "Lunar Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "NH883P": {
+      "slug": "platinum-white-pearl",
+      "name": "Platinum White Pearl",
+      "hex": "#F2F1EC"
+    },
+    "R569M": {
+      "slug": "radiant-red-metallic",
+      "name": "Radiant Red Metallic",
+      "hex": "#A51C26"
+    },
+    "NH877P": {
+      "slug": "sonic-gray-pearl",
+      "name": "Sonic Gray Pearl",
+      "hex": "#6F7377"
+    },
+    "B640M": {
+      "slug": "canyon-river-blue-metallic",
+      "name": "Canyon River Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH932M": {
+      "slug": "solar-silver-metallic",
+      "name": "Solar Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "R525P": {
+      "slug": "tango-red-metallic",
+      "name": "Tango Red Metallic",
+      "hex": "#A51C26"
+    },
+    "NH701M": {
+      "slug": "galaxi-gray-metallic",
+      "name": "Galaxi Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "NH636P": {
+      "slug": "brilliant-white-pearl",
+      "name": "Brilliant White Pearl",
+      "hex": "#F2F1EC"
+    },
+    "B558M": {
+      "slug": "deep-lapis-blue-metallic",
+      "name": "Deep Lapis Blue Metallic",
+      "hex": "#23406B"
+    },
+    "R513": {
+      "slug": "rallye-red",
+      "name": "Rallye Red",
+      "hex": "#A51C26"
+    },
+    "NH526M": {
+      "slug": "flint-black-metallic",
+      "name": "Flint Black Metallic",
+      "hex": "#111113"
+    },
+    "NH550M": {
+      "slug": "vogue-silver-metallic",
+      "name": "Vogue Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B62P": {
+      "slug": "captiva-blue-pearl-metallic",
+      "name": "Captiva Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "B63P": {
+      "slug": "harvard-blue-pearl-metallic",
+      "name": "Harvard Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "G71P": {
+      "slug": "lausanne-green-pearl-metallic",
+      "name": "Lausanne Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "G73M": {
+      "slug": "opal-green-metallic",
+      "name": "Opal Green Metallic",
+      "hex": "#395A46"
+    },
+    "R72P": {
+      "slug": "torino-red-pearl-metallic",
+      "name": "Torino Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "BG29P": {
+      "slug": "aztec-green-pearl-metallic",
+      "name": "Aztec Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "R86P": {
+      "slug": "camelia-red-pearl-metallic",
+      "name": "Camelia Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "RP21M": {
+      "slug": "horizon-gray-metallic",
+      "name": "Horizon Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "GY15P": {
+      "slug": "irish-green-pearl-metallic",
+      "name": "Irish Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "BG33P": {
+      "slug": "paradise-blue-green-pearl-metallic",
+      "name": "Paradise Blue Green Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "BG28P": {
+      "slug": "tahitian-green-pearl-metallic",
+      "name": "Tahitian Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "NH575M": {
+      "slug": "tunder-gray-metallic",
+      "name": "Tunder Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "B74P": {
+      "slug": "adriatic-blue-metallic",
+      "name": "Adriatic Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B73M": {
+      "slug": "ciclone-blue-metallic",
+      "name": "Ciclone Blue Metallic",
+      "hex": "#23406B"
+    },
+    "G82P": {
+      "slug": "cypress-green-pearl-metallic",
+      "name": "Cypress Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "PB74P": {
+      "slug": "dark-ametallic-hyst-pearl-metallic",
+      "name": "Dark Ametallic Hyst Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "R95P": {
+      "slug": "island-coral-orange-pearl-metallic",
+      "name": "Island Coral Orange Pearl Metallic",
+      "hex": "#C4622D"
+    },
+    "R93P": {
+      "slug": "matador-red-pearl-metallic",
+      "name": "Matador Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "NH569": {
+      "slug": "milos-white",
+      "name": "Milos White",
+      "hex": "#F2F1EC"
+    },
+    "NH583M": {
+      "slug": "new-vogue-silver-metallic",
+      "name": "New Vogue Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "NH611M": {
+      "slug": "athlete-gray-metallic",
+      "name": "Athlete Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "R505P": {
+      "slug": "new-burgundy-red-pearl",
+      "name": "New Burgundy Red Pearl",
+      "hex": "#A51C26"
+    },
+    "NH617M": {
+      "slug": "new-dark-silver-pearl-metallic",
+      "name": "New Dark Silver Pearl Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B90P": {
+      "slug": "supersonic-blue-pearl-metallic",
+      "name": "Supersonic Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "BG45M": {
+      "slug": "aquamint-opal-metallic",
+      "name": "Aquamint Opal Metallic",
+      "hex": "#6F7377"
+    },
+    "G99P": {
+      "slug": "cascade-green-pearl-metallic",
+      "name": "Cascade Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "G95P": {
+      "slug": "clover-green-pearl-metallic",
+      "name": "Clover Green Pearl Metallic",
+      "hex": "#395A46"
+    },
+    "Y56": {
+      "slug": "sunlight-yellow",
+      "name": "Sunlight Yellow",
+      "hex": "#E0C23A"
+    },
+    "Y62P": {
+      "slug": "corona-gold-metallic",
+      "name": "Corona Gold Metallic",
+      "hex": "#C6B08A"
+    },
+    "YR525M": {
+      "slug": "new-titanium-pearl-metallic",
+      "name": "New Titanium Pearl Metallic",
+      "hex": "#6F7377"
+    },
+    "R504P": {
+      "slug": "new-vivid-red-pearl-metallic",
+      "name": "New Vivid Red Pearl Metallic",
+      "hex": "#A51C26"
+    },
+    "B95P": {
+      "slug": "electron-blue-pearl-metallic",
+      "name": "Electron Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "B512M": {
+      "slug": "magnetic-blue-metallic",
+      "name": "Magnetic Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B520P": {
+      "slug": "vivid-blue-pearl-metallic",
+      "name": "Vivid Blue Pearl Metallic",
+      "hex": "#23406B"
+    },
+    "R517P": {
+      "slug": "volcano-red-metallic",
+      "name": "Volcano Red Metallic",
+      "hex": "#A51C26"
+    },
+    "G503P": {
+      "slug": "amazon-green-metallic",
+      "name": "Amazon Green Metallic",
+      "hex": "#395A46"
+    },
+    "G502M": {
+      "slug": "aqua-green-metallic",
+      "name": "Aqua Green Metallic",
+      "hex": "#395A46"
+    },
+    "Y61P": {
+      "slug": "inca-pearl",
+      "name": "Inca Pearl",
+      "hex": "#6F7377"
+    },
+    "G505M": {
+      "slug": "islander-green-metallic",
+      "name": "Islander Green Metallic",
+      "hex": "#395A46"
+    },
+    "YR559M": {
+      "slug": "champagne-metallic",
+      "name": "Champagne Metallic",
+      "hex": "#C6B08A"
+    },
+    "B537M": {
+      "slug": "neutron-proton-blue-metallic",
+      "name": "Neutron / Proton Blue Metallic",
+      "hex": "#23406B"
+    },
+    "YR571P": {
+      "slug": "deep-bronze-metallic",
+      "name": "Deep Bronze Metallic",
+      "hex": "#6B563F"
+    },
+    "NH684P": {
+      "slug": "sparkle-gray-metallic",
+      "name": "Sparkle Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "YR563M": {
+      "slug": "tangerine-mist-metallic",
+      "name": "Tangerine Mist Metallic",
+      "hex": "#6F7377"
+    },
+    "NH0": {
+      "slug": "championship-white",
+      "name": "Championship White",
+      "hex": "#F2F1EC"
+    },
+    "B548P": {
+      "slug": "deep-sapphire-blue-metallic",
+      "name": "Deep Sapphire Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B561P": {
+      "slug": "new-teal-blue-metallic",
+      "name": "New Teal Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH756P": {
+      "slug": "spectrum-white-pearl",
+      "name": "Spectrum White Pearl",
+      "hex": "#F2F1EC"
+    },
+    "R543P": {
+      "slug": "carnelian-red-metallic",
+      "name": "Carnelian Red Metallic",
+      "hex": "#A51C26"
+    },
+    "B584P": {
+      "slug": "deep-sapphire-blue-ii-metallic",
+      "name": "Deep Sapphire Blue II Metallic",
+      "hex": "#23406B"
+    },
+    "B572P": {
+      "slug": "dyno-blue-ii-metallic",
+      "name": "Dyno Blue II Metallic",
+      "hex": "#23406B"
+    },
+    "G534M": {
+      "slug": "green-opal-metallic",
+      "name": "Green Opal Metallic",
+      "hex": "#395A46"
+    },
+    "NH787M": {
+      "slug": "new-frosty-white-metallic",
+      "name": "New Frosty White Metallic",
+      "hex": "#F2F1EC"
+    },
+    "YR589P": {
+      "slug": "red-orange-metallic",
+      "name": "Red Orange Metallic",
+      "hex": "#A51C26"
+    },
+    "G535P": {
+      "slug": "wooland-green-metallic",
+      "name": "Wooland Green Metallic",
+      "hex": "#395A46"
+    },
+    "Y69M": {
+      "slug": "yellow-topaz-metallic",
+      "name": "Yellow Topaz Metallic",
+      "hex": "#E0C23A"
+    },
+    "B580": {
+      "slug": "deep-ocean-blue",
+      "name": "Deep Ocean Blue",
+      "hex": "#23406B"
+    },
+    "YR612P": {
+      "slug": "orange-sunrise-metallic",
+      "name": "Orange Sunrise Metallic",
+      "hex": "#C4622D"
+    },
+    "R539P": {
+      "slug": "passion-red-metallic",
+      "name": "Passion Red Metallic",
+      "hex": "#A51C26"
+    },
+    "B570M": {
+      "slug": "twilight-blue-metallic",
+      "name": "Twilight Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B593M": {
+      "slug": "aegean-blue-metallic",
+      "name": "Aegean Blue Metallic",
+      "hex": "#23406B"
+    },
+    "R560P": {
+      "slug": "burgundy-night-metallic",
+      "name": "Burgundy Night Metallic",
+      "hex": "#6F7377"
+    },
+    "B607M": {
+      "slug": "cosmic-blue-metallic",
+      "name": "Cosmic Blue Metallic",
+      "hex": "#23406B"
+    },
+    "GY30P": {
+      "slug": "energy-green-pearl",
+      "name": "Energy Green Pearl",
+      "hex": "#395A46"
+    },
+    "NH547": {
+      "slug": "berlina-black",
+      "name": "Berlina Black",
+      "hex": "#111113"
+    },
+    "YR659P": {
+      "slug": "blazing-orange-pearl",
+      "name": "Blazing Orange Pearl",
+      "hex": "#C4622D"
+    },
+    "RP61P": {
+      "slug": "smokey-mauve-pearl",
+      "name": "Smokey Mauve Pearl",
+      "hex": "#6F7377"
+    },
+    "YR513M": {
+      "slug": "passion-orange-metallic",
+      "name": "Passion Orange Metallic",
+      "hex": "#C4622D"
+    },
+    "B84P": {
+      "slug": "super-marine-blue-pearl",
+      "name": "Super Marine Blue Pearl",
+      "hex": "#23406B"
+    },
+    "Y59M": {
+      "slug": "sparkle-yellow-metallic",
+      "name": "Sparkle Yellow Metallic",
+      "hex": "#E0C23A"
+    },
+    "YR535M": {
+      "slug": "new-sparkle-beige-metallic",
+      "name": "New Sparkle Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "NH674P": {
+      "slug": "cosmic-gray-metallic",
+      "name": "Cosmic Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "NH711M": {
+      "slug": "whistler-new-medium-gray-metallic",
+      "name": "Whistler/New Medium Gray Metallic",
+      "hex": "#6F7377"
+    },
+    "R548P": {
+      "slug": "basque-red-metallic",
+      "name": "Basque Red Metallic",
+      "hex": "#A51C26"
+    },
+    "YR580M": {
+      "slug": "ionized-bronze-metallic",
+      "name": "Ionized Bronze Metallic",
+      "hex": "#6B563F"
+    },
+    "BG62M": {
+      "slug": "new-mountain-air-metallic",
+      "name": "New Mountain Air Metallic",
+      "hex": "#6F7377"
+    },
+    "YR614P": {
+      "slug": "copper-sunset-red-metallic",
+      "name": "Copper Sunset Red Metallic",
+      "hex": "#A51C26"
+    },
+    "YR604M": {
+      "slug": "new-gold-brown-metallic",
+      "name": "New Gold Brown Metallic",
+      "hex": "#C6B08A"
+    },
+    "G546M": {
+      "slug": "dark-olive-metallic",
+      "name": "Dark Olive Metallic",
+      "hex": "#395A46"
+    },
+    "PB88M": {
+      "slug": "gunmetal-metallic",
+      "name": "Gunmetal Metallic",
+      "hex": "#6F7377"
+    },
+    "YR633P": {
+      "slug": "premium-agate-brown-pearl",
+      "name": "Premium Agate Brown Pearl",
+      "hex": "#6B563F"
+    },
+    "R565M": {
+      "slug": "premium-crystal-red-metallic",
+      "name": "Premium Crystal Red Metallic",
+      "hex": "#A51C26"
+    },
+    "NH912P": {
+      "slug": "urban-gray-pearl",
+      "name": "Urban Gray Pearl",
+      "hex": "#6F7377"
+    },
+    "YR576M": {
+      "slug": "brilliant-orange-metallic",
+      "name": "Brilliant Orange Metallic",
+      "hex": "#C4622D"
+    },
+    "BG53M": {
+      "slug": "cerulean-blue-metallic",
+      "name": "Cerulean Blue Metallic",
+      "hex": "#23406B"
+    },
+    "PB83P": {
+      "slug": "premium-deep-violet-metallic",
+      "name": "Premium Deep Violet Metallic",
+      "hex": "#6F7377"
+    },
+    "B549M": {
+      "slug": "sherbet-blue-metallic",
+      "name": "Sherbet Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH642M": {
+      "slug": "storm-silver-metallic",
+      "name": "Storm Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B568M": {
+      "slug": "azure-blue-metallic",
+      "name": "Azure Blue Metallic",
+      "hex": "#23406B"
+    },
+    "GY27M": {
+      "slug": "fresh-lime-green-metallic",
+      "name": "Fresh Lime Green Metallic",
+      "hex": "#395A46"
+    },
+    "YR585": {
+      "slug": "sunset-orange-ii",
+      "name": "Sunset Orange II",
+      "hex": "#C4622D"
+    },
+    "BG59M": {
+      "slug": "cool-turquoise-blue-metallic",
+      "name": "Cool Turquoise/Blue Metallic",
+      "hex": "#23406B"
+    },
+    "R555M": {
+      "slug": "pink-gold-metallic",
+      "name": "Pink Gold Metallic",
+      "hex": "#C6B08A"
+    },
+    "Y72P": {
+      "slug": "mystic-yellow-pearl",
+      "name": "Mystic Yellow Pearl",
+      "hex": "#E0C23A"
+    },
+    "RP46P": {
+      "slug": "passion-berry-pearl",
+      "name": "Passion Berry Pearl",
+      "hex": "#6F7377"
+    },
+    "Y70P": {
+      "slug": "helios-yellow-pearl",
+      "name": "Helios Yellow Pearl",
+      "hex": "#E0C23A"
+    },
+    "Y57M": {
+      "slug": "sunburst-yellow-metallic",
+      "name": "Sunburst Yellow Metallic",
+      "hex": "#E0C23A"
+    },
+    "YR532M": {
+      "slug": "fresh-copper-metallic",
+      "name": "Fresh Copper Metallic",
+      "hex": "#6B563F"
+    },
+    "BG47P": {
+      "slug": "tropic-jade-metallic",
+      "name": "Tropic Jade Metallic",
+      "hex": "#6F7377"
+    },
+    "B509M": {
+      "slug": "effect-blue-metallic",
+      "name": "Effect Blue Metallic",
+      "hex": "#23406B"
+    },
+    "G539P": {
+      "slug": "misty-green-pearl",
+      "name": "Misty Green Pearl",
+      "hex": "#395A46"
+    },
+    "NH821M": {
+      "slug": "ruse-black-metallic",
+      "name": "Ruse Black Metallic",
+      "hex": "#111113"
+    },
+    "NH823M": {
+      "slug": "tinted-silver-metallic",
+      "name": "Tinted Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B610M": {
+      "slug": "midnight-blue-beam-pearl",
+      "name": "Midnight Blue Beam Pearl",
+      "hex": "#23406B"
+    },
+    "YR592M": {
+      "slug": "orangeburst-metallic",
+      "name": "Orangeburst Metallic",
+      "hex": "#C4622D"
+    },
+    "G553P": {
+      "slug": "nordic-forest-pearl",
+      "name": "Nordic Forest Pearl",
+      "hex": "#6F7377"
+    },
+    "G510P": {
+      "slug": "evergreen-metallic",
+      "name": "Evergreen Metallic",
+      "hex": "#395A46"
+    },
+    "YR520M": {
+      "slug": "mesa-beige-metallic",
+      "name": "Mesa Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "G501M": {
+      "slug": "new-fern-metallic",
+      "name": "New Fern Metallic",
+      "hex": "#6F7377"
+    },
+    "R519P": {
+      "slug": "red-rock-metallic",
+      "name": "Red Rock Metallic",
+      "hex": "#A51C26"
+    },
+    "NH638M": {
+      "slug": "starlight-silver-metallic",
+      "name": "Starlight Silver Metallic",
+      "hex": "#B7BBBF"
+    },
+    "B518P": {
+      "slug": "midnight-blue-metallic",
+      "name": "Midnight Blue Metallic",
+      "hex": "#23406B"
+    },
+    "YR545M": {
+      "slug": "desert-rock-beige-metallic",
+      "name": "Desert Rock/ Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "B530M": {
+      "slug": "ocean-mist-blue-metallic",
+      "name": "Ocean Mist/Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH679M": {
+      "slug": "slate-silver-green-metallic",
+      "name": "Slate Silver/Green Metallic",
+      "hex": "#B7BBBF"
+    },
+    "YR542M": {
+      "slug": "sandstone-beige-metallic",
+      "name": "Sandstone / Beige Metallic",
+      "hex": "#C6B08A"
+    },
+    "R529P": {
+      "slug": "dark-cherry-red-metallic",
+      "name": "Dark Cherry Red Metallic",
+      "hex": "#A51C26"
+    },
+    "YR573M": {
+      "slug": "mocha-metallic",
+      "name": "Mocha Metallic",
+      "hex": "#6F7377"
+    },
+    "BG55P": {
+      "slug": "premium-mystic-night-blue-metallic",
+      "name": "Premium Mystic Night/Blue Metallic",
+      "hex": "#23406B"
+    },
+    "B552P": {
+      "slug": "bali-blue-metallic",
+      "name": "Bali Blue Metallic",
+      "hex": "#23406B"
+    },
+    "NH777M": {
+      "slug": "new-smokey-topaz-metallic",
+      "name": "New Smokey Topaz Metallic",
+      "hex": "#6F7377"
+    },
+    "YR597P": {
+      "slug": "aurora-rosewood-metallic",
+      "name": "Aurora Rosewood Metallic",
+      "hex": "#6F7377"
+    },
+    "R561P": {
+      "slug": "deep-scarlet-pearl",
+      "name": "Deep Scarlet Pearl",
+      "hex": "#6F7377"
+    },
+    "G537M": {
+      "slug": "forest-mist-metallic",
+      "name": "Forest Mist Metallic",
+      "hex": "#6F7377"
+    },
+    "NH862M": {
+      "slug": "pacific-pewter-metallic",
+      "name": "Pacific Pewter Metallic",
+      "hex": "#6F7377"
+    },
+    "G542P": {
+      "slug": "black-forest-pearl",
+      "name": "Black Forest Pearl",
+      "hex": "#111113"
+    },
+    "B600M": {
+      "slug": "steel-sapphire-metallic",
+      "name": "Steel Sapphire Metallic",
+      "hex": "#6F7377"
+    },
+    "B638P": {
+      "slug": "diffused-sky-pearl",
+      "name": "Diffused Sky Pearl",
+      "hex": "#6F7377"
+    }
+  },
+  "models": [
+    {
+      "name": "accord",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1990,
+            "to": 1993
+          },
+          "colors": [
+            {
+              "code": "NH537M",
+              "from": 1990,
+              "to": 1992
+            },
+            {
+              "code": "YR94M",
+              "from": 1990,
+              "to": 1993
+            },
+            {
+              "code": "R78P",
+              "from": 1991,
+              "to": 1993
+            },
+            {
+              "code": "B59P",
+              "from": 1991,
+              "to": 1992
+            },
+            {
+              "code": "BG30P",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "B54P",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "NH538",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "R81",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "NH561P",
+              "from": 1992,
+              "to": 1993
+            },
+            {
+              "code": "NH552M",
+              "from": 1992,
+              "to": 1993
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1994,
+            "to": 1997
+          },
+          "colors": [
+            {
+              "code": "R89P",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "G77M",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "R78P",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "B65M",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "B54P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "NH538",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "NH503P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "BG31P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "R81",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "NH577P",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "NH561P",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "NH567M",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "G78P",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "R90",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "A5829",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "G81P",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "G83P",
+              "from": 1996,
+              "to": 1997
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 1998,
+            "to": 2002
+          },
+          "colors": [
+            {
+              "code": "RP25P",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "G86P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "R81",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "B92P",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "G87P",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "R94",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "B77P",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "NH605P",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "A5829",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "YR508M",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "R500P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "NH592P",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "NH578",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "NH614M",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "R502",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "GY20M",
+              "from": 1999,
+              "to": 2002
+            },
+            {
+              "code": "B94",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "NH623M",
+              "from": 1999,
+              "to": 2002
+            },
+            {
+              "code": "YR524M",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "RP31M",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "YR523M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "B96P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R507P",
+              "from": 2001,
+              "to": 2002
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2003,
+            "to": 2007
+          },
+          "colors": [
+            {
+              "code": "B99P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "YR523M",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "B89P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "PB73P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH658P",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "B94",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "R81",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "YR524M",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "B92P",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "G87P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "R94",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "R507P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH630M",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "NH624P",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "R522P",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "NH623M",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "YR528M",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "RP31M",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH578",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "R502",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH700M",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "B507P",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "G516P",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "NH663M",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "B536P",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "NH691M",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "B538M",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "YR562P",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "YR565P",
+              "from": 2006,
+              "to": 2007
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2008,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "R530P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "B551P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "YR574M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "NH743M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "B553P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH731P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "R81",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "G530M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "B92P",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "R94",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH737M",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH624P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "B536P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH578",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH736M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "NH603P",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "B564M",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "YR587M",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "NH782M",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "G532M",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "YR578M",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "NH788P",
+              "from": 2011,
+              "to": 2012
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2013,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "YR602M",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "R547P",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "B553P",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "NH731P",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "NH789M",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "NH782M",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "G536M",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "R81",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "NH797M",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "YR591P",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "B588P",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "R94",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "B575P",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "YR594P",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "NH788P",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "R530P",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "YR600M",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH830M",
+              "from": 2016,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "7g",
+          "years": {
+            "from": 2018,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "YR591P",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "NH731P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "NH830M",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "NH797M",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "B588P",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "NH883P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "R569M",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "R94",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "B575P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "NH877P",
+              "from": 2021,
+              "to": 2022
+            }
+          ]
+        },
+        {
+          "name": "8g",
+          "years": {
+            "from": 2023,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "B640M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH731P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH883P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "R569M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH932M",
+              "from": 2024,
+              "to": 2025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "city",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2003,
+            "to": 2008
+          },
+          "colors": [
+            {
+              "code": "B92P",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "NH630M",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "NH578",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "NH700M",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "NH663M",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "B536P",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "R525P",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "NH701M",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "YR528M",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "NH691M",
+              "from": 2006,
+              "to": 2007
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2009,
+            "to": 2013
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "YR574M",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "NH636P",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "NH731P",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "B558M",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "NH663M",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "B92P",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "NH737M",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "R513",
+              "from": 2009,
+              "to": 2010
+            },
+            {
+              "code": "NH691M",
+              "from": 2009,
+              "to": 2010
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "civic",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1995
+          },
+          "colors": [
+            {
+              "code": "NH526M",
+              "from": 1991,
+              "to": 1992
+            },
+            {
+              "code": "NH538",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "R81",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH537M",
+              "from": 1991,
+              "to": 1994
+            },
+            {
+              "code": "NH550M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "B62P",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "B63P",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "G71P",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "G73M",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "R72P",
+              "from": 1992,
+              "to": 1995
+            },
+            {
+              "code": "BG29P",
+              "from": 1993,
+              "to": 1994
+            },
+            {
+              "code": "R86P",
+              "from": 1993,
+              "to": 1995
+            },
+            {
+              "code": "NH503P",
+              "from": 1993,
+              "to": 1995
+            },
+            {
+              "code": "B65M",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "RP21M",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "GY15P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "BG31P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "BG33P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "NH567M",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "BG28P",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "NH575M",
+              "from": 1994,
+              "to": 1995
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1996,
+            "to": 2000
+          },
+          "colors": [
+            {
+              "code": "B74P",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "R90",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "B73M",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "G82P",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "PB74P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "RP25P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "NH538",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "NH503P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "R95P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "R93P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "R81",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "NH569",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "NH583M",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "B77P",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "NH561P",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "NH567M",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "A5829",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "NH611M",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "YR523M",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "G86P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "B92P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "R505P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "NH617M",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "NH605P",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "R500P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "NH592P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "B90P",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "NH578",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "NH614M",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "R502",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "BG45M",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "G99P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "G95P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "B96P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "Y56",
+              "from": 1999,
+              "to": 2000
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2001,
+            "to": 2005
+          },
+          "colors": [
+            {
+              "code": "BG45M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "NH611M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "B99P",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "G99P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "G95P",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "Y62P",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "PB73P",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "B96P",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "B94",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R81",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "B92P",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "R505P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R507P",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "YR525M",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "R504P",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "R513",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "NH623M",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "R500P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "NH592P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "Y56",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "B90P",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "NH578",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "NH614M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R502",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "B95P",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "B512M",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "B520P",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "R517P",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "G503P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "G502M",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "Y61P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "G505M",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH630M",
+              "from": 2004,
+              "to": 2005
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2006,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "B538M",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "YR559M",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "NH701M",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "NH663M",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "R81",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "B537M",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "B92P",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "NH630M",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "R513",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "B536P",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "R522P",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "YR528M",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "NH691M",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "NH578",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "R525P",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "B520P",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "YR571P",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "NH684P",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "NH731P",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "NH737M",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "YR563M",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "NH0",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "B548P",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "B561P",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "NH624P",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "NH756P",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "YR578M",
+              "from": 2009,
+              "to": 2011
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2012,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "R547P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "R543P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "NH731P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "B584P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "B572P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "G534M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "R81",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "NH787M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "B561P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "NH737M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "R513",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "YR589P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "NH578",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "YR578M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "NH788P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "G535P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "Y69M",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "B580",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "YR600M",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "NH797M",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "YR612P",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "R539P",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "B570M",
+              "from": 2014,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2016,
+            "to": 2021
+          },
+          "colors": [
+            {
+              "code": "B593M",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "R560P",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "B607M",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "NH731P",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "GY30P",
+              "from": 2016,
+              "to": 2018
+            },
+            {
+              "code": "NH830M",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "NH797M",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "R513",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "NH578",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "NH788P",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "NH0",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "NH737M",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "NH877P",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "NH547",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "NH883P",
+              "from": 2019,
+              "to": 2021
+            }
+          ]
+        },
+        {
+          "name": "7g",
+          "years": {
+            "from": 2022,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "B593M",
+              "from": 2022,
+              "to": 2024
+            },
+            {
+              "code": "YR659P",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "NH731P",
+              "from": 2022,
+              "to": 2025
+            },
+            {
+              "code": "NH830M",
+              "from": 2022,
+              "to": 2024
+            },
+            {
+              "code": "NH883P",
+              "from": 2022,
+              "to": 2025
+            },
+            {
+              "code": "R513",
+              "from": 2022,
+              "to": 2025
+            },
+            {
+              "code": "RP61P",
+              "from": 2022,
+              "to": 2023
+            },
+            {
+              "code": "NH877P",
+              "from": 2022,
+              "to": 2024
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cr-v",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1997,
+            "to": 2001
+          },
+          "colors": [
+            {
+              "code": "B74P",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "G82P",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "NH538",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "NH503P",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "R81",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "R504P",
+              "from": 1997,
+              "to": 2001
+            },
+            {
+              "code": "YR513M",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "A5829",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "NH592P",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "B84P",
+              "from": 1997,
+              "to": 1998
+            },
+            {
+              "code": "B92P",
+              "from": 1998,
+              "to": 2001
+            },
+            {
+              "code": "NH578",
+              "from": 1998,
+              "to": 2001
+            },
+            {
+              "code": "G95P",
+              "from": 1999,
+              "to": 2001
+            },
+            {
+              "code": "YR524M",
+              "from": 1999,
+              "to": 2001
+            },
+            {
+              "code": "Y59M",
+              "from": 1999,
+              "to": 2001
+            },
+            {
+              "code": "B96P",
+              "from": 2000,
+              "to": 2001
+            },
+            {
+              "code": "NH552M",
+              "from": 2000,
+              "to": 2001
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2002,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "YR523M",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "G95P",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "B96P",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "B512M",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "B94",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "R81",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR524M",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "B92P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR535M",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "R504P",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "R522P",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "NH623M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH552M",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "NH578",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "R517P",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "R507P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH700M",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "NH691M",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "NH674P",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "NH663M",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "NH630M",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "NH624P",
+              "from": 2005,
+              "to": 2006
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2007,
+            "to": 2011
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "B538M",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "YR562P",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "YR565P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "NH663M",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "R81",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "B92P",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "NH630M",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "B536P",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "R522P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "NH623M",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "NH691M",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "NH684P",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "NH578",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "R525P",
+              "from": 2007,
+              "to": 2011
+            },
+            {
+              "code": "NH636P",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "NH731P",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "YR571P",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "NH701M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "YR578M",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "NH711M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "B548P",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "NH737M",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "G532M",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "NH624P",
+              "from": 2010,
+              "to": 2011
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2012,
+            "to": 2016
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "R548P",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "R543P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "NH731P",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "YR580M",
+              "from": 2012,
+              "to": 2014
+            },
+            {
+              "code": "G532M",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "R539P",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "NH737M",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "NH578",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "B570M",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "YR578M",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "NH603P",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "NH788P",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "B580",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "YR600M",
+              "from": 2013,
+              "to": 2016
+            },
+            {
+              "code": "BG62M",
+              "from": 2013,
+              "to": 2016
+            },
+            {
+              "code": "R530P",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "YR614P",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "NH830M",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "R81",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "NH797M",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "YR604M",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "B588P",
+              "from": 2015,
+              "to": 2016
+            },
+            {
+              "code": "R513",
+              "from": 2015,
+              "to": 2016
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2017,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "B593M",
+              "from": 2017,
+              "to": 2018
+            },
+            {
+              "code": "R530P",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "NH731P",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "G546M",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "PB88M",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "NH830M",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "NH797M",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "B588P",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "NH603P",
+              "from": 2017,
+              "to": 2018
+            },
+            {
+              "code": "B607M",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "NH883P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "YR633P",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "R565M",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "R513",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "R569M",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "NH877P",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2023,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "B640M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH731P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH830M",
+              "from": 2023,
+              "to": 2024
+            },
+            {
+              "code": "NH883P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "R569M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "B575P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH912P",
+              "from": 2023,
+              "to": 2025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fit",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2001,
+            "to": 2007
+          },
+          "colors": [
+            {
+              "code": "B520P",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "NH663M",
+              "from": 2003,
+              "to": 2005
+            },
+            {
+              "code": "R81",
+              "from": 2003,
+              "to": 2004
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2008,
+            "to": 2013
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2008,
+              "to": 2013
+            },
+            {
+              "code": "YR576M",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "BG53M",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "B548P",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "R81",
+              "from": 2008,
+              "to": 2013
+            },
+            {
+              "code": "NH737M",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "PB83P",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "B549M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "NH642M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "NH578",
+              "from": 2008,
+              "to": 2013
+            },
+            {
+              "code": "NH731P",
+              "from": 2009,
+              "to": 2013
+            },
+            {
+              "code": "B568M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "GY27M",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "NH624P",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "YR585",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "B553P",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "BG59M",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "R555M",
+              "from": 2012,
+              "to": 2013
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2014,
+            "to": 2020
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2014,
+              "to": 2016
+            },
+            {
+              "code": "Y72P",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "B593M",
+              "from": 2015,
+              "to": 2020
+            },
+            {
+              "code": "NH731P",
+              "from": 2015,
+              "to": 2020
+            },
+            {
+              "code": "R81",
+              "from": 2015,
+              "to": 2020
+            },
+            {
+              "code": "NH797M",
+              "from": 2015,
+              "to": 2020
+            },
+            {
+              "code": "RP46P",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "NH788P",
+              "from": 2015,
+              "to": 2018
+            },
+            {
+              "code": "NH830M",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "Y70P",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "YR585",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "NH883P",
+              "from": 2019,
+              "to": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hr-v",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1999,
+            "to": 2005
+          },
+          "colors": [
+            {
+              "code": "R81",
+              "from": 1999,
+              "to": 2005
+            },
+            {
+              "code": "R504P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "NH583M",
+              "from": 1999,
+              "to": 2002
+            },
+            {
+              "code": "NH592P",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "Y57M",
+              "from": 1999,
+              "to": 2004
+            },
+            {
+              "code": "B90P",
+              "from": 1999,
+              "to": 2004
+            },
+            {
+              "code": "NH578",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "YR532M",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "BG47P",
+              "from": 2000,
+              "to": 2004
+            },
+            {
+              "code": "B96P",
+              "from": 2001,
+              "to": 2003
+            },
+            {
+              "code": "YR524M",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "B92P",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "NH623M",
+              "from": 2001,
+              "to": 2005
+            },
+            {
+              "code": "G502M",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "B509M",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "B520P",
+              "from": 2003,
+              "to": 2005
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2015,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "R543P",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH731P",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "R81",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "G539P",
+              "from": 2016,
+              "to": 2018
+            },
+            {
+              "code": "NH797M",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "YR604M",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "B593M",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "NH821M",
+              "from": 2016,
+              "to": 2020
+            },
+            {
+              "code": "NH578",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH823M",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH788P",
+              "from": 2016,
+              "to": 2018
+            },
+            {
+              "code": "NH830M",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "B610M",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "NH883P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "YR592M",
+              "from": 2019,
+              "to": 2020
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2023,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "NH731P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH830M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "R81",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH797M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "G553P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH883P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH912P",
+              "from": 2023,
+              "to": 2025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "odyssey",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1996,
+            "to": 1998
+          },
+          "colors": [
+            {
+              "code": "A5829",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "NH578",
+              "from": 1997,
+              "to": 1998
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1999,
+            "to": 2004
+          },
+          "colors": [
+            {
+              "code": "NH578",
+              "from": 2000,
+              "to": 2004
+            },
+            {
+              "code": "G510P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "YR520M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "G501M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R519P",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "NH638M",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "R507P",
+              "from": 2002,
+              "to": 2003
+            },
+            {
+              "code": "NH624P",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "B518P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "B92P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH623M",
+              "from": 2003,
+              "to": 2004
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2005,
+            "to": 2010
+          },
+          "colors": [
+            {
+              "code": "YR545M",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "B92P",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "B530M",
+              "from": 2005,
+              "to": 2010
+            },
+            {
+              "code": "NH624P",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "R522P",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "NH623M",
+              "from": 2005,
+              "to": 2006
+            },
+            {
+              "code": "NH679M",
+              "from": 2005,
+              "to": 2010
+            },
+            {
+              "code": "NH578",
+              "from": 2005,
+              "to": 2008
+            },
+            {
+              "code": "YR542M",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "NH700M",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "R530P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "YR562P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "R529P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "YR573M",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "BG55P",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "B552P",
+              "from": 2009,
+              "to": 2010
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2011,
+            "to": 2017
+          },
+          "colors": [
+            {
+              "code": "NH700M",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "B564M",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "NH731P",
+              "from": 2011,
+              "to": 2017
+            },
+            {
+              "code": "R529P",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "YR573M",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "NH777M",
+              "from": 2011,
+              "to": 2014
+            },
+            {
+              "code": "NH737M",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "NH578",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "YR597P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "R547P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "NH797M",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "NH603P",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "NH788P",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "B588P",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "R561P",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH830M",
+              "from": 2016,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2018,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "NH731P",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "R561P",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "G537M",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "NH830M",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "NH797M",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "B588P",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "NH862M",
+              "from": 2018,
+              "to": 2023
+            },
+            {
+              "code": "NH603P",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "NH883P",
+              "from": 2020,
+              "to": 2023
+            },
+            {
+              "code": "R569M",
+              "from": 2021,
+              "to": 2023
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pilot",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2003,
+            "to": 2008
+          },
+          "colors": [
+            {
+              "code": "B518P",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "NH578",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "R529P",
+              "from": 2007,
+              "to": 2008
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2009,
+            "to": 2015
+          },
+          "colors": [
+            {
+              "code": "B552P",
+              "from": 2009,
+              "to": 2012
+            },
+            {
+              "code": "R529P",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "YR573M",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "NH578",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "NH700M",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "NH731P",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "NH737M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH603P",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "YR587M",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "B588P",
+              "from": 2013,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2016,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "G542P",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "NH731P",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "R529P",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "NH830M",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "NH797M",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "B588P",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "B600M",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "NH603P",
+              "from": 2016,
+              "to": 2019
+            },
+            {
+              "code": "R561P",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "NH883P",
+              "from": 2020,
+              "to": 2022
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2023,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "NH731P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "B638P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH830M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH797M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "B588P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH883P",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "R569M",
+              "from": 2023,
+              "to": 2025
+            },
+            {
+              "code": "NH877P",
+              "from": 2023,
+              "to": 2025
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ridgeline",
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2006,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "NH578",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "R529P",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "YR573M",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "NH700M",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "NH731P",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "NH737M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "B552P",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "B588P",
+              "from": 2013,
+              "to": 2014
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2017,
+            "to": 2025
+          },
+          "colors": [
+            {
+              "code": "NH731P",
+              "from": 2017,
+              "to": 2023
+            },
+            {
+              "code": "R561P",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "G537M",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "NH830M",
+              "from": 2017,
+              "to": 2023
+            },
+            {
+              "code": "NH797M",
+              "from": 2017,
+              "to": 2023
+            },
+            {
+              "code": "B588P",
+              "from": 2017,
+              "to": 2023
+            },
+            {
+              "code": "NH603P",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "NH883P",
+              "from": 2019,
+              "to": 2023
+            },
+            {
+              "code": "NH862M",
+              "from": 2020,
+              "to": 2023
+            },
+            {
+              "code": "R569M",
+              "from": 2021,
+              "to": 2023
+            },
+            {
+              "code": "NH877P",
+              "from": 2022,
+              "to": 2023
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

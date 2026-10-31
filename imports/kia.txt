@@ -387,7 +387,7 @@ COLOR|chasmere-beige-metallic|Chasmere Beige Metallic|J4|#C6B08A|2009|2010
 COLOR|clear-white-2|Clear White|1D|#F2F1EC|2009|2010
 COLOR|titanium-silver-metallic|Titanium Silver Metallic|IM|#6F7377|2009|2012
 COLOR|platinum-graphite-metallic|Platinum Graphite Metallic|ABT|#6F7377|2011|2012
-GENERATION|4g|2021|2025
+GENERATION|3g|2021|2025
 COLOR|aurora-black-metallic|Aurora Black Metallic|ABP|#0A0A0B|2021|2025
 COLOR|ceramic-silver-metallic|Ceramic Silver Metallic|C4S|#B7BBBF|2022|2025
 COLOR|deepchroma-blue-pearl|Deepchroma Blue Pearl|D9B|#23406B|2022|2025

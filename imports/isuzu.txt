@@ -1,0 +1,248 @@
+MAKE|isuzu
+MODEL|trooper
+GENERATION|1g|1991|1991
+COLOR|midnight-blue|Midnight Blue|833|#262138|1991|1991
+GENERATION|2g|1992|2002
+COLOR|alpine-white|Alpine White|877|#F3F4F1|2000|2002
+COLOR|baltic-blue-mica|Baltic Blue Mica|720|#234073|2000|2000
+COLOR|claret-red-mica|Claret Red Mica|731|#561B21|2000|2002
+COLOR|cream-white|Cream White|752|#F2F2EE|1992|1999
+COLOR|dragon-green-mica|Dragon Green Mica|860|#28503A|2000|2002
+COLOR|ebony-black|Ebony Black|41|#000000|2002|2002
+COLOR|ebony-black-2|Ebony Black|826|#0B0B0D|2000|2002
+COLOR|empire-blue-mica|Empire Blue Mica|858|#234073|1998|1999
+COLOR|fawn-metallic|Fawn Metallic|U017|#8B9096|2000|2002
+COLOR|fir-green-mica|Fir Green Mica|871|#28503A|1995|1998
+COLOR|fjord-blue-metallic|Fjord Blue Metallic|627|#587C81|2002|2002
+COLOR|forest-green-mica|Forest Green Mica|863|#28503A|1998|1999
+COLOR|foxfire-red-mica|Foxfire Red Mica|658|#702129|2000|2002
+COLOR|foxfire-red-mica-2|Foxfire Red Mica|865|#B31F2B|2000|2002
+COLOR|iron-grey-metallic|Iron Grey Metallic|N044|#4B5557|1992|1996
+COLOR|light-silver-metallic|Light Silver Metallic|753|#C2C6C5|1992|2002
+COLOR|moonmist-gray-mica|Moonmist Gray Mica|857|#5E6264|2000|2002
+COLOR|polar-white-pearl|Polar White Pearl|610|#FAFAFA|2002|2002
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1992|1994
+COLOR|red-rock-mica|Red Rock Mica|872|#B31F2B|1995|1999
+COLOR|satin-gold-metallic|Satin Gold Metallic|613|#C3B39F|2002|2002
+COLOR|titan-gray-metallic|Titan Gray Metallic|N040|#5E6264|2000|2002
+MODEL|d-max
+GENERATION|1g|2006|2011
+COLOR|alpine-white|Alpine White|877|#F3F4F1|2006|2011
+COLOR|alpine-white-2|Alpine White|617|#F2F2EE|2006|2008
+COLOR|astral-silver-metallic|Astral Silver Metallic|619|#C2C3C3|2006|2007
+COLOR|black-sapphire-mica|Black Sapphire Mica|685|#121520|2006|2011
+COLOR|cape-blue-metallic|Cape Blue Metallic|612|#234073|2006|2007
+COLOR|chamonix-green-metallic|Chamonix Green Metallic|644|#28503A|2006|2007
+COLOR|chardonnay-gold-metallic|Chardonnay Gold Metallic|511|#B9A271|2007|2008
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|937|#234073|2006|2007
+COLOR|dune-gray-metallic|Dune Gray Metallic|506|#5E6264|2006|2008
+COLOR|foxfire-red-mica|Foxfire Red Mica|658|#702129|2006|2007
+COLOR|highland-green-mica|Highland Green Mica|502|#28503A|2007|2011
+COLOR|iceberg-blue-metallic|Iceberg Blue Metallic|510|#234073|2008|2011
+COLOR|imperial-blond-metallic|Imperial Blond Metallic|688|#8B9096|2006|2011
+COLOR|impulse-blue-metallic|Impulse Blue Metallic|509|#234073|2008|2008
+COLOR|lapis-blue-metallic|Lapis Blue Metallic|512|#234073|2008|2009
+COLOR|light-quartz-gray-metallic|Light Quartz Gray Metallic|642|#A1A3A5|2006|2006
+COLOR|mineral-grey-metallic|Mineral Grey Metallic|530|#696C6F|2010|2011
+COLOR|misty-onyx-mica|Misty Onyx Mica|518|#0C0D0E|2008|2011
+COLOR|nautilus-blue-mica|Nautilus Blue Mica|521|#1F3F62|2008|2011
+COLOR|nebula-gray-metallic|Nebula Gray Metallic|520|#5E6264|2008|2011
+COLOR|neptune-blue|Neptune Blue|503|#234073|2007|2008
+COLOR|omega-white-pearl|Omega White Pearl|689|#F2F2EE|2008|2011
+COLOR|royal-gray-metallic|Royal Gray Metallic|505|#5E6264|2007|2011
+COLOR|sandalwood-metallic|Sandalwood Metallic|643|#BFAF97|2006|2007
+COLOR|silky-white-mica|Silky White Mica|531|#F4F4EF|2011|2011
+COLOR|starry-black-mica|Starry Black Mica|935|#0E0F13|2006|2011
+COLOR|sterling-silver-metallic|Sterling Silver Metallic|936|#B7B9BB|2006|2011
+COLOR|topaz-gold-metallic|Topaz Gold Metallic|501|#B9A271|2007|2008
+COLOR|tornado-red-mica|Tornado Red Mica|504|#B31F2B|2007|2011
+COLOR|zenith-blue-mica-metallic|Zenith Blue Mica Metallic|646|#234073|2006|2011
+GENERATION|2g|2012|2019
+COLOR|alpine-white|Alpine White|877|#F3F4F1|2012|2012
+COLOR|ash-beige-metallic|Ash Beige Metallic|541|#B3AA98|2012|2017
+COLOR|black-sapphire-mica|Black Sapphire Mica|685|#121520|2012|2012
+COLOR|cosmic-black-mica|Cosmic Black Mica|523|#0C0D0F|2012|2019
+COLOR|fjord-blue-metallic|Fjord Blue Metallic|545|#234073|2014|2016
+COLOR|garnet-red-mica|Garnet Red Mica|528|#B31F2B|2012|2016
+COLOR|graphite-grey-metallic|Graphite Grey Metallic|563|#4B4E51|2018|2019
+COLOR|highland-green-mica|Highland Green Mica|502|#28503A|2012|2012
+COLOR|iceberg-silver-mica|Iceberg Silver Mica|554|#C2C3C3|2016|2019
+COLOR|imperial-blond-metallic|Imperial Blond Metallic|688|#8B9096|2012|2012
+COLOR|medium-dark-gray-metallic|Medium Dark Gray Metallic|VT4|#333537|2014|2018
+COLOR|mineral-grey-metallic|Mineral Grey Metallic|530|#696C6F|2012|2017
+COLOR|nautilus-blue-mica|Nautilus Blue Mica|521|#1F3F62|2012|2017
+COLOR|red-spinel-mica|Red Spinel Mica|564|#922028|2017|2019
+COLOR|royal-gray-metallic|Royal Gray Metallic|505|#5E6264|2012|2012
+COLOR|sapphire-blue-mica|Sapphire Blue Mica|565|#294A7E|2018|2019
+COLOR|silky-white-mica|Silky White Mica|531|#F4F4EF|2012|2019
+COLOR|splash-white|Splash White|527|#F2F4F1|2012|2019
+COLOR|sterling-silver-metallic|Sterling Silver Metallic|936|#B7B9BB|2012|2012
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|529|#C3C5C7|2012|2019
+COLOR|tornado-red-mica|Tornado Red Mica|504|#B31F2B|2012|2012
+COLOR|tundra-green-mica|Tundra Green Mica|533|#28503A|2012|2017
+COLOR|venetian-red-metallic|Venetian Red Metallic|546|#B31F2B|2014|2017
+COLOR|volcanic-amber-metallic|Volcanic Amber Metallic|570|#8E4E23|2019|2019
+COLOR|zenith-blue-mica-metallic|Zenith Blue Mica Metallic|646|#234073|2012|2012
+GENERATION|3g|2020|2024
+COLOR|basalt-black-mica|Basalt Black Mica|569|#0C0D0E|2020|2024
+COLOR|biarritz-blue-metallic|Biarritz Blue Metallic|587|#234073|2022|2024
+COLOR|cosmic-black-mica|Cosmic Black Mica|523|#0C0D0F|2020|2022
+COLOR|graphite-grey-metallic|Graphite Grey Metallic|563|#4B4E51|2020|2024
+COLOR|iceberg-silver-mica|Iceberg Silver Mica|554|#C2C3C3|2020|2024
+COLOR|islay-gray-mica|Islay Gray Mica|588|#5E6264|2022|2024
+COLOR|mercury-silver-metallic|Mercury Silver Metallic|568|#C1C3C5|2020|2024
+COLOR|moonstone-white-pearl|Moonstone White Pearl|575|#F2F2EE|2021|2024
+COLOR|namibu-orange-mica|Namibu Orange Mica|595|#D4581F|2024|2024
+COLOR|red-spinel-mica|Red Spinel Mica|564|#922028|2020|2024
+COLOR|santos-brown-mica|Santos Brown Mica|576|#5C4738|2021|2023
+COLOR|sapphire-blue-mica|Sapphire Blue Mica|565|#294A7E|2020|2023
+COLOR|silky-white-mica|Silky White Mica|531|#F4F4EF|2020|2022
+COLOR|splash-white|Splash White|527|#F2F4F1|2020|2024
+COLOR|stibnite-silver-metallic|Stibnite Silver Metallic|XK0|#C2C3C3|2020|2022
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|529|#C3C5C7|2020|2022
+COLOR|volcanic-amber-metallic|Volcanic Amber Metallic|570|#8E4E23|2020|2024
+MODEL|mu-x
+GENERATION|1g|2013|2020
+COLOR|arctic-silver-metallic|Arctic Silver Metallic|672|#DBDCDC|2017|2017
+COLOR|basalt-black-mica|Basalt Black Mica|569|#0C0D0E|2020|2020
+COLOR|cosmic-black-mica|Cosmic Black Mica|523|#0C0D0F|2013|2020
+COLOR|fjord-blue-metallic|Fjord Blue Metallic|545|#234073|2014|2016
+COLOR|graphite-grey-metallic|Graphite Grey Metallic|563|#4B4E51|2018|2020
+COLOR|havana-brown-mica|Havana Brown Mica|560|#5C4738|2017|2019
+COLOR|iceberg-silver-mica|Iceberg Silver Mica|554|#C2C3C3|2016|2020
+COLOR|medium-dark-gray-metallic|Medium Dark Gray Metallic|VT4|#333537|2014|2018
+COLOR|mercury-silver-metallic|Mercury Silver Metallic|568|#C1C3C5|2020|2020
+COLOR|red-spinel-mica|Red Spinel Mica|564|#922028|2017|2020
+COLOR|sapphire-blue-mica|Sapphire Blue Mica|565|#294A7E|2018|2020
+COLOR|silky-white-mica|Silky White Mica|531|#F4F4EF|2013|2020
+COLOR|splash-white|Splash White|527|#F2F4F1|2013|2020
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|529|#C3C5C7|2013|2020
+COLOR|uluru-brown-metallic|Uluru Brown Metallic|544|#5C4738|2014|2017
+COLOR|volcanic-amber-metallic|Volcanic Amber Metallic|570|#8E4E23|2019|2020
+GENERATION|2g|2021|2026
+COLOR|basalt-black-mica|Basalt Black Mica|569|#0C0D0E|2021|2024
+COLOR|cosmic-black-mica|Cosmic Black Mica|523|#0C0D0F|2021|2022
+COLOR|glacier-blue-metallic|Glacier Blue Metallic|645|#7F90AD|2023|2023
+COLOR|graphite-grey-metallic|Graphite Grey Metallic|563|#4B4E51|2021|2024
+COLOR|iceberg-silver-mica|Iceberg Silver Mica|554|#C2C3C3|2021|2024
+COLOR|mercury-silver-metallic|Mercury Silver Metallic|568|#C1C3C5|2021|2024
+COLOR|moonstone-white-pearl|Moonstone White Pearl|575|#F2F2EE|2021|2024
+COLOR|norwegian-blue-mica|Norwegian Blue Mica|593|#234073|2023|2023
+COLOR|red-spinel-mica|Red Spinel Mica|564|#922028|2021|2024
+COLOR|santos-brown-mica|Santos Brown Mica|576|#5C4738|2021|2023
+COLOR|sapphire-blue-mica|Sapphire Blue Mica|565|#294A7E|2021|2023
+COLOR|silky-white-mica|Silky White Mica|531|#F4F4EF|2021|2022
+COLOR|splash-white|Splash White|527|#F2F4F1|2021|2024
+COLOR|titanium-silver-metallic|Titanium Silver Metallic|529|#C3C5C7|2021|2022
+COLOR|volcanic-amber-metallic|Volcanic Amber Metallic|570|#8E4E23|2021|2024
+MODEL|hombre
+GENERATION|1g|1996|2000
+COLOR|arctic-white|Arctic White|50|#F0F1EE|1996|2000
+COLOR|ebony-black|Ebony Black|41|#000000|2000|2000
+COLOR|indigo-blue-metallic|Indigo Blue Metallic|39|#234073|1999|2000
+COLOR|light-silver-metallic|Light Silver Metallic|753|#C2C6C5|2000|2000
+COLOR|meadow-green-metallic|Meadow Green Metallic|566|#23362D|1999|2000
+COLOR|pewter-metallic|Pewter Metallic|11|#5E6264|1998|2000
+COLOR|radiant-red|Radiant Red|74|#B31F2B|2000|2000
+COLOR|radiant-red-2|Radiant Red|756|#B31F2B|2000|2000
+MODEL|rodeo
+GENERATION|1g|1991|1997
+COLOR|claret-red-mica|Claret Red Mica|731|#561B21|1994|1997
+COLOR|cream-white|Cream White|752|#F2F2EE|1992|1997
+COLOR|iron-grey-metallic|Iron Grey Metallic|N044|#4B5557|1991|1997
+COLOR|light-silver-metallic|Light Silver Metallic|753|#C2C6C5|1994|1997
+COLOR|midnight-blue|Midnight Blue|833|#262138|1992|1994
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1992|1997
+GENERATION|2g|1998|2004
+COLOR|acid-gold-mica|Acid Gold Mica|789|#BA8C3A|2001|2002
+COLOR|alpine-white|Alpine White|861|#F2F2EE|2000|2004
+COLOR|alpine-white-2|Alpine White|877|#F3F4F1|2000|2004
+COLOR|astral-silver-metallic|Astral Silver Metallic|619|#C2C3C3|2001|2004
+COLOR|atlantic-blue-mica|Atlantic Blue Mica|886|#3C517C|2001|2002
+COLOR|black-sapphire-mica|Black Sapphire Mica|685|#121520|2002|2004
+COLOR|bright-rose-mica|Bright Rose Mica|680|#D2708F|2002|2004
+COLOR|bright-silver-metallic|Bright Silver Metallic|835|#B0B2B1|1998|2003
+COLOR|canal-blue-mica|Canal Blue Mica|862|#282D44|2001|2001
+COLOR|cape-blue-metallic|Cape Blue Metallic|612|#234073|2001|2004
+COLOR|chamonix-green-metallic|Chamonix Green Metallic|644|#28503A|2001|2004
+COLOR|claret-red-mica|Claret Red Mica|731|#561B21|1998|1998
+COLOR|clipper-blue-metallic|Clipper Blue Metallic|639|#14335F|2002|2004
+COLOR|copper-orange-mica|Copper Orange Mica|U805|#96501F|1998|1998
+COLOR|cosmic-grey-metallic|Cosmic Grey Metallic|682|#5E6264|2003|2004
+COLOR|cream-white|Cream White|752|#F2F2EE|1998|1999
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|667|#80929F|2003|2004
+COLOR|currant-red-mica|Currant Red Mica|640|#800000|2002|2003
+COLOR|ebony-black|Ebony Black|826|#0B0B0D|2000|2004
+COLOR|ebony-black-2|Ebony Black|41|#000000|2002|2002
+COLOR|fawn-metallic|Fawn Metallic|U017|#8B9096|2000|2002
+COLOR|foxfire-red-mica|Foxfire Red Mica|658|#702129|2000|2004
+COLOR|frost-white-pearl|Frost White Pearl|677|#F2F2EE|2004|2004
+COLOR|garden-green-mica|Garden Green Mica|870|#28503A|2000|2002
+COLOR|imperial-blond-metallic|Imperial Blond Metallic|688|#8B9096|2003|2004
+COLOR|mineral-blue-metallic|Mineral Blue Metallic|678|#40596A|2004|2004
+COLOR|mistral-green-metallic|Mistral Green Metallic|664|#01613D|2003|2004
+COLOR|moonmist-gray-mica|Moonmist Gray Mica|857|#5E6264|2000|2002
+COLOR|palazzo-red-mica|Palazzo Red Mica|806|#69331B|1999|2001
+COLOR|powellite-silver-metallic|Powellite Silver Metallic|679|#B7B3B2|2004|2004
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1998|1999
+COLOR|roman-bronze-metallic|Roman Bronze Metallic|881|#675A51|2000|2002
+COLOR|sandalwood-metallic|Sandalwood Metallic|643|#BFAF97|2002|2004
+COLOR|titan-gray-metallic|Titan Gray Metallic|N040|#5E6264|2000|2003
+COLOR|zenith-blue-mica-metallic|Zenith Blue Mica Metallic|646|#234073|2002|2004
+COLOR|zephyr-green-mica|Zephyr Green Mica|898|#3E715E|1999|2000
+MODEL|amigo
+GENERATION|1g|1989|1994
+COLOR|ebony-black|Ebony Black|41|#000000|1991|1994
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1992|1994
+GENERATION|2g|1998|2004
+COLOR|alpine-white|Alpine White|861|#F2F2EE|2000|2000
+COLOR|bright-silver-metallic|Bright Silver Metallic|835|#B0B2B1|1999|2000
+COLOR|canal-blue-mica|Canal Blue Mica|862|#282D44|2000|2000
+COLOR|copper-orange-mica|Copper Orange Mica|U805|#96501F|1998|2000
+COLOR|garden-green-mica|Garden Green Mica|870|#28503A|2000|2000
+COLOR|palazzo-red-mica|Palazzo Red Mica|806|#69331B|1999|2000
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1998|1999
+COLOR|titan-gray-metallic|Titan Gray Metallic|N040|#5E6264|2000|2000
+COLOR|zephyr-green-mica|Zephyr Green Mica|898|#3E715E|1999|2000
+MODEL|axiom
+GENERATION|1g|2001|2004
+COLOR|alpine-white|Alpine White|861|#F2F2EE|2002|2004
+COLOR|anthracite-metallic|Anthracite Metallic|708|#595E66|2002|2003
+COLOR|black-diamond-metallic|Black Diamond Metallic|663|#000000|2003|2004
+COLOR|blond-gray-metallic|Blond Gray Metallic|704|#AE9A7E|2002|2004
+COLOR|bright-rose-mica|Bright Rose Mica|680|#D2708F|2002|2004
+COLOR|canal-blue-mica|Canal Blue Mica|862|#282D44|2002|2002
+COLOR|cosmic-grey-metallic|Cosmic Grey Metallic|682|#5E6264|2003|2004
+COLOR|crystal-blue-metallic|Crystal Blue Metallic|667|#80929F|2003|2004
+COLOR|currant-red-mica|Currant Red Mica|640|#800000|2003|2003
+COLOR|ebony-black|Ebony Black|41|#000000|2002|2002
+COLOR|frost-white-pearl|Frost White Pearl|677|#F2F2EE|2004|2004
+COLOR|garden-green-mica|Garden Green Mica|870|#28503A|2002|2002
+COLOR|mineral-blue-metallic|Mineral Blue Metallic|678|#40596A|2004|2004
+COLOR|mistral-green-metallic|Mistral Green Metallic|664|#01613D|2003|2004
+COLOR|powellite-silver-metallic|Powellite Silver Metallic|679|#B7B3B2|2004|2004
+COLOR|star-gold-metallic|Star Gold Metallic|799|#BA8C3A|2002|2003
+MODEL|rodeo-sport
+GENERATION|1g|2001|2003
+COLOR|acid-gold-mica|Acid Gold Mica|789|#BA8C3A|2001|2001
+COLOR|alpine-white|Alpine White|861|#F2F2EE|2001|2002
+COLOR|alpine-white-2|Alpine White|877|#F3F4F1|2001|2003
+COLOR|atlantic-blue-mica|Atlantic Blue Mica|886|#3C517C|2001|2002
+COLOR|bright-silver-metallic|Bright Silver Metallic|835|#B0B2B1|2001|2003
+COLOR|canal-blue-mica|Canal Blue Mica|862|#282D44|2001|2001
+COLOR|clipper-blue-metallic|Clipper Blue Metallic|639|#14335F|2002|2003
+COLOR|currant-red-mica|Currant Red Mica|640|#800000|2002|2003
+COLOR|ebony-black|Ebony Black|41|#000000|2001|2003
+COLOR|fawn-metallic|Fawn Metallic|U017|#8B9096|2001|2002
+COLOR|garden-green-mica|Garden Green Mica|870|#28503A|2001|2002
+COLOR|iron-grey-metallic|Iron Grey Metallic|N044|#4B5557|2001|2003
+COLOR|palazzo-red-mica|Palazzo Red Mica|806|#69331B|2001|2001
+COLOR|roman-bronze-metallic|Roman Bronze Metallic|881|#675A51|2001|2003
+COLOR|star-gold-metallic|Star Gold Metallic|799|#BA8C3A|2002|2002
+COLOR|titan-gray-metallic|Titan Gray Metallic|N040|#5E6264|2001|2003
+MODEL|pickup
+GENERATION|1g|1988|1995
+COLOR|cream-white|Cream White|752|#F2F2EE|1992|1995
+COLOR|light-silver-metallic|Light Silver Metallic|753|#C2C6C5|1994|1995
+COLOR|midnight-blue|Midnight Blue|833|#262138|1992|1993
+COLOR|radiant-red|Radiant Red|756|#B31F2B|1992|1995
