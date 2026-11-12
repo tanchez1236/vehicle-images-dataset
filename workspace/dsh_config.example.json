@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "intel-image-modifier": {
+      "command": "python",
+      "args": ["C:\\\\Users\\\\juanm\\\\GitHub\\\\vehicle-images-dataset\\\\rembg_mcp_server.py"],
+      "env": {
+        "OUTPUT_DIRECTORY": "./workspace/outputs"
+      }
+    }
+  }
+}
