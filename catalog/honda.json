@@ -1893,7 +1893,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Accord",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Accord"
+      }
     },
     {
       "name": "city",
@@ -2016,7 +2022,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "City",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "City"
+      }
     },
     {
       "name": "civic",
@@ -2904,7 +2916,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Civic",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Civic"
+      }
     },
     {
       "name": "cr-v",
@@ -3518,7 +3536,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CR-V",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CR-V"
+      }
     },
     {
       "name": "fit",
@@ -3715,7 +3739,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fit",
+      "aliases": [
+        "jazz"
+      ],
+      "alias_status": {
+        "jazz": "confirmado"
+      },
+      "market_names": {
+        "GT": "Fit"
+      }
     },
     {
       "name": "hr-v",
@@ -3942,7 +3976,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "HR-V",
+      "aliases": [
+        "vezel"
+      ],
+      "alias_status": {
+        "vezel": "confirmado"
+      },
+      "market_names": {
+        "GT": "HR-V"
+      }
     },
     {
       "name": "odyssey",
@@ -4267,7 +4311,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Odyssey",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Odyssey"
+      }
     },
     {
       "name": "pilot",
@@ -4463,7 +4513,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Pilot",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Pilot"
+      }
     },
     {
       "name": "ridgeline",
@@ -4581,7 +4637,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ridgeline",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ridgeline"
+      }
     }
   ]
 }

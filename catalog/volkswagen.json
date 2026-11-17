@@ -3628,7 +3628,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Amarok",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Amarok"
+      }
     },
     {
       "name": "golf",
@@ -5302,7 +5308,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Golf",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Golf"
+      }
     },
     {
       "name": "jetta",
@@ -6047,7 +6059,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Jetta",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Jetta"
+      }
     },
     {
       "name": "passat",
@@ -7560,7 +7578,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Passat",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Passat"
+      }
     },
     {
       "name": "polo",
@@ -8945,7 +8969,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Polo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Polo"
+      }
     },
     {
       "name": "saveiro",
@@ -9319,7 +9349,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Saveiro",
+      "aliases": [
+        "pickup"
+      ],
+      "alias_status": {
+        "pickup": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Saveiro"
+      }
     },
     {
       "name": "taos",
@@ -9378,7 +9418,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Taos",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Taos"
+      }
     },
     {
       "name": "tiguan",
@@ -9910,7 +9956,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tiguan",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tiguan"
+      }
     },
     {
       "name": "alltrack",
@@ -10014,7 +10066,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Alltrack",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Alltrack"
+      }
     },
     {
       "name": "arteon",
@@ -10103,7 +10161,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Arteon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Arteon"
+      }
     },
     {
       "name": "atlas",
@@ -10237,7 +10301,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Atlas",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Atlas"
+      }
     },
     {
       "name": "beetle",
@@ -10761,7 +10831,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Beetle",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Beetle"
+      }
     },
     {
       "name": "c-trek",
@@ -10800,7 +10876,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "C Trek",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "C Trek"
+      }
     },
     {
       "name": "cabrio",
@@ -10894,7 +10976,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cabrio",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cabrio"
+      }
     },
     {
       "name": "california",
@@ -11178,7 +11266,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "California",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "California"
+      }
     },
     {
       "name": "cc",
@@ -11362,7 +11456,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cc",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cc"
+      }
     },
     {
       "name": "eos",
@@ -11581,7 +11681,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Eos",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Eos"
+      }
     },
     {
       "name": "eurovan",
@@ -11660,7 +11766,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Eurovan",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Eurovan"
+      }
     },
     {
       "name": "fox",
@@ -11854,7 +11966,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fox",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Fox"
+      }
     },
     {
       "name": "gol",
@@ -11948,7 +12066,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Gol",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gol"
+      }
     },
     {
       "name": "golf-r",
@@ -12202,7 +12326,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Golf R",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Golf R"
+      }
     },
     {
       "name": "grand-california",
@@ -12246,7 +12376,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Grand California",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Grand California"
+      }
     },
     {
       "name": "gti",
@@ -12470,7 +12606,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Gti",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gti"
+      }
     },
     {
       "name": "kombi",
@@ -12489,7 +12631,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Kombi",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Kombi"
+      }
     },
     {
       "name": "lamando",
@@ -12548,7 +12696,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Lamando",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Lamando"
+      }
     },
     {
       "name": "lavida",
@@ -12697,7 +12851,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Lavida",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Lavida"
+      }
     },
     {
       "name": "nivus",
@@ -12741,7 +12901,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Nivus",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Nivus"
+      }
     },
     {
       "name": "parati",
@@ -12815,7 +12981,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Parati",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Parati"
+      }
     },
     {
       "name": "phaeton",
@@ -13139,7 +13311,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Phaeton",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Phaeton"
+      }
     },
     {
       "name": "phideon",
@@ -13193,7 +13371,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Phideon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Phideon"
+      }
     },
     {
       "name": "routan",
@@ -13352,7 +13536,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Routan",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Routan"
+      }
     },
     {
       "name": "spacefox",
@@ -13431,7 +13621,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Spacefox",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Spacefox"
+      }
     },
     {
       "name": "t-cross",
@@ -13550,7 +13746,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "T Cross",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "T Cross"
+      }
     },
     {
       "name": "t-roc",
@@ -13674,7 +13876,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "T Roc",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "T Roc"
+      }
     },
     {
       "name": "t5",
@@ -13713,7 +13921,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "T5",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "T5"
+      }
     },
     {
       "name": "taigo",
@@ -13767,7 +13981,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Taigo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Taigo"
+      }
     },
     {
       "name": "taigun",
@@ -13811,7 +14031,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Taigun",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Taigun"
+      }
     },
     {
       "name": "tayron",
@@ -13875,7 +14101,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tayron",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tayron"
+      }
     },
     {
       "name": "tharu",
@@ -13919,7 +14151,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tharu",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tharu"
+      }
     },
     {
       "name": "touareg",
@@ -14258,7 +14496,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Touareg",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Touareg"
+      }
     },
     {
       "name": "up",
@@ -14417,7 +14661,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Up",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Up"
+      }
     },
     {
       "name": "vento",
@@ -14551,7 +14801,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Vento",
+      "aliases": [
+        "polo-sedan"
+      ],
+      "alias_status": {
+        "polo-sedan": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Vento"
+      }
     },
     {
       "name": "viloran",
@@ -14590,7 +14850,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Viloran",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Viloran"
+      }
     },
     {
       "name": "virtus",
@@ -14679,7 +14945,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Virtus",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Virtus"
+      }
     },
     {
       "name": "voyage",
@@ -14733,7 +15005,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Voyage",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Voyage"
+      }
     }
   ]
 }

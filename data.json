@@ -1543,8 +1543,8 @@
     {
       "make": "mitsubishi",
       "make_display": "Mitsubishi",
-      "model": "asx",
-      "model_display": "Asx",
+      "model": "outlander-sport",
+      "model_display": "Outlander Sport",
       "years": {
         "from": 2010,
         "to": 2026

@@ -2849,7 +2849,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Bronco Sport",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Bronco Sport"
+      }
     },
     {
       "name": "ecosport",
@@ -3242,7 +3248,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ecosport",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ecosport"
+      }
     },
     {
       "name": "escape",
@@ -5128,7 +5140,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Escape",
+      "aliases": [
+        "kuga"
+      ],
+      "alias_status": {
+        "kuga": "confirmado"
+      },
+      "market_names": {
+        "GT": "Escape"
+      }
     },
     {
       "name": "everest",
@@ -5450,7 +5472,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Everest",
+      "aliases": [
+        "endeavour"
+      ],
+      "alias_status": {
+        "endeavour": "confirmado"
+      },
+      "market_names": {
+        "GT": "Everest"
+      }
     },
     {
       "name": "explorer",
@@ -8529,7 +8561,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Explorer",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Explorer"
+      }
     },
     {
       "name": "f-150",
@@ -10973,7 +11011,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "F-150",
+      "aliases": [
+        "f150",
+        "lobo"
+      ],
+      "alias_status": {
+        "f150": "confirmado",
+        "lobo": "confirmado"
+      },
+      "market_names": {
+        "GT": "F-150"
+      }
     },
     {
       "name": "focus",
@@ -13769,7 +13819,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Focus",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Focus"
+      }
     },
     {
       "name": "ranger",
@@ -16479,7 +16535,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ranger",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ranger"
+      }
     },
     {
       "name": "b-max",
@@ -16593,7 +16655,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "B Max",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "B Max"
+      }
     },
     {
       "name": "bronco",
@@ -16777,7 +16845,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Bronco",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Bronco"
+      }
     },
     {
       "name": "c-max",
@@ -17101,7 +17175,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "C Max",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "C Max"
+      }
     },
     {
       "name": "classic",
@@ -17140,7 +17220,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Classic",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Classic"
+      }
     },
     {
       "name": "contour",
@@ -17259,7 +17345,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Contour",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Contour"
+      }
     },
     {
       "name": "cougar",
@@ -17368,7 +17460,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cougar",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cougar"
+      }
     },
     {
       "name": "crown-victoria",
@@ -17657,7 +17755,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Crown Victoria",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Crown Victoria"
+      }
     },
     {
       "name": "econovan",
@@ -17696,7 +17800,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Econovan",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Econovan"
+      }
     },
     {
       "name": "edge",
@@ -18165,7 +18275,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Edge",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Edge"
+      }
     },
     {
       "name": "escort",
@@ -18509,7 +18625,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Escort",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Escort"
+      }
     },
     {
       "name": "excursion",
@@ -18648,7 +18770,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Excursion",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Excursion"
+      }
     },
     {
       "name": "expedition",
@@ -19182,7 +19310,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Expedition",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Expedition"
+      }
     },
     {
       "name": "explorer-sport-trac",
@@ -19401,716 +19535,13 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "name": "f150",
-      "generations": [
-        {
-          "name": "1g",
-          "years": {
-            "from": 1991,
-            "to": 2026
-          },
-          "colors": [
-            {
-              "code": "G1",
-              "from": 2016,
-              "to": 2018
-            },
-            {
-              "code": "ME",
-              "from": 2019,
-              "to": 2020
-            },
-            {
-              "code": "UM",
-              "from": 2019,
-              "to": 2026
-            },
-            {
-              "code": "8A",
-              "from": 1999,
-              "to": 2001
-            },
-            {
-              "code": "GQ",
-              "from": 2009,
-              "to": 2009
-            },
-            {
-              "code": "HX",
-              "from": 2021,
-              "to": 2026
-            },
-            {
-              "code": "KU",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "AQ",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "M6986A",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "P5",
-              "from": 2004,
-              "to": 2006
-            },
-            {
-              "code": "M6961D",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "B3",
-              "from": 2022,
-              "to": 2025
-            },
-            {
-              "code": "GT",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "DR",
-              "from": 2026,
-              "to": 2026
-            },
-            {
-              "code": "G4",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "1C",
-              "from": 1991,
-              "to": 2011
-            },
-            {
-              "code": "UD",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "M6488",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "SZ",
-              "from": 2009,
-              "to": 2016
-            },
-            {
-              "code": "N6",
-              "from": 2017,
-              "to": 2018
-            },
-            {
-              "code": "BG",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "LZ",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "E3",
-              "from": 1996,
-              "to": 2009
-            },
-            {
-              "code": "JA",
-              "from": 1995,
-              "to": 1995
-            },
-            {
-              "code": "TX",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "UI",
-              "from": 2009,
-              "to": 2009
-            },
-            {
-              "code": "H7",
-              "from": 2015,
-              "to": 2017
-            },
-            {
-              "code": "M7",
-              "from": 2021,
-              "to": 2026
-            },
-            {
-              "code": "H5",
-              "from": 2015,
-              "to": 2017
-            },
-            {
-              "code": "T7",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "KW",
-              "from": 2001,
-              "to": 2003
-            },
-            {
-              "code": "PK",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "B4",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "BZ",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "HT",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "CN",
-              "from": 2021,
-              "to": 2023
-            },
-            {
-              "code": "CY",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "PG",
-              "from": 2007,
-              "to": 2007
-            },
-            {
-              "code": "DX",
-              "from": 2007,
-              "to": 2012
-            },
-            {
-              "code": "T5",
-              "from": 2005,
-              "to": 2007
-            },
-            {
-              "code": "FU",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "DW",
-              "from": 1992,
-              "to": 1993
-            },
-            {
-              "code": "CX",
-              "from": 2002,
-              "to": 2008
-            },
-            {
-              "code": "R1",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "R2",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "JM",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "JL",
-              "from": 1996,
-              "to": 1999
-            },
-            {
-              "code": "NB",
-              "from": 1995,
-              "to": 1995
-            },
-            {
-              "code": "LJ",
-              "from": 2024,
-              "to": 2024
-            },
-            {
-              "code": "K4",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "GX",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "G2",
-              "from": 2007,
-              "to": 2008
-            },
-            {
-              "code": "HS",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "12",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "UA",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "ST",
-              "from": 2001,
-              "to": 2003
-            },
-            {
-              "code": "FM",
-              "from": 2019,
-              "to": 2020
-            },
-            {
-              "code": "GG",
-              "from": 2007,
-              "to": 2008
-            },
-            {
-              "code": "JQ",
-              "from": 2011,
-              "to": 2012
-            },
-            {
-              "code": "JW",
-              "from": 2012,
-              "to": 2016
-            },
-            {
-              "code": "HN",
-              "from": 2015,
-              "to": 2021
-            },
-            {
-              "code": "B2",
-              "from": 1999,
-              "to": 2001
-            },
-            {
-              "code": "B5",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "PX",
-              "from": 2001,
-              "to": 2004
-            },
-            {
-              "code": "EA",
-              "from": 2023,
-              "to": 2023
-            },
-            {
-              "code": "GP",
-              "from": 2022,
-              "to": 2022
-            },
-            {
-              "code": "JS",
-              "from": 2020,
-              "to": 2026
-            },
-            {
-              "code": "UX",
-              "from": 2010,
-              "to": 2019
-            },
-            {
-              "code": "E2",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "PB",
-              "from": 1992,
-              "to": 1993
-            },
-            {
-              "code": "J1",
-              "from": 2013,
-              "to": 2014
-            },
-            {
-              "code": "E9",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "UZ",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "JX",
-              "from": 2020,
-              "to": 2021
-            },
-            {
-              "code": "D4",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "J7",
-              "from": 2015,
-              "to": 2020
-            },
-            {
-              "code": "T9",
-              "from": 2025,
-              "to": 2026
-            },
-            {
-              "code": "RC",
-              "from": 1991,
-              "to": 1993
-            },
-            {
-              "code": "LA",
-              "from": 1995,
-              "to": 1995
-            },
-            {
-              "code": "A5",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "FX",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "N1",
-              "from": 2013,
-              "to": 2020
-            },
-            {
-              "code": "TK",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "DD",
-              "from": 1992,
-              "to": 1993
-            },
-            {
-              "code": "UY",
-              "from": 2010,
-              "to": 2011
-            },
-            {
-              "code": "W6",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "9L",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "YZ",
-              "from": 2001,
-              "to": 2026
-            },
-            {
-              "code": "Z1",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "Y0",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "LQ",
-              "from": 2011,
-              "to": 2014
-            },
-            {
-              "code": "GN",
-              "from": 2017,
-              "to": 2018
-            },
-            {
-              "code": "4D",
-              "from": 1991,
-              "to": 1991
-            },
-            {
-              "code": "M6727D",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "G3",
-              "from": 2007,
-              "to": 2010
-            },
-            {
-              "code": "PQ",
-              "from": 2011,
-              "to": 2023
-            },
-            {
-              "code": "TB",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "RZ",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "M7293",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "U6",
-              "from": 2010,
-              "to": 2012
-            },
-            {
-              "code": "UK",
-              "from": 2009,
-              "to": 2010
-            },
-            {
-              "code": "RR",
-              "from": 2013,
-              "to": 2019
-            },
-            {
-              "code": "LR",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "67",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "B1",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "BY",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "D6",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "DB",
-              "from": 2024,
-              "to": 2026
-            },
-            {
-              "code": "9Z",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "M6895A",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "BN",
-              "from": 2019,
-              "to": 2020
-            },
-            {
-              "code": "MS",
-              "from": 1991,
-              "to": 1993
-            },
-            {
-              "code": "TQ",
-              "from": 2021,
-              "to": 2022
-            },
-            {
-              "code": "HG",
-              "from": 2006,
-              "to": 2006
-            },
-            {
-              "code": "SN",
-              "from": 2003,
-              "to": 2003
-            },
-            {
-              "code": "A3",
-              "from": 2021,
-              "to": 2025
-            },
-            {
-              "code": "M6389",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "AZ",
-              "from": 2020,
-              "to": 2026
-            },
-            {
-              "code": "UJ",
-              "from": 2009,
-              "to": 2014
-            },
-            {
-              "code": "D1",
-              "from": 2018,
-              "to": 2023
-            },
-            {
-              "code": "D7",
-              "from": 2014,
-              "to": 2014
-            },
-            {
-              "code": "J8",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "VA",
-              "from": 2013,
-              "to": 2014
-            },
-            {
-              "code": "M6534D",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "FL",
-              "from": 1996,
-              "to": 2003
-            },
-            {
-              "code": "L2",
-              "from": 2002,
-              "to": 2006
-            },
-            {
-              "code": "UH",
-              "from": 2010,
-              "to": 2015
-            },
-            {
-              "code": "E7",
-              "from": 2019,
-              "to": 2021
-            },
-            {
-              "code": "21",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "6D",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "E4",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "F1",
-              "from": 2010,
-              "to": 2014
-            },
-            {
-              "code": "HR",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "G9",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "5A",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "PV",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "UG",
-              "from": 2010,
-              "to": 2019
-            },
-            {
-              "code": "FC",
-              "from": 1991,
-              "to": 2026
-            },
-            {
-              "code": "FV",
-              "from": 1991,
-              "to": 2026
-            }
-          ]
-        }
-      ]
+      ],
+      "display_name": "Explorer Sport Trac",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Explorer Sport Trac"
+      }
     },
     {
       "name": "f250",
@@ -20649,7 +20080,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "F250",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "F250"
+      }
     },
     {
       "name": "f350",
@@ -21188,7 +20625,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "F350",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "F350"
+      }
     },
     {
       "name": "f450",
@@ -21697,7 +21140,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "F450",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "F450"
+      }
     },
     {
       "name": "fairlane",
@@ -21881,7 +21330,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fairlane",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Fairlane"
+      }
     },
     {
       "name": "falcon",
@@ -22340,7 +21795,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Falcon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Falcon"
+      }
     },
     {
       "name": "festiva",
@@ -22384,7 +21845,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Festiva",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Festiva"
+      }
     },
     {
       "name": "fiesta",
@@ -23043,7 +22510,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fiesta",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Fiesta"
+      }
     },
     {
       "name": "five-hundred",
@@ -23157,7 +22630,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Five Hundred",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Five Hundred"
+      }
     },
     {
       "name": "flex",
@@ -23421,7 +22900,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Flex",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Flex"
+      }
     },
     {
       "name": "ford-gt",
@@ -23520,7 +23005,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ford Gt",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ford Gt"
+      }
     },
     {
       "name": "freestar",
@@ -23699,7 +23190,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Freestar",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Freestar"
+      }
     },
     {
       "name": "freestyle",
@@ -23853,7 +23350,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Freestyle",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Freestyle"
+      }
     },
     {
       "name": "fusion",
@@ -24387,7 +23890,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fusion",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Fusion"
+      }
     },
     {
       "name": "galaxy",
@@ -24711,7 +24220,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Galaxy",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Galaxy"
+      }
     },
     {
       "name": "ikon",
@@ -24765,7 +24280,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ikon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ikon"
+      }
     },
     {
       "name": "laser",
@@ -24869,7 +24390,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Laser",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Laser"
+      }
     },
     {
       "name": "ltd",
@@ -24938,7 +24465,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ltd",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ltd"
+      }
     },
     {
       "name": "maverick",
@@ -25197,7 +24730,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Maverick",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Maverick"
+      }
     },
     {
       "name": "mustang",
@@ -25851,7 +25390,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mustang",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mustang"
+      }
     },
     {
       "name": "mustang-mach-e",
@@ -25960,7 +25505,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mustang Mach E",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mustang Mach E"
+      }
     },
     {
       "name": "puma",
@@ -26069,7 +25620,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Puma",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Puma"
+      }
     },
     {
       "name": "s-max",
@@ -26338,7 +25895,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "S Max",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "S Max"
+      }
     },
     {
       "name": "shelby-gt500",
@@ -26467,7 +26030,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Shelby Gt500",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Shelby Gt500"
+      }
     },
     {
       "name": "streetka",
@@ -26536,7 +26105,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Streetka",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Streetka"
+      }
     },
     {
       "name": "taurus",
@@ -27095,7 +26670,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Taurus",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Taurus"
+      }
     },
     {
       "name": "taurus-x",
@@ -27219,7 +26800,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Taurus X",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Taurus X"
+      }
     },
     {
       "name": "territory",
@@ -27503,7 +27090,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Territory",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Territory"
+      }
     },
     {
       "name": "thunderbird",
@@ -27677,7 +27270,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Thunderbird",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Thunderbird"
+      }
     },
     {
       "name": "transit",
@@ -28201,7 +27800,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Transit",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Transit"
+      }
     },
     {
       "name": "transit-connect",
@@ -28495,7 +28100,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Transit Connect",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Transit Connect"
+      }
     },
     {
       "name": "windstar",
@@ -28694,7 +28305,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Windstar",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Windstar"
+      }
     }
   ]
 }

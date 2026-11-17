@@ -1762,10 +1762,16 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Outlander",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Outlander"
+      }
     },
     {
-      "name": "asx",
+      "name": "outlander-sport",
       "generations": [
         {
           "name": "1g",
@@ -1831,7 +1837,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Outlander Sport",
+      "aliases": [
+        "asx",
+        "rvr"
+      ],
+      "alias_status": {
+        "asx": "confirmado",
+        "rvr": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Outlander Sport"
+      }
     },
     {
       "name": "lancer",
@@ -2014,7 +2032,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Lancer",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Lancer"
+      }
     },
     {
       "name": "lancer evolution",
@@ -2142,7 +2166,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Lancer Evolution",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Lancer Evolution"
+      }
     },
     {
       "name": "montero",
@@ -2200,7 +2230,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Montero",
+      "aliases": [
+        "pajero",
+        "shogun"
+      ],
+      "alias_status": {
+        "pajero": "confirmado",
+        "shogun": "confirmado"
+      },
+      "market_names": {
+        "GT": "Montero"
+      }
     },
     {
       "name": "pajero-sport",
@@ -2264,7 +2306,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Pajero Sport",
+      "aliases": [
+        "montero-sport",
+        "challenger"
+      ],
+      "alias_status": {
+        "montero-sport": "confirmado",
+        "challenger": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Pajero Sport"
+      }
     },
     {
       "name": "galant",
@@ -2730,7 +2784,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Galant",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Galant"
+      }
     },
     {
       "name": "mirage",
@@ -3126,7 +3186,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mirage",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mirage"
+      }
     },
     {
       "name": "eclipse",
@@ -3497,7 +3563,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Eclipse",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Eclipse"
+      }
     },
     {
       "name": "eclipse cross",
@@ -3556,7 +3628,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Eclipse Cross",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Eclipse Cross"
+      }
     },
     {
       "name": "3000gt",
@@ -3670,7 +3748,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "3000GT",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "3000GT"
+      }
     },
     {
       "name": "diamante",
@@ -3938,7 +4022,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Diamante",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Diamante"
+      }
     },
     {
       "name": "endeavor",
@@ -4037,7 +4127,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Endeavor",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Endeavor"
+      }
     },
     {
       "name": "l200",
@@ -4517,7 +4613,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "L200",
+      "aliases": [
+        "triton",
+        "mighty-max"
+      ],
+      "alias_status": {
+        "triton": "confirmado",
+        "mighty-max": "confirmado"
+      },
+      "market_names": {
+        "GT": "L200"
+      }
     },
     {
       "name": "i-miev",
@@ -4556,7 +4664,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "i-MiEV",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "i-MiEV"
+      }
     },
     {
       "name": "expo",
@@ -4665,7 +4779,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Expo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Expo"
+      }
     },
     {
       "name": "expo lrv",
@@ -4779,7 +4899,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Expo Lrv",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Expo Lrv"
+      }
     },
     {
       "name": "raider",
@@ -4853,7 +4979,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Raider",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Raider"
+      }
     }
   ]
 }

@@ -1690,7 +1690,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Altima",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Altima"
+      }
     },
     {
       "name": "frontier",
@@ -1892,7 +1898,19 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Frontier",
+      "aliases": [
+        "navara",
+        "np300"
+      ],
+      "alias_status": {
+        "navara": "confirmado",
+        "np300": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Frontier"
+      }
     },
     {
       "name": "kicks",
@@ -2041,7 +2059,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Kicks",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Kicks"
+      }
     },
     {
       "name": "pathfinder",
@@ -2311,7 +2335,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Pathfinder",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Pathfinder"
+      }
     },
     {
       "name": "sentra",
@@ -2580,7 +2610,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Sentra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sentra"
+      }
     },
     {
       "name": "versa",
@@ -3162,7 +3198,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Versa",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Versa"
+      }
     },
     {
       "name": "march",
@@ -3437,7 +3479,17 @@
           },
           "colors": []
         }
-      ]
+      ],
+      "display_name": "March",
+      "aliases": [
+        "micra"
+      ],
+      "alias_status": {
+        "micra": "confirmado"
+      },
+      "market_names": {
+        "GT": "March"
+      }
     },
     {
       "name": "navara",
@@ -3693,7 +3745,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Navara",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Navara"
+      }
     },
     {
       "name": "np300",
@@ -3768,7 +3826,13 @@
           },
           "colors": []
         }
-      ]
+      ],
+      "display_name": "NP300",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "NP300"
+      }
     },
     {
       "name": "patrol",
@@ -4385,7 +4449,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Patrol",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Patrol"
+      }
     },
     {
       "name": "qashqai",
@@ -4707,7 +4777,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Qashqai",
+      "aliases": [
+        "dualis"
+      ],
+      "alias_status": {
+        "dualis": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Qashqai"
+      }
     },
     {
       "name": "x-trail",
@@ -5253,7 +5333,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "X Trail",
+      "aliases": [
+        "rogue"
+      ],
+      "alias_status": {
+        "rogue": "confirmado"
+      },
+      "market_names": {
+        "GT": "X Trail"
+      }
     }
   ]
 }

@@ -1504,7 +1504,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Corolla",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Corolla"
+      }
     },
     {
       "name": "camry",
@@ -1927,7 +1933,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Camry",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Camry"
+      }
     },
     {
       "name": "rav4",
@@ -2227,7 +2239,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Rav4",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Rav4"
+      }
     },
     {
       "name": "land-cruiser",
@@ -2398,7 +2416,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Land Cruiser",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Land Cruiser"
+      }
     },
     {
       "name": "4runner",
@@ -2678,7 +2702,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "4Runner",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "4Runner"
+      }
     },
     {
       "name": "tacoma",
@@ -2974,7 +3004,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tacoma",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tacoma"
+      }
     },
     {
       "name": "tundra",
@@ -3166,7 +3202,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tundra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tundra"
+      }
     },
     {
       "name": "highlander",
@@ -3352,7 +3394,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Highlander",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Highlander"
+      }
     },
     {
       "name": "sienna",
@@ -3548,7 +3596,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Sienna",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sienna"
+      }
     },
     {
       "name": "prius",
@@ -3728,7 +3782,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Prius",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Prius"
+      }
     },
     {
       "name": "sequoia",
@@ -3905,7 +3965,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Sequoia",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sequoia"
+      }
     },
     {
       "name": "avalon",
@@ -4175,7 +4241,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Avalon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Avalon"
+      }
     },
     {
       "name": "yaris",
@@ -4312,7 +4384,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Yaris",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Yaris"
+      }
     },
     {
       "name": "fj-cruiser",
@@ -4341,7 +4419,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fj Cruiser",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Fj Cruiser"
+      }
     },
     {
       "name": "supra",
@@ -4469,7 +4553,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Supra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Supra"
+      }
     },
     {
       "name": "celica",
@@ -4636,7 +4726,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Celica",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Celica"
+      }
     },
     {
       "name": "matrix",
@@ -4734,7 +4830,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Matrix",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Matrix"
+      }
     },
     {
       "name": "echo",
@@ -4788,7 +4890,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Echo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Echo"
+      }
     },
     {
       "name": "tercel",
@@ -4901,7 +5009,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tercel",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tercel"
+      }
     },
     {
       "name": "paseo",
@@ -5009,7 +5123,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Paseo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Paseo"
+      }
     },
     {
       "name": "mr2",
@@ -5142,7 +5262,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mr2",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mr2"
+      }
     },
     {
       "name": "previa",
@@ -5231,7 +5357,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Previa",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Previa"
+      }
     },
     {
       "name": "solara",
@@ -5364,7 +5496,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Solara",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Solara"
+      }
     },
     {
       "name": "venza",
@@ -5462,7 +5600,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Venza",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Venza"
+      }
     },
     {
       "name": "c-hr",
@@ -5496,7 +5640,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "C-HR",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "C-HR"
+      }
     },
     {
       "name": "corolla-cross",
@@ -5530,7 +5680,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Corolla Cross",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Corolla Cross"
+      }
     },
     {
       "name": "crown",
@@ -5564,7 +5720,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Crown",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Crown"
+      }
     },
     {
       "name": "bz4x",
@@ -5598,7 +5760,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "bZ4X",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "bZ4X"
+      }
     },
     {
       "name": "grand-highlander",
@@ -5647,7 +5815,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Grand Highlander",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Grand Highlander"
+      }
     },
     {
       "name": "mirai",
@@ -5710,7 +5884,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mirai",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mirai"
+      }
     },
     {
       "name": "hilux",
@@ -5971,7 +6151,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Hilux",
+      "aliases": [
+        "toyota-pickup"
+      ],
+      "alias_status": {
+        "toyota-pickup": "confirmado"
+      },
+      "market_names": {
+        "GT": "Hilux"
+      }
     },
     {
       "name": "fortuner",
@@ -6030,7 +6220,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Fortuner",
+      "aliases": [
+        "sw4"
+      ],
+      "alias_status": {
+        "sw4": "confirmado"
+      },
+      "market_names": {
+        "GT": "Fortuner"
+      }
     },
     {
       "name": "prado",
@@ -6148,7 +6348,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Prado",
+      "aliases": [
+        "land-cruiser-prado"
+      ],
+      "alias_status": {
+        "land-cruiser-prado": "confirmado"
+      },
+      "market_names": {
+        "GT": "Prado"
+      }
     },
     {
       "name": "hiace",
@@ -6276,7 +6486,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Hiace",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Hiace"
+      }
     },
     {
       "name": "toyota-pickup",
@@ -6365,7 +6581,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Toyota Pickup",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Toyota Pickup"
+      }
     },
     {
       "name": "t100",
@@ -6439,7 +6661,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "T100",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "T100"
+      }
     }
   ]
 }

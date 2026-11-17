@@ -3083,7 +3083,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Blazer",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Blazer"
+      }
     },
     {
       "name": "blazer ev",
@@ -3142,7 +3148,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Blazer Ev",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Blazer Ev"
+      }
     },
     {
       "name": "metro",
@@ -3350,7 +3362,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Metro",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Metro"
+      }
     },
     {
       "name": "prizm",
@@ -3607,7 +3625,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Prizm",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Prizm"
+      }
     },
     {
       "name": "aveo",
@@ -3845,7 +3869,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Aveo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Aveo"
+      }
     },
     {
       "name": "spark",
@@ -4003,7 +4033,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Spark",
+      "aliases": [
+        "beat"
+      ],
+      "alias_status": {
+        "beat": "confirmado"
+      },
+      "market_names": {
+        "GT": "Spark"
+      }
     },
     {
       "name": "tracker",
@@ -4310,7 +4350,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tracker",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tracker"
+      }
     },
     {
       "name": "sonic",
@@ -4494,7 +4540,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Sonic",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sonic"
+      }
     },
     {
       "name": "s-10",
@@ -4832,7 +4884,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "S-10",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "S-10"
+      }
     },
     {
       "name": "silverado",
@@ -5268,7 +5326,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Silverado",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Silverado"
+      }
     },
     {
       "name": "colorado",
@@ -5570,7 +5634,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Colorado",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Colorado"
+      }
     },
     {
       "name": "cobalt",
@@ -5669,7 +5739,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cobalt",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cobalt"
+      }
     },
     {
       "name": "cavalier",
@@ -5991,7 +6067,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cavalier",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cavalier"
+      }
     },
     {
       "name": "cruze",
@@ -6149,7 +6231,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cruze",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cruze"
+      }
     },
     {
       "name": "malibu",
@@ -6584,7 +6672,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Malibu",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Malibu"
+      }
     },
     {
       "name": "camaro",
@@ -6915,7 +7009,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Camaro",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Camaro"
+      }
     },
     {
       "name": "corvette",
@@ -7440,7 +7540,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Corvette",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Corvette"
+      }
     },
     {
       "name": "impala",
@@ -7876,7 +7982,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Impala",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Impala"
+      }
     },
     {
       "name": "volt",
@@ -8029,7 +8141,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Volt",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Volt"
+      }
     },
     {
       "name": "trailblazer",
@@ -8317,7 +8435,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Trailblazer",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Trailblazer"
+      }
     },
     {
       "name": "suburban",
@@ -8777,7 +8901,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Suburban",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Suburban"
+      }
     },
     {
       "name": "tahoe",
@@ -9177,7 +9307,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tahoe",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tahoe"
+      }
     },
     {
       "name": "equinox",
@@ -9593,7 +9729,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Equinox",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Equinox"
+      }
     },
     {
       "name": "trax",
@@ -9776,7 +9918,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Trax",
+      "aliases": [
+        "tracker"
+      ],
+      "alias_status": {
+        "tracker": "confirmado"
+      },
+      "market_names": {
+        "GT": "Trax"
+      }
     },
     {
       "name": "captiva",
@@ -9850,7 +10002,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Captiva",
+      "aliases": [
+        "captiva-sport"
+      ],
+      "alias_status": {
+        "captiva-sport": "confirmado"
+      },
+      "market_names": {
+        "GT": "Captiva"
+      }
     },
     {
       "name": "traverse",
@@ -10037,7 +10199,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Traverse",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Traverse"
+      }
     },
     {
       "name": "avalanche",
@@ -10185,7 +10353,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Avalanche",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Avalanche"
+      }
     }
   ]
 }

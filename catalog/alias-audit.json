@@ -1,0 +1,345 @@
+[
+  {
+    "make": "chevrolet",
+    "model": "spark",
+    "display_name": "Spark",
+    "alias": "beat",
+    "status": "confirmado"
+  },
+  {
+    "make": "chevrolet",
+    "model": "trax",
+    "display_name": "Trax",
+    "alias": "tracker",
+    "status": "confirmado"
+  },
+  {
+    "make": "chevrolet",
+    "model": "captiva",
+    "display_name": "Captiva",
+    "alias": "captiva-sport",
+    "status": "confirmado"
+  },
+  {
+    "make": "ford",
+    "model": "escape",
+    "display_name": "Escape",
+    "alias": "kuga",
+    "status": "confirmado"
+  },
+  {
+    "make": "ford",
+    "model": "everest",
+    "display_name": "Everest",
+    "alias": "endeavour",
+    "status": "confirmado"
+  },
+  {
+    "make": "ford",
+    "model": "f-150",
+    "display_name": "F-150",
+    "alias": "f150",
+    "status": "confirmado"
+  },
+  {
+    "make": "ford",
+    "model": "f-150",
+    "display_name": "F-150",
+    "alias": "lobo",
+    "status": "confirmado"
+  },
+  {
+    "make": "honda",
+    "model": "fit",
+    "display_name": "Fit",
+    "alias": "jazz",
+    "status": "confirmado"
+  },
+  {
+    "make": "honda",
+    "model": "hr-v",
+    "display_name": "HR-V",
+    "alias": "vezel",
+    "status": "confirmado"
+  },
+  {
+    "make": "hyundai",
+    "model": "accent",
+    "display_name": "Accent",
+    "alias": "verna",
+    "status": "confirmado"
+  },
+  {
+    "make": "hyundai",
+    "model": "elantra",
+    "display_name": "Elantra",
+    "alias": "avante",
+    "status": "confirmado"
+  },
+  {
+    "make": "hyundai",
+    "model": "tucson",
+    "display_name": "Tucson",
+    "alias": "ix35",
+    "status": "confirmado"
+  },
+  {
+    "make": "hyundai",
+    "model": "creta",
+    "display_name": "Creta",
+    "alias": "ix25",
+    "status": "confirmado"
+  },
+  {
+    "make": "hyundai",
+    "model": "grand-i10",
+    "display_name": "Grand I10",
+    "alias": "xcent",
+    "status": "por_verificar"
+  },
+  {
+    "make": "isuzu",
+    "model": "trooper",
+    "display_name": "Trooper",
+    "alias": "bighorn",
+    "status": "confirmado"
+  },
+  {
+    "make": "isuzu",
+    "model": "d-max",
+    "display_name": "D Max",
+    "alias": "rodeo",
+    "status": "por_verificar"
+  },
+  {
+    "make": "isuzu",
+    "model": "mu-x",
+    "display_name": "Mu X",
+    "alias": "mu-7",
+    "status": "por_verificar"
+  },
+  {
+    "make": "kia",
+    "model": "rio",
+    "display_name": "Rio",
+    "alias": "pride",
+    "status": "por_verificar"
+  },
+  {
+    "make": "kia",
+    "model": "forte",
+    "display_name": "Forte",
+    "alias": "cerato",
+    "status": "confirmado"
+  },
+  {
+    "make": "kia",
+    "model": "optima",
+    "display_name": "Optima",
+    "alias": "k5",
+    "status": "confirmado"
+  },
+  {
+    "make": "kia",
+    "model": "carnival",
+    "display_name": "Carnival",
+    "alias": "sedona",
+    "status": "confirmado"
+  },
+  {
+    "make": "kia",
+    "model": "niro",
+    "display_name": "Niro",
+    "alias": "e-niro",
+    "status": "confirmado"
+  },
+  {
+    "make": "kia",
+    "model": "borrego",
+    "display_name": "Borrego",
+    "alias": "mohave",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "3",
+    "display_name": "3",
+    "alias": "axela",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "6",
+    "display_name": "6",
+    "alias": "atenza",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "bt-50",
+    "display_name": "BT-50",
+    "alias": "b-series",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "mx-5",
+    "display_name": "MX-5",
+    "alias": "miata",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "2",
+    "display_name": "2",
+    "alias": "demio",
+    "status": "confirmado"
+  },
+  {
+    "make": "mazda",
+    "model": "mazda5",
+    "display_name": "Mazda5",
+    "alias": "premacy",
+    "status": "por_verificar"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "outlander-sport",
+    "display_name": "Outlander Sport",
+    "alias": "asx",
+    "status": "confirmado"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "outlander-sport",
+    "display_name": "Outlander Sport",
+    "alias": "rvr",
+    "status": "por_verificar"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "montero",
+    "display_name": "Montero",
+    "alias": "pajero",
+    "status": "confirmado"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "montero",
+    "display_name": "Montero",
+    "alias": "shogun",
+    "status": "confirmado"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "pajero-sport",
+    "display_name": "Pajero Sport",
+    "alias": "montero-sport",
+    "status": "confirmado"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "pajero-sport",
+    "display_name": "Pajero Sport",
+    "alias": "challenger",
+    "status": "por_verificar"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "l200",
+    "display_name": "L200",
+    "alias": "triton",
+    "status": "confirmado"
+  },
+  {
+    "make": "mitsubishi",
+    "model": "l200",
+    "display_name": "L200",
+    "alias": "mighty-max",
+    "status": "confirmado"
+  },
+  {
+    "make": "nissan",
+    "model": "frontier",
+    "display_name": "Frontier",
+    "alias": "navara",
+    "status": "confirmado"
+  },
+  {
+    "make": "nissan",
+    "model": "frontier",
+    "display_name": "Frontier",
+    "alias": "np300",
+    "status": "por_verificar"
+  },
+  {
+    "make": "nissan",
+    "model": "march",
+    "display_name": "March",
+    "alias": "micra",
+    "status": "confirmado"
+  },
+  {
+    "make": "nissan",
+    "model": "qashqai",
+    "display_name": "Qashqai",
+    "alias": "dualis",
+    "status": "por_verificar"
+  },
+  {
+    "make": "nissan",
+    "model": "x-trail",
+    "display_name": "X Trail",
+    "alias": "rogue",
+    "status": "confirmado"
+  },
+  {
+    "make": "subaru",
+    "model": "crosstrek",
+    "display_name": "Crosstrek",
+    "alias": "xv",
+    "status": "confirmado"
+  },
+  {
+    "make": "subaru",
+    "model": "levorg",
+    "display_name": "Levorg",
+    "alias": "wrx-sport-wagon",
+    "status": "por_verificar"
+  },
+  {
+    "make": "toyota",
+    "model": "hilux",
+    "display_name": "Hilux",
+    "alias": "toyota-pickup",
+    "status": "confirmado"
+  },
+  {
+    "make": "toyota",
+    "model": "fortuner",
+    "display_name": "Fortuner",
+    "alias": "sw4",
+    "status": "confirmado"
+  },
+  {
+    "make": "toyota",
+    "model": "prado",
+    "display_name": "Prado",
+    "alias": "land-cruiser-prado",
+    "status": "confirmado"
+  },
+  {
+    "make": "volkswagen",
+    "model": "saveiro",
+    "display_name": "Saveiro",
+    "alias": "pickup",
+    "status": "por_verificar"
+  },
+  {
+    "make": "volkswagen",
+    "model": "vento",
+    "display_name": "Vento",
+    "alias": "polo-sedan",
+    "status": "por_verificar"
+  }
+]

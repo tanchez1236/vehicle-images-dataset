@@ -2800,7 +2800,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Accent",
+      "aliases": [
+        "verna"
+      ],
+      "alias_status": {
+        "verna": "confirmado"
+      },
+      "market_names": {
+        "GT": "Accent"
+      }
     },
     {
       "name": "elantra",
@@ -3448,7 +3458,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Elantra",
+      "aliases": [
+        "avante"
+      ],
+      "alias_status": {
+        "avante": "confirmado"
+      },
+      "market_names": {
+        "GT": "Elantra"
+      }
     },
     {
       "name": "sonata",
@@ -4051,7 +4071,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Sonata",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sonata"
+      }
     },
     {
       "name": "tucson",
@@ -4462,7 +4488,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tucson",
+      "aliases": [
+        "ix35"
+      ],
+      "alias_status": {
+        "ix35": "confirmado"
+      },
+      "market_names": {
+        "GT": "Tucson"
+      }
     },
     {
       "name": "santa-fe",
@@ -5032,7 +5068,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Santa Fe",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Santa Fe"
+      }
     },
     {
       "name": "h1",
@@ -5133,7 +5175,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "H1",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "H1"
+      }
     },
     {
       "name": "veracruz",
@@ -5222,7 +5270,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Veracruz",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Veracruz"
+      }
     },
     {
       "name": "veloster",
@@ -5306,7 +5360,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Veloster",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Veloster"
+      }
     },
     {
       "name": "genesis-coupe",
@@ -5420,7 +5480,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Genesis Coupe",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Genesis Coupe"
+      }
     },
     {
       "name": "azera",
@@ -5568,7 +5634,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Azera",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Azera"
+      }
     },
     {
       "name": "tiburon",
@@ -5711,7 +5783,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tiburon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tiburon"
+      }
     },
     {
       "name": "entourage",
@@ -5745,7 +5823,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Entourage",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Entourage"
+      }
     },
     {
       "name": "equus",
@@ -5799,7 +5883,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Equus",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Equus"
+      }
     },
     {
       "name": "genesis",
@@ -6002,7 +6092,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Genesis",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Genesis"
+      }
     },
     {
       "name": "ioniq",
@@ -6086,7 +6182,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ioniq",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ioniq"
+      }
     },
     {
       "name": "ioniq-5",
@@ -6130,7 +6232,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ioniq 5",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ioniq 5"
+      }
     },
     {
       "name": "ioniq-6",
@@ -6189,7 +6297,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ioniq 6",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ioniq 6"
+      }
     },
     {
       "name": "kona",
@@ -6367,7 +6481,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Kona",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Kona"
+      }
     },
     {
       "name": "palisade",
@@ -6426,7 +6546,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Palisade",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Palisade"
+      }
     },
     {
       "name": "staria",
@@ -6470,7 +6596,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Staria",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Staria"
+      }
     },
     {
       "name": "creta",
@@ -6608,7 +6740,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Creta",
+      "aliases": [
+        "ix25"
+      ],
+      "alias_status": {
+        "ix25": "confirmado"
+      },
+      "market_names": {
+        "GT": "Creta"
+      }
     },
     {
       "name": "venue",
@@ -6752,7 +6894,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Venue",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Venue"
+      }
     },
     {
       "name": "grand-i10",
@@ -6871,7 +7019,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Grand I10",
+      "aliases": [
+        "xcent"
+      ],
+      "alias_status": {
+        "xcent": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Grand I10"
+      }
     }
   ]
 }

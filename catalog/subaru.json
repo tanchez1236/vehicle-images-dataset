@@ -1020,7 +1020,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Ascent",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Ascent"
+      }
     },
     {
       "name": "baja",
@@ -1119,7 +1125,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Baja",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Baja"
+      }
     },
     {
       "name": "brz",
@@ -1322,7 +1334,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Brz",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Brz"
+      }
     },
     {
       "name": "crosstrek",
@@ -1574,7 +1592,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Crosstrek",
+      "aliases": [
+        "xv"
+      ],
+      "alias_status": {
+        "xv": "confirmado"
+      },
+      "market_names": {
+        "GT": "Crosstrek"
+      }
     },
     {
       "name": "forester",
@@ -2023,7 +2051,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Forester",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Forester"
+      }
     },
     {
       "name": "impreza",
@@ -2537,7 +2571,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Impreza",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Impreza"
+      }
     },
     {
       "name": "justy",
@@ -2641,7 +2681,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Justy",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Justy"
+      }
     },
     {
       "name": "legacy",
@@ -3089,7 +3135,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Legacy",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Legacy"
+      }
     },
     {
       "name": "levorg",
@@ -3247,7 +3299,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Levorg",
+      "aliases": [
+        "wrx-sport-wagon"
+      ],
+      "alias_status": {
+        "wrx-sport-wagon": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Levorg"
+      }
     },
     {
       "name": "outback",
@@ -3625,7 +3687,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Outback",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Outback"
+      }
     },
     {
       "name": "rex",
@@ -3638,7 +3706,13 @@
           },
           "colors": []
         }
-      ]
+      ],
+      "display_name": "Rex",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Rex"
+      }
     },
     {
       "name": "solterra",
@@ -3672,7 +3746,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Solterra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Solterra"
+      }
     },
     {
       "name": "trezia",
@@ -3731,7 +3811,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Trezia",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Trezia"
+      }
     },
     {
       "name": "tribeca",
@@ -3880,7 +3966,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tribeca",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tribeca"
+      }
     },
     {
       "name": "wrx",
@@ -4080,7 +4172,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Wrx",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Wrx"
+      }
     },
     {
       "name": "xv",
@@ -4278,7 +4376,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Xv",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Xv"
+      }
     },
     {
       "name": "svx",
@@ -4322,7 +4426,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Svx",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Svx"
+      }
     },
     {
       "name": "loyale",
@@ -4381,7 +4491,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Loyale",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Loyale"
+      }
     }
   ]
 }

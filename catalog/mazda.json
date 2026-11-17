@@ -1717,7 +1717,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "3",
+      "aliases": [
+        "axela"
+      ],
+      "alias_status": {
+        "axela": "confirmado"
+      },
+      "market_names": {
+        "GT": "3"
+      }
     },
     {
       "name": "cx-5",
@@ -1875,7 +1885,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CX-5",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CX-5"
+      }
     },
     {
       "name": "6",
@@ -2167,7 +2183,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "6",
+      "aliases": [
+        "atenza"
+      ],
+      "alias_status": {
+        "atenza": "confirmado"
+      },
+      "market_names": {
+        "GT": "6"
+      }
     },
     {
       "name": "cx-9",
@@ -2310,7 +2336,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CX-9",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CX-9"
+      }
     },
     {
       "name": "tribute",
@@ -2533,7 +2565,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Tribute",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Tribute"
+      }
     },
     {
       "name": "bt-50",
@@ -3158,7 +3196,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "BT-50",
+      "aliases": [
+        "b-series"
+      ],
+      "alias_status": {
+        "b-series": "confirmado"
+      },
+      "market_names": {
+        "GT": "BT-50"
+      }
     },
     {
       "name": "rx-8",
@@ -3272,7 +3320,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "RX-8",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "RX-8"
+      }
     },
     {
       "name": "mx-5",
@@ -3753,7 +3807,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "MX-5",
+      "aliases": [
+        "miata"
+      ],
+      "alias_status": {
+        "miata": "confirmado"
+      },
+      "market_names": {
+        "GT": "MX-5"
+      }
     },
     {
       "name": "cx-30",
@@ -3822,7 +3886,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CX-30",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CX-30"
+      }
     },
     {
       "name": "cx-50",
@@ -3881,7 +3951,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CX-50",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CX-50"
+      }
     },
     {
       "name": "cx-90",
@@ -3935,7 +4011,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "CX-90",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "CX-90"
+      }
     },
     {
       "name": "cx-3",
@@ -4019,7 +4101,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cx 3",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cx 3"
+      }
     },
     {
       "name": "2",
@@ -4078,7 +4166,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "2",
+      "aliases": [
+        "demio"
+      ],
+      "alias_status": {
+        "demio": "confirmado"
+      },
+      "market_names": {
+        "GT": "2"
+      }
     },
     {
       "name": "protege",
@@ -4420,7 +4518,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Protege",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Protege"
+      }
     },
     {
       "name": "626",
@@ -4732,7 +4836,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "626",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "626"
+      }
     },
     {
       "name": "cx-7",
@@ -4806,7 +4916,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Cx 7",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cx 7"
+      }
     },
     {
       "name": "mazda5",
@@ -4989,7 +5105,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mazda5",
+      "aliases": [
+        "premacy"
+      ],
+      "alias_status": {
+        "premacy": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Mazda5"
+      }
     },
     {
       "name": "mpv",
@@ -5252,7 +5378,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mpv",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Mpv"
+      }
     }
   ]
 }

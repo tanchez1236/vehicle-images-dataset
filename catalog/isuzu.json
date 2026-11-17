@@ -669,7 +669,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Trooper",
+      "aliases": [
+        "bighorn"
+      ],
+      "alias_status": {
+        "bighorn": "confirmado"
+      },
+      "market_names": {
+        "GT": "Trooper"
+      }
     },
     {
       "name": "d-max",
@@ -1061,7 +1071,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "D Max",
+      "aliases": [
+        "rodeo"
+      ],
+      "alias_status": {
+        "rodeo": "por_verificar"
+      },
+      "market_names": {
+        "GT": "D Max"
+      }
     },
     {
       "name": "mu-x",
@@ -1239,7 +1259,17 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Mu X",
+      "aliases": [
+        "mu-7"
+      ],
+      "alias_status": {
+        "mu-7": "por_verificar"
+      },
+      "market_names": {
+        "GT": "Mu X"
+      }
     },
     {
       "name": "hombre",
@@ -1293,7 +1323,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Hombre",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Hombre"
+      }
     },
     {
       "name": "rodeo",
@@ -1526,7 +1562,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Rodeo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Rodeo"
+      }
     },
     {
       "name": "amigo",
@@ -1604,7 +1646,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Amigo",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Amigo"
+      }
     },
     {
       "name": "axiom",
@@ -1698,7 +1746,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Axiom",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Axiom"
+      }
     },
     {
       "name": "rodeo-sport",
@@ -1792,7 +1846,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Rodeo Sport",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Rodeo Sport"
+      }
     },
     {
       "name": "pickup",
@@ -1826,7 +1886,13 @@
             }
           ]
         }
-      ]
+      ],
+      "display_name": "Pickup",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Pickup"
+      }
     }
   ]
 }
