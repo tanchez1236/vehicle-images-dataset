@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T16:05:39.594834Z",
-  "totalMakes": 10,
+  "updatedAt": "2026-11-17T16:46:26.973190Z",
+  "totalMakes": 11,
   "makes": [
     "chevrolet",
     "honda",
@@ -12,6 +12,7 @@
     "mitsubishi",
     "nissan",
     "subaru",
+    "suzuki",
     "toyota"
   ]
 }
