@@ -1,0 +1,10 @@
+{
+  "american": ["chevrolet", "ford", "gmc", "dodge", "ram", "jeep"],
+  "european": ["volkswagen", "audi", "bmw", "mercedes-benz", "peugeot", "renault", "citroen", "fiat", "seat", "land-rover"],
+  "asian": {
+    "japanese": ["toyota", "lexus", "honda", "acura", "nissan", "mazda", "mitsubishi", "subaru", "suzuki", "isuzu"],
+    "korean": ["hyundai", "kia", "genesis"],
+    "chinese": ["byd", "chery", "changan", "geely", "mg", "great-wall", "haval", "jac", "baic", "dongfeng", "foton"],
+    "indian": ["mahindra"]
+  }
+}
