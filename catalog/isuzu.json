@@ -1073,15 +1073,14 @@
         }
       ],
       "display_name": "D Max",
-      "aliases": [
-        "rodeo"
-      ],
-      "alias_status": {
-        "rodeo": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "D Max"
-      }
+      },
+      "related_models": [
+        "rodeo"
+      ]
     },
     {
       "name": "mu-x",
@@ -1261,15 +1260,14 @@
         }
       ],
       "display_name": "Mu X",
-      "aliases": [
-        "mu-7"
-      ],
-      "alias_status": {
-        "mu-7": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "Mu X"
-      }
+      },
+      "related_models": [
+        "mu-7"
+      ]
     },
     {
       "name": "hombre",

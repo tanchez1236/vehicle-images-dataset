@@ -5107,15 +5107,14 @@
         }
       ],
       "display_name": "Mazda5",
-      "aliases": [
-        "premacy"
-      ],
-      "alias_status": {
-        "premacy": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "Mazda5"
-      }
+      },
+      "related_models": [
+        "premacy"
+      ]
     },
     {
       "name": "mpv",

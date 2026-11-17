@@ -1906,7 +1906,7 @@
       ],
       "alias_status": {
         "navara": "confirmado",
-        "np300": "por_verificar"
+        "np300": "confirmado"
       },
       "market_names": {
         "GT": "Frontier"
@@ -4783,7 +4783,7 @@
         "dualis"
       ],
       "alias_status": {
-        "dualis": "por_verificar"
+        "dualis": "confirmado"
       },
       "market_names": {
         "GT": "Qashqai"

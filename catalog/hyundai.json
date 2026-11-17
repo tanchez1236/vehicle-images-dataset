@@ -7021,15 +7021,14 @@
         }
       ],
       "display_name": "Grand I10",
-      "aliases": [
-        "xcent"
-      ],
-      "alias_status": {
-        "xcent": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "Grand I10"
-      }
+      },
+      "related_models": [
+        "xcent"
+      ]
     }
   ]
 }

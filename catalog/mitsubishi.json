@@ -1845,7 +1845,7 @@
       ],
       "alias_status": {
         "asx": "confirmado",
-        "rvr": "por_verificar"
+        "rvr": "confirmado"
       },
       "market_names": {
         "GT": "Outlander Sport"
@@ -2314,7 +2314,7 @@
       ],
       "alias_status": {
         "montero-sport": "confirmado",
-        "challenger": "por_verificar"
+        "challenger": "confirmado"
       },
       "market_names": {
         "GT": "Pajero Sport"

@@ -2782,15 +2782,14 @@
         }
       ],
       "display_name": "Rio",
-      "aliases": [
-        "pride"
-      ],
-      "alias_status": {
-        "pride": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "Rio"
-      }
+      },
+      "related_models": [
+        "pride"
+      ]
     },
     {
       "name": "forte",

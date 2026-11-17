@@ -9351,15 +9351,12 @@
         }
       ],
       "display_name": "Saveiro",
-      "aliases": [
-        "pickup"
-      ],
-      "alias_status": {
-        "pickup": "por_verificar"
-      },
+      "aliases": [],
+      "alias_status": {},
       "market_names": {
         "GT": "Saveiro"
-      }
+      },
+      "related_models": []
     },
     {
       "name": "taos",
@@ -14807,7 +14804,7 @@
         "polo-sedan"
       ],
       "alias_status": {
-        "polo-sedan": "por_verificar"
+        "polo-sedan": "confirmado"
       },
       "market_names": {
         "GT": "Vento"

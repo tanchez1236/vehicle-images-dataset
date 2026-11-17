@@ -91,39 +91,11 @@
     "status": "confirmado"
   },
   {
-    "make": "hyundai",
-    "model": "grand-i10",
-    "display_name": "Grand I10",
-    "alias": "xcent",
-    "status": "por_verificar"
-  },
-  {
     "make": "isuzu",
     "model": "trooper",
     "display_name": "Trooper",
     "alias": "bighorn",
     "status": "confirmado"
-  },
-  {
-    "make": "isuzu",
-    "model": "d-max",
-    "display_name": "D Max",
-    "alias": "rodeo",
-    "status": "por_verificar"
-  },
-  {
-    "make": "isuzu",
-    "model": "mu-x",
-    "display_name": "Mu X",
-    "alias": "mu-7",
-    "status": "por_verificar"
-  },
-  {
-    "make": "kia",
-    "model": "rio",
-    "display_name": "Rio",
-    "alias": "pride",
-    "status": "por_verificar"
   },
   {
     "make": "kia",
@@ -196,13 +168,6 @@
     "status": "confirmado"
   },
   {
-    "make": "mazda",
-    "model": "mazda5",
-    "display_name": "Mazda5",
-    "alias": "premacy",
-    "status": "por_verificar"
-  },
-  {
     "make": "mitsubishi",
     "model": "outlander-sport",
     "display_name": "Outlander Sport",
@@ -214,7 +179,7 @@
     "model": "outlander-sport",
     "display_name": "Outlander Sport",
     "alias": "rvr",
-    "status": "por_verificar"
+    "status": "confirmado"
   },
   {
     "make": "mitsubishi",
@@ -242,7 +207,7 @@
     "model": "pajero-sport",
     "display_name": "Pajero Sport",
     "alias": "challenger",
-    "status": "por_verificar"
+    "status": "confirmado"
   },
   {
     "make": "mitsubishi",
@@ -270,7 +235,7 @@
     "model": "frontier",
     "display_name": "Frontier",
     "alias": "np300",
-    "status": "por_verificar"
+    "status": "confirmado"
   },
   {
     "make": "nissan",
@@ -284,7 +249,7 @@
     "model": "qashqai",
     "display_name": "Qashqai",
     "alias": "dualis",
-    "status": "por_verificar"
+    "status": "confirmado"
   },
   {
     "make": "nissan",
@@ -305,7 +270,7 @@
     "model": "levorg",
     "display_name": "Levorg",
     "alias": "wrx-sport-wagon",
-    "status": "por_verificar"
+    "status": "confirmado"
   },
   {
     "make": "toyota",
@@ -330,16 +295,9 @@
   },
   {
     "make": "volkswagen",
-    "model": "saveiro",
-    "display_name": "Saveiro",
-    "alias": "pickup",
-    "status": "por_verificar"
-  },
-  {
-    "make": "volkswagen",
     "model": "vento",
     "display_name": "Vento",
     "alias": "polo-sedan",
-    "status": "por_verificar"
+    "status": "confirmado"
   }
 ]
