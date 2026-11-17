@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T16:46:26.973190Z",
-  "totalMakes": 11,
+  "updatedAt": "2026-11-17T16:57:32.027574Z",
+  "totalMakes": 12,
   "makes": [
     "chevrolet",
+    "ford",
     "honda",
     "hyundai",
     "isuzu",
