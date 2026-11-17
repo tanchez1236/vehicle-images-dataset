@@ -1420,6 +1420,51 @@
       "slug": "cobalt-blue-pearl",
       "name": "Cobalt Blue Pearl",
       "hex": "#1E4E8C"
+    },
+    "10812": {
+      "slug": "northstar-white-mit-w12-6775",
+      "name": "Northstar White (Mit W12 6775)",
+      "hex": "#F2F2EE"
+    },
+    "B90": {
+      "slug": "dark-blue",
+      "name": "Dark Blue",
+      "hex": "#234073"
+    },
+    "H93": {
+      "slug": "galaxy-silver-metallic",
+      "name": "Galaxy Silver Metallic",
+      "hex": "#C2C3C3"
+    },
+    "L95": {
+      "slug": "loire-silver-pearl-metallic",
+      "name": "Loire Silver Pearl Metallic",
+      "hex": "#C2C3C3"
+    },
+    "S03": {
+      "slug": "lightsierra-grey-metallic",
+      "name": "LightSierra Grey Metallic",
+      "hex": "#5E6264"
+    },
+    "10513": {
+      "slug": "kalapana-black-2",
+      "name": "Kalapana Black",
+      "hex": "#0C0D0E"
+    },
+    "F06": {
+      "slug": "turquoise-pearl",
+      "name": "Turquoise Pearl",
+      "hex": "#6F7377"
+    },
+    "G25": {
+      "slug": "darkgreen-pearl-metallic",
+      "name": "DarkGreen Pearl Metallic",
+      "hex": "#28503A"
+    },
+    "T09": {
+      "slug": "medium-blue-metallic",
+      "name": "Medium Blue Metallic",
+      "hex": "#234073"
     }
   },
   "models": [
@@ -2344,7 +2389,138 @@
             "from": 1994,
             "to": 1998
           },
-          "colors": []
+          "colors": [
+            {
+              "code": "10812",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "B01",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "B90",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "G35",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "G84",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "H07",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "H81",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "H89",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "H93",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "L95",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "R25",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "R99",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "S03",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "T25",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "T88",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "W09",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "X94",
+              "from": 1994,
+              "to": 1994
+            },
+            {
+              "code": "10513",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "A69",
+              "from": 1996,
+              "to": 1996
+            },
+            {
+              "code": "A71",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "F06",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "G25",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "P78",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "P85",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "R82",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "T09",
+              "from": 1998,
+              "to": 1998
+            }
+          ]
         },
         {
           "name": "3g",

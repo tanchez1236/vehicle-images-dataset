@@ -59,7 +59,7 @@
     "438": {
       "slug": "gray-metallic",
       "name": "Gray Metallic",
-      "hex": "#6F7377"
+      "hex": "#5E6264"
     },
     "444": {
       "slug": "wintergreen-metallic",
@@ -94,7 +94,7 @@
     "916": {
       "slug": "charcoal-gray-metallic",
       "name": "Charcoal Gray Metallic",
-      "hex": "#6F7377"
+      "hex": "#5E6264"
     },
     "946": {
       "slug": "rio-red",
@@ -879,7 +879,72 @@
     "098": {
       "slug": "cast-gray-metallic",
       "name": "Cast Gray Metallic",
+      "hex": "#5E6264"
+    },
+    "535": {
+      "slug": "herb-green-metallic",
+      "name": "Herb Green Metallic",
+      "hex": "#28503A"
+    },
+    "726": {
+      "slug": "splendor-red",
+      "name": "Splendor Red",
+      "hex": "#B31F2B"
+    },
+    "758": {
+      "slug": "jade-green-metallic",
+      "name": "Jade Green Metallic",
+      "hex": "#28503A"
+    },
+    "813": {
+      "slug": "classic-grey-metallic",
+      "name": "Classic Grey Metallic",
+      "hex": "#5E6264"
+    },
+    "828": {
+      "slug": "crystal-white",
+      "name": "Crystal White",
+      "hex": "#F2F2EE"
+    },
+    "982": {
+      "slug": "artic-white",
+      "name": "Artic White",
+      "hex": "#F2F2EE"
+    },
+    "057": {
+      "slug": "ceramic-white-2",
+      "name": "Ceramic White",
+      "hex": "#F2F2EE"
+    },
+    "944": {
+      "slug": "pewter-silver-metallic",
+      "name": "Pewter Silver Metallic",
+      "hex": "#C2C3C3"
+    },
+    "368": {
+      "slug": "lavender-mist-metallic",
+      "name": "Lavender Mist Metallic",
       "hex": "#6F7377"
+    },
+    "371": {
+      "slug": "green",
+      "name": "Green",
+      "hex": "#28503A"
+    },
+    "2Q": {
+      "slug": "venetian-red-metallic",
+      "name": "Venetian Red Metallic",
+      "hex": "#B31F2B"
+    },
+    "D4S": {
+      "slug": "crystal-black-silica-metallic",
+      "name": "Crystal Black Silica Metallic",
+      "hex": "#0C0D0E"
+    },
+    "G1U": {
+      "slug": "ice-silver-metallic-2",
+      "name": "Ice Silver Metallic",
+      "hex": "#C2C3C3"
     }
   },
   "models": [
@@ -2483,7 +2548,98 @@
             "from": 1987,
             "to": 1994
           },
-          "colors": []
+          "colors": [
+            {
+              "code": "535",
+              "from": 1987,
+              "to": 1987
+            },
+            {
+              "code": "726",
+              "from": 1987,
+              "to": 1987
+            },
+            {
+              "code": "758",
+              "from": 1987,
+              "to": 1987
+            },
+            {
+              "code": "813",
+              "from": 1987,
+              "to": 1987
+            },
+            {
+              "code": "828",
+              "from": 1987,
+              "to": 1987
+            },
+            {
+              "code": "916",
+              "from": 1988,
+              "to": 1988
+            },
+            {
+              "code": "982",
+              "from": 1988,
+              "to": 1988
+            },
+            {
+              "code": "057",
+              "from": 1990,
+              "to": 1990
+            },
+            {
+              "code": "045",
+              "from": 1991,
+              "to": 1991
+            },
+            {
+              "code": "085",
+              "from": 1991,
+              "to": 1991
+            },
+            {
+              "code": "944",
+              "from": 1991,
+              "to": 1991
+            },
+            {
+              "code": "946",
+              "from": 1991,
+              "to": 1991
+            },
+            {
+              "code": "054",
+              "from": 1992,
+              "to": 1992
+            },
+            {
+              "code": "098",
+              "from": 1992,
+              "to": 1992
+            },
+            {
+              "code": "220",
+              "from": 1993,
+              "to": 1993
+            },
+            {
+              "code": "307",
+              "from": 1993,
+              "to": 1993
+            },
+            {
+              "code": "368",
+              "from": 1993,
+              "to": 1993
+            },
+            {
+              "code": "371",
+              "from": 1993,
+              "to": 1993
+            }
+          ]
         }
       ]
     },
@@ -3743,7 +3899,73 @@
             "from": 2008,
             "to": 2014
           },
-          "colors": []
+          "colors": [
+            {
+              "code": "2Q",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "02C",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "37J",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "61K",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "C7P",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "D4S",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "F9H",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "F9T",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "G1U",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "G3U",
+              "from": 2013,
+              "to": 2013
+            },
+            {
+              "code": "H3Q",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "H5Q",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "J8U",
+              "from": 2014,
+              "to": 2014
+            }
+          ]
         },
         {
           "name": "3g",
