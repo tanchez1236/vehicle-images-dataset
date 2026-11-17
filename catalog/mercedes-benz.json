@@ -1,0 +1,6703 @@
+{
+  "make": "mercedes-benz",
+  "colors": {
+    "040": {
+      "slug": "black-bumper-175-175-90-700-9120",
+      "name": "Black (Bumper =175-175/90-700-9120)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "143": {
+      "slug": "firmweiss-bumper-201-93-9618",
+      "name": "Firmweiss ( Bumper= 201/93-9618)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "153": {
+      "slug": "schneeweiss",
+      "name": "Schneeweiss",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "160": {
+      "slug": "tropenschwarz-metallic",
+      "name": "Tropenschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1623": {
+      "slug": "hellelfenbein",
+      "name": "Hellelfenbein",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "189": {
+      "slug": "smaragd-black-metallic-bumper-204-122-96",
+      "name": "Smaragd Black Metallic(Bumper=204-122/96)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "195": {
+      "slug": "meteorgrau-metallic",
+      "name": "Meteorgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "197": {
+      "slug": "obsidianschwarz-metallic-bumper-9178-7221",
+      "name": "Obsidianschwarz Metallic (Bumper=9178-7221)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "257": {
+      "slug": "circongrun-metallic-bumper-6332",
+      "name": "Circongrun Metallic (Bumper=6332)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "260": {
+      "slug": "oasengruen",
+      "name": "Oasengruen",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "272": {
+      "slug": "amazonitgruen-metallic",
+      "name": "Amazonitgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "282": {
+      "slug": "dschungelgrun-metallic",
+      "name": "Dschungelgrun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "342": {
+      "slug": "pacificblau-metallic",
+      "name": "Pacificblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "345": {
+      "slug": "jaspisblau-metallic-bumper-5223",
+      "name": "Jaspisblau Metallic (Bumper=5223)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3544": {
+      "slug": "carneolrot-metallic",
+      "name": "Carneolrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3589": {
+      "slug": "jupiterrot-uni",
+      "name": "Jupiterrot Uni",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "359": {
+      "slug": "tansanitblau-metallic-bumper-5253",
+      "name": "Tansanitblau Metallic (Bumper=5253)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3597": {
+      "slug": "saturnrot-metallic",
+      "name": "Saturnrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "366": {
+      "slug": "azur-blue-metallic-bumper-205",
+      "name": "Azur Blue Metallic (Bumper= 205)",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "370": {
+      "slug": "novaviolett-metallic",
+      "name": "Novaviolett Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "375": {
+      "slug": "atollblau-metallic",
+      "name": "Atollblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "377": {
+      "slug": "ozeanblau-effect",
+      "name": "Ozeanblau Effect",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "381": {
+      "slug": "floraviolett",
+      "name": "Floraviolett",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "483": {
+      "slug": "vulkanorot-mica-metallic",
+      "name": "Vulkanorot Mica Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "589": {
+      "slug": "jupiterrot-uni-2",
+      "name": "Jupiterrot Uni",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "594": {
+      "slug": "glutrot",
+      "name": "Glutrot",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "696": {
+      "slug": "nachtschwarz",
+      "name": "Nachtschwarz",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "706": {
+      "slug": "mondsilber-metallic",
+      "name": "Mondsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "744": {
+      "slug": "brillantsilber-m-color-bumper-mercedes-181-9",
+      "name": "Brillantsilber M.(Color Bumper=Mercedes 181/9",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "748": {
+      "slug": "kometgrau-metallic",
+      "name": "Kometgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "761": {
+      "slug": "polarsilber-metallic",
+      "name": "Polarsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "801": {
+      "slug": "mangrovengruen-metallic",
+      "name": "Mangrovengruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "810": {
+      "slug": "lagunengruen-metallic",
+      "name": "Lagunengruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "933": {
+      "slug": "tiefseblau-metallic",
+      "name": "Tiefseblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "949": {
+      "slug": "kaskadenblau",
+      "name": "Kaskadenblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "960": {
+      "slug": "alabasterweiss-bumper-7387",
+      "name": "Alabasterweiss (Bumper=7387)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0033": {
+      "slug": "designo-moccaschwarz-metallic",
+      "name": "Designo Moccaschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0044": {
+      "slug": "designo-alanitgrau-metallic",
+      "name": "Designo Alanitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "033": {
+      "slug": "designo-moccaschwarz-metallic-2",
+      "name": "Designo Moccaschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "162": {
+      "slug": "sudseeblau-metallic",
+      "name": "Sudseeblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "170": {
+      "slug": "columbit-black-metallic",
+      "name": "Columbit Black Metallic",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "1895": {
+      "slug": "canyonbeige-metallic",
+      "name": "Canyonbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "191": {
+      "slug": "kosmosschwarz-metallic",
+      "name": "Kosmosschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "300": {
+      "slug": "periklasgruen-metallic",
+      "name": "Periklasgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "391": {
+      "slug": "horizontblau-metallic",
+      "name": "Horizontblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "492": {
+      "slug": "rutilbraun-metallic",
+      "name": "Rutilbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "544": {
+      "slug": "carneolrot-metallic-2",
+      "name": "Carneolrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5894": {
+      "slug": "universumblau-metallic",
+      "name": "Universumblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "597": {
+      "slug": "saturnrot-metallic-2",
+      "name": "Saturnrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "623": {
+      "slug": "elfenbein-taxi-bumper-611-631-658-91",
+      "name": "Elfenbein-Taxi ( Bumper=611-631-658/91)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "650": {
+      "slug": "calcitweiss-zirrusweiss",
+      "name": "Calcitweiss/Zirrusweiss",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "662": {
+      "slug": "mountaingrau-magno-matte-metallic",
+      "name": "Mountaingrau Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7787": {
+      "slug": "mountaingrau-metallic",
+      "name": "Mountaingrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "783": {
+      "slug": "riffsilber-metallic",
+      "name": "Riffsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "787": {
+      "slug": "mountaingrau-metallic-2",
+      "name": "Mountaingrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7893": {
+      "slug": "monolithgrau-metallic",
+      "name": "Monolithgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "791": {
+      "slug": "duenenbeige-metallic",
+      "name": "Duenenbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "955": {
+      "slug": "mistralblau-metallic",
+      "name": "Mistralblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "958": {
+      "slug": "quellblau-metallic",
+      "name": "Quellblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "149": {
+      "slug": "white-bumper-mercedes-201-93-mercedes-9616",
+      "name": "White (Bumper=Mercedes 201/93 - Mercedes 9616",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "175": {
+      "slug": "gray-matte-metallic-bumper-for-mercedes-040-199-31",
+      "name": "Gray Matte Metallic (Bumper For Mercedes 040/199/31",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "271": {
+      "slug": "citrinbraun-matte-metallic",
+      "name": "Citrinbraun Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3993": {
+      "slug": "patagonienrot-metallic",
+      "name": "Patagonienrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3996": {
+      "slug": "hyazinthrot-metallic",
+      "name": "Hyazinthrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "4592": {
+      "slug": "nordlichtviolett-metallic",
+      "name": "Nordlichtviolett Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5890": {
+      "slug": "cavansitblau-met",
+      "name": "Cavansitblau Met",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "667": {
+      "slug": "denimblau-metallic",
+      "name": "Denimblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "723": {
+      "slug": "cubanitsilber-metallic",
+      "name": "Cubanitsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "755": {
+      "slug": "tenoritgrau-metallic",
+      "name": "Tenoritgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7662": {
+      "slug": "mountaingrau-magno-matte-metallic-2",
+      "name": "Mountaingrau Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "775": {
+      "slug": "iridiumsilber-metallic",
+      "name": "Iridiumsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "8990": {
+      "slug": "orientbraun-metallic",
+      "name": "Orientbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "914": {
+      "slug": "sonnengelb",
+      "name": "Sonnengelb",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9144": {
+      "slug": "mondstein-silver-digital-white-pearl",
+      "name": "Mondstein Silver/Digital White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "9149": {
+      "slug": "polar-white-mercedes-149",
+      "name": "Polar White (Mercedes 149)",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "9191": {
+      "slug": "kosmosschwarz-metallic-2",
+      "name": "Kosmosschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9696": {
+      "slug": "nachtschwarz-2",
+      "name": "Nachtschwarz",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9775": {
+      "slug": "iridiumsilber-metallic-2",
+      "name": "Iridiumsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9859": {
+      "slug": "mojavesilber-metallic",
+      "name": "Mojavesilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "988": {
+      "slug": "diamantsilber-metallic",
+      "name": "Diamantsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "991": {
+      "slug": "polarsilber-magno-mat-metallic",
+      "name": "Polarsilber Magno Mat Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "817": {
+      "slug": "rosegold-metallic",
+      "name": "Rosegold Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "859": {
+      "slug": "mojavesilber-metallic-2",
+      "name": "Mojavesilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9922": {
+      "slug": "hightech-silver-metallic",
+      "name": "Hightech Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "993": {
+      "slug": "patagonienrot-metallic-2",
+      "name": "Patagonienrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "BU0629": {
+      "slug": "titansilber-metallic-rims",
+      "name": "Titansilber Metallic (Rims)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "015": {
+      "slug": "samtrot-perleff",
+      "name": "Samtrot Perleff.",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "017": {
+      "slug": "designo-varicolor-pearl-metallic",
+      "name": "Designo Varicolor Pearl Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "020": {
+      "slug": "designo-topaz-orange-metallic",
+      "name": "Designo Topaz Orange Metallic",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "025": {
+      "slug": "designo-brillantschwarz-metallic",
+      "name": "Designo Brillantschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "029": {
+      "slug": "designo-silver-metallic",
+      "name": "Designo Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "147": {
+      "slug": "artikweiss-p-rti-738-738-90-477-477-90",
+      "name": "Artikweiss (P.Rti=738-738/90-477-477/90)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "172": {
+      "slug": "antrazit-metallic-bumper-176-176-90",
+      "name": "Antrazit Metallic (Bumper=176-176/90)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "199": {
+      "slug": "blueschwarz-m-bumper-175-175-90-700-9198",
+      "name": "Blueschwarz M.(Bumper=175-175/90-700-9198)",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "249": {
+      "slug": "grun-metallic-bumper-211-211-90-304-856-91",
+      "name": "Grun Metallic (Bumper= 211-211/90-304-856/91)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "269": {
+      "slug": "avant-garde-green-mica-bumper-303-864",
+      "name": "Avant Garde Green Mica(Bumper=303-864)",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "279": {
+      "slug": "vivianitgruen-m-bumper-6306-6312",
+      "name": "Vivianitgruen M.( Bumper=6306 -6312)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "339": {
+      "slug": "royal-indigo-metallic-bumper-4343",
+      "name": "Royal Indigo Metallic (Bumper= 4343)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "341": {
+      "slug": "aquamarinblau-metallic-bumper-251-208",
+      "name": "Aquamarinblau Metallic( Bumper= 251 - 208",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "348": {
+      "slug": "perlblau-metallic-bumper-301-301-90-206",
+      "name": "Perlblau Metallic (Bumper= 301-301/90-206)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3512": {
+      "slug": "almandinrot-metallic-mercedes-512",
+      "name": "Almandinrot Metallic (Mercedes 512)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "475": {
+      "slug": "brown-m-bumper-477-477-90-414-90-482-90",
+      "name": "Brown M.(Bumper=477-477/90-414/90-482/90)",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "481": {
+      "slug": "bornitbraun-metallic-bumper-166-91-8448",
+      "name": "Bornitbraun Metallic(Bumper=166/91 -8448)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "485": {
+      "slug": "rosenholz-m-bumper-414-90-464-477-90-477",
+      "name": "Rosenholz M.(Bumper=414/90-464-477/90-477)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "512": {
+      "slug": "almadinrot-m-bumper-521-521-90-522",
+      "name": "Almadinrot M.(Bumper=521-521/90-522)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5341": {
+      "slug": "aquamarinblau-metallic-mercedes-341",
+      "name": "Aquamarinblau Metallic (Mercedes 341)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5348": {
+      "slug": "perlblau-m-bumper-301-301-90-206-pag-817-ma",
+      "name": "Perlblau M.(Bumper=301-301/90-206) (Pag.817/Ma",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5366": {
+      "slug": "azur-blue-metallic-bumper-205-2",
+      "name": "Azur Blue Metallic (Bumper= 205)",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "567": {
+      "slug": "lassurrot-metallic",
+      "name": "Lassurrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "572": {
+      "slug": "red-metallic-bumper-518-549",
+      "name": "Red Metallic (Bumper= 518-549)",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "574": {
+      "slug": "spinellrot-colore-bumper-3442",
+      "name": "Spinellrot ( Colore Bumper = 3442)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "582": {
+      "slug": "imperialrot-bumper-mercedes-524-533",
+      "name": "Imperialrot (Bumper = Mercedes 524-533)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "586": {
+      "slug": "magmarot-bumper-3529",
+      "name": "Magmarot ( Bumper=3529)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5904": {
+      "slug": "dunkelblau-bumper-214-309-309-90-944",
+      "name": "Dunkelblau (Bumper = 214-309-309/90-944)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6249": {
+      "slug": "grun-metallic-bumper-211-211-90-304-856-91-2",
+      "name": "Grun Metallic (Bumper= 211-211/90-304-856/91",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6269": {
+      "slug": "avant-garde-green-mica-bumper-303-864-2",
+      "name": "Avant Garde Green Mica(Bumper=303-864)",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "6279": {
+      "slug": "vivianitgruen-m-bumper-6306-6312-2",
+      "name": "Vivianitgruen M.( Bumper=6306 -6312)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6830": {
+      "slug": "aquagruen-mercedes-830",
+      "name": "Aquagruen (Mercedes 830)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "685": {
+      "slug": "yellowstone-sunburst-yellow",
+      "name": "Yellowstone/Sunburst Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "691": {
+      "slug": "lightgelb",
+      "name": "Lightgelb",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "693": {
+      "slug": "travertinbeige-metallic-bumper-1433-1454",
+      "name": "Travertinbeige Metallic (Bumper=1433-1454)",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "702": {
+      "slug": "rauchsilber-metallic-bumper-mercedes-176-90",
+      "name": "Rauchsilber Metallic (Bumper=Mercedes 176/90)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7172": {
+      "slug": "dunkelantrazit-metallic-bumper-for-mercedes-88",
+      "name": "Dunkelantrazit Metallic (Bumper For Mercedes 88",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "721": {
+      "slug": "onixgrau-mica-metallic-bumper-202-209",
+      "name": "Onixgrau Mica Metallic (Bumper=202-209)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "753": {
+      "slug": "tektitgrau-metallic-bumper-7229",
+      "name": "Tektitgrau Metallic (Bumper=7229)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7702": {
+      "slug": "rauchsilber-metallic-bumper-mercedes-176",
+      "name": "Rauchsilber Metallic(Bumper =Mercedes 176",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7721": {
+      "slug": "onixgrau-mica-metallic-colo-bumper-202-209",
+      "name": "Onixgrau Mica Metallic(Colo.Bumper=202-209)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "814": {
+      "slug": "mineral-green-metallic-bumper-6313",
+      "name": "Mineral Green Metallic (Bumper=6313)",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "830": {
+      "slug": "aquagruen-bumper-6318",
+      "name": "Aquagruen (Bumper=6318)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "8475": {
+      "slug": "brown-m-bumper-477-477-90-414-90-482-90-2",
+      "name": "Brown M.(Bumper=477-477/90-414/90-482/90)",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "8481": {
+      "slug": "bornitbraun-metallic-bumper-166-91-8448-2",
+      "name": "Bornitbraun Metallic(Bumper=166/91 -8448)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "8485": {
+      "slug": "rosenholz-m-bumper-414-90-464-477-90-477-2",
+      "name": "Rosenholz M.(Bumper=414/90-464-477/90-477)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "888": {
+      "slug": "beryllgruen-metallic-bumper-250-308",
+      "name": "Beryllgruen Metallic( Bumper =250-308)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "891": {
+      "slug": "alexandritgruen-metallic-bumper-6301-6217",
+      "name": "Alexandritgruen Metallic (Bumper=6301-6217)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "904": {
+      "slug": "dunkelblau-bumper-214-309-309-90-944-2",
+      "name": "Dunkelblau (Bumper = 214-309-309/90-944)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9040": {
+      "slug": "black",
+      "name": "Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "9189": {
+      "slug": "smaragd-black-metallic-bumper-204-122-96-2",
+      "name": "Smaragd Black Metallic(Bumper=204-122/96)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "9199": {
+      "slug": "blueschwarz-m-bumper-175-175-90-700-9198-2",
+      "name": "Blueschwarz M.(Bumper=175-175/90-700-9198",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "929": {
+      "slug": "nautikblau-metallic-bumper-mercedes-301-944",
+      "name": "Nautikblau Metallic (Bumper=Mercedes 301-944)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "935": {
+      "slug": "quarzblau-metallic-bumper-5224",
+      "name": "Quarzblau Metallic ( Bumper = 5224)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "941": {
+      "slug": "argonitblau-metallic-bumper-5267",
+      "name": "Argonitblau Metallic (Bumper=5267)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "945": {
+      "slug": "lapisblau-bumper-7167",
+      "name": "Lapisblau (Bumper=7167)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9744": {
+      "slug": "brillantsilber-m-color-bumper-181-91-714",
+      "name": "Brillantsilber M.(Color Bumper=181/91-714)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0032": {
+      "slug": "designo-mysticblau-metallic",
+      "name": "Designo Mysticblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0041": {
+      "slug": "designo-graphitgruen-metallic",
+      "name": "Designo Graphitgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0052": {
+      "slug": "designo-magno-mistycbraun-metallic",
+      "name": "Designo Magno Mistycbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "022": {
+      "slug": "designo-brownschwarz-metallic",
+      "name": "Designo Brownschwarz Metallic",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "023": {
+      "slug": "designo-varicolor-metallic",
+      "name": "Designo Varicolor Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "031": {
+      "slug": "designo-chromaflair-metallic",
+      "name": "Designo Chromaflair Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "032": {
+      "slug": "designo-mysticblau-metallic-2",
+      "name": "Designo Mysticblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "034": {
+      "slug": "designo-varicolor-3-metallic",
+      "name": "Designo Varicolor 3 Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "036": {
+      "slug": "designo-varicolor-4-metallic",
+      "name": "Designo Varicolor 4 Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "037": {
+      "slug": "designo-mysticrot-met",
+      "name": "Designo Mysticrot Met",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "039": {
+      "slug": "designo-mauritiusblau-metallic",
+      "name": "Designo Mauritiusblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "042": {
+      "slug": "designo-havanna-brown-met",
+      "name": "Designo Havanna/Brown Met",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "043": {
+      "slug": "designo-chablis-beige-metallic",
+      "name": "Designo Chablis/Beige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "1798": {
+      "slug": "sanidinbeige-metallic",
+      "name": "Sanidinbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "182": {
+      "slug": "almandinschwarz-metallic",
+      "name": "Almandinschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "298": {
+      "slug": "labradoritgruen-metallic",
+      "name": "Labradoritgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "347": {
+      "slug": "chalcedonblau-metallic",
+      "name": "Chalcedonblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3590": {
+      "slug": "feueropal-red",
+      "name": "Feueropal (Red)",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "487": {
+      "slug": "aventurinorange-mica-metallic",
+      "name": "Aventurinorange Mica Metallic",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "584": {
+      "slug": "pyroprot-pearlmetallic-bumper-700-90",
+      "name": "Pyroprot PearlMetallic (Bumper=700/90)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "590": {
+      "slug": "feueropal-red-2",
+      "name": "Feueropal (Red)",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "747": {
+      "slug": "perlitgrau-metallic",
+      "name": "Perlitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "768": {
+      "slug": "diamantschwarz-blue-metallic",
+      "name": "Diamantschwarz (Blue) Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "792": {
+      "slug": "palladiumsilber-metallic",
+      "name": "Palladiumsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "800": {
+      "slug": "heliodorgruen-metallic",
+      "name": "Heliodorgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "816": {
+      "slug": "andraditgruen-metallic-bumper-6330",
+      "name": "Andraditgruen Metallic(Bumper=6330)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "994": {
+      "slug": "amethystviolett-mica",
+      "name": "Amethystviolett Mica",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0048": {
+      "slug": "designo-mysticweiss-metallic",
+      "name": "Designo Mysticweiss Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0051": {
+      "slug": "designo-magno-platin-metallic",
+      "name": "Designo Magno Platin Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0056": {
+      "slug": "designo-magno-nachtschwarz-matte-metallic",
+      "name": "Designo Magno Nachtschwarz Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "041": {
+      "slug": "designo-graphitgruen-metallic-2",
+      "name": "Designo Graphitgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "044": {
+      "slug": "designo-alanitgrau-metallic-2",
+      "name": "Designo Alanitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "048": {
+      "slug": "designo-mysticweiss-pearl",
+      "name": "Designo Mysticweiss Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "049": {
+      "slug": "designo-magno-kaschmirweiss-matte-metallic",
+      "name": "Designo Magno Kaschmirweiss Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "055": {
+      "slug": "designo-magno-gletschergrau-mat-metallic",
+      "name": "Designo Magno Gletschergrau Mat Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "112": {
+      "slug": "chromitschwarz-metallic",
+      "name": "Chromitschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1794": {
+      "slug": "perlbeige-metallic",
+      "name": "Perlbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "183": {
+      "slug": "magnetitschwarz-metallic",
+      "name": "Magnetitschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "228": {
+      "slug": "cornetitblau-metallic",
+      "name": "Cornetitblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "368": {
+      "slug": "flintgrau-saphire-blue-metallic",
+      "name": "Flintgrau/Saphire Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "497": {
+      "slug": "cupritbraun-metallic",
+      "name": "Cupritbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "541": {
+      "slug": "thulitrot-metallic",
+      "name": "Thulitrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "548": {
+      "slug": "bernstein-red-metallic",
+      "name": "Bernstein Red Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "5896": {
+      "slug": "brillantblau-metallic",
+      "name": "Brillantblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "779": {
+      "slug": "alabandin-diopsidgruen-metallic",
+      "name": "Alabandin/Diopsidgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "786": {
+      "slug": "stannitgrau-metallic",
+      "name": "Stannitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "794": {
+      "slug": "perlbeige-metallic-2",
+      "name": "Perlbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "795": {
+      "slug": "magno-manganitgrau-met",
+      "name": "Magno Manganitgrau Met",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "796": {
+      "slug": "citrinbraun-metallic",
+      "name": "Citrinbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "798": {
+      "slug": "sanidinbeige-metallic-2",
+      "name": "Sanidinbeige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "799": {
+      "slug": "diamantweiss-pearl",
+      "name": "Diamantweiss Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "890": {
+      "slug": "cavansitblau-metallic",
+      "name": "Cavansitblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "963": {
+      "slug": "indiumgrau-metallic",
+      "name": "Indiumgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "SVO": {
+      "slug": "mary-kay-pink-metallic",
+      "name": "Mary Kay Pink Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "0040": {
+      "slug": "black-bumper-175-175-90-700-9120-2",
+      "name": "Black (Bumper =175-175/90-700-9120)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "0049": {
+      "slug": "designo-magno-kaschmirweiss-matte-metallic-2",
+      "name": "Designo Magno Kaschmirweiss Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "052": {
+      "slug": "designo-magno-mistycbraun-metallic-2",
+      "name": "Designo Magno Mistycbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "056": {
+      "slug": "designo-magno-nachtschwarz-matte-metallic-2",
+      "name": "Designo Magno Nachtschwarz Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "297": {
+      "slug": "selenitgrau-matte-metallic",
+      "name": "Selenitgrau Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "40": {
+      "slug": "black-bumper-175-175-90-700-9120-3",
+      "name": "Black (Bumper =175-175/90-700-9120)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "51": {
+      "slug": "designo-magno-platin-metallic-2",
+      "name": "Designo Magno Platin Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5970": {
+      "slug": "spektralblau-metallic",
+      "name": "Spektralblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6989": {
+      "slug": "smaragdgrun-metallic",
+      "name": "Smaragdgrun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7297": {
+      "slug": "selenitgrau-matte-metallic-2",
+      "name": "Selenitgrau Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7786": {
+      "slug": "stannitgrau-metallic-2",
+      "name": "Stannitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7992": {
+      "slug": "selenitgrau-metallic",
+      "name": "Selenitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "818": {
+      "slug": "graphitgrau-magno-matte-metallic",
+      "name": "Graphitgrau Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "831": {
+      "slug": "graphitgrau-pearl",
+      "name": "Graphitgrau Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "896": {
+      "slug": "brillantblau-metallic-2",
+      "name": "Brillantblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9197": {
+      "slug": "obsidianschwarz-metallic-bumper-9178-7221-2",
+      "name": "Obsidianschwarz Metallic (Bumper=9178-7221",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9799": {
+      "slug": "diamantweiss-pearl-2",
+      "name": "Diamantweiss Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "982": {
+      "slug": "iridiumsilber-magno-matte-metallic",
+      "name": "Iridiumsilber Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9885": {
+      "slug": "opalithweiss-pearl",
+      "name": "Opalithweiss Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "989": {
+      "slug": "smaragdgrun-metallic-2",
+      "name": "Smaragdgrun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "992": {
+      "slug": "selenitgrau-metallic-2",
+      "name": "Selenitgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "996": {
+      "slug": "hyazinthrot-metallic-2",
+      "name": "Hyazinthrot Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9982": {
+      "slug": "iridiumsilber-magno-matte-metallic-2",
+      "name": "Iridiumsilber Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "842": {
+      "slug": "sodalithblau-pearl",
+      "name": "Sodalithblau Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "885": {
+      "slug": "opalithweiss-pearl-2",
+      "name": "Opalithweiss Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "956": {
+      "slug": "alpingrau",
+      "name": "Alpingrau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3582": {
+      "slug": "imperialred",
+      "name": "Imperialred",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "5929": {
+      "slug": "nautikblau-metallic-bumper-mercedes-301-944-2",
+      "name": "Nautikblau Metallic (Bumper=Mercedes 301-944)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6888": {
+      "slug": "beryllgruen-metallic-bumper-250-308-2",
+      "name": "Beryllgruen Metallic( Bumper =250-308)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9702": {
+      "slug": "rauchsilber-metallic-bumper-mercedes-176-2",
+      "name": "Rauchsilber Metallic(Bumper =Mercedes 176",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "185": {
+      "slug": "melanitschwarz-metallic",
+      "name": "Melanitschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "252": {
+      "slug": "designo-edison-green-metallic",
+      "name": "Designo Edison Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "353": {
+      "slug": "hell-blue-met",
+      "name": "Hell Blue Met",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "3572": {
+      "slug": "red-metallic-mercedes-572",
+      "name": "Red Metallic (Mercedes 572)",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "4339": {
+      "slug": "royal-indigo-metallic-bumper-4343-2",
+      "name": "Royal Indigo Metallic (Bumper= 4343",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "478": {
+      "slug": "designo-brown-metallic",
+      "name": "Designo Brown Metallic",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "6272": {
+      "slug": "amazonitgruen-metallic-2",
+      "name": "Amazonitgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6891": {
+      "slug": "alexandritgruen-metallic-bumper-6301-6217-2",
+      "name": "Alexandritgruen Metallic (Bumper=6301-6217",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "735": {
+      "slug": "astral-silver-m-bumper-177-177-90",
+      "name": "Astral Silver M.(Bumper=177-177/90)",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "038": {
+      "slug": "designo-mysticweiss-perlweiss-metallic",
+      "name": "Designo Mysticweiss/Perlweiss Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "296": {
+      "slug": "aragonitsilver-met",
+      "name": "Aragonitsilver Met",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "346": {
+      "slug": "onyxschwarz-metallic",
+      "name": "Onyxschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5585": {
+      "slug": "covellinblau-met",
+      "name": "Covellinblau Met",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5997": {
+      "slug": "kallaitblau",
+      "name": "Kallaitblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "161": {
+      "slug": "black-bumper-175-175-90-700-9120-4",
+      "name": "Black (Bumper =175-175/90-700-9120)",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "5644": {
+      "slug": "brillantblau-magno-matte-metallic",
+      "name": "Brillantblau Magno Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "595": {
+      "slug": "nautikblau-pearl",
+      "name": "Nautikblau Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "660": {
+      "slug": "rubellitrot-pearl",
+      "name": "Rubellitrot Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7258": {
+      "slug": "himalayas-grey-middle-matte-metallic-rims",
+      "name": "Himalayas Grey Middle Matte Metallic (Rims)",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "9788": {
+      "slug": "vanadiumsilber-metallic",
+      "name": "Vanadiumsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "BU0662": {
+      "slug": "tremolit-metallic-rims",
+      "name": "Tremolit Metallic (Rims)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "188": {
+      "slug": "verde-silver-pearl",
+      "name": "Verde Silver Pearl",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "771": {
+      "slug": "samtbraun-metallic",
+      "name": "Samtbraun Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9792": {
+      "slug": "palladiumsilber-metallic-2",
+      "name": "Palladiumsilber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1239": {
+      "slug": "verkehrsgelb-pag-369-maz-1",
+      "name": "Verkehrsgelb (Pag.369/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1241": {
+      "slug": "ravennagelb-pag-369-maz-1",
+      "name": "Ravennagelb (Pag.369/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1243": {
+      "slug": "calcitgelb-pag-369-maz-1",
+      "name": "Calcitgelb (Pag.369/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "154": {
+      "slug": "carbonschwarz-metallic",
+      "name": "Carbonschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1625": {
+      "slug": "strassengelb-pag-394-maz-2",
+      "name": "Strassengelb (Pag.394/Maz.2)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "1656": {
+      "slug": "elfenbein-ral-1014",
+      "name": "Elfenbein(Ral 1014)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "243": {
+      "slug": "calcitgelb-mercedes-1243",
+      "name": "Calcitgelb (Mercedes 1243)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "2603": {
+      "slug": "orange-unimog-truck",
+      "name": "Orange--Unimog (Truck)",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "3534": {
+      "slug": "feuerrot-pag-354-vol-3",
+      "name": "Feuerrot (Pag.354/Vol.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3548": {
+      "slug": "bernstein-red-metallic-mercedes-548",
+      "name": "Bernstein Red Metallic (Mercedes 548)",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "3583": {
+      "slug": "velvetrot",
+      "name": "Velvetrot",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3636": {
+      "slug": "rosso-piemonte-pag-369-maz-1",
+      "name": "Rosso Piemonte (Pag.369/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "3967": {
+      "slug": "hibiskusrot",
+      "name": "Hibiskusrot",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "474": {
+      "slug": "titanitgruen-metallic",
+      "name": "Titanitgruen Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5318": {
+      "slug": "ultramarineblau",
+      "name": "Ultramarineblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5376": {
+      "slug": "hyazinthblau-pag-370-maz-1",
+      "name": "Hyazinthblau (Pag.370/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5389": {
+      "slug": "stahlblau",
+      "name": "Stahlblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5515": {
+      "slug": "himmelblau-5515-truck-pag-335-vol-3",
+      "name": "Himmelblau 5515 (Truck) (Pag.335/Vol.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "555": {
+      "slug": "zirkonblau-metallic-mercedes-5555",
+      "name": "Zirkonblau Metallic (Mercedes 5555)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5856": {
+      "slug": "tuerkisgruen-pag-335-vol-3",
+      "name": "Tuerkisgruen (Pag.335/Vol.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6235": {
+      "slug": "heathgruen-pag-396-maz-2",
+      "name": "Heathgruen (Pag.396/Maz.2)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "6464": {
+      "slug": "orchidgruen-pag-370-maz-1",
+      "name": "Orchidgruen (Pag.370/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7351": {
+      "slug": "sockelgrau",
+      "name": "Sockelgrau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7708": {
+      "slug": "silvergrau",
+      "name": "Silvergrau",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "856": {
+      "slug": "tuerkisgruen-pag-335-vol-3-2",
+      "name": "Tuerkisgruen (Pag.335/Vol.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9147": {
+      "slug": "artikweiss-pag-355-vol-3",
+      "name": "Artikweiss (Pag.355/Vol.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9215": {
+      "slug": "blanc-alaska-pag-370-maz-1",
+      "name": "Blanc Alaska (Pag.370/Maz.1)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "957": {
+      "slug": "vandablau",
+      "name": "Vandablau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "103": {
+      "slug": "blackgrau",
+      "name": "Blackgrau",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "224": {
+      "slug": "graphitgrau",
+      "name": "Graphitgrau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "372": {
+      "slug": "lazulithblau-metallic",
+      "name": "Lazulithblau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "373": {
+      "slug": "atlantisblau",
+      "name": "Atlantisblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "389": {
+      "slug": "stahlblau-2",
+      "name": "Stahlblau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "410": {
+      "slug": "ups-brown-erdbraun-pag-819-maz-3",
+      "name": "Ups Brown/Erdbraun (Pag.819/Maz.3)",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "432": {
+      "slug": "bisonbraun-metallic-bumper-477-477-90",
+      "name": "Bisonbraun Metallic( Bumper=477-477/90)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "583": {
+      "slug": "velvetrot-2",
+      "name": "Velvetrot",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5957": {
+      "slug": "vandablau-2",
+      "name": "Vandablau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "635": {
+      "slug": "red-2000",
+      "name": "Red 2000",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "708": {
+      "slug": "silvergrau-2",
+      "name": "Silvergrau",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "759": {
+      "slug": "graphite-metallic",
+      "name": "Graphite Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "764": {
+      "slug": "perlsilber-metallic-v-i-pag-820-maz-3",
+      "name": "Perlsilber Metallic (V.I) (Pag.820/Maz.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7701": {
+      "slug": "kieselgrau",
+      "name": "Kieselgrau",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7755": {
+      "slug": "tenoritgrau-metallic-2",
+      "name": "Tenoritgrau Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9154": {
+      "slug": "carbonschwarz-metallic-2",
+      "name": "Carbonschwarz Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "9764": {
+      "slug": "perlsilber-metallic-v-i-pag-820-maz-3-2",
+      "name": "Perlsilber Metallic (V.I) (Pag.820/Maz.3)",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "7709": {
+      "slug": "bluegrau-maschinengrau-truck",
+      "name": "Bluegrau/Maschinengrau (Truck)",
+      "hex": "#234073",
+      "aliases": []
+    }
+  },
+  "models": [
+    {
+      "name": "a-class",
+      "display_name": "A-Class",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "A-Class"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1997,
+            "to": 2004
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "143",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "153",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "160",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "1623",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "189",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "195",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "197",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "257",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "260",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "272",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "282",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "342",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "345",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "3544",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "3589",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "359",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "3597",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "366",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "370",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "375",
+              "from": 2000,
+              "to": 2004
+            },
+            {
+              "code": "377",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "381",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "483",
+              "from": 1997,
+              "to": 2004
+            },
+            {
+              "code": "589",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "594",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "696",
+              "from": 2000,
+              "to": 2004
+            },
+            {
+              "code": "706",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "744",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "748",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "761",
+              "from": 2000,
+              "to": 2004
+            },
+            {
+              "code": "801",
+              "from": 2001,
+              "to": 2004
+            },
+            {
+              "code": "810",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "933",
+              "from": 1998,
+              "to": 2004
+            },
+            {
+              "code": "949",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "960",
+              "from": 2003,
+              "to": 2003
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2004,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "0033",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "0044",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "033",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "153",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "160",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "162",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "1623",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "170",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "1895",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "191",
+              "from": 2005,
+              "to": 2012
+            },
+            {
+              "code": "195",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "300",
+              "from": 2006,
+              "to": 2012
+            },
+            {
+              "code": "342",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "345",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "3544",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "3589",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "359",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "3597",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "375",
+              "from": 2004,
+              "to": 2008
+            },
+            {
+              "code": "377",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "391",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "483",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "492",
+              "from": 2006,
+              "to": 2008
+            },
+            {
+              "code": "544",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "589",
+              "from": 2005,
+              "to": 2011
+            },
+            {
+              "code": "5894",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "594",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "597",
+              "from": 2006,
+              "to": 2011
+            },
+            {
+              "code": "623",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "650",
+              "from": 2006,
+              "to": 2012
+            },
+            {
+              "code": "662",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "696",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "744",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "748",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "761",
+              "from": 2004,
+              "to": 2012
+            },
+            {
+              "code": "7787",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "783",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "787",
+              "from": 2008,
+              "to": 2011
+            },
+            {
+              "code": "7893",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "791",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "801",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "933",
+              "from": 2004,
+              "to": 2004
+            },
+            {
+              "code": "955",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "958",
+              "from": 2007,
+              "to": 2007
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2012,
+            "to": 2018
+          },
+          "colors": [
+            {
+              "code": "0033",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "0044",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "033",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "149",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "162",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "1623",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "175",
+              "from": 2016,
+              "to": 2016
+            },
+            {
+              "code": "1895",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "191",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "197",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "271",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "300",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "3589",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "359",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "3993",
+              "from": 2013,
+              "to": 2017
+            },
+            {
+              "code": "3996",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "4592",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "492",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "544",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "589",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "5890",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "5894",
+              "from": 2012,
+              "to": 2016
+            },
+            {
+              "code": "623",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "650",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "662",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "667",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "696",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "723",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "744",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "748",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "755",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "761",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "7662",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "775",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "7787",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "787",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "7893",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "8990",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "914",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9144",
+              "from": 2017,
+              "to": 2018
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9191",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9696",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9859",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "988",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "991",
+              "from": 2013,
+              "to": 2017
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2018,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "149",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "191",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "589",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "662",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "667",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "696",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "7662",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "775",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "787",
+              "from": 2018,
+              "to": 2026
+            },
+            {
+              "code": "817",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "859",
+              "from": 2019,
+              "to": 2020
+            },
+            {
+              "code": "914",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9144",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9191",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9696",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9859",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9922",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "993",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "BU0629",
+              "from": 2019,
+              "to": 2019
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "c-class",
+      "display_name": "C-Class",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "C-Class"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1993,
+            "to": 2000
+          },
+          "colors": [
+            {
+              "code": "015",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "017",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "020",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "025",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "029",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "040",
+              "from": 1994,
+              "to": 2000
+            },
+            {
+              "code": "143",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "147",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "149",
+              "from": 1994,
+              "to": 1998
+            },
+            {
+              "code": "172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "189",
+              "from": 1996,
+              "to": 2000
+            },
+            {
+              "code": "197",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "199",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "249",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "269",
+              "from": 1994,
+              "to": 1998
+            },
+            {
+              "code": "272",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "279",
+              "from": 1997,
+              "to": 2000
+            },
+            {
+              "code": "339",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "341",
+              "from": 1997,
+              "to": 2000
+            },
+            {
+              "code": "348",
+              "from": 1994,
+              "to": 1998
+            },
+            {
+              "code": "3512",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "359",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "366",
+              "from": 1994,
+              "to": 2000
+            },
+            {
+              "code": "475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "481",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "485",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "512",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "5341",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "5348",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "5366",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "567",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "572",
+              "from": 1996,
+              "to": 1998
+            },
+            {
+              "code": "574",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "582",
+              "from": 1994,
+              "to": 1998
+            },
+            {
+              "code": "586",
+              "from": 1999,
+              "to": 2000
+            },
+            {
+              "code": "5904",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "594",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "6249",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "6269",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "6279",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "6830",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "685",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "691",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "693",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "702",
+              "from": 1994,
+              "to": 1999
+            },
+            {
+              "code": "7172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "721",
+              "from": 1994,
+              "to": 1999
+            },
+            {
+              "code": "744",
+              "from": 1994,
+              "to": 2000
+            },
+            {
+              "code": "753",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "7702",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "7721",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "814",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "830",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "8475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "8481",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "8485",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "888",
+              "from": 1994,
+              "to": 1996
+            },
+            {
+              "code": "891",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "904",
+              "from": 1994,
+              "to": 2000
+            },
+            {
+              "code": "9040",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "9149",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "9189",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "9199",
+              "from": 1994,
+              "to": 1997
+            },
+            {
+              "code": "929",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "935",
+              "from": 1998,
+              "to": 2000
+            },
+            {
+              "code": "941",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "945",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "9744",
+              "from": 1994,
+              "to": 1997
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2000,
+            "to": 2007
+          },
+          "colors": [
+            {
+              "code": "0032",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "0033",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "0041",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "0052",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "020",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "022",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "023",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "025",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "029",
+              "from": 2000,
+              "to": 2007
+            },
+            {
+              "code": "031",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "032",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "033",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "034",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "036",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "037",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "039",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "040",
+              "from": 2000,
+              "to": 2007
+            },
+            {
+              "code": "042",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "043",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "143",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "1798",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "182",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "189",
+              "from": 2000,
+              "to": 2007
+            },
+            {
+              "code": "191",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "197",
+              "from": 2000,
+              "to": 2007
+            },
+            {
+              "code": "279",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "298",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "300",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "339",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "341",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "345",
+              "from": 2001,
+              "to": 2007
+            },
+            {
+              "code": "347",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "3544",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "359",
+              "from": 2000,
+              "to": 2007
+            },
+            {
+              "code": "3590",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "366",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "487",
+              "from": 2001,
+              "to": 2007
+            },
+            {
+              "code": "544",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "567",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "584",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "586",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "590",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "650",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "6830",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "693",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "723",
+              "from": 2002,
+              "to": 2007
+            },
+            {
+              "code": "744",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "747",
+              "from": 2003,
+              "to": 2007
+            },
+            {
+              "code": "753",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "755",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "768",
+              "from": 2005,
+              "to": 2007
+            },
+            {
+              "code": "775",
+              "from": 2004,
+              "to": 2007
+            },
+            {
+              "code": "792",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "800",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "814",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "816",
+              "from": 2001,
+              "to": 2007
+            },
+            {
+              "code": "830",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "891",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "904",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "935",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "941",
+              "from": 2000,
+              "to": 2005
+            },
+            {
+              "code": "960",
+              "from": 2001,
+              "to": 2007
+            },
+            {
+              "code": "994",
+              "from": 2002,
+              "to": 2005
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2007,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "0033",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "0041",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "0048",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "0051",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "0052",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "0056",
+              "from": 2011,
+              "to": 2013
+            },
+            {
+              "code": "029",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "032",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "033",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "040",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "041",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "044",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "048",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "049",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "055",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "112",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "149",
+              "from": 2012,
+              "to": 2014
+            },
+            {
+              "code": "1623",
+              "from": 2012,
+              "to": 2013
+            },
+            {
+              "code": "1794",
+              "from": 2009,
+              "to": 2014
+            },
+            {
+              "code": "1798",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "183",
+              "from": 2011,
+              "to": 2014
+            },
+            {
+              "code": "189",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "197",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "228",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "300",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "345",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "3544",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "359",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "3590",
+              "from": 2013,
+              "to": 2014
+            },
+            {
+              "code": "368",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "3996",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "487",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "497",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "541",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "544",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "548",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "5890",
+              "from": 2011,
+              "to": 2014
+            },
+            {
+              "code": "5896",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "590",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "650",
+              "from": 2007,
+              "to": 2012
+            },
+            {
+              "code": "721",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "723",
+              "from": 2007,
+              "to": 2010
+            },
+            {
+              "code": "744",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "747",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "755",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "768",
+              "from": 2007,
+              "to": 2008
+            },
+            {
+              "code": "775",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "779",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "786",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "792",
+              "from": 2007,
+              "to": 2014
+            },
+            {
+              "code": "794",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "795",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "796",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "798",
+              "from": 2008,
+              "to": 2012
+            },
+            {
+              "code": "799",
+              "from": 2009,
+              "to": 2014
+            },
+            {
+              "code": "816",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "830",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "890",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "960",
+              "from": 2007,
+              "to": 2009
+            },
+            {
+              "code": "963",
+              "from": 2009,
+              "to": 2012
+            },
+            {
+              "code": "988",
+              "from": 2010,
+              "to": 2014
+            },
+            {
+              "code": "SVO",
+              "from": 2014,
+              "to": 2014
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2014,
+            "to": 2021
+          },
+          "colors": [
+            {
+              "code": "0032",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "0033",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "0040",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0041",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "0048",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0049",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0051",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "0052",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0056",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "037",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "040",
+              "from": 2014,
+              "to": 2019
+            },
+            {
+              "code": "042",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "048",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "049",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "052",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "056",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "149",
+              "from": 2014,
+              "to": 2019
+            },
+            {
+              "code": "1623",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "1794",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "183",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "191",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "197",
+              "from": 2014,
+              "to": 2021
+            },
+            {
+              "code": "297",
+              "from": 2015,
+              "to": 2021
+            },
+            {
+              "code": "300",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "359",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "3590",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "3996",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "40",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "51",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "5890",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "5896",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "5970",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "650",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "6830",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "6989",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "723",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "7297",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "744",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "747",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "755",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "775",
+              "from": 2014,
+              "to": 2021
+            },
+            {
+              "code": "7786",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "792",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "796",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "799",
+              "from": 2014,
+              "to": 2021
+            },
+            {
+              "code": "7992",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "818",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "831",
+              "from": 2017,
+              "to": 2021
+            },
+            {
+              "code": "859",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "896",
+              "from": 2018,
+              "to": 2020
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "963",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9799",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "982",
+              "from": 2015,
+              "to": 2020
+            },
+            {
+              "code": "9859",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "988",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "9885",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "989",
+              "from": 2019,
+              "to": 2020
+            },
+            {
+              "code": "991",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "9922",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "996",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "9982",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "SVO",
+              "from": 2014,
+              "to": 2014
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2021,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "149",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "197",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "297",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "5970",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "775",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "799",
+              "from": 2021,
+              "to": 2021
+            },
+            {
+              "code": "818",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "831",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "842",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "859",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "885",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "890",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "956",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "9885",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "992",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "9922",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "993",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "996",
+              "from": 2021,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "e-class",
+      "display_name": "E-Class",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "E-Class"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1995
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "149",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "199",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "249",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "269",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "348",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "3512",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "3582",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "366",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "481",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "485",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "512",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "5348",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "5366",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "582",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "5904",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "5929",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "6249",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "6269",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "6888",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "702",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "7172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "721",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "744",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "7702",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "7721",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "8475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "8481",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "8485",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "888",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "904",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "9040",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "9149",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "9199",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "929",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "9702",
+              "from": 1994,
+              "to": 1995
+            },
+            {
+              "code": "9744",
+              "from": 1994,
+              "to": 1995
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 1995,
+            "to": 2002
+          },
+          "colors": [
+            {
+              "code": "0033",
+              "from": 2001,
+              "to": 2001
+            },
+            {
+              "code": "015",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "017",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "020",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "022",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "023",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "025",
+              "from": 1999,
+              "to": 2002
+            },
+            {
+              "code": "029",
+              "from": 2000,
+              "to": 2001
+            },
+            {
+              "code": "040",
+              "from": 1995,
+              "to": 2002
+            },
+            {
+              "code": "143",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "149",
+              "from": 1995,
+              "to": 1998
+            },
+            {
+              "code": "153",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "185",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "189",
+              "from": 1996,
+              "to": 2002
+            },
+            {
+              "code": "197",
+              "from": 1998,
+              "to": 2002
+            },
+            {
+              "code": "199",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "249",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "252",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "257",
+              "from": 1999,
+              "to": 2002
+            },
+            {
+              "code": "269",
+              "from": 1995,
+              "to": 1998
+            },
+            {
+              "code": "272",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "298",
+              "from": 2000,
+              "to": 2001
+            },
+            {
+              "code": "339",
+              "from": 1996,
+              "to": 2001
+            },
+            {
+              "code": "341",
+              "from": 1997,
+              "to": 2002
+            },
+            {
+              "code": "348",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "3512",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "353",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "3572",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "3582",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "359",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "366",
+              "from": 1995,
+              "to": 2002
+            },
+            {
+              "code": "4339",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "478",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "481",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "485",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "512",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "5341",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "5348",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "5366",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "567",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "572",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "582",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "584",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "5904",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "5929",
+              "from": 1995,
+              "to": 2001
+            },
+            {
+              "code": "6249",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "6269",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "6272",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "6279",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "6888",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "6891",
+              "from": 1997,
+              "to": 1997
+            },
+            {
+              "code": "693",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "702",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "7172",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "721",
+              "from": 1995,
+              "to": 1999
+            },
+            {
+              "code": "723",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "735",
+              "from": 2000,
+              "to": 2000
+            },
+            {
+              "code": "744",
+              "from": 1995,
+              "to": 2002
+            },
+            {
+              "code": "753",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "7702",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "7721",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "814",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "816",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "8475",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "8481",
+              "from": 1995,
+              "to": 1996
+            },
+            {
+              "code": "8485",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "888",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "891",
+              "from": 1997,
+              "to": 2002
+            },
+            {
+              "code": "904",
+              "from": 1995,
+              "to": 2002
+            },
+            {
+              "code": "9040",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "9149",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "9189",
+              "from": 1996,
+              "to": 1997
+            },
+            {
+              "code": "9199",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "929",
+              "from": 1995,
+              "to": 1995
+            },
+            {
+              "code": "935",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "941",
+              "from": 2000,
+              "to": 2002
+            },
+            {
+              "code": "960",
+              "from": 2001,
+              "to": 2002
+            },
+            {
+              "code": "9702",
+              "from": 1995,
+              "to": 1997
+            },
+            {
+              "code": "9744",
+              "from": 1995,
+              "to": 1997
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2002,
+            "to": 2009
+          },
+          "colors": [
+            {
+              "code": "0032",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "0033",
+              "from": 2003,
+              "to": 2009
+            },
+            {
+              "code": "0041",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "0048",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "022",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "023",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "025",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "029",
+              "from": 2003,
+              "to": 2008
+            },
+            {
+              "code": "031",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "032",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "033",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "034",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "036",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "037",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "038",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "040",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "041",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "042",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "143",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "170",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "1794",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "185",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "189",
+              "from": 2002,
+              "to": 2007
+            },
+            {
+              "code": "197",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "257",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "298",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "300",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "339",
+              "from": 2003,
+              "to": 2004
+            },
+            {
+              "code": "341",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "353",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "3544",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "359",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "366",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "368",
+              "from": 2005,
+              "to": 2009
+            },
+            {
+              "code": "487",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "497",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "544",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "567",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "584",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "590",
+              "from": 2005,
+              "to": 2005
+            },
+            {
+              "code": "650",
+              "from": 2006,
+              "to": 2009
+            },
+            {
+              "code": "693",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "723",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "744",
+              "from": 2002,
+              "to": 2008
+            },
+            {
+              "code": "747",
+              "from": 2003,
+              "to": 2009
+            },
+            {
+              "code": "753",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "755",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "775",
+              "from": 2004,
+              "to": 2009
+            },
+            {
+              "code": "7786",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "792",
+              "from": 2008,
+              "to": 2009
+            },
+            {
+              "code": "799",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "814",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "816",
+              "from": 2002,
+              "to": 2007
+            },
+            {
+              "code": "891",
+              "from": 2002,
+              "to": 2004
+            },
+            {
+              "code": "904",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "935",
+              "from": 2002,
+              "to": 2002
+            },
+            {
+              "code": "941",
+              "from": 2002,
+              "to": 2005
+            },
+            {
+              "code": "960",
+              "from": 2002,
+              "to": 2009
+            },
+            {
+              "code": "963",
+              "from": 2007,
+              "to": 2009
+            }
+          ]
+        },
+        {
+          "name": "4g",
+          "years": {
+            "from": 2009,
+            "to": 2016
+          },
+          "colors": [
+            {
+              "code": "0032",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "0033",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "0041",
+              "from": 2009,
+              "to": 2013
+            },
+            {
+              "code": "0044",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "0048",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "0049",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "0052",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "032",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "033",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "037",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "040",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "041",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "042",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "044",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "048",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "049",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "052",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "149",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "1623",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "170",
+              "from": 2009,
+              "to": 2011
+            },
+            {
+              "code": "1794",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "197",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "296",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "297",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "300",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "346",
+              "from": 2014,
+              "to": 2015
+            },
+            {
+              "code": "3544",
+              "from": 2010,
+              "to": 2011
+            },
+            {
+              "code": "359",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "3590",
+              "from": 2011,
+              "to": 2015
+            },
+            {
+              "code": "368",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "3996",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "497",
+              "from": 2009,
+              "to": 2013
+            },
+            {
+              "code": "544",
+              "from": 2009,
+              "to": 2012
+            },
+            {
+              "code": "5585",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "5890",
+              "from": 2013,
+              "to": 2015
+            },
+            {
+              "code": "590",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "5997",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "623",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "650",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "693",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "721",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "723",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "744",
+              "from": 2012,
+              "to": 2015
+            },
+            {
+              "code": "747",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "755",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "775",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "7786",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "786",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "792",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "794",
+              "from": 2011,
+              "to": 2012
+            },
+            {
+              "code": "796",
+              "from": 2015,
+              "to": 2015
+            },
+            {
+              "code": "798",
+              "from": 2010,
+              "to": 2012
+            },
+            {
+              "code": "799",
+              "from": 2010,
+              "to": 2015
+            },
+            {
+              "code": "890",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "960",
+              "from": 2009,
+              "to": 2009
+            },
+            {
+              "code": "963",
+              "from": 2009,
+              "to": 2015
+            },
+            {
+              "code": "988",
+              "from": 2012,
+              "to": 2015
+            }
+          ]
+        },
+        {
+          "name": "5g",
+          "years": {
+            "from": 2016,
+            "to": 2023
+          },
+          "colors": [
+            {
+              "code": "0032",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0033",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0040",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0041",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0044",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0049",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "0052",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "040",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "049",
+              "from": 2020,
+              "to": 2020
+            },
+            {
+              "code": "056",
+              "from": 2020,
+              "to": 2020
+            },
+            {
+              "code": "149",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "161",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "1623",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "197",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "296",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "297",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "300",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "359",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "3590",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "368",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "3996",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "5585",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "5644",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "5890",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "5896",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "595",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "5970",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "5997",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "650",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "660",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "7258",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "7297",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "744",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "755",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "775",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "792",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "796",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "799",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "7992",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "831",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "859",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "885",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "896",
+              "from": 2020,
+              "to": 2021
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "963",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9788",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "9799",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "988",
+              "from": 2017,
+              "to": 2020
+            },
+            {
+              "code": "989",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9922",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "993",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "996",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "BU0629",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "BU0662",
+              "from": 2019,
+              "to": 2019
+            }
+          ]
+        },
+        {
+          "name": "6g",
+          "years": {
+            "from": 2023,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "149",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "188",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "197",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "595",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "771",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "831",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "885",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "956",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "9922",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "993",
+              "from": 2026,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "glc",
+      "display_name": "GLC",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "GLC"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2015,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "0040",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "040",
+              "from": 2017,
+              "to": 2022
+            },
+            {
+              "code": "149",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "161",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "197",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "271",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "297",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "3590",
+              "from": 2017,
+              "to": 2017
+            },
+            {
+              "code": "3996",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "5890",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "5896",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "5970",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "7297",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "755",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "775",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "796",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "799",
+              "from": 2016,
+              "to": 2022
+            },
+            {
+              "code": "7992",
+              "from": 2016,
+              "to": 2017
+            },
+            {
+              "code": "831",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "859",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "896",
+              "from": 2018,
+              "to": 2021
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9799",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9859",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "988",
+              "from": 2016,
+              "to": 2021
+            },
+            {
+              "code": "989",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9922",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "996",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "BU0629",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "BU0662",
+              "from": 2019,
+              "to": 2019
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "149",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "197",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "297",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "5970",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "799",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "831",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "859",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "890",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "989",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "992",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "9922",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "996",
+              "from": 2022,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gle",
+      "display_name": "GLE",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "GLE"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2015,
+            "to": 2019
+          },
+          "colors": [
+            {
+              "code": "0040",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "040",
+              "from": 2017,
+              "to": 2019
+            },
+            {
+              "code": "149",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "161",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "197",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "3996",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "5890",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "5896",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "755",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "775",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "792",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "796",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "799",
+              "from": 2015,
+              "to": 2019
+            },
+            {
+              "code": "7992",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "859",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "896",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "9149",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9775",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9792",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "9799",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "988",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "989",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2019
+            },
+            {
+              "code": "996",
+              "from": 2018,
+              "to": 2019
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2019,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "040",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "149",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "197",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "297",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "5970",
+              "from": 2022,
+              "to": 2022
+            },
+            {
+              "code": "775",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "796",
+              "from": 2020,
+              "to": 2021
+            },
+            {
+              "code": "799",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "831",
+              "from": 2020,
+              "to": 2022
+            },
+            {
+              "code": "859",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "890",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "896",
+              "from": 2019,
+              "to": 2021
+            },
+            {
+              "code": "9792",
+              "from": 2019,
+              "to": 2019
+            },
+            {
+              "code": "988",
+              "from": 2020,
+              "to": 2021
+            },
+            {
+              "code": "989",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "992",
+              "from": 2019,
+              "to": 2022
+            },
+            {
+              "code": "9922",
+              "from": 2021,
+              "to": 2022
+            },
+            {
+              "code": "996",
+              "from": 2019,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sprinter",
+      "display_name": "Sprinter",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sprinter"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1995,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "1239",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "1241",
+              "from": 1998,
+              "to": 2003
+            },
+            {
+              "code": "1243",
+              "from": 1998,
+              "to": 2006
+            },
+            {
+              "code": "147",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "154",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "1625",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "1656",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "243",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "2603",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "345",
+              "from": 2004,
+              "to": 2006
+            },
+            {
+              "code": "3534",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "3548",
+              "from": 2004,
+              "to": 2005
+            },
+            {
+              "code": "3572",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "3583",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "3636",
+              "from": 1998,
+              "to": 2006
+            },
+            {
+              "code": "3967",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "474",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "5318",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "5348",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "5376",
+              "from": 1998,
+              "to": 2003
+            },
+            {
+              "code": "5389",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "548",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "5515",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "555",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "572",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "5856",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "5929",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "6235",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "6269",
+              "from": 1999,
+              "to": 1999
+            },
+            {
+              "code": "6464",
+              "from": 1998,
+              "to": 2006
+            },
+            {
+              "code": "7351",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "744",
+              "from": 2003,
+              "to": 2006
+            },
+            {
+              "code": "7708",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "830",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "856",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "891",
+              "from": 2003,
+              "to": 2003
+            },
+            {
+              "code": "9040",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "9147",
+              "from": 1998,
+              "to": 1999
+            },
+            {
+              "code": "9215",
+              "from": 1998,
+              "to": 1998
+            },
+            {
+              "code": "957",
+              "from": 2006,
+              "to": 2006
+            },
+            {
+              "code": "9744",
+              "from": 1998,
+              "to": 1999
+            }
+          ]
+        },
+        {
+          "name": "2g",
+          "years": {
+            "from": 2006,
+            "to": 2018
+          },
+          "colors": [
+            {
+              "code": "0040",
+              "from": 2010,
+              "to": 2017
+            },
+            {
+              "code": "103",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "1241",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "1243",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "147",
+              "from": 2006,
+              "to": 2017
+            },
+            {
+              "code": "154",
+              "from": 2006,
+              "to": 2018
+            },
+            {
+              "code": "160",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "1798",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "197",
+              "from": 2008,
+              "to": 2017
+            },
+            {
+              "code": "224",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "243",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "345",
+              "from": 2006,
+              "to": 2014
+            },
+            {
+              "code": "3548",
+              "from": 2012,
+              "to": 2014
+            },
+            {
+              "code": "3583",
+              "from": 2006,
+              "to": 2017
+            },
+            {
+              "code": "3589",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "3636",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "372",
+              "from": 2008,
+              "to": 2008
+            },
+            {
+              "code": "373",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "389",
+              "from": 2007,
+              "to": 2017
+            },
+            {
+              "code": "3967",
+              "from": 2006,
+              "to": 2014
+            },
+            {
+              "code": "410",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "432",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "5376",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "5389",
+              "from": 2006,
+              "to": 2018
+            },
+            {
+              "code": "548",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "583",
+              "from": 2008,
+              "to": 2010
+            },
+            {
+              "code": "5856",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "589",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "5890",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "5957",
+              "from": 2007,
+              "to": 2017
+            },
+            {
+              "code": "635",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "6464",
+              "from": 2006,
+              "to": 2007
+            },
+            {
+              "code": "6830",
+              "from": 2007,
+              "to": 2017
+            },
+            {
+              "code": "708",
+              "from": 2012,
+              "to": 2012
+            },
+            {
+              "code": "744",
+              "from": 2006,
+              "to": 2017
+            },
+            {
+              "code": "755",
+              "from": 2008,
+              "to": 2017
+            },
+            {
+              "code": "759",
+              "from": 2012,
+              "to": 2017
+            },
+            {
+              "code": "764",
+              "from": 2015,
+              "to": 2017
+            },
+            {
+              "code": "7701",
+              "from": 2014,
+              "to": 2017
+            },
+            {
+              "code": "7708",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "775",
+              "from": 2008,
+              "to": 2017
+            },
+            {
+              "code": "7755",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "792",
+              "from": 2008,
+              "to": 2017
+            },
+            {
+              "code": "830",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "9147",
+              "from": 2007,
+              "to": 2018
+            },
+            {
+              "code": "9154",
+              "from": 2007,
+              "to": 2007
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2018
+            },
+            {
+              "code": "957",
+              "from": 2006,
+              "to": 2010
+            },
+            {
+              "code": "9764",
+              "from": 2014,
+              "to": 2014
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2018
+            }
+          ]
+        },
+        {
+          "name": "3g",
+          "years": {
+            "from": 2018,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "154",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "3589",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "5389",
+              "from": 2018,
+              "to": 2026
+            },
+            {
+              "code": "589",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "5890",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "7708",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "7709",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "7755",
+              "from": 2018,
+              "to": 2026
+            },
+            {
+              "code": "7992",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "890",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9040",
+              "from": 2026,
+              "to": 2026
+            },
+            {
+              "code": "9147",
+              "from": 2018,
+              "to": 2026
+            },
+            {
+              "code": "9197",
+              "from": 2018,
+              "to": 2026
+            },
+            {
+              "code": "992",
+              "from": 2018,
+              "to": 2022
+            },
+            {
+              "code": "9922",
+              "from": 2026,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

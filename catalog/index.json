@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T17:53:51.977686Z",
-  "totalMakes": 13,
+  "updatedAt": "2026-11-17T23:46:06.972577Z",
+  "totalMakes": 14,
   "makes": [
     "chevrolet",
     "ford",
@@ -10,6 +10,7 @@
     "isuzu",
     "kia",
     "mazda",
+    "mercedes-benz",
     "mitsubishi",
     "nissan",
     "subaru",
