@@ -1,0 +1,2205 @@
+{
+  "make": "acura",
+  "colors": {
+    "B588P": {
+      "slug": "obsidian-blue-pearl",
+      "name": "Obsidian Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B621P": {
+      "slug": "signature-blue-pearl",
+      "name": "Signature Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "NH830M": {
+      "slug": "prata-platinum-metallic",
+      "name": "Prata Platinum Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH883P": {
+      "slug": "platinum-white-pearl",
+      "name": "Platinum White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH885M": {
+      "slug": "liquid-carbon-metallic-tricoat",
+      "name": "Liquid Carbon Metallic Tricoat",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH893P": {
+      "slug": "majestic-black-pearl",
+      "name": "Majestic Black Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "NH912P": {
+      "slug": "urban-gray-pearl",
+      "name": "Urban Gray Pearl",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "PB92P": {
+      "slug": "phantom-violet-pearl",
+      "name": "Phantom Violet Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R568P": {
+      "slug": "performance-red-pearl",
+      "name": "Performance Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "YR651P": {
+      "slug": "tiger-eye-pearl",
+      "name": "Tiger Eye Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "B553P": {
+      "slug": "vortex-blue-pearl",
+      "name": "Vortex Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B576P": {
+      "slug": "fathom-blue-pearl",
+      "name": "Fathom Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B612P": {
+      "slug": "catalina-blue-pearl",
+      "name": "Catalina Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "NH700M": {
+      "slug": "alabaster-silver-metallic",
+      "name": "Alabaster Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH731P": {
+      "slug": "cai-jing-hei-pearl",
+      "name": "Cai Jing Hei Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH737M": {
+      "slug": "polished-metal-metallic",
+      "name": "Polished Metal Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH782M": {
+      "slug": "graphite-luster-metallic",
+      "name": "Graphite Luster Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH788P": {
+      "slug": "new-global-white-pearl",
+      "name": "New Global White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH797M": {
+      "slug": "modern-steel-metallic",
+      "name": "Modern Steel Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH829M": {
+      "slug": "acura-silver-metallic",
+      "name": "Acura Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "R543P": {
+      "slug": "crimson-pearl",
+      "name": "Crimson Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R548P": {
+      "slug": "basque-red-pearl-ii",
+      "name": "Basque Red Pearl II",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "R94X": {
+      "slug": "san-marino-red",
+      "name": "San Marino Red",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "YR578M": {
+      "slug": "urban-titanium-metallic",
+      "name": "Urban Titanium Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR632M": {
+      "slug": "molten-bronze-metallic",
+      "name": "Molten Bronze Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "B92P-4": {
+      "slug": "nighthawk-black-pearl",
+      "name": "Nighthawk Black Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "G517M": {
+      "slug": "cool-jade-silver-metallic",
+      "name": "Cool Jade Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH575M-2": {
+      "slug": "thunder-gray-metallic",
+      "name": "Thunder Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "NH674P": {
+      "slug": "cosmic-grey-pearl",
+      "name": "Cosmic Grey Pearl",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "NH695M": {
+      "slug": "new-opal-silver-metalic",
+      "name": "New Opal Silver Metalic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH707": {
+      "slug": "formal-black",
+      "name": "Formal Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "NH730": {
+      "slug": "authentic-black",
+      "name": "Authentic Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "NH789M": {
+      "slug": "forged-silver-metallic",
+      "name": "Forged Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH812P": {
+      "slug": "premium-sparkle-black-pearl",
+      "name": "Premium Sparkle Black Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "R81": {
+      "slug": "milano-red",
+      "name": "Milano Red",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "YR566M": {
+      "slug": "borrego-beige-metallic",
+      "name": "Borrego Beige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "B530M": {
+      "slug": "ocean-mist-metallic",
+      "name": "Ocean Mist Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "B593M": {
+      "slug": "new-sporty-blue-metallic",
+      "name": "New Sporty Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "G543P": {
+      "slug": "milk-glass-pearl",
+      "name": "Milk Glass Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH603P": {
+      "slug": "white-diamond-pearl",
+      "name": "White Diamond Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH642M": {
+      "slug": "storm-silver-metallic",
+      "name": "Storm Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH675M": {
+      "slug": "magnesium-metallic",
+      "name": "Magnesium Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH776P": {
+      "slug": "white-jade-pearl",
+      "name": "White Jade Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "PB70": {
+      "slug": "bay-blue",
+      "name": "Bay Blue",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "YR569M": {
+      "slug": "mayan-bronze-metallic",
+      "name": "Mayan Bronze Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR587M": {
+      "slug": "dark-amber-metallic",
+      "name": "Dark Amber Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR604M": {
+      "slug": "golden-brown-metallic",
+      "name": "Golden Brown Metallic",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "B619M": {
+      "slug": "skyride-blue-metallic",
+      "name": "Skyride Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "G526M": {
+      "slug": "green-tea-metallic",
+      "name": "Green Tea Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "NH565": {
+      "slug": "grand-prix-white",
+      "name": "Grand Prix White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH686M": {
+      "slug": "lakeshore-silver-metallic",
+      "name": "Lakeshore Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH717P": {
+      "slug": "alberta-white-pearl",
+      "name": "Alberta White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH727M": {
+      "slug": "platinum-frost-metallic",
+      "name": "Platinum Frost Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH736M": {
+      "slug": "volcano-gray-metallic",
+      "name": "Volcano Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "NH754M": {
+      "slug": "forged-silver-metallic-2",
+      "name": "Forged Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "R540P": {
+      "slug": "pomegranate-pearl",
+      "name": "Pomegranate Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR545M": {
+      "slug": "desert-rock-metallic",
+      "name": "Desert Rock Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR552M": {
+      "slug": "blaze-orange-metallic",
+      "name": "Blaze Orange Metallic",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "YR562P": {
+      "slug": "carbon-bronze-pearl",
+      "name": "Carbon Bronze Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "B507P": {
+      "slug": "arctic-blue-pearl",
+      "name": "Arctic Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B513M": {
+      "slug": "nuerburgring-blue-metallic",
+      "name": "Nuerburgring Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B520P": {
+      "slug": "vivid-blue-pearl",
+      "name": "Vivid Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B96P": {
+      "slug": "eternal-blue-pearl",
+      "name": "Eternal Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "G511M": {
+      "slug": "garapagos-green-metallic",
+      "name": "Garapagos Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G523M": {
+      "slug": "jade-green-metallic",
+      "name": "Jade Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G78P": {
+      "slug": "sherwood-green-pearl",
+      "name": "Sherwood Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "NH578": {
+      "slug": "taffeta-white",
+      "name": "Taffeta White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH623M-4": {
+      "slug": "satin-silver-metallic",
+      "name": "Satin Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH624P": {
+      "slug": "premium-white-pearl",
+      "name": "Premium White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH656M": {
+      "slug": "clione-silver-metallic",
+      "name": "Clione Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH658P": {
+      "slug": "graphite-pearl",
+      "name": "Graphite Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH880M": {
+      "slug": "shining-gray-metallic",
+      "name": "Shining Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "R504P": {
+      "slug": "ruby-red-pearl",
+      "name": "Ruby Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "R507P": {
+      "slug": "firepepper-pearl",
+      "name": "Firepepper Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R546M": {
+      "slug": "cherry-shell-pink-metallic",
+      "name": "Cherry Shell Pink Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR534M": {
+      "slug": "desert-silver-metallic",
+      "name": "Desert Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "YR537P": {
+      "slug": "champagne-mist-pearl",
+      "name": "Champagne Mist Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR538M": {
+      "slug": "desert-mist-metallic",
+      "name": "Desert Mist Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR576M": {
+      "slug": "brilliant-orange-metallic",
+      "name": "Brilliant Orange Metallic",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "B90P": {
+      "slug": "supersonic-blue-pearl",
+      "name": "Supersonic Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "B97M": {
+      "slug": "voltage-blue-metallic",
+      "name": "Voltage Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "G501M": {
+      "slug": "granite-green-metallic",
+      "name": "Granite Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G508P": {
+      "slug": "noble-green-pearl",
+      "name": "Noble Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G91M": {
+      "slug": "laguna-metallic",
+      "name": "Laguna Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "G95P": {
+      "slug": "clover-green-pearl",
+      "name": "Clover Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G97P": {
+      "slug": "vermont-green-pearl",
+      "name": "Vermont Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "NH0-2": {
+      "slug": "championship-white",
+      "name": "Championship White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH630M": {
+      "slug": "silverstone-metallic",
+      "name": "Silverstone Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH638M": {
+      "slug": "starlight-silver-metallic",
+      "name": "Starlight Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH756P": {
+      "slug": "spectrum-white-pearl",
+      "name": "Spectrum White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "PB85P": {
+      "slug": "premium-gold-purple-pearl",
+      "name": "Premium Gold Purple Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R93P": {
+      "slug": "matador-red-pearl",
+      "name": "Matador Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "Y52P": {
+      "slug": "spa-yellow-pearl",
+      "name": "Spa Yellow Pearl",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "Y56": {
+      "slug": "phoenix-yellow",
+      "name": "Phoenix Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "YR524M": {
+      "slug": "naples-gold-metallic",
+      "name": "Naples Gold Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR525M": {
+      "slug": "titanium-metallic",
+      "name": "Titanium Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "B99P": {
+      "slug": "atlantic-blue-pearl",
+      "name": "Atlantic Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "G75M-1": {
+      "slug": "canterbury-green-metallic",
+      "name": "Canterbury Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "G87P": {
+      "slug": "dark-emerald-pearl",
+      "name": "Dark Emerald Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NH503P": {
+      "slug": "granada-black-pearl",
+      "name": "Granada Black Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "NH515P": {
+      "slug": "sirius-white-pearl",
+      "name": "Sirius White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH538": {
+      "slug": "frost-white",
+      "name": "Frost White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH636P": {
+      "slug": "brilliant-white-pearl",
+      "name": "Brilliant White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "PB77M": {
+      "slug": "lavender-mist-metallic",
+      "name": "Lavender Mist Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R91P": {
+      "slug": "garnet-red-pearl",
+      "name": "Garnet Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "Y70P": {
+      "slug": "helios-yellow-pearl-ii",
+      "name": "Helios Yellow Pearl II",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "YR506M-1": {
+      "slug": "desert-mist-metallic-2",
+      "name": "Desert Mist Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR509P-1": {
+      "slug": "granite-silver-pearl",
+      "name": "Granite Silver Pearl",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "YR598P": {
+      "slug": "hidamari-ivory-pearl",
+      "name": "Hidamari Ivory Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR607M": {
+      "slug": "mandarin-gold-metallic",
+      "name": "Mandarin Gold Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "YR74M": {
+      "slug": "ascot-gray-metallic",
+      "name": "Ascot Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "BG30P": {
+      "slug": "arcadia-green-pearl",
+      "name": "Arcadia Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "BG45M": {
+      "slug": "aquamint-opal-metallic",
+      "name": "Aquamint Opal Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "G503P": {
+      "slug": "amazon-green-pearl",
+      "name": "Amazon Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "RP18P": {
+      "slug": "regal-plum-pearl",
+      "name": "Regal Plum Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "RP20M": {
+      "slug": "vineyard-gray-metallic",
+      "name": "Vineyard Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "YR503M": {
+      "slug": "rosewood-brown-metallic",
+      "name": "Rosewood Brown Metallic",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "001": {
+      "slug": "ebony-black",
+      "name": "Ebony Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "720": {
+      "slug": "baltic-blue-mica",
+      "name": "Baltic Blue Mica",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "753": {
+      "slug": "light-silver-metallic",
+      "name": "Light Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "871": {
+      "slug": "fir-green-mica",
+      "name": "Fir Green Mica",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "W101": {
+      "slug": "cream-white",
+      "name": "Cream White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "B522M": {
+      "slug": "meteor-silver-metallic",
+      "name": "Meteor Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "B552P": {
+      "slug": "bali-blue-pearl",
+      "name": "Bali Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "NH677P-4": {
+      "slug": "aspen-white-pearl",
+      "name": "Aspen White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NH711M": {
+      "slug": "whistler-silver-metallic",
+      "name": "Whistler Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "NH743M": {
+      "slug": "palladium-metallic",
+      "name": "Palladium Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "R529P": {
+      "slug": "dark-cherry-pearl",
+      "name": "Dark Cherry Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    }
+  },
+  "models": [
+    {
+      "name": "mdx",
+      "display_name": "MDX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "MDX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2001,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "B588P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "B621P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "NH830M",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "NH883P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "NH885M",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "NH893P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "NH912P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "PB92P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "R568P",
+              "from": 2001,
+              "to": 2026
+            },
+            {
+              "code": "YR651P",
+              "from": 2001,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rdx",
+      "display_name": "RDX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "RDX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2007,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "B588P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "B621P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NH830M",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NH883P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NH885M",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NH893P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NH912P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PB92P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "R568P",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "YR651P",
+              "from": 2007,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tlx",
+      "display_name": "TLX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "TLX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2015,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "B588P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "B621P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "NH830M",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "NH883P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "NH885M",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "NH893P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "NH912P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PB92P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "R568P",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "YR651P",
+              "from": 2015,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ilx",
+      "display_name": "ILX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "ILX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2013,
+            "to": 2022
+          },
+          "colors": [
+            {
+              "code": "B553P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "B576P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "B588P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "B612P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "B621P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH700M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH731P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH737M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH782M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH788P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH797M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH829M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH830M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH883P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "NH893P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "R543P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "R548P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "R568P",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "R94X",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "YR578M",
+              "from": 2013,
+              "to": 2022
+            },
+            {
+              "code": "YR632M",
+              "from": 2013,
+              "to": 2022
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tsx",
+      "display_name": "TSX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "TSX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2004,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "B553P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "B92P-4",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "G517M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH575M-2",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH674P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH695M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH700M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH707",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH730",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH731P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH737M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH782M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH788P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH789M",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "NH812P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "R543P",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "R81",
+              "from": 2004,
+              "to": 2014
+            },
+            {
+              "code": "YR566M",
+              "from": 2004,
+              "to": 2014
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tl",
+      "display_name": "TL",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "TL"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1996,
+            "to": 2014
+          },
+          "colors": [
+            {
+              "code": "B530M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "B576P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "B588P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "B593M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "B92P-4",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "G543P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH603P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH642M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH675M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH700M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH707",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH730",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH731P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH737M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH776P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH782M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH788P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH789M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "NH812P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "PB70",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "R548P",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "R81",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "YR566M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "YR569M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "YR578M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "YR587M",
+              "from": 1996,
+              "to": 2014
+            },
+            {
+              "code": "YR604M",
+              "from": 1996,
+              "to": 2014
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rl",
+      "display_name": "RL",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "RL"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1996,
+            "to": 2012
+          },
+          "colors": [
+            {
+              "code": "B619M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "B92P-4",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "G526M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH565",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH642M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH686M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH700M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH717P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH727M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH731P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH736M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH754M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH776P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "NH782M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "R540P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "R543P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "R81",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "YR545M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "YR552M",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "YR562P",
+              "from": 1996,
+              "to": 2012
+            },
+            {
+              "code": "YR578M",
+              "from": 1996,
+              "to": 2012
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rsx",
+      "display_name": "RSX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "RSX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2002,
+            "to": 2006
+          },
+          "colors": [
+            {
+              "code": "B507P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "B513M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "B520P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "B92P-4",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "B96P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "G511M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "G523M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "G78P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH578",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH623M-4",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH624P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH656M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH658P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH675M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH700M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH776P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "NH880M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "R504P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "R507P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "R546M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "R81",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR534M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR537P",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR538M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR552M",
+              "from": 2002,
+              "to": 2006
+            },
+            {
+              "code": "YR576M",
+              "from": 2002,
+              "to": 2006
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "integra",
+      "display_name": "Integra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Integra"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1990,
+            "to": 2001
+          },
+          "colors": [
+            {
+              "code": "B588P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "B593M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "B90P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "B92P-4",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "B96P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "B97M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "G501M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "G508P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "G91M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "G95P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "G97P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH0-2",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH578",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH603P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH623M-4",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH624P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH630M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH638M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH756P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "NH830M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "PB85P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "R504P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "R507P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "R81",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "R93P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "Y52P",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "Y56",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "YR524M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "YR525M",
+              "from": 1990,
+              "to": 2001
+            },
+            {
+              "code": "YR578M",
+              "from": 1990,
+              "to": 2001
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "legend",
+      "display_name": "Legend",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Legend"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1991,
+            "to": 1995
+          },
+          "colors": [
+            {
+              "code": "B588P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "B99P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "G75M-1",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "G78P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "G87P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "G97P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH503P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH515P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH538",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH578",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH624P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH636P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "NH797M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "PB77M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "R507P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "R81",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "R91P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "Y70P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR506M-1",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR509P-1",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR525M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR598P",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR604M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR607M",
+              "from": 1991,
+              "to": 1995
+            },
+            {
+              "code": "YR74M",
+              "from": 1991,
+              "to": 1995
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vigor",
+      "display_name": "Vigor",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Vigor"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1992,
+            "to": 1994
+          },
+          "colors": [
+            {
+              "code": "B96P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "B99P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "BG30P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "BG45M",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "G503P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "G78P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "G87P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "NH503P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "NH538",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "NH624P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "NH797M",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "RP18P",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "RP20M",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "YR503M",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "YR506M-1",
+              "from": 1992,
+              "to": 1994
+            },
+            {
+              "code": "YR604M",
+              "from": 1992,
+              "to": 1994
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "slx",
+      "display_name": "SLX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "SLX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1996,
+            "to": 1999
+          },
+          "colors": [
+            {
+              "code": "001",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "720",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "753",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "871",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "NH623M-4",
+              "from": 1996,
+              "to": 1999
+            },
+            {
+              "code": "W101",
+              "from": 1996,
+              "to": 1999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zdx",
+      "display_name": "ZDX",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "ZDX"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2010,
+            "to": 2013
+          },
+          "colors": [
+            {
+              "code": "B522M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "B552P",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH565",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH677P-4",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH695M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH700M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH707",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH711M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH731P",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH737M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH743M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH782M",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "NH788P",
+              "from": 2010,
+              "to": 2013
+            },
+            {
+              "code": "R529P",
+              "from": 2010,
+              "to": 2013
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

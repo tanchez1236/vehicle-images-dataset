@@ -1,0 +1,819 @@
+{
+  "make": "genesis",
+  "colors": {
+    "BLE": {
+      "slug": "kawah-blue-metallic",
+      "name": "Kawah Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "GRY": {
+      "slug": "vanta-grey-metallic",
+      "name": "Vanta Grey Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "MDY": {
+      "slug": "hallasan-green-metallic",
+      "name": "Hallasan Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "MPE": {
+      "slug": "makalu-gray-matte",
+      "name": "Makalu Gray Matte",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "NA3": {
+      "slug": "verbiers-white-matt-metallic",
+      "name": "Verbiers White Matt Metallic",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "NCM": {
+      "slug": "makalu-gray",
+      "name": "Makalu Gray",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "NRB": {
+      "slug": "capri-blue-metallic",
+      "name": "Capri Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "PH3": {
+      "slug": "new-black-pearl-metallic",
+      "name": "New Black Pearl Metallic",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "PS5": {
+      "slug": "lapis-blue-pearl",
+      "name": "Lapis Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "RGY": {
+      "slug": "racing-gray",
+      "name": "Racing Gray",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "RLA": {
+      "slug": "cavendish-red-metallic",
+      "name": "Cavendish Red Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "SMT": {
+      "slug": "bond-silver-matte-metallic",
+      "name": "Bond Silver Matte Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "SSS": {
+      "slug": "new-silver-metallic",
+      "name": "New Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "ST7": {
+      "slug": "melbourne-grey-matte-metallic",
+      "name": "Melbourne Grey Matte Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "URA": {
+      "slug": "tasman-blue-pearl",
+      "name": "Tasman Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "UYH": {
+      "slug": "uyuni-white-pearl",
+      "name": "Uyuni White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "WHT": {
+      "slug": "alabaster-white",
+      "name": "Alabaster White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "Z5E": {
+      "slug": "havana-red-pearl",
+      "name": "Havana Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "BRB": {
+      "slug": "new-bordeaux-brown-metallic",
+      "name": "New Bordeaux Brown Metallic",
+      "hex": "#5C4738",
+      "aliases": []
+    },
+    "GLD": {
+      "slug": "valencia-gold-metallic",
+      "name": "Valencia Gold Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "NEB": {
+      "slug": "iceland-blue-metallic",
+      "name": "Iceland Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "HBK": {
+      "slug": "maui-black",
+      "name": "Maui Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "BJK": {
+      "slug": "barossa-burgundy-metallic",
+      "name": "Barossa Burgundy Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "BJM": {
+      "slug": "barossa-burgundy-matte-metallic",
+      "name": "Barossa Burgundy Matte Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "CPR": {
+      "slug": "atacama-copper-metallic",
+      "name": "Atacama Copper Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "FT7": {
+      "slug": "matterhorn-white-pearl-matte",
+      "name": "Matterhorn White Pearl Matte",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "HT7": {
+      "slug": "cardiff-green-pearl-metallic",
+      "name": "Cardiff Green Pearl Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "KGN": {
+      "slug": "dark-green-metallic",
+      "name": "Dark Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "PN7": {
+      "slug": "brunswick-green-metallic-matte",
+      "name": "Brunswick Green Metallic Matte",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "RJK": {
+      "slug": "mauna-red-metallic",
+      "name": "Mauna Red Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "EMT": {
+      "slug": "hana-uman-mint-metallic",
+      "name": "Hana Uman Mint Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "GBE": {
+      "slug": "bering-blue-metallic",
+      "name": "Bering Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    }
+  },
+  "models": [
+    {
+      "name": "g70",
+      "display_name": "G70",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "G70"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2019,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BLE",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "GRY",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "MDY",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "NA3",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "PS5",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "RGY",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "RLA",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "SMT",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "URA",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "WHT",
+              "from": 2019,
+              "to": 2026
+            },
+            {
+              "code": "Z5E",
+              "from": 2019,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "g80",
+      "display_name": "G80",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "G80"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2017,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BRB",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "GLD",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "GRY",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "MDY",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NA3",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NEB",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "PS5",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "RGY",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "RLA",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "SMT",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "URA",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "WHT",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "Z5E",
+              "from": 2017,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "g90",
+      "display_name": "G90",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "G90"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2017,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BRB",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "GLD",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "HBK",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "MDY",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NA3",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "RGY",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "URA",
+              "from": 2017,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2017,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gv70",
+      "display_name": "Gv70",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gv70"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2022,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BJK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "BJM",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "CPR",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "FT7",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "HT7",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "KGN",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "PN7",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "RJK",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2022,
+              "to": 2026
+            },
+            {
+              "code": "WHT",
+              "from": 2022,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gv60",
+      "display_name": "Gv60",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gv60"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2023,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BJK",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "BJM",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "CPR",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "EMT",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "FT7",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "HT7",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "PN7",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "RJK",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2023,
+              "to": 2026
+            },
+            {
+              "code": "WHT",
+              "from": 2023,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gv80",
+      "display_name": "Gv80",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gv80"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2021,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "BJK",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "BJM",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "FT7",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "GBE",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "HT7",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "KGN",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "MPE",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "NCM",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "NRB",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "PH3",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "PN7",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "RJK",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "SSS",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "ST7",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "UYH",
+              "from": 2021,
+              "to": 2026
+            },
+            {
+              "code": "WHT",
+              "from": 2021,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
