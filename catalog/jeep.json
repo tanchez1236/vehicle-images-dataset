@@ -1,0 +1,1139 @@
+{
+  "make": "jeep",
+  "colors": {
+    "470C": {
+      "slug": "bikini-metallic",
+      "name": "Bikini Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "503B": {
+      "slug": "ceramic-gray",
+      "name": "Ceramic Gray",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "AY110GW7": {
+      "slug": "bright-white",
+      "name": "Bright White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "AY110RUA": {
+      "slug": "gobi",
+      "name": "Gobi",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "AY111JSC": {
+      "slug": "billet-silver-metallic",
+      "name": "Billet Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "AY97AXR": {
+      "slug": "brilliant-black-crystal-pearl",
+      "name": "Brilliant Black Crystal Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "NRV": {
+      "slug": "velvet-red-pearl",
+      "name": "Velvet Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "PAU": {
+      "slug": "granite-crystal-metallic",
+      "name": "Granite Crystal Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "PBJ": {
+      "slug": "hydro-blue-metallic",
+      "name": "Hydro Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "PBM": {
+      "slug": "ocean-blue-metallic",
+      "name": "Ocean Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "PDS": {
+      "slug": "anvil",
+      "name": "Anvil",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "PFM": {
+      "slug": "gecko",
+      "name": "Gecko",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "PGE": {
+      "slug": "green-with-envy-pearl",
+      "name": "Green With Envy Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "PGG": {
+      "slug": "sarge-green",
+      "name": "Sarge Green",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "PHP": {
+      "slug": "furious-fuchsia-pearl",
+      "name": "Furious Fuchsia Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "PPS": {
+      "slug": "mallard-blue-pearl",
+      "name": "Mallard Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "PRC": {
+      "slug": "speed-red",
+      "name": "Speed Red",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "PSA": {
+      "slug": "graphite-grey-metallic",
+      "name": "Graphite Grey Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "PSE": {
+      "slug": "atomic-silver-metallic",
+      "name": "Atomic Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "PY5": {
+      "slug": "dozer",
+      "name": "Dozer",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "QYV": {
+      "slug": "stinger-yellow",
+      "name": "Stinger Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "SE4": {
+      "slug": "punk-n-pearl",
+      "name": "Punk'N Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "TBF": {
+      "slug": "blue-shade-pearl-metallic",
+      "name": "Blue Shade Pearl Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "WGP": {
+      "slug": "minty",
+      "name": "Minty",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WJF": {
+      "slug": "high-velocity",
+      "name": "High Velocity",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "X13": {
+      "slug": "black",
+      "name": "Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "XHT": {
+      "slug": "reign-metallic",
+      "name": "Reign Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "XRV": {
+      "slug": "velvet-red-pearl-2",
+      "name": "Velvet Red Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "AY112JRM": {
+      "slug": "redline-pearl",
+      "name": "Redline Pearl",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "KXJ": {
+      "slug": "diamond-black-crystal-pearl",
+      "name": "Diamond Black Crystal Pearl",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "PCA": {
+      "slug": "frostbite-blue-metallic",
+      "name": "Frostbite Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "PVB": {
+      "slug": "copper-shino-metallic",
+      "name": "Copper Shino Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WAS": {
+      "slug": "baltic-gray-metallic",
+      "name": "Baltic Gray Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "WCQ": {
+      "slug": "midnight-sky-pearl",
+      "name": "Midnight Sky Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WFJ": {
+      "slug": "rocky-mountain-pearl",
+      "name": "Rocky Mountain Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WHA": {
+      "slug": "bloodshot",
+      "name": "Bloodshot",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WHC": {
+      "slug": "ember-pearl",
+      "name": "Ember Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "AY110NF2": {
+      "slug": "spitfire-orange",
+      "name": "Spitfire Orange",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "AY112KFP": {
+      "slug": "olive-green-metallic",
+      "name": "Olive Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "ZR6": {
+      "slug": "red-hot-metallic",
+      "name": "Red Hot Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "268A": {
+      "slug": "white",
+      "name": "White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "296": {
+      "slug": "alpine-white",
+      "name": "Alpine White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "348": {
+      "slug": "glacier-metallic",
+      "name": "Glacier Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "5CJ": {
+      "slug": "colorado-red",
+      "name": "Colorado Red",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "AY112KBX": {
+      "slug": "jazz-blue-pearl",
+      "name": "Jazz Blue Pearl",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "AY126KWH": {
+      "slug": "white-pearl",
+      "name": "White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "JGT": {
+      "slug": "deep-forest-green-pearl",
+      "name": "Deep Forest Green Pearl",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "PNM": {
+      "slug": "gray-magnesio-metallic",
+      "name": "Gray Magnesio Metallic",
+      "hex": "#5E6264",
+      "aliases": []
+    },
+    "PXW": {
+      "slug": "preto-carbon-black-metallic",
+      "name": "Preto Carbon Black Metallic",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "RXN": {
+      "slug": "black-2",
+      "name": "Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "VEC": {
+      "slug": "sinamon-stick-pearl",
+      "name": "Sinamon Stick Pearl",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "VR742A": {
+      "slug": "polar-white-pearl",
+      "name": "Polar White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    }
+  },
+  "models": [
+    {
+      "name": "wrangler",
+      "display_name": "Wrangler",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Wrangler"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1987,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "470C",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "503B",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "AY110RUA",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "AY97AXR",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "NRV",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PBM",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PDS",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PFM",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PGE",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PGG",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PHP",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PPS",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PRC",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PSA",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PSE",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "PY5",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "QYV",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "SE4",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "TBF",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "WGP",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "WJF",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "XHT",
+              "from": 1987,
+              "to": 2026
+            },
+            {
+              "code": "XRV",
+              "from": 1987,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "grand-cherokee",
+      "display_name": "Grand Cherokee",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Grand Cherokee"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1993,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "503B",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "AY112JRM",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "AY97AXR",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "KXJ",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "NRV",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PCA",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PRC",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PSE",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "PVB",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "TBF",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "WAS",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "WCQ",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "WFJ",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "WHA",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "WHC",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 1993,
+              "to": 2026
+            },
+            {
+              "code": "XRV",
+              "from": 1993,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cherokee",
+      "display_name": "Cherokee",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Cherokee"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1984,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "503B",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY110NF2",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY112JRM",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY112KFP",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "AY97AXR",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "KXJ",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "NRV",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PDS",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PPS",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PRC",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "PSE",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "TBF",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "WAS",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "XRV",
+              "from": 1984,
+              "to": 2026
+            },
+            {
+              "code": "ZR6",
+              "from": 1984,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "compass",
+      "display_name": "Compass",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Compass"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2007,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "268A",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "296",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "348",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "503B",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "5CJ",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY110NF2",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY112JRM",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY112KBX",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY112KFP",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY126KWH",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "AY97AXR",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "JGT",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "KXJ",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "NRV",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PNM",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PPS",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PSA",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PSE",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "PXW",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "RXN",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "TBF",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "VEC",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "VR742A",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "WAS",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "WGP",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "ZR6",
+              "from": 2007,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "renegade",
+      "display_name": "Renegade",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Renegade"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2015,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "296",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "348",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "470C",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "503B",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "5CJ",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "AY112KBX",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "AY97AXR",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PDS",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PFM",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PHP",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "PSA",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "RXN",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "TBF",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "VR742A",
+              "from": 2015,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 2015,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gladiator",
+      "display_name": "Gladiator",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Gladiator"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2020,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "470C",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "503B",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "AY110GW7",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "AY110RUA",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "AY111JSC",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "NRV",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PAU",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PBJ",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PDS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PFM",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PGE",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PGG",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PHP",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PPS",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PRC",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PSE",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "PY5",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "SE4",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "WGP",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "WJF",
+              "from": 2020,
+              "to": 2026
+            },
+            {
+              "code": "X13",
+              "from": 2020,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

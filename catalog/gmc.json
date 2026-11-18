@@ -1,0 +1,1026 @@
+{
+  "make": "gmc",
+  "colors": {
+    "01U": {
+      "slug": "yellow",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "135H": {
+      "slug": "harvest-bronze-metallic",
+      "name": "Harvest Bronze Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "136X": {
+      "slug": "unripened-green-metallic",
+      "name": "Unripened Green Metallic",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "140X": {
+      "slug": "abalone-white-pearl",
+      "name": "Abalone White Pearl",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "228A": {
+      "slug": "light-autumnwood-metallic",
+      "name": "Light Autumnwood Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "253A": {
+      "slug": "wheatland-yellow",
+      "name": "Wheatland Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "30H": {
+      "slug": "sharkskin-metallic",
+      "name": "Sharkskin Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "41U": {
+      "slug": "black",
+      "name": "Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "59": {
+      "slug": "silver-birch-metallic",
+      "name": "Silver Birch Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "5IB": {
+      "slug": "teal-blue-metallic",
+      "name": "Teal Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "5IC": {
+      "slug": "ryder-yellow",
+      "name": "Ryder Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "6237": {
+      "slug": "green",
+      "name": "Green",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "7154": {
+      "slug": "ocean-blue",
+      "name": "Ocean Blue",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "7927": {
+      "slug": "green-2",
+      "name": "Green",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "815K": {
+      "slug": "arrival-blue-metallic",
+      "name": "Arrival Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "826": {
+      "slug": "black-2",
+      "name": "Black",
+      "hex": "#0C0D0E",
+      "aliases": []
+    },
+    "8624": {
+      "slug": "olympic-white",
+      "name": "Olympic White",
+      "hex": "#F2F2EE",
+      "aliases": []
+    },
+    "9260": {
+      "slug": "victory-red",
+      "name": "Victory Red",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "9W4": {
+      "slug": "tangier-orange",
+      "name": "Tangier Orange",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "9W5": {
+      "slug": "quicksilver-metallic",
+      "name": "Quicksilver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "G48": {
+      "slug": "galactica-metallic-1",
+      "name": "Galactica Metallic 1",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "G6M-618G": {
+      "slug": "rush-metallic-1",
+      "name": "Rush Metallic 1",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "G7C": {
+      "slug": "red-hot",
+      "name": "Red Hot",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "GB8-384A": {
+      "slug": "ebony-twilight-metallic",
+      "name": "Ebony Twilight Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "GNO-633D": {
+      "slug": "barb-wire-metallic",
+      "name": "Barb Wire Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "GNT-170H": {
+      "slug": "radiant-red-i-metallic",
+      "name": "Radiant Red I Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "GXD-130H": {
+      "slug": "sharkskin-i-metallic",
+      "name": "Sharkskin I Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "GXP": {
+      "slug": "cosmonaut-i-metallic",
+      "name": "Cosmonaut I Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WA121J": {
+      "slug": "rip-tide-1-metallic",
+      "name": "Rip Tide 1 Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WA215D": {
+      "slug": "yellow-2",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "WA327E": {
+      "slug": "pow-zinga-pearl-metallic",
+      "name": "Pow Zinga Pearl Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WA334D": {
+      "slug": "dark-toreador-metallic",
+      "name": "Dark Toreador Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WA454N": {
+      "slug": "blue",
+      "name": "Blue",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "WA5248": {
+      "slug": "yellow-3",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "WA5456": {
+      "slug": "yellow-4",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "WA8265": {
+      "slug": "tan",
+      "name": "Tan",
+      "hex": "#6F7377",
+      "aliases": []
+    },
+    "WA8867": {
+      "slug": "ultra-silver-metallic",
+      "name": "Ultra Silver Metallic",
+      "hex": "#C2C3C3",
+      "aliases": []
+    },
+    "WA9015": {
+      "slug": "woodland-green",
+      "name": "Woodland Green",
+      "hex": "#28503A",
+      "aliases": []
+    },
+    "WA9419": {
+      "slug": "orange",
+      "name": "Orange",
+      "hex": "#C4622D",
+      "aliases": []
+    },
+    "WA9792": {
+      "slug": "indigo-blue-metallic",
+      "name": "Indigo Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "GJW-317E": {
+      "slug": "empire-beige-metallic",
+      "name": "Empire Beige Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "GLU": {
+      "slug": "darkmoon-blue-metallic",
+      "name": "Darkmoon Blue Metallic",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "WA661G": {
+      "slug": "desert-sand-metallic",
+      "name": "Desert Sand Metallic",
+      "hex": "#C6B08A",
+      "aliases": []
+    },
+    "257C": {
+      "slug": "dark-toreador-red-metallic",
+      "name": "Dark Toreador Red Metallic",
+      "hex": "#B31F2B",
+      "aliases": []
+    },
+    "451N": {
+      "slug": "blue-2",
+      "name": "Blue",
+      "hex": "#234073",
+      "aliases": []
+    },
+    "478G": {
+      "slug": "yellow-5",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "7952": {
+      "slug": "yellow-6",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "WA259L": {
+      "slug": "yellow-7",
+      "name": "Yellow",
+      "hex": "#E0C23A",
+      "aliases": []
+    },
+    "WA628G": {
+      "slug": "tripp-i-metallic",
+      "name": "Tripp I Metallic",
+      "hex": "#6F7377",
+      "aliases": []
+    }
+  },
+  "models": [
+    {
+      "name": "sierra",
+      "display_name": "Sierra",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Sierra"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1999,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "01U",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "135H",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "136X",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "140X",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "228A",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "253A",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "30H",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "41U",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "59",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "5IB",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "5IC",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "6237",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "7154",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "7927",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "815K",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "826",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "8624",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "9260",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "9W4",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "9W5",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "G48",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "G6M-618G",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "G7C",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "GB8-384A",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "GNO-633D",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "GNT-170H",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "GXD-130H",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "GXP",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA121J",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA215D",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA327E",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA334D",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA454N",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA5248",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA5456",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA8265",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA8867",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA9015",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA9419",
+              "from": 1999,
+              "to": 2026
+            },
+            {
+              "code": "WA9792",
+              "from": 1999,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "yukon",
+      "display_name": "Yukon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Yukon"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 1992,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "140X",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "228A",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "253A",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "30H",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "41U",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "59",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "815K",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "826",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "8624",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "9260",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "9W4",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "9W5",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "G48",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "G6M-618G",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GB8-384A",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GJW-317E",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GLU",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GNT-170H",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GXD-130H",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "GXP",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "WA334D",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "WA8265",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "WA8867",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "WA9015",
+              "from": 1992,
+              "to": 2026
+            },
+            {
+              "code": "WA9792",
+              "from": 1992,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "terrain",
+      "display_name": "Terrain",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Terrain"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2010,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "135H",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "140X",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "30H",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "41U",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "826",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "8624",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "9W5",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "GB8-384A",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "GNT-170H",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "GXD-130H",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "GXP",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "WA121J",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "WA661G",
+              "from": 2010,
+              "to": 2026
+            },
+            {
+              "code": "WA8867",
+              "from": 2010,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "canyon",
+      "display_name": "Canyon",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Canyon"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2004,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "01U",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "135H",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "136X",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "140X",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "253A",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "257C",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "30H",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "41U",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "451N",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "478G",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "59",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "7927",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "7952",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "815K",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "826",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "8624",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "9260",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "9W4",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "9W5",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "G7C",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "GB8-384A",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "GNT-170H",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "GXD-130H",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA215D",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA259L",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA327E",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA5456",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA628G",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA661G",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA8265",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA8867",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA9015",
+              "from": 2004,
+              "to": 2026
+            },
+            {
+              "code": "WA9792",
+              "from": 2004,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "acadia",
+      "display_name": "Acadia",
+      "aliases": [],
+      "alias_status": {},
+      "market_names": {
+        "GT": "Acadia"
+      },
+      "generations": [
+        {
+          "name": "1g",
+          "years": {
+            "from": 2007,
+            "to": 2026
+          },
+          "colors": [
+            {
+              "code": "140X",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "30H",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "41U",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "59",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "815K",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "826",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "8624",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "9260",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "9W5",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "GB8-384A",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "GLU",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "GNT-170H",
+              "from": 2007,
+              "to": 2026
+            },
+            {
+              "code": "GXD-130H",
+              "from": 2007,
+              "to": 2026
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
